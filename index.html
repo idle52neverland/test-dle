@@ -48,35 +48,38 @@
     </nav>
   </aside>
 
-  <!-- 정렬 & 영상 개수 -->
-  <div class="sort-count-bar">
-    <button id="toggleSortBtn">최신순</button>
-    <div id="cardCount"></div>
-  </div>
+  <!-- 메인 콘텐츠 -->
+  <main class="main-content">
+    <!-- 정렬 & 영상 개수 -->
+    <div class="sort-count-bar">
+      <button id="toggleSortBtn">최신순</button>
+      <div id="cardCount"></div>
+    </div>
 
-  <!-- 카드 목록 -->
-  <div class="card-container" id="allCards">
-    <a href="#" class="card">
-      <div class="thumbnail-wrapper">
-        <img src="https://i.ytimg.com/vi/example/default.jpg" alt="Example" loading="lazy">
-        <div class="duration-overlay">03:21</div>
-      </div>
-      <div class="card-title">예시 타이틀</div>
-      <div class="card-meta">
-        <div class="meta-left">
-          <span class="card-member">#홍길동</span>
-          <span class="card-note">#스페셜</span>
+    <!-- 카드 목록 -->
+    <div class="card-container" id="allCards">
+      <a href="#" class="card">
+        <div class="thumbnail-wrapper">
+          <img src="https://i.ytimg.com/vi/example/default.jpg" alt="Example" loading="lazy">
+          <div class="duration-overlay">03:21</div>
         </div>
-        <div class="card-date">2025-08-25</div>
-      </div>
-    </a>
-  </div>
+        <div class="card-title">예시 타이틀</div>
+        <div class="card-meta">
+          <div class="meta-left">
+            <span class="card-member">#홍길동</span>
+            <span class="card-note">#스페셜</span>
+          </div>
+          <div class="card-date">2025-08-25</div>
+        </div>
+      </a>
+    </div>
 
-  <!-- 버튼 영역 -->
-  <div class="button-wrapper">
-    <button id="loadMoreBtn"><img src="images/more.svg" alt="more"></button>
-    <button id="scrollTopBtn"><img src="images/up.svg" alt="Top"></button>
-  </div>
+    <!-- 버튼 영역 -->
+    <div class="button-wrapper">
+      <button id="loadMoreBtn"><img src="images/more.svg" alt="more"></button>
+      <button id="scrollTopBtn"><img src="images/up.svg" alt="Top"></button>
+    </div>
+  </main>
 
   <!-- JS 불러오기 -->
   <script src="data/cards-Releases.js" defer></script>
