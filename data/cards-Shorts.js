@@ -14358,8 +14358,8 @@ const shortsCards = [
   "date": "2025-08-28",
   "duration": "00:00:57",
   "thumbnail": "https://i.ytimg.com/vi/glLrcXTBMV4/maxresdefault.jpg",
-  "alt": "발음 챌린지 누가누가 잘하나 with 우기 선배님 #NOWZ #나우즈 (2025-08-28)",
-  "title": "발음 챌린지 누가누가 잘하나 with 우기 선배님 #NOWZ #나우즈 (2025-08-28)"
+  "alt": "발음 챌린지 누가누가 잘하나 with 우기 선배님 NOWZ(나우즈) (2025-08-28)",
+  "title": "발음 챌린지 누가누가 잘하나 with 우기 선배님 NOWZ(나우즈) (2025-08-28)"
 },
 {
   "link": "https://youtu.be/5_sBig5siT4",
@@ -14368,8 +14368,8 @@ const shortsCards = [
   "date": "2025-08-28",
   "duration": "00:00:21",
   "thumbnail": "https://i.ytimg.com/vi/5_sBig5siT4/maxresdefault.jpg",
-  "alt": "우기 선배님과 turn the music up (2025-08-28)",
-  "title": "우기 선배님과 turn the music up #NOWZ #나우즈 (2025-08-28)"
+  "alt": "우기 선배님과 turn the music up NOWZ(나우즈) (2025-08-28)",
+  "title": "우기 선배님과 turn the music up NOWZ(나우즈) (2025-08-28)"
 }
   
   
@@ -14377,6 +14377,7 @@ const shortsCards = [
   ];
 
 window.shortsCards = shortsCards;
+
 
 
 
