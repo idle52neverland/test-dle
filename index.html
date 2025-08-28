@@ -5,81 +5,81 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>아이들 몰아보기</title>
   <link rel="stylesheet" href="assets/css/index.css">
-</head> 
+</head>
 <body>
-  <!-- 헤더 -->
-  <div class="header-bar">
-    <button id="hamburgerBtn" class="hamburger">
-      <img src="images/menu.svg" alt="Menu">
-    </button>
+  <!-- 레이아웃 전체 래퍼 -->
+  <div class="layout-wrapper">
 
-    <!-- 검색창 -->
-    <div class="search-wrapper search-wide">
-      <input type="text" id="searchInput" placeholder="Search all videos...">
-      <button id="searchBtn">
-        <img src="images/search.svg" alt="search">
+    <!-- 헤더 -->
+    <div class="header-bar">
+      <button id="hamburgerBtn" class="hamburger">
+        <img src="images/menu.svg" alt="Menu">
       </button>
+
+      <!-- 검색창 -->
+      <div class="search-wrapper search-wide">
+        <input type="text" id="searchInput" placeholder="Search all videos...">
+        <button id="searchBtn">
+          <img src="images/search.svg" alt="search">
+        </button>
+      </div>
     </div>
+
+    <!-- 왼쪽 사이드바 -->
+    <aside class="sidebar">
+      <button id="closeSidebarBtn" class="close-sidebar">
+        <img src="images/cancel.svg" alt="Close">
+      </button>
+      <nav>
+        <ul>
+          <li><a href="?category=Releases">Releases</a></li>
+          <li><a href="?category=Broadcast_Stage">Broadcast Stage</a></li>
+          <li><a href="?category=Official_Channel">Official Channel</a></li>
+          <li><a href="?category=Original_Variety">Original Variety</a></li>
+          <li><a href="?category=Recording_Behind">Recording Behind</a></li>
+          <li><a href="?category=Special_Releases">Special Releases</a></li>
+          <li><a href="?category=Festival_Stage">Festival Stage</a></li>
+          <li><a href="?category=Media_Performance">Media Performance</a></li>
+          <li><a href="?category=Media_Content">Media Content</a></li>
+          <li><a href="?category=Live_Streams">Live Streams</a></li>
+          <li><a href="?category=Radio_Podcast">Radio & Podcast</a></li>
+          <li><a href="?category=Interviews">Interviews</a></li>
+          <li><a href="?category=Commercials">Commercials</a></li>
+          <li><a href="?category=Etc">Etc</a></li>
+          <li><a href="?category=Shorts">Shorts</a></li>
+        </ul>
+      </nav>
+    </aside>
+
+    <!-- 메인 콘텐츠 -->
+    <main class="main-content">
+      <!-- 필터영역 -->
+      <div class="filter-bar">
+        <div class="category-name">
+          <h2 id="categoryTitle">카테고리명</h2>
+        </div>
+        
+        <div class="sort-count-bar">
+          <button id="yearFilter">연도</button>
+          <button id="monthFilter">월</button>
+          <button id="subTagFilter">서브태그</button>
+          <button id="toggleSortBtn">최신순</button>
+          <div id="cardCount">총 영상 갯수</div>
+        </div>
+      </div>
+
+      <!-- 카드 목록 -->
+      <div class="card-container" id="allCards">
+        <!-- 카드들이 여기에 동적으로 들어가게 됨 -->
+      </div>
+
+      <!-- 버튼 영역 -->
+      <div class="button-wrapper">
+        <button id="loadMoreBtn"><img src="images/more.svg" alt="more"></button>
+        <button id="scrollTopBtn"><img src="images/up.svg" alt="Top"></button>
+      </div>
+    </main>
   </div>
-  
-  <!-- 왼쪽 사이드바 -->
-  <aside class="sidebar">
-    <button id="closeSidebarBtn" class="close-sidebar">
-      <img src="images/cancel.svg" alt="Close">
-    </button>
-    <nav>
-      <ul>
-        <li><a href="?category=Releases">Releases</a></li>
-        <li><a href="?category=Broadcast_Stage">Broadcast Stage</a></li>
-        <li><a href="?category=Official_Channel">Official Channel</a></li>
-        <li><a href="?category=Original_Variety">Original Variety</a></li>
-        <li><a href="?category=Recording_Behind">Recording Behind</a></li>
-        <li><a href="?category=Special_Releases">Special Releases</a></li>
-        <li><a href="?category=Festival_Stage">Festival Stage</a></li>
-        <li><a href="?category=Media_Performance">Media Performance</a></li>
-        <li><a href="?category=Media_Content">Media Content</a></li>
-        <li><a href="?category=Live_Streams">Live Streams</a></li>
-        <li><a href="?category=Radio_Podcast">Radio & Podcast</a></li>
-        <li><a href="?category=Interviews">Interviews</a></li>
-        <li><a href="?category=Commercials">Commercials</a></li>
-        <li><a href="?category=Etc">Etc</a></li>
-        <li><a href="?category=Shorts">Shorts</a></li>
-      </ul>
-    </nav>
-  </aside>
-
-  <!-- 메인 콘텐츠 -->
-  <main class="main-content">
-    <!-- 정렬 & 영상 개수 -->
-    <div class="sort-count-bar">
-      <button id="toggleSortBtn">최신순</button>
-      <div id="cardCount"></div>
-    </div>
-
-    <!-- 카드 목록 -->
-    <div class="card-container" id="allCards">
-      <a href="#" class="card">
-        <div class="thumbnail-wrapper">
-          <img src="https://i.ytimg.com/vi/example/default.jpg" alt="Example" loading="lazy">
-          <div class="duration-overlay">03:21</div>
-        </div>
-        <div class="card-title">예시 타이틀</div>
-        <div class="card-meta">
-          <div class="meta-left">
-            <span class="card-member">#홍길동</span>
-            <span class="card-note">#스페셜</span>
-          </div>
-          <div class="card-date">2025-08-25</div>
-        </div>
-      </a>
-    </div>
-
-    <!-- 버튼 영역 -->
-    <div class="button-wrapper">
-      <button id="loadMoreBtn"><img src="images/more.svg" alt="more"></button>
-      <button id="scrollTopBtn"><img src="images/up.svg" alt="Top"></button>
-    </div>
-  </main>
 
   <!-- JS 불러오기 -->
   <script src="data/cards-Releases.js" defer></script>
@@ -97,6 +97,7 @@
   <script src="data/cards-Commercials.js" defer></script>
   <script src="data/cards-Etc.js" defer></script>
   <script src="data/cards-Shorts.js" defer></script>
+  <script src="data/subtags.js" defer></script>
   <script src="assets/js/index.js" defer></script>
 </body>
 </html>

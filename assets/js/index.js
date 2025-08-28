@@ -1,23 +1,52 @@
-// index.js
+// assets/js/index.js
 document.addEventListener("DOMContentLoaded", function () {
-  const container = document.getElementById("allCards");
-  const loadMoreBtn = document.getElementById("loadMoreBtn");
-  const scrollTopBtn = document.getElementById("scrollTopBtn");
-  const searchInput = document.getElementById("searchInput");
-  const searchBtn = document.getElementById("searchBtn");
-  const cardCountEl = document.getElementById("cardCount");
-  const toggleSortBtn = document.getElementById("toggleSortBtn");
-  const hamburgerBtn = document.getElementById("hamburgerBtn");
+  // ===== DOM 참조 =====
+  const container       = document.getElementById("allCards");
+  const loadMoreBtn     = document.getElementById("loadMoreBtn");
+  const scrollTopBtn    = document.getElementById("scrollTopBtn");
+  const searchInput     = document.getElementById("searchInput");
+  const searchBtn       = document.getElementById("searchBtn");
+  const cardCountEl     = document.getElementById("cardCount");
+  const toggleSortBtn   = document.getElementById("toggleSortBtn");
+  const hamburgerBtn    = document.getElementById("hamburgerBtn");
   const closeSidebarBtn = document.getElementById("closeSidebarBtn");
-  const sidebar = document.querySelector(".sidebar");
+  const sidebar         = document.querySelector(".sidebar");
+  const categoryTitleEl = document.getElementById("categoryTitle");
 
+  // 필터 버튼
+  const yearBtn = document.getElementById("yearFilter");
+  const monthBtn = document.getElementById("monthFilter");
+  const subtagBtn = document.getElementById("subTagFilter");
+
+
+  // ===== 상태 =====
   let currentIndex = 0;
-  const batchSize = 18;
-  let sortOrder = "newest";
+  let batchSize    = getBatchSize();
+  let sortOrder    = "newest";
   let all = [];
   let filtered = [];
 
-  // 카테고리명 → 변수명 매핑 테이블
+  // 활성 필터 상태
+  const activeFilters = {
+    year: null,      // number | 'predebut' | null
+    month: null,     // 1~12 | null (아직 훅만)
+    subtag: null     // string | null (아직 훅만)
+  };
+
+  // ===== 유틸 =====
+  function getBatchSize() {
+    if (window.innerWidth >= 2560) return 30; // 5열
+    return 24;                                 // 4열
+  }
+
+  window.addEventListener("resize", () => {
+    const newBatchSize = getBatchSize();
+    if (newBatchSize !== batchSize) {
+      batchSize = newBatchSize;
+      sortAndRender();
+    }
+  });
+
   const categoryMap = {
     "Releases": "releasesCards",
     "Broadcast_Stage": "broadcastStageCards",
@@ -36,13 +65,31 @@ document.addEventListener("DOMContentLoaded", function () {
     "Shorts": "shortsCards"
   };
 
-  // URL에서 카테고리 가져오기
+  const categoryKorean = {
+    null: "전체 영상",
+    "Releases": "Releases",
+    "Broadcast_Stage": "Broadcast Stage",
+    "Official_Channel": "Official Channel",
+    "Original_Variety": "Original Variety",
+    "Recording_Behind": "Recording Behind",
+    "Special_Releases": "Special Releases",
+    "Festival_Stage": "Festival Stage",
+    "Media_Performance": "Media Performance",
+    "Media_Content": "Media Content",
+    "Live_Streams": "Live Streams",
+    "Radio_Podcast": "Radio & Podcast",
+    "Interviews": "Interviews",
+    "Commercials": "Commercials",
+    "Etc": "Etc",
+    "Shorts": "Shorts"
+  };
+
   function getCurrentCategory() {
     const params = new URLSearchParams(window.location.search);
     return params.get("category") || null;
   }
 
-  // 모든 데이터 합치기 (전체 모드)
+  // 모든 데이터 미리 합치기 (전체 페이지용)
   function loadAllData() {
     return [].concat(
       typeof releasesCards !== 'undefined' ? releasesCards : [],
@@ -63,7 +110,7 @@ document.addEventListener("DOMContentLoaded", function () {
     );
   }
 
-  // 특정 카테고리 데이터 로드
+  // 카테고리별 스크립트 로드
   function loadCategoryData(category) {
     return new Promise((resolve, reject) => {
       const script = document.createElement("script");
@@ -76,11 +123,8 @@ document.addEventListener("DOMContentLoaded", function () {
           return;
         }
         const cards = window[varName];
-        if (Array.isArray(cards)) {
-          resolve(cards);
-        } else {
-          reject(new Error(`데이터 로드 실패: ${category}`));
-        }
+        if (Array.isArray(cards)) resolve(cards);
+        else reject(new Error(`데이터 로드 실패: ${category}`));
       };
 
       script.onerror = () => reject(new Error(`스크립트 로드 실패: ${category}`));
@@ -88,25 +132,53 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  // 카드 개수 표시
   function updateCardCount(count) {
     cardCountEl.textContent = `총 ${count}개 영상`;
   }
 
-  // 날짜 변환 (YYMMDD)
   function formatDateYYMMDD(dateStr) {
     if (!dateStr) return "";
     const onlyDate = dateStr.split(/[ T]/)[0];
-    const [year, month, day] = onlyDate.split("-");
+    const [year, month, day] = onlyDate.includes("-")
+      ? onlyDate.split("-")
+      : [onlyDate.slice(0,4), onlyDate.slice(4,6), onlyDate.slice(6,8)];
     if (!year || !month || !day) return dateStr;
     return year.slice(2) + month + day;
   }
 
-  // 검색
+  // 날짜 파싱 유틸 (연/월)
+  function extractYear(dateStr) {
+    if (!dateStr) return null;
+    const m = String(dateStr).match(/^(\d{4})|^(\d{2})(\d{2})(\d{2})/);
+    if (m && m[1]) return parseInt(m[1], 10);
+    // 20250823 같은 형식
+    if (/^\d{8}$/.test(dateStr)) return parseInt(dateStr.slice(0, 4), 10);
+    // 안전 fallback
+    const d = new Date(dateStr);
+    return isNaN(d.getTime()) ? null : d.getFullYear();
+  }
+
+  function extractMonth(dateStr) {
+    if (!dateStr) return null;
+    // 2025-08-23
+    const mDash = String(dateStr).match(/^\d{4}-(\d{2})-/);
+    if (mDash) return parseInt(mDash[1], 10);
+    // 20250823
+    if (/^\d{8}$/.test(dateStr)) return parseInt(dateStr.slice(4, 6), 10);
+    // fallback
+    const d = new Date(dateStr);
+    return isNaN(d.getTime()) ? null : (d.getMonth() + 1);
+  }
+
+  // 검색 + 필터 결합
   function applySearch() {
     const normalize = (str) =>
-      str.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, "").replace(/\s+/g, "");
-    const rawKeywords = searchInput.value
+      String(str || "")
+        .toLowerCase()
+        .replace(/[^\p{L}\p{N}]+/gu, "")
+        .replace(/\s+/g, "");
+
+    const rawKeywords = String(searchInput.value || "")
       .toLowerCase()
       .replace(/[^\p{L}\p{N}]+/gu, " ")
       .split(/\s+/)
@@ -114,6 +186,11 @@ document.addEventListener("DOMContentLoaded", function () {
     const keywords = rawKeywords.map((k) => normalize(k));
 
     filtered = all.filter((c) => {
+      // 1) 필터 통과?
+      if (!passesFilters(c)) return false;
+
+      // 2) 검색어 체크
+      if (keywords.length === 0) return true;
       const combinedText = normalize(
         (c.title || "") + (c.member || "") + (c.note || "") + (c.date || "")
       );
@@ -123,7 +200,31 @@ document.addEventListener("DOMContentLoaded", function () {
     sortAndRender();
   }
 
-  // 정렬 후 렌더
+  function passesFilters(card) {
+    const y = extractYear(card.date);
+    const m = extractMonth(card.date);
+
+    // 연도
+    if (activeFilters.year !== null) {
+      if (activeFilters.year === "predebut") {
+        if (!(y !== null && y < 2018)) return false;
+      } else {
+        if (y !== activeFilters.year) return false;
+      }
+    }
+    // 월 (아직 UI 미구현이지만 훅은 살림)
+    if (activeFilters.month !== null) {
+      if (m !== activeFilters.month) return false;
+    }
+    // 서브태그 (임시: subtag || note에서 포함 검사)
+    if (activeFilters.subtag !== null) {
+      const sub = String(card.subtag || card.note || "").toLowerCase();
+      if (!sub.includes(String(activeFilters.subtag).toLowerCase())) return false;
+    }
+
+    return true;
+  }
+
   function sortAndRender() {
     filtered.sort((a, b) => {
       const dateA = new Date(a.date || "2000-01-01");
@@ -135,7 +236,6 @@ document.addEventListener("DOMContentLoaded", function () {
     renderCards(filtered);
   }
 
-  // 카드 렌더링
   function renderCards(cards) {
     container.innerHTML = "";
     cards.slice(0, currentIndex + batchSize).forEach((data) => {
@@ -152,9 +252,7 @@ document.addEventListener("DOMContentLoaded", function () {
             data.date ? formatDateYYMMDD(data.date) : "",
             data.member || "",
             data.note || "",
-          ]
-            .filter(Boolean)
-            .join(" ")}
+          ].filter(Boolean).join(" ")}
         </div>
       `;
       card.addEventListener("click", (e) => {
@@ -171,56 +269,37 @@ document.addEventListener("DOMContentLoaded", function () {
       };
       img.onerror = function () {
         const u = img.src || "";
-        if (u.startsWith("http://")) {
-          img.src = u.replace("http://", "https://");
-          return;
-        }
-        if (u.includes("/maxresdefault.jpg")) {
-          img.src = u.replace("/maxresdefault.jpg", "/sddefault.jpg");
-          return;
-        }
-        if (u.includes("/sddefault.jpg")) {
-          img.src = u.replace("/sddefault.jpg", "/hqdefault.jpg");
-          return;
-        }
-        if (u.includes("/hqdefault.jpg")) {
-          img.src = u.replace("/hqdefault.jpg", "/mqdefault.jpg");
-          return;
-        }
-        if (u.includes("/mqdefault.jpg")) {
-          img.src = u.replace("/mqdefault.jpg", "/default.jpg");
-          return;
-        }
+        if (u.startsWith("http://")) { img.src = u.replace("http://", "https://"); return; }
+        if (u.includes("/maxresdefault.jpg")) { img.src = u.replace("/maxresdefault.jpg", "/sddefault.jpg"); return; }
+        if (u.includes("/sddefault.jpg")) { img.src = u.replace("/sddefault.jpg", "/hqdefault.jpg"); return; }
+        if (u.includes("/hqdefault.jpg")) { img.src = u.replace("/hqdefault.jpg", "/mqdefault.jpg"); return; }
+        if (u.includes("/mqdefault.jpg")) { img.src = u.replace("/mqdefault.jpg", "/default.jpg"); return; }
         img.src = "images/placeholder-thumb.jpg";
       };
     });
 
     currentIndex += batchSize;
-    loadMoreBtn.style.display =
-      currentIndex >= cards.length ? "none" : "block";
+    loadMoreBtn.style.display = currentIndex >= cards.length ? "none" : "block";
     updateCardCount(cards.length);
   }
 
-  // 정렬 버튼
+  // ===== 정렬 & 검색 =====
   toggleSortBtn.addEventListener("click", () => {
     sortOrder = sortOrder === "newest" ? "oldest" : "newest";
-    toggleSortBtn.textContent =
-      sortOrder === "newest" ? "최신순" : "오래된순";
+    toggleSortBtn.textContent = sortOrder === "newest" ? "최신순" : "오래된순";
     sortAndRender();
   });
 
-  // 로드 모어
   loadMoreBtn.addEventListener("click", () => {
     renderCards(filtered);
   });
 
-  // 검색 버튼
   searchBtn.addEventListener("click", applySearch);
   searchInput.addEventListener("keydown", (e) => {
     if (e.key === "Enter") applySearch();
   });
 
-  // 맨 위로 이동
+  // ===== 스크롤 탑 =====
   scrollTopBtn.addEventListener("touchend", (e) => {
     e.preventDefault();
     window.scrollTo({ top: 0, behavior: "smooth" });
@@ -230,7 +309,7 @@ document.addEventListener("DOMContentLoaded", function () {
     window.scrollTo({ top: 0, behavior: "smooth" });
   });
 
-  // 햄버거 & 사이드바
+  // ===== 사이드바 =====
   hamburgerBtn.addEventListener("click", () => {
     sidebar.classList.add("open");
     hamburgerBtn.style.display = "none";
@@ -241,30 +320,142 @@ document.addEventListener("DOMContentLoaded", function () {
     hamburgerBtn.style.display = "flex";
   });
 
-  // 사이드바 링크 SPA 처리
+  // 카테고리 클릭 시 라우팅 & 닫기
   document.querySelectorAll(".sidebar a").forEach((link) => {
     link.addEventListener("click", (e) => {
       e.preventDefault();
       const category = new URL(link.href).searchParams.get("category");
+      sidebar.classList.remove("open");
+      hamburgerBtn.style.display = "flex";
       history.pushState({ category }, "", `?category=${category}`);
       initCategory(category);
     });
   });
 
-  // 뒤로가기/앞으로가기
   window.addEventListener("popstate", () => {
     initCategory(getCurrentCategory());
   });
 
-  // 초기 로드
+  // ===== 필터 메뉴(공용) 구성 =====
+  const filterMenu = document.createElement("div");
+  filterMenu.style.position = "absolute";
+  filterMenu.style.minWidth = "160px";
+  filterMenu.style.background = "#222";
+  filterMenu.style.border = "1px solid #333";
+  filterMenu.style.borderRadius = "10px";
+  filterMenu.style.padding = "8px";
+  filterMenu.style.boxShadow = "0 8px 20px rgba(0,0,0,0.35)";
+  filterMenu.style.zIndex = "2000";
+  filterMenu.style.display = "none";
+  document.body.appendChild(filterMenu);
+
+  function openFilterMenu(anchorBtn, type) {
+    // 내용 생성
+    filterMenu.innerHTML = "";
+    const makeItem = (label, value) => {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.textContent = label;
+      btn.style.display = "block";
+      btn.style.width = "100%";
+      btn.style.textAlign = "left";
+      btn.style.padding = "8px 10px";
+      btn.style.margin = "2px 0";
+      btn.style.background = "#2a2a2a";
+      btn.style.border = "none";
+      btn.style.borderRadius = "6px";
+      btn.style.color = "#fff";
+      btn.style.cursor = "pointer";
+      btn.onmouseenter = () => (btn.style.background = "#404040");
+      btn.onmouseleave = () => (btn.style.background = "#2a2a2a");
+      btn.onclick = () => {
+        applyFilterSelection(type, label, value);
+        closeFilterMenu();
+      };
+      return btn;
+    };
+
+    if (type === "year") {
+      const years = ["전체", "2025","2024","2023","2022","2021","2020","2019","2018","PRE-DEBUT"];
+      years.forEach((y) => {
+        let val = null;
+        if (y === "전체") val = null;
+        else if (y === "PRE-DEBUT") val = "predebut";
+        else val = parseInt(y, 10);
+        filterMenu.appendChild(makeItem(y, val));
+      });
+    } else if (type === "month") {
+      // 훅만 제공 (원하면 나중에 옵션 구성)
+      const months = ["전체",1,2,3,4,5,6,7,8,9,10,11,12];
+      months.forEach((m)=> {
+        filterMenu.appendChild(makeItem(String(m), m==="전체"?null:m));
+      });
+    } else if (type === "subtag") {
+      // 훅만 제공 (카테고리별 동적 목록은 이후 단계)
+      ["전체"].forEach((s) => filterMenu.appendChild(makeItem(s, null)));
+    }
+
+    // 위치
+    const rect = anchorBtn.getBoundingClientRect();
+    const top = window.scrollY + rect.bottom + 8;
+    const left = window.scrollX + rect.left;
+    filterMenu.style.top = `${top}px`;
+    filterMenu.style.left = `${left}px`;
+
+    filterMenu.style.display = "block";
+  }
+
+  function closeFilterMenu() {
+    filterMenu.style.display = "none";
+  }
+
+  document.addEventListener("click", (e) => {
+    if (filterMenu.style.display === "none") return;
+    if (!filterMenu.contains(e.target) &&
+        e.target !== yearBtn && e.target !== monthBtn && e.target !== subtagBtn) {
+      closeFilterMenu();
+    }
+  });
+
+  function applyFilterSelection(type, label, value) {
+    if (type === "year") {
+      activeFilters.year = value;
+      yearBtn.textContent = value === null ? "연도" : `연도 ${label}`;
+    } else if (type === "month") {
+      activeFilters.month = value;
+      monthBtn.textContent = value === null ? "월" : `월 ${label}`;
+    } else if (type === "subtag") {
+      activeFilters.subtag = value;
+      subtagBtn.textContent = value === null ? "서브태그" : `서브태그 ${label}`;
+    }
+    applySearch();
+  }
+
+  // 버튼 열기
+  yearBtn?.addEventListener("click", (e) => openFilterMenu(e.currentTarget, "year"));
+  monthBtn?.addEventListener("click", (e) => openFilterMenu(e.currentTarget, "month"));
+  subtagBtn?.addEventListener("click", (e) => openFilterMenu(e.currentTarget, "subtag"));
+
+  // ===== 초기화 =====
   function initCategory(category) {
+    // 타이틀
+    if (categoryTitleEl) {
+      categoryTitleEl.textContent = categoryKorean[category] ?? "전체 영상";
+    }
+
+    // 필터 초기화
+    activeFilters.year   = null;
+    activeFilters.month  = null;
+    activeFilters.subtag = null;
+    if (yearBtn)   yearBtn.textContent   = "연도";
+    if (monthBtn)  monthBtn.textContent  = "월";
+    if (subtagBtn) subtagBtn.textContent = "서브태그";
+
     if (!category) {
-      // 전체 모드
       all = loadAllData();
       filtered = [...all];
       sortAndRender();
     } else {
-      // 특정 카테고리 모드
       loadCategoryData(category)
         .then((cards) => {
           all = cards;
