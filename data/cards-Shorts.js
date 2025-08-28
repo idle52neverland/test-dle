@@ -14300,6 +14300,76 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/DiObbYdS-AI/maxresdefault.jpg",
   "alt": "SUMMER SONIC 2025 Behind ⛱️☀️ (2025-08-19)",
   "title": "SUMMER SONIC 2025 Behind ⛱️☀️ (2025-08-19)"
+},
+{
+  "link": "https://youtu.be/KWyMm_EAzxI",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-08-26",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/KWyMm_EAzxI/maxresdefault.jpg",
+  "alt": "XOXZ with 🍜📁💤 #idle #MIYEON #IVE #아이브 #LEESEO #이서 #아이들 #미연 #미연zip #XOXZ #XOXZchallenge #Shorts (2025-08-26)",
+  "title": "XOXZ with 🍜📁💤 #idle #MIYEON #IVE #아이브 #LEESEO #이서 #아이들 #미연 #미연zip #XOXZ #XOXZchallenge #Shorts (2025-08-26)"
+},
+{
+  "link": "https://youtu.be/jm5Brvtyg5I",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2025-08-26",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/jm5Brvtyg5I/maxresdefault.jpg",
+  "alt": "🎂 𝗛𝗔𝗣𝗣𝗬 𝗦𝗢𝗬𝗘𝗢𝗡 𝗗𝗔𝗬 💛 (2025-08-26)",
+  "title": "🎂 𝗛𝗔𝗣𝗣𝗬 𝗦𝗢𝗬𝗘𝗢𝗡 𝗗𝗔𝗬 💛 (2025-08-26)"
+},
+{
+  "link": "https://youtu.be/hdIHIipL7mY",
+  "category": "Shorts",
+  "member": "슈화",
+  "date": "2025-08-27",
+  "duration": "00:00:07",
+  "thumbnail": "https://i.ytimg.com/vi/hdIHIipL7mY/maxresdefault.jpg",
+  "alt": "MC 슈슈 🎀💗 (2025-08-27)",
+  "title": "MC 슈슈 🎀💗 (2025-08-27)"
+},
+{
+  "link": "https://youtu.be/tdBR_FAMdjY",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-08-27",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/tdBR_FAMdjY/maxresdefault.jpg",
+  "alt": "#아이들 #미연 님과 chew bubble gum🫧💜 #케플러 #XIAOTING #샤오팅 (2025-08-27)",
+  "title": "#아이들 #미연 님과 chew bubble gum🫧💜 #케플러 #XIAOTING #샤오팅 (2025-08-27)"
+},
+{
+  "link": "https://youtu.be/W23rzAcui0E",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-08-28",
+  "duration": "00:00:08",
+  "thumbnail": "https://i.ytimg.com/vi/W23rzAcui0E/maxresdefault.jpg",
+  "alt": "Don't cha 😉 (2025-08-28)",
+  "title": "Don't cha 😉 (2025-08-28)"
+},
+{
+  "link": "https://youtu.be/glLrcXTBMV4",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-08-28",
+  "duration": "00:00:57",
+  "thumbnail": "https://i.ytimg.com/vi/glLrcXTBMV4/maxresdefault.jpg",
+  "alt": "발음 챌린지 누가누가 잘하나 with 우기 선배님 #NOWZ #나우즈 (2025-08-28)",
+  "title": "발음 챌린지 누가누가 잘하나 with 우기 선배님 #NOWZ #나우즈 (2025-08-28)"
+},
+{
+  "link": "https://youtu.be/5_sBig5siT4",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-08-28",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/5_sBig5siT4/maxresdefault.jpg",
+  "alt": "우기 선배님과 turn the music up (2025-08-28)",
+  "title": "우기 선배님과 turn the music up #NOWZ #나우즈 (2025-08-28)"
 }
   
   

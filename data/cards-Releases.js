@@ -1208,7 +1208,18 @@ const releasesCards = [
     "thumbnail": "https://i.ytimg.com/vi/hqWxxcs_MXE/maxresdefault.jpg",
     "alt": "소연 (SOYEON) '내 이름 맑음' LIVE CLIP (2025-06-30)",
     "title": "소연 (SOYEON) '내 이름 맑음' LIVE CLIP (2025-06-30)"
-  }
+  },
+{
+  "link": "https://youtu.be/Cq-1jynbcVg",
+  "category": "Releases",
+  "member": "미연",
+  "date": "2025-08-28",
+  "duration": "00:04:40",
+  "thumbnail": "https://i.ytimg.com/vi/Cq-1jynbcVg/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) - ‘Sky Walking’ Special Clip (Filmed in Macao) (2025-08-28)",
+  "title": "미연 (MIYEON) - ‘Sky Walking’ Special Clip (Filmed in Macao) (2025-08-28)"
+}
+
 
 
 ];

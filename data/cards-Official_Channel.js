@@ -8867,6 +8867,41 @@ const officialChannelCards = [
   "channel": "i-dle (아이들)",
   "channelProfile": "https://yt3.ggpht.com/XhYlm-_7yt0kHktI89VMcTeyhuI6fCaB24zEXaUFxTbN61Aa6huRtHKjowW5Rl_gMv_rPdqA-A=s800-c-k-c0x00ffffff-no-rj",
   "subtag": "아이톡 | I-TALK"
+},
+{
+  "link": "https://youtu.be/lPXt1Lh963k",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-08-25",
+  "duration": "00:06:48",
+  "thumbnail": "https://i.ytimg.com/vi/lPXt1Lh963k/maxresdefault.jpg",
+  "alt": "LA Angels 시구 & 공연 비하인드 [i-talk] #216 | i-dle (아이들)ㅣSUB (2025-08-25)",
+  "title": "LA Angels 시구 & 공연 비하인드 [i-talk] #216 | i-dle (아이들)ㅣSUB (2025-08-25)",
+  "subtag": "아이톡 | I-TALK"
+},
+
+{
+  "link": "https://youtu.be/v4yUN8uWbVg",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-08-26",
+  "duration": "00:11:29",
+  "thumbnail": "https://i.ytimg.com/vi/v4yUN8uWbVg/maxresdefault.jpg",
+  "alt": "🎂 HAPPY SOYEON DAY 💛 (Feat. 요정 햄찌의 수상한 생일 파티)ㅣSUB (2025-08-26)",
+  "title": "🎂 HAPPY SOYEON DAY 💛 (Feat. 요정 햄찌의 수상한 생일 파티)ㅣSUB (2025-08-26)",
+  "subtag": "스페셜컨텐츠 | Special Content"
+},
+
+{
+  "link": "https://youtu.be/V6OH8_gTgCk",
+  "category": "Official_Channel",
+  "member": "우기",
+  "date": "2025-08-27",
+  "duration": "00:11:14",
+  "thumbnail": "https://i.ytimg.com/vi/V6OH8_gTgCk/maxresdefault.jpg",
+  "alt": "우기의 KCON LA 2025 '내일은 없어' 안무 연습 비하인드 [i-talk] #217 | i-dle (아이들)ㅣSUB (2025-08-27)",
+  "title": "우기의 KCON LA 2025 '내일은 없어' 안무 연습 비하인드 [i-talk] #217 | i-dle (아이들)ㅣSUB (2025-08-27)",
+ "subtag": "아이톡 | I-TALK"
 }
 
 

@@ -918,6 +918,16 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/wMuDsubGMXE/maxresdefault.jpg",
   "alt": "TENBLANK – 永遠前夜 / Forever Eve [Official Music Video] (2025-08-21)",
   "title": "TENBLANK – 永遠前夜 / Forever Eve [Official Music Video] (2025-08-21)"
+},
+{
+  "link": "https://youtu.be/pGy-nfZyQnU",
+  "category": "Special_Releases",
+  "member": "아이들",
+  "date": "2025-08-28",
+  "duration": "00:02:59",
+  "thumbnail": "https://i.ytimg.com/vi/pGy-nfZyQnU/maxresdefault.jpg",
+  "alt": "[나 혼자만 레벨업:ARISE x i-dle (아이들)] ‘ARISE’🎵 Official MV공개! (2025-08-28)",
+  "title": "[나 혼자만 레벨업:ARISE x i-dle (아이들)] ‘ARISE’🎵 Official MV공개! (2025-08-28)"
 }
 
 

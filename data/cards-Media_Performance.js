@@ -2759,8 +2759,17 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/7dkl-uKbfvs/maxresdefault.jpg",
   "alt": "[뮤트로.zip] 미연X권진아 - 좋을텐데🎧ㅣIt Would Be Good (2025-08-21)",
   "title": "[뮤트로.zip] 미연X권진아 - 좋을텐데🎧ㅣIt Would Be Good (2025-08-21)"
+},
+{
+  "link": "https://youtu.be/wcZx2g5N7cE",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-08-28",
+  "duration": "00:02:05",
+  "thumbnail": "https://i.ytimg.com/vi/wcZx2g5N7cE/maxresdefault.jpg",
+  "alt": "[뮤트로.zip] 미연 - I AM 🎧 (2025-08-28)",
+  "title": "[뮤트로.zip] 미연 - I AM 🎧 (2025-08-28)"
 }
-    
 
 
 ];

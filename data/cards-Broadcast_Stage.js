@@ -9462,6 +9462,93 @@ const broadcastStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/zie5ythfgT8/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'Best International Group of the Year' [TIMA 2025] (2025-08-23)",
   "title": "i-dle (아이들) 'Best International Group of the Year' [TIMA 2025] (2025-08-23)"
+},
+{
+  "link": "https://youtu.be/1QOIRk2Zgb4",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2025-08-27",
+  "duration": "00:03:30",
+  "thumbnail": "https://i.ytimg.com/vi/1QOIRk2Zgb4/maxresdefault.jpg",
+  "alt": "i-dle(아이들) – LATATA (i-dle ver.) l ALL THE K-POP STAGE IN MACAU l 250827 (2025-08-27)",
+  "title": "i-dle(아이들) – LATATA (i-dle ver.) l ALL THE K-POP STAGE IN MACAU l 250827 (2025-08-27)"
+},
+
+{
+  "link": "https://youtu.be/c7bbvVN1oRU",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2025-08-27",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/c7bbvVN1oRU/maxresdefault.jpg",
+  "alt": "i-dle(아이들) – TOMBOY l ALL THE K-POP STAGE IN MACAU l 250827 (2025-08-27)",
+  "title": "i-dle(아이들) – TOMBOY l ALL THE K-POP STAGE IN MACAU l 250827 (2025-08-27)"
+},
+
+{
+  "link": "https://youtu.be/a2CkyX_P1oE",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2025-08-27",
+  "duration": "00:02:56",
+  "thumbnail": "https://i.ytimg.com/vi/a2CkyX_P1oE/maxresdefault.jpg",
+  "alt": "i-dle(아이들) – 퀸카 (Queencard) l ALL THE K-POP STAGE IN MACAU l 250827 (2025-08-27)",
+  "title": "i-dle(아이들) – 퀸카 (Queencard) l ALL THE K-POP STAGE IN MACAU l 250827 (2025-08-27)"
+},
+
+{
+  "link": "https://youtu.be/V4LnXSRA3-s",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2025-08-27",
+  "duration": "00:04:16",
+  "thumbnail": "https://i.ytimg.com/vi/V4LnXSRA3-s/maxresdefault.jpg",
+  "alt": "i-dle(아이들) – INTRO + Super Lady l ALL THE K-POP STAGE IN MACAU l 250827 (2025-08-27)",
+  "title": "i-dle(아이들) – INTRO + Super Lady l ALL THE K-POP STAGE IN MACAU l 250827 (2025-08-27)"
+},
+
+{
+  "link": "https://youtu.be/hCgHHwSyN-s",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2025-08-27",
+  "duration": "00:02:48",
+  "thumbnail": "https://i.ytimg.com/vi/hCgHHwSyN-s/maxresdefault.jpg",
+  "alt": "i-dle(아이들) – 나는 아픈 건 딱 질색이니까 l ALL THE K-POP STAGE IN MACAU l 250827 (2025-08-27)",
+  "title": "i-dle(아이들) – 나는 아픈 건 딱 질색이니까 l ALL THE K-POP STAGE IN MACAU l 250827 (2025-08-27)"
+},
+
+{
+  "link": "https://youtu.be/eFeByd4pMjI",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2025-08-27",
+  "duration": "00:02:44",
+  "thumbnail": "https://i.ytimg.com/vi/eFeByd4pMjI/maxresdefault.jpg",
+  "alt": "i-dle(아이들) – Good Thing l ALL THE K-POP STAGE IN MACAU l 250827 (2025-08-27)",
+  "title": "i-dle(아이들) – Good Thing l ALL THE K-POP STAGE IN MACAU l 250827 (2025-08-27)"
+},
+
+{
+  "link": "https://youtu.be/5cFYvAui-is",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2025-08-27",
+  "duration": "00:03:45",
+  "thumbnail": "https://i.ytimg.com/vi/5cFYvAui-is/maxresdefault.jpg",
+  "alt": "NOWZ(나우즈) – Fly to the youth (Feat. YUQI) (Chinese Ver.) l ALL THE K-POP STAGE IN MACAU l 250827 (2025-08-27)",
+  "title": "NOWZ(나우즈) – Fly to the youth (Feat. YUQI) (Chinese Ver.) l ALL THE K-POP STAGE IN MACAU l 250827 (2025-08-27)"
+},
+
+{
+  "link": "https://youtu.be/394nZUBvr8E",
+  "category": "Broadcast_Stage",
+  "member": "슈화",
+  "date": "2025-08-27",
+  "duration": "00:03:42",
+  "thumbnail": "https://i.ytimg.com/vi/394nZUBvr8E/maxresdefault.jpg",
+  "alt": "Opening + MC 아이들 슈화 (i-dle SHUHUA) l ALL THE K-POP STAGE IN MACAU l 250827 (2025-08-27)",
+  "title": "Opening + MC 아이들 슈화 (i-dle SHUHUA) l ALL THE K-POP STAGE IN MACAU l 250827 (2025-08-27)"
 }
 
 ];
