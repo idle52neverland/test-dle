@@ -133,7 +133,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function updateCardCount(count) {
-    cardCountEl.textContent = `총 ${count}개 영상`;
+    cardCountEl.textContent = `총 ${count}개`;
   }
 
   function formatDateYYMMDD(dateStr) {
@@ -376,11 +376,11 @@ document.addEventListener("DOMContentLoaded", function () {
     };
 
     if (type === "year") {
-      const years = ["전체", "2025","2024","2023","2022","2021","2020","2019","2018","PRE-DEBUT"];
+      const years = ["전체", "2025","2024","2023","2022","2021","2020","2019","2018","Pre-debut"];
       years.forEach((y) => {
         let val = null;
         if (y === "전체") val = null;
-        else if (y === "PRE-DEBUT") val = "predebut";
+        else if (y === "Pre-debut") val = "predebut";
         else val = parseInt(y, 10);
         filterMenu.appendChild(makeItem(y, val));
       });
@@ -391,10 +391,39 @@ document.addEventListener("DOMContentLoaded", function () {
         filterMenu.appendChild(makeItem(String(m), m==="전체"?null:m));
       });
     } else if (type === "subtag") {
-      // 훅만 제공 (카테고리별 동적 목록은 이후 단계)
-      ["전체"].forEach((s) => filterMenu.appendChild(makeItem(s, null)));
-    }
+      const subtagOptionsMap = {
+      "Releases": ["전체", "MV", "Teaser", "Album"],
+      "Broadcast_Stage": ["전체", "음악방송", "쇼케이스", "특집"],
+      "Official_Channel": ["전체", "아이톡 | I-TALK", "해시톡 | HASHTALK", "아이로그 | I-LOG", "라이브 H/L | I-LIVE H/L", "비하인드 외전 | Extra Behind", "프로모션 | Comeback Promotion",
+      "퍼포먼스 | Performance", "커버곡 | Cover", "스페셜컨텐츠 | Special Content", "응원법 | Fan Chant", "기타 | Etc"],
+      "Original_Variety": ["전체", "음악방송", "쇼케이스", "특집"],
+      "Recording_Behind": ["전체", "음악방송", "쇼케이스", "특집"],
+      "Special_Releases": ["전체", "음악방송", "쇼케이스", "특집"],
+      "Festival_Stage": ["전체", "음악방송", "쇼케이스", "특집"],
+      "Media_Performance": ["전체", "음악방송", "쇼케이스", "특집"],
+      "Media_Content": ["전체", "음악방송", "쇼케이스", "특집"],
+      "Live_Streams": ["전체", "음악방송", "쇼케이스", "특집"],
+      "Radio_Podcast": ["전체", "음악방송", "쇼케이스", "특집"],
+      "Interviews": ["전체", "음악방송", "쇼케이스", "특집"],
+      "Commercials": ["전체", "음악방송", "쇼케이스", "특집"],
+      "Etc": ["전체", "음악방송", "쇼케이스", "특집"],
+      "Shorts": ["전체", "음악방송", "쇼케이스", "특집"]
+  };
 
+  let currentCategory = getCurrentCategory() || "";
+  currentCategory = currentCategory.trim();
+
+  // 대소문자 불일치 방지
+  const matchedKey = Object.keys(subtagOptionsMap).find(
+    key => key.toLowerCase() === currentCategory.toLowerCase()
+  );
+
+  const subtagList = matchedKey ? subtagOptionsMap[matchedKey] : ["전체"];
+
+  subtagList.forEach((s) => {
+    filterMenu.appendChild(makeItem(s, s === "전체" ? null : s));
+  });
+}
     // 위치
     const rect = anchorBtn.getBoundingClientRect();
     const top = window.scrollY + rect.bottom + 8;
@@ -420,13 +449,13 @@ document.addEventListener("DOMContentLoaded", function () {
   function applyFilterSelection(type, label, value) {
     if (type === "year") {
       activeFilters.year = value;
-      yearBtn.textContent = value === null ? "연도" : `연도 ${label}`;
+      yearBtn.textContent = value === null ? "연도" : `${label}`;
     } else if (type === "month") {
       activeFilters.month = value;
-      monthBtn.textContent = value === null ? "월" : `월 ${label}`;
+      monthBtn.textContent = value === null ? "월" : `${label}`;
     } else if (type === "subtag") {
       activeFilters.subtag = value;
-      subtagBtn.textContent = value === null ? "서브태그" : `서브태그 ${label}`;
+      subtagBtn.textContent = value === null ? "전체" : `${label}`;
     }
     applySearch();
   }

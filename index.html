@@ -18,7 +18,7 @@
 
       <!-- 검색창 -->
       <div class="search-wrapper search-wide">
-        <input type="text" id="searchInput" placeholder="Search all videos...">
+        <input type="text" id="searchInput">
         <button id="searchBtn">
           <img src="images/search.svg" alt="search">
         </button>
@@ -54,15 +54,16 @@
     <!-- 메인 콘텐츠 -->
     <main class="main-content">
       <!-- 필터영역 -->
-      <div class="filter-bar">
-        <div class="category-name">
-          <h2 id="categoryTitle">카테고리명</h2>
-        </div>
-        
-        <div class="sort-count-bar">
+      <div class="filters-area">
+        <!-- 왼쪽 -->
+        <div class="filter-left">
+          <h2 id="categoryTitle" style="margin:0;">카테고리명</h2>
           <button id="yearFilter">연도</button>
           <button id="monthFilter">월</button>
           <button id="subTagFilter">서브태그</button>
+        </div>
+        <!-- 오른쪽 -->
+        <div class="filter-right">
           <button id="toggleSortBtn">최신순</button>
           <div id="cardCount">총 영상 갯수</div>
         </div>
