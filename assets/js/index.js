@@ -198,6 +198,8 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     sortAndRender();
+    
+    window.scrollTo({ top: 0, behavior: "auto" });
   }
 
   function passesFilters(card) {
@@ -224,7 +226,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     return true;
   }
-
+  
   function sortAndRender() {
     filtered.sort((a, b) => {
       const dateA = new Date(a.date || "2000-01-01");
@@ -236,25 +238,36 @@ document.addEventListener("DOMContentLoaded", function () {
     renderCards(filtered);
   }
 
-  function renderCards(cards) {
-    container.innerHTML = "";
-    cards.slice(0, currentIndex + batchSize).forEach((data) => {
-      const card = document.createElement("a");
-      card.className = "card";
-      card.innerHTML = `
-        <div class="thumbnail-wrapper">
-          <img src="${data.thumbnail || ""}" alt="${data.alt || data.title}" loading="lazy">
-          <div class="duration-overlay">${data.duration || ""}</div>
-        </div>
-        <div class="card-title">${data.title}</div>
-        <div class="card-meta">
-          ${[
-            data.date ? formatDateYYMMDD(data.date) : "",
-            data.member || "",
-            data.note || "",
-          ].filter(Boolean).join(" ")}
-        </div>
-      `;
+  function simplifyDuration(duration) {
+  if (!duration) return "";
+  // 00:04:40 → 4:40
+  // 01:04:40 → 1:04:40 (그대로)
+  // 04:40 → 4:40 (그대로)
+  if (/^00:\d{2}:\d{2}$/.test(duration)) {
+    return duration.slice(3); // "00:" 제거
+  }
+  return duration;
+}
+
+function renderCards(cards) {
+  container.innerHTML = "";
+  cards.slice(0, currentIndex + batchSize).forEach((data) => {
+    const card = document.createElement("a");
+    card.className = "card";
+    card.innerHTML = `
+      <div class="thumbnail-wrapper">
+        <img src="${data.thumbnail || ""}" alt="${data.alt || data.title}" loading="lazy">
+        <div class="duration-overlay">${simplifyDuration(data.duration)}</div>
+      </div>
+      <div class="card-title">${data.title}</div>
+      <div class="card-meta">
+        ${[
+          data.date ? formatDateYYMMDD(data.date) : "",
+          data.member || "",
+          data.note || "",
+        ].filter(Boolean).join(" ")}
+      </div>
+    `;
       card.addEventListener("click", (e) => {
         e.preventDefault();
         window.open(data.link, "_blank");
@@ -288,6 +301,7 @@ document.addEventListener("DOMContentLoaded", function () {
     sortOrder = sortOrder === "newest" ? "oldest" : "newest";
     toggleSortBtn.textContent = sortOrder === "newest" ? "최신순" : "오래된순";
     sortAndRender();
+    window.scrollTo({ top: 0, behavior: "auto" });
   });
 
   loadMoreBtn.addEventListener("click", () => {
@@ -302,11 +316,11 @@ document.addEventListener("DOMContentLoaded", function () {
   // ===== 스크롤 탑 =====
   scrollTopBtn.addEventListener("touchend", (e) => {
     e.preventDefault();
-    window.scrollTo({ top: 0, behavior: "smooth" });
+    window.scrollTo({ top: 0, behavior: "auto" });
   }, { passive: false });
 
   scrollTopBtn.addEventListener("click", () => {
-    window.scrollTo({ top: 0, behavior: "smooth" });
+    window.scrollTo({ top: 0, behavior: "auto" });
   });
 
   // ===== 사이드바 =====
@@ -329,11 +343,13 @@ document.addEventListener("DOMContentLoaded", function () {
       hamburgerBtn.style.display = "flex";
       history.pushState({ category }, "", `?category=${category}`);
       initCategory(category);
+      window.scrollTo(0, 0); // ← 카테고리 변경 후 즉시 최상단
     });
   });
 
   window.addEventListener("popstate", () => {
     initCategory(getCurrentCategory());
+    window.scrollTo(0, 0); // ← 히스토리 이동 시에도 즉시 최상단
   });
 
   // ===== 필터 메뉴(공용) 구성 =====
@@ -499,4 +515,22 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   initCategory(getCurrentCategory());
+});
+
+const homeBtn = document.getElementById("homeBtn");
+homeBtn?.addEventListener("click", () => {
+  window.location.href = window.location.origin; // 메인 URL로 이동
+});
+
+
+document.getElementById("homeBtn").addEventListener("click", function () {
+  window.location.href = "/index.html";
+  window.scrollTo({ top: 0, behavior: "auto" });
+});
+
+
+document.querySelectorAll(".sidebar nav a").forEach(a => {
+  a.addEventListener("click", function () {
+    window.scrollTo({ top: 0, behavior: "auto" });
+  });
 });
