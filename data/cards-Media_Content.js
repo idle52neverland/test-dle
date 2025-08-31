@@ -6535,14 +6535,14 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://drive.google.com/file/d/1C9tMeZNrYaHSEwIKFOsoAjRS3EPSMAII/view?usp=sharing",
+  "link": "https://youtu.be/VvSDq_VagNw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-29",
-  "duration": "00:48:04",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/아이돌리그.png",
-  "alt": "아이돌리그(IDOL LEAGUE) (여자)아이들 (Full Ver.)",
-  "title": "아이돌리그(IDOL LEAGUE) (여자)아이들 (Full Ver.)"
+  "duration": "00:48:05",
+  "thumbnail": "https://i.ytimg.com/vi/VvSDq_VagNw/maxresdefault.jpg",
+  "alt": "[ENG] [아이돌리그 IDOL LEAGUE S3] (여자)아이들 (i-dle)",
+  "title": "[ENG] [아이돌리그 IDOL LEAGUE S3] (여자)아이들 (i-dle)"
 },
 
 {
@@ -14381,3 +14381,4 @@ const mediaContentCards = [
 ];
 
 window.mediaContentCards = mediaContentCards;
+
