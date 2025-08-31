@@ -9708,9 +9708,43 @@ const officialChannelCards = [
   "alt": "우기의 KCON LA 2025 '내일은 없어' 안무 연습 비하인드 [i-talk] #217 | i-dle (아이들)ㅣSUB",
   "title": "우기의 KCON LA 2025 '내일은 없어' 안무 연습 비하인드 [i-talk] #217 | i-dle (아이들)ㅣSUB",
   "subtag": "아이톡 | I-TALK"
+},
+{
+  "link": "https://youtu.be/7QIPBa_ENTI",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-08-29",
+  "duration": "00:12:11",
+  "thumbnail": "https://i.ytimg.com/vi/7QIPBa_ENTI/maxresdefault.jpg",
+  "alt": "미연의 ‘Sky Walking’ Special Clip (Filmed in Macao) 촬영 비하인드 [i-talk] #218 | i-dle (아이들)ㅣSUB",
+  "title": "미연의 ‘Sky Walking’ Special Clip (Filmed in Macao) 촬영 비하인드 [i-talk] #218 | i-dle (아이들)ㅣSUB",
+  "subtag": "아이톡 | I-TALK"
+},
+{
+  "link": "https://youtu.be/DAC-fUEIZ7U",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-08-30T19:00:01",
+  "duration": "00:04:12",
+  "thumbnail": "https://i.ytimg.com/vi/DAC-fUEIZ7U/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 'Forever Eve / TENBLANK' (Cover)",
+  "title": "미연 (MIYEON) 'Forever Eve / TENBLANK' (Cover)",
+  "subtag": "커버곡 | Cover",
+},
+{
+  "link": "https://youtu.be/FVduH3q8Evw",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-08-30T19:00:02",
+  "duration": "00:12:14",
+  "thumbnail": "https://i.ytimg.com/vi/FVduH3q8Evw/maxresdefault.jpg",
+  "alt": "KCON LA 2025 비하인드 [i-talk] #219 | i-dle (아이들)ㅣSUB",
+  "title": "KCON LA 2025 비하인드 [i-talk] #219 | i-dle (아이들)ㅣSUB",
+  "subtag": "아이톡 | I-TALK"
 }
 
 
 ];
+
 
 window.officialChannelCards = officialChannelCards;
