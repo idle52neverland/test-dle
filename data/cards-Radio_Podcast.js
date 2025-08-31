@@ -226,7 +226,7 @@ const radioPodcastCards = [
   "member": "소연",
   "date": "2021-04-02",
   "duration": "01:23:06",
-  "thumbnail": "https://phinf.pstatic.net/tvcast/20220422_270/jxFUa_1650609983120dUCqj_JPEG/b91ba787-0b96-11ec-86ec-48df37ae3fca_03.jpg?type=now720b.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220422_270/jxFUa_1650609983120dUCqj_JPEG/b91ba787-0b96-11ec-86ec-48df37ae3fca_03.jpg?type=now720b",
   "alt": "삽질하는 이야기 합니다with 소연 | SAP |",
   "title": "삽질하는 이야기 합니다with 소연 | SAP |"
 },
@@ -1732,3 +1732,4 @@ const radioPodcastCards = [
 
 
 window.radioPodcastCards = radioPodcastCards;
+
