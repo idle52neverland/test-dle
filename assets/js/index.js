@@ -408,7 +408,7 @@ function renderCards(cards) {
       });
     } else if (type === "subtag") {
       const subtagOptionsMap = {
-      "Releases": ["전체", "MV", "Teaser", "Album"],
+      "Releases": ["전체", "MV", "Special Clip", "Audio Track"],
       "Broadcast_Stage": ["전체", "음악방송", "쇼케이스", "특집"],
       "Official_Channel": ["전체", "아이톡 | I-TALK", "해시톡 | HASHTALK", "아이로그 | I-LOG", "라이브 H/L | I-LIVE H/L", "비하인드 외전 | Extra Behind", "프로모션 | Comeback Promotion",
       "퍼포먼스 | Performance", "커버곡 | Cover", "스페셜컨텐츠 | Special Content", "응원법 | Fan Chant", "기타 | Etc"],
@@ -534,3 +534,4 @@ document.querySelectorAll(".sidebar nav a").forEach(a => {
     window.scrollTo({ top: 0, behavior: "auto" });
   });
 });
+
