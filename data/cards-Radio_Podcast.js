@@ -1183,7 +1183,7 @@ const radioPodcastCards = [
   "member": "미연",
   "date": "2022-10-11",
   "duration": "01:18:35",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아2.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20221019_250/FvrDa_1666164741457iey6U_PNG/1666164737985.png?type=now720b",
   "alt": "소문의아이들🌹조미연 컴백",
   "title": "소문의아이들🌹조미연 컴백 |소문의 아이들 시즌2|"
 },
@@ -1194,7 +1194,7 @@ const radioPodcastCards = [
   "member": "미연",
   "date": "2022-10-18",
   "duration": "01:26:50",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아2.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20221019_59/M3Cvz_166616462127380acR_PNG/1666164615276.png?type=f640",
   "alt": "(G)IDLE컴백❤️in소문의아이들",
   "title": "(G)IDLE컴백❤️in소문의아이들 |소문의 아이들 시즌2|"
 },
@@ -1260,7 +1260,7 @@ const radioPodcastCards = [
   "member": "미연",
   "date": "2022-10-25",
   "duration": "01:24:57",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아2.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20221031_5/OEbUT_1667209949674lfEdN_PNG/1667209946016.png?type=now720b",
   "alt": "소문의 할로윈🎃미연 X 드림캐쳐",
   "title": "소문의 할로윈🎃미연 X 드림캐쳐 |소문의 아이들 시즌2|"
 },
@@ -1271,7 +1271,7 @@ const radioPodcastCards = [
   "member": "미연",
   "date": "2022-11-06",
   "duration": "01:15:02",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아2.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20221109_84/Acvp2_1667963201065vtpuN_PNG/1667963195393.png?type=now720b",
   "alt": "미연과 다정하고 따뜻한밤 보내요",
   "title": "미연과 다정하고 따뜻한밤 보내요 |소문의 아이들 시즌2|"
 },
@@ -1304,7 +1304,7 @@ const radioPodcastCards = [
   "member": "미연",
   "date": "2022-11-15",
   "duration": "01:08:17",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아2.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20221116_25/1It0y_1668568316472ij4G6_PNG/1668568306537.png?type=f640",
   "alt": "아이들 미연이가 오늘도 기다려요",
   "title": "아이들 미연이가 오늘도 기다려요 |소문의 아이들 시즌2|"
 },
@@ -1315,7 +1315,7 @@ const radioPodcastCards = [
   "member": "미연",
   "date": "2022-11-22",
   "duration": "01:22:39",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아2.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20221123_205/JLeOq_1669173300897QdBxc_PNG/1669173288137.png?type=now720b",
   "alt": "못하는걸 못해요 미연 유리 나나",
   "title": "못하는걸 못해요 미연 유리 나나 |소문의 아이들 시즌2|"
 },
@@ -1326,7 +1326,7 @@ const radioPodcastCards = [
   "member": "미연",
   "date": "2022-11-29",
   "duration": "01:06:36",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아2.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20221130_61/vlUtJ_16697778677247uVeY_PNG/1669777851183.png?type=now720b",
   "alt": "아이들 미연이와 친구할 사람?🐰",
   "title": "아이들 미연이와 친구할 사람?🐰 |소문의 아이들 시즌2|"
 },
@@ -1337,7 +1337,7 @@ const radioPodcastCards = [
   "member": "미연",
   "date": "2022-12-06",
   "duration": "01:17:13",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아2.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20221207_75/k4Tyn_1670382692718KfSVA_PNG/1670382686294.png?type=now720b",
   "alt": "아이들 조미연과 트롯왕자 정동원",
   "title": "아이들 조미연과 트롯왕자 정동원 |소문의 아이들 시즌2|"
 },
@@ -1348,7 +1348,7 @@ const radioPodcastCards = [
   "member": "미연",
   "date": "2022-12-13",
   "duration": "01:09:48",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아2.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20221214_111/TWDuA_1670987499763FUoXV_PNG/1670987473266.png?type=now720b",
   "alt": "[ep84] 아이들 미연과 마법같은시간",
   "title": "[ep84] 아이들 미연과 마법같은시간 |소문의 아이들 시즌2|"
 },
@@ -1359,7 +1359,7 @@ const radioPodcastCards = [
   "member": "미연",
   "date": "2022-12-20",
   "duration": "01:31:09",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아2.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20221221_38/hEqmJ_1671592423764ph3Ri_PNG/1671592413325.png?type=now720b",
   "alt": "겨울요정 미연과 미리 X-mas🎄",
   "title": "겨울요정 미연과 미리 X-mas🎄 |소문의 아이들 시즌2|"
 },
@@ -1370,7 +1370,7 @@ const radioPodcastCards = [
   "member": "미연",
   "date": "2022-12-27",
   "duration": "01:27:23",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아2.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20221228_128/OQdZN_1672197615414xQcjA_PNG/1672197606453.png?type=now720b",
   "alt": "미연 문별과 2022 마무리 해요✨",
   "title": "미연 문별과 2022 마무리 해요✨ |소문의 아이들 시즌2|"
 },
@@ -1381,7 +1381,7 @@ const radioPodcastCards = [
   "member": "미연",
   "date": "2023-01-03",
   "duration": "01:18:55",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아2.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20230104_254/mvG7z_1672802265941q8UBh_PNG/1672802261781.png?type=now720b",
   "alt": "새해 첫 화요일🐰 미연과 함께해요",
   "title": "새해 첫 화요일🐰 미연과 함께해요 |소문의 아이들 시즌2|"
 },
@@ -1392,7 +1392,7 @@ const radioPodcastCards = [
   "member": "미연",
   "date": "2023-01-10",
   "duration": "01:19:39",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/소문아2.png",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20230111_81/enfHP_1673407014188GRILs_PNG/1673407004975.png?type=now720b",
   "alt": "면스트 미연이와 겨울방학 해요🌹",
   "title": "면스트 미연이와 겨울방학 해요🌹 |소문의 아이들 시즌2|"
 },
@@ -1729,5 +1729,6 @@ const radioPodcastCards = [
 
 
   ];
+
 
 window.radioPodcastCards = radioPodcastCards;
