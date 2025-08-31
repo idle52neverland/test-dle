@@ -14375,10 +14375,21 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/-GO2y_0NWxQ/maxresdefault.jpg",
   "alt": "[SUB] ✨ “샤넬이 아니라 찬넬” 슈화도 놀란 EXO 찬열 애장품 드로우ㅣ감별사 글로벌 EP.5ㅣi-dle (아이들) 슈화",
   "title": "[SUB] ✨ “샤넬이 아니라 찬넬” 슈화도 놀란 EXO 찬열 애장품 드로우ㅣ감별사 글로벌 EP.5ㅣi-dle (아이들) 슈화"
+},
+{
+  "link": "https://youtu.be/z9P6Px9w9r0",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2025-08-28",
+  "duration": "00:15:04",
+  "thumbnail": "https://i.ytimg.com/vi/z9P6Px9w9r0/maxresdefault.jpg",
+  "alt": "【SUB】idle最新采访爆料想和JYP合作？雨琦美延都说马上要solo回归了！ (2025-08-28)",
+  "title": "【SUB】idle最新采访爆料想和JYP合作？雨琦美延都说马上要solo回归了！ (2025-08-28)"
 }
 
 
 ];
 
 window.mediaContentCards = mediaContentCards;
+
 
