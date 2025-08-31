@@ -14383,13 +14383,14 @@ const mediaContentCards = [
   "date": "2025-08-28",
   "duration": "00:15:04",
   "thumbnail": "https://i.ytimg.com/vi/z9P6Px9w9r0/maxresdefault.jpg",
-  "alt": "【SUB】idle最新采访爆料想和JYP合作？雨琦美延都说马上要solo回归了！ (2025-08-28)",
-  "title": "【SUB】idle最新采访爆料想和JYP合作？雨琦美延都说马上要solo回归了！ (2025-08-28)"
+  "alt": "【SUB】idle最新采访爆料想和JYP合作？雨琦美延都说马上要solo回归了！",
+  "title": "【SUB】idle最新采访爆料想和JYP合作？雨琦美延都说马上要solo回归了！"
 }
 
 
 ];
 
 window.mediaContentCards = mediaContentCards;
+
 
 
