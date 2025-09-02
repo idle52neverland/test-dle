@@ -1725,6 +1725,16 @@ const radioPodcastCards = [
   "thumbnail": "https://i.ytimg.com/vi/X8PZ43mALf8/maxresdefault.jpg",
   "alt": "#OUTNOW 전소연솔로앨범 'Windy'라이브 첫 공개",
   "title": "#OUTNOW 전소연솔로앨범 'Windy'라이브 첫 공개"
+},
+{
+  "link": "https://naver.me/xR22F96t",
+  "category": "Radio_Podcast",
+  "member": "아이들",
+  "date": "2020-04-08",
+  "duration": "01:06:31",
+  "thumbnail": "https://phinf.pstatic.net/tvcast/20220721_136/GXGvj_1658394173634RGqli_JPEG/50f9449b-08cb-11ed-b77c-48df379cca40_03.jpg?type=now720b",
+  "alt": "아이들이랑 같이 쓰자 헤이즈 일기",
+  "title": "아이들이랑 같이 쓰자 헤이즈 일기"
 }
 
 
@@ -1732,4 +1742,5 @@ const radioPodcastCards = [
 
 
 window.radioPodcastCards = radioPodcastCards;
+
 
