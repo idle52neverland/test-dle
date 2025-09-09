@@ -1463,6 +1463,17 @@ const releasesCards = [
   "alt": "미연 (MIYEON) - ‘Sky Walking’ Special Clip (Filmed in Macao)",
   "title": "미연 (MIYEON) - ‘Sky Walking’ Special Clip (Filmed in Macao)",
   "subtag": "Special Clip"
+},
+{
+  "link": "https://youtu.be/yfn7EG7tQpg",
+  "category": "Releases",
+  "member": "우기",
+  "date": "2025-09-09",
+  "duration": "00:05:04",
+  "thumbnail": "https://i.ytimg.com/vi/yfn7EG7tQpg/maxresdefault.jpg",
+  "alt": "우기 (YUQI) '아프다' Official Music Video",
+  "title": "우기 (YUQI) '아프다' Official Music Video",
+  "subtag": "MV"
 }
 
 ];

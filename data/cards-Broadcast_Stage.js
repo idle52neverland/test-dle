@@ -10489,6 +10489,46 @@ const broadcastStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/394nZUBvr8E/maxresdefault.jpg",
   "alt": "Opening + MC 아이들 슈화 (i-dle SHUHUA) l ALL THE K-POP STAGE IN MACAU l 250827",
   "title": "Opening + MC 아이들 슈화 (i-dle SHUHUA) l ALL THE K-POP STAGE IN MACAU l 250827"
+},
+{
+  "link": "https://youtu.be/aYUbYL2cDS0",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2018-12-10",
+  "duration": "00:05:37",
+  "thumbnail": "https://i.ytimg.com/vi/aYUbYL2cDS0/maxresdefault.jpg",
+  "alt": "[2018 MAMA PREMIERE in KOREA] (G)I-DLE_BRIDGE + HANN(一) INTRO + LATATA (2018-12-10)",
+  "title": "[2018 MAMA PREMIERE in KOREA] (G)I-DLE_BRIDGE + HANN(一) INTRO + LATATA (2018-12-10)"
+},
+{
+  "link": "https://youtu.be/n2kbQXfwCAU",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2018-12-10",
+  "duration": "00:01:40",
+  "thumbnail": "https://i.ytimg.com/vi/n2kbQXfwCAU/maxresdefault.jpg",
+  "alt": "[2018 MAMA x M2] (여자)아이들((G)I-DLE) Ending Finale Self Camera in KOREA (2018-12-10)",
+  "title": "[2018 MAMA x M2] (여자)아이들((G)I-DLE) Ending Finale Self Camera in KOREA (2018-12-10)"
+},
+{
+  "link": "https://youtu.be/prrhe5sIG3A",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2018-12-10",
+  "duration": "00:08:00",
+  "thumbnail": "https://i.ytimg.com/vi/prrhe5sIG3A/maxresdefault.jpg",
+  "alt": "아이들하고 싶은 거 다 해 ♥ 무대할 때 온 몸에 소름 돋는 2018 MAMA (여자)아이들 한, LATATA | #다시보는_MAMA | #Diggle",
+  "title": "아이들하고 싶은 거 다 해 ♥ 무대할 때 온 몸에 소름 돋는 2018 MAMA (여자)아이들 한, LATATA | #다시보는_MAMA | #Diggle"
+},
+{
+  "link": "https://youtu.be/y2s7C-m62MA",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2018-12-01",
+  "duration": "00:06:48",
+  "thumbnail": "https://i.ytimg.com/vi/y2s7C-m62MA/maxresdefault.jpg",
+  "alt": "[MMA X 1theK] (G)I-DLE Fancam _ HANN (Alone)(한(一)) + LATATA((여자)아이들 직캠)",
+  "title": "[MMA X 1theK] (G)I-DLE Fancam _ HANN (Alone)(한(一)) + LATATA((여자)아이들 직캠)"
 }
 
 

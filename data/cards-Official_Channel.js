@@ -9741,6 +9741,39 @@ const officialChannelCards = [
   "alt": "KCON LA 2025 비하인드 [i-talk] #219 | i-dle (아이들)ㅣSUB",
   "title": "KCON LA 2025 비하인드 [i-talk] #219 | i-dle (아이들)ㅣSUB",
   "subtag": "아이톡 | I-TALK"
+},
+{
+  "link": "https://youtu.be/eegFt2_-mzc",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-08-31",
+  "duration": "00:13:05",
+  "thumbnail": "https://i.ytimg.com/vi/eegFt2_-mzc/maxresdefault.jpg",
+  "alt": "ALL THE K-POP STAGE IN MACAU 비하인드 [i-talk] #220 | i-dle (아이들)ㅣSUB",
+  "title": "ALL THE K-POP STAGE IN MACAU 비하인드 [i-talk] #220 | i-dle (아이들)ㅣSUB",
+  "subtag": "아이톡 | I-TALK"
+},
+{
+  "link": "https://youtu.be/WrE8XCMyPGA",
+  "category": "Official_Channel",
+  "member": "우기",
+  "date": "2025-09-07",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/WrE8XCMyPGA/maxresdefault.jpg",
+  "alt": "우기 (YUQI) '아프다' M/V Teaser",
+  "title": "우기 (YUQI) '아프다' M/V Teaser",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+{
+  "link": "https://youtu.be/PG-fbNsWLOM",
+  "category": "Official_Channel",
+  "member": "우기",
+  "date": "2025-09-08",
+  "duration": "00:00:55",
+  "thumbnail": "https://i.ytimg.com/vi/PG-fbNsWLOM/maxresdefault.jpg",
+  "alt": "우기 (YUQI) '아프다' Intro Film",
+  "title": "우기 (YUQI) '아프다' Intro Film",
+  "subtag": "프로모션 | Comeback Promotion"
 }
 
 

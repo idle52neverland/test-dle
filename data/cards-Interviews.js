@@ -1989,7 +1989,29 @@ const interviewsCards = [
   "thumbnail": "https://i.ytimg.com/vi/5lGZICZ3ANc/maxresdefault.jpg",
   "alt": "(G)I-DLE on Releasing FIRST English-Language EP (Exclusive)",
   "title": "(G)I-DLE on Releasing FIRST English-Language EP (Exclusive)"
+},
+{
+  "link": "https://youtu.be/tjCUIsH66jU",
+  "category": "Interviews",
+  "member": "아이들",
+  "date": "2024-10-07",
+  "duration": "00:04:29",
+  "thumbnail": "https://i.ytimg.com/vi/tjCUIsH66jU/maxresdefault.jpg",
+  "alt": "Exclusive! สัมภาษณ์พิเศษ (G)I-DLE เตรียมสนุกกับคอนเสิร์ตเวิลด์ทัวร์ในไทย 19 ต.ค.นี้",
+  "title": "Exclusive! สัมภาษณ์พิเศษ (G)I-DLE เตรียมสนุกกับคอนเสิร์ตเวิลด์ทัวร์ในไทย 19 ต.ค.นี้"
+},
+{
+  "link": "https://youtu.be/eIAfeOt9Lzw",
+  "category": "Interviews",
+  "member": "미연",
+  "date": "2024-09-23",
+  "duration": "00:11:46",
+  "thumbnail": "https://i.ytimg.com/vi/eIAfeOt9Lzw/maxresdefault.jpg",
+  "alt": "MIYEON of (G)I-DLE Answers 21 Questions | MIYEON x Mindset",
+  "title": "MIYEON of (G)I-DLE Answers 21 Questions | MIYEON x Mindset"
 }
+
+
 
 ];
 

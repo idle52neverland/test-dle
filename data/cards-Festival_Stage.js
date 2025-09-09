@@ -1967,6 +1967,16 @@ const festivalStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/TEA_EjGHH-w/maxresdefault.jpg",
   "alt": "CFM : CrossFire Mobile x Song Yuqi (I-dle) | COPDD (Live Stage)",
   "title": "CFM : CrossFire Mobile x Song Yuqi (I-dle) | COPDD (Live Stage)"
+},
+{
+  "link": "https://youtu.be/fuwPJ9AhRBU",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2019-02-20",
+  "duration": "00:03:51",
+  "thumbnail": "https://i.ytimg.com/vi/fuwPJ9AhRBU/hqdefault.jpg",
+  "alt": "(여자)아이들 - 들어줘요 라이브 ((G)I-DLE HEAR ME/LISTEN TO ME)",
+  "title": "(여자)아이들 - 들어줘요 라이브 ((G)I-DLE HEAR ME/LISTEN TO ME)"
 }
 
 ];

@@ -14402,6 +14402,97 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/5_sBig5siT4/maxresdefault.jpg",
   "alt": "우기 선배님과 turn the music up #NOWZ(나우즈)",
   "title": "우기 선배님과 turn the music up #NOWZ(나우즈)"
+},
+
+{
+  "link": "https://youtu.be/dnTWKMjhEmY",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-04",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/dnTWKMjhEmY/maxresdefault.jpg",
+  "alt": "좀 더 끝까지 yeah, yeah, yeah🤟 #우기 가 있잖아 난💙 #선미",
+  "title": "좀 더 끝까지 yeah, yeah, yeah🤟 #우기 가 있잖아 난💙 #선미"
+},
+{
+  "link": "https://youtu.be/4NLnJM-6IaI",
+  "category": "Shorts",
+  "member": "미연, 소연, 우기",
+  "date": "2025-08-29",
+  "duration": "00:00:08",
+  "thumbnail": "https://i.ytimg.com/vi/4NLnJM-6IaI/maxresdefault.jpg",
+  "alt": "FUNNY 🤣",
+  "title": "FUNNY 🤣"
+},
+{
+  "link": "https://youtu.be/o8HQP1gKbro",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-03",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/o8HQP1gKbro/maxresdefault.jpg",
+  "alt": "It's YUQI time 🥕🐇",
+  "title": "It's YUQI time 🥕🐇"
+},
+{
+  "link": "https://youtu.be/VM_ioUtKPt4",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-04",
+  "duration": "00:00:39",
+  "thumbnail": "https://i.ytimg.com/vi/VM_ioUtKPt4/maxresdefault.jpg",
+  "alt": "YUQI in Wonderland 🌊",
+  "title": "YUQI in Wonderland 🌊"
+},
+{
+  "link": "https://youtu.be/GyNKVb9gERM",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-05",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/GyNKVb9gERM/maxresdefault.jpg",
+  "alt": "이상한 나라의 우기 ♥️♣️",
+  "title": "이상한 나라의 우기 ♥️♣️"
+},
+{
+  "link": "https://youtu.be/UbO5ko22pw4",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-06",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/UbO5ko22pw4/maxresdefault.jpg",
+  "alt": "It's time to take my hand and fly 🪽",
+  "title": "It's time to take my hand and fly 🪽"
+},
+{
+  "link": "https://youtu.be/HiLI0EkMNNE",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-09-06",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/HiLI0EkMNNE/maxresdefault.jpg",
+  "alt": "เศร้าคนเดียว VS เศร้ากับเพื่อน #PPKrit_Whatsgoingon #Whatsgoingon_MV #PPKritt #MINNIE #idle",
+  "title": "เศร้าคนเดียว VS เศร้ากับเพื่อน #PPKrit_Whatsgoingon #Whatsgoingon_MV #PPKritt #MINNIE #idle"
+},
+{
+  "link": "https://youtu.be/vPPrOQp23E0",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-02T19:00:02",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/vPPrOQp23E0/maxresdefault.jpg",
+  "alt": "#PARADISE_challenge with #idle #YUQI 님 ❀ *:·ﾟ#TREASURE #트레저 #PARADISE #DOYOUNG #도영 #아이들 #우기 #shorts",
+  "title": "#PARADISE_challenge with #idle #YUQI 님 ❀ *:·ﾟ#TREASURE #트레저 #PARADISE #DOYOUNG #도영 #아이들 #우기 #shorts"
+},
+{
+  "link": "https://youtu.be/p1P5lruPgyE",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-09-02T19:00:03",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/p1P5lruPgyE/maxresdefault.jpg",
+  "alt": "#PARADISE_challenge with #idle #MIYEON 님 ✨ #TREASURE #트레저 #PARADISE #YOSHI #요시 #아이들 #미연 #shorts",
+  "title": "#PARADISE_challenge with #idle #MIYEON 님 ✨ #TREASURE #트레저 #PARADISE #YOSHI #요시 #아이들 #미연 #shorts"
 }
 
 

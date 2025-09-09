@@ -1021,6 +1021,16 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/pGy-nfZyQnU/maxresdefault.jpg",
   "alt": "[나 혼자만 레벨업:ARISE x i-dle (아이들)] ‘ARISE’🎵 Official MV공개!",
   "title": "[나 혼자만 레벨업:ARISE x i-dle (아이들)] ‘ARISE’🎵 Official MV공개!"
+},
+{
+  "link": "https://youtu.be/AGa2wCSK45Y",
+  "category": "Special_Releases",
+  "member": "소연",
+  "date": "2018-09-26",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/AGa2wCSK45Y/maxresdefault.jpg",
+  "alt": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' #비하인더스테이션",
+  "title": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' #비하인더스테이션"
 }
 
 

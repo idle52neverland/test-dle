@@ -3045,6 +3045,16 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/wcZx2g5N7cE/maxresdefault.jpg",
   "alt": "[뮤트로.zip] 미연 - I AM 🎧",
   "title": "[뮤트로.zip] 미연 - I AM 🎧"
+},
+{
+  "link": "https://youtu.be/Wxa-2Z-B4KI",
+  "category": "Media_Performance",
+  "member": "민니",
+  "date": "2022-09-02",
+  "duration": "00:04:35",
+  "thumbnail": "https://i.ytimg.com/vi/Wxa-2Z-B4KI/maxresdefault.jpg",
+  "alt": "민니 COVER - 1001가지의 소원 (일천령일개원망 一千零一个愿望) [중국어 번역] ",
+  "title": "민니 COVER - 1001가지의 소원 (일천령일개원망 一千零一个愿望) [중국어 번역] "
 }
 
 ];

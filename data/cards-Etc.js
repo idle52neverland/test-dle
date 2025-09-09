@@ -559,6 +559,16 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/rzmK2jOYk1o/maxresdefault.jpg",
   "alt": "TENBLANK – 永遠前夜 / Forever Eve [Behind The Scenes]",
   "title": "TENBLANK – 永遠前夜 / Forever Eve [Behind The Scenes]"
+},
+{
+  "link": "https://youtu.be/nKnhXULqIoI",
+  "category": "Etc",
+  "member": "슈화",
+  "date": "2025-09-02T19:00:01",
+  "duration": "00:48:54",
+  "thumbnail": "https://i.ytimg.com/vi/nKnhXULqIoI/maxresdefault.jpg",
+  "alt": "슈화 SKECHERS 팝업스토어 - 舒華帶逛SKECHERS快閃店 親授「舒式穿搭秘訣」",
+  "title": "슈화 SKECHERS 팝업스토어 - 舒華帶逛SKECHERS快閃店 親授「舒式穿搭秘訣」"
 }
 
 
