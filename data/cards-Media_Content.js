@@ -14487,14 +14487,24 @@ const mediaContentCards = [
   "title": "i-dle Shuhua 紐西蘭極限體驗 舒華玩瘋了 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液"
 },
 {
+  "link": "https://youtu.be/yieTZE9Qt5s",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2025-09-08",
+  "duration": "00:03:56",
+  "thumbnail": "https://i.ytimg.com/vi/yieTZE9Qt5s/maxresdefault.jpg",
+  "alt": "World Vision | มินนี่ สมาชิกวง i-dle หนึ่งในผู้อุปการะของมูลนิธิศุภนิมิตฯ",
+  "title": "World Vision | มินนี่ สมาชิกวง i-dle หนึ่งในผู้อุปการะของมูลนิธิศุภนิมิตฯ"
+},
+{
   "link": "https://youtu.be/1jY6SxMNTqw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-09-09",
   "duration": "00:23:41",
   "thumbnail": "https://i.ytimg.com/vi/1jY6SxMNTqw/maxresdefault.jpg",
-  "alt": "*최초 공개* 7년 차 아이돌 미연의 캐리어 찐템🧳✨ㅣ50m 위 공중 식당, 디저트 먹방",
-  "title": "*최초 공개* 7년 차 아이돌 미연의 캐리어 찐템🧳✨ㅣ50m 위 공중 식당, 디저트 먹방"
+  "alt": "[미연.zip📁] *최초 공개* 7년 차 아이돌 미연의 캐리어 찐템🧳✨ㅣ50m 위 공중 식당, 디저트 먹방",
+  "title": "[미연.zip📁] *최초 공개* 7년 차 아이돌 미연의 캐리어 찐템🧳✨ㅣ50m 위 공중 식당, 디저트 먹방"
 },
 {
   "link": "https://youtu.be/DQtMkwkAK6Q",
@@ -14503,9 +14513,40 @@ const mediaContentCards = [
   "date": "2025-09-09",
   "duration": "00:23:15",
   "thumbnail": "https://i.ytimg.com/vi/DQtMkwkAK6Q/maxresdefault.jpg",
-  "alt": "[SUB] 🎉為了頻道開幕🎉  MAMAMOO Solar 初登場就來昆蟲吃播洗禮🐛｜鑑定師 Global EP.1 ｜i-dle 舒華",
-  "title": "[SUB] 🎉為了頻道開幕🎉  MAMAMOO Solar 初登場就來昆蟲吃播洗禮🐛｜鑑定師 Global EP.1 ｜i-dle 舒華"
+  "alt": "[SUB] 🎉為了頻道開幕🎉  MAMAMOO Solar 初登場就來昆蟲吃播洗禮🐛｜鑑定師 Global EP.1 ｜i-dle 舒華 #감별사",
+  "title": "[SUB] 🎉為了頻道開幕🎉  MAMAMOO Solar 初登場就來昆蟲吃播洗禮🐛｜鑑定師 Global EP.1 ｜i-dle 舒華 #감별사"
+},
+{
+  "link": "https://youtu.be/M8TveLXOkHg",
+  "category": "Media_Content",
+  "member": "우기",
+  "date": "2025-09-12",
+  "duration": "00:39:47",
+  "thumbnail": "https://i.ytimg.com/vi/M8TveLXOkHg/maxresdefault.jpg",
+  "alt": "i-dle YUQI is back with full BYOB energy! | Joon & Brian BYOB #Idle",
+  "title": "i-dle YUQI is back with full BYOB energy! | Joon & Brian BYOB #Idle"
+},
+{
+  "link": "https://youtu.be/_uOLRgz7gIs",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2025-09-12",
+  "duration": "00:02:13",
+  "thumbnail": "https://i.ytimg.com/vi/_uOLRgz7gIs/maxresdefault.jpg",
+  "alt": "[나 혼자만 레벨업:어라이즈 x i-dle (아이들)] 음원 녹음 현장 공개!",
+  "title": "[나 혼자만 레벨업:어라이즈 x i-dle (아이들)] 음원 녹음 현장 공개!"
+},
+{
+  "link": "https://youtu.be/_8HwU09O6ys",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-09-12",
+  "duration": "00:48:01",
+  "thumbnail": "https://i.ytimg.com/vi/_8HwU09O6ys/maxresdefault.jpg",
+  "alt": "WHAT A TRIP EP6 陳柏霖 黃宣 真的不會尋寶 女神 i-dle Shuhua 舒華降臨紐西蘭 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液",
+  "title": "WHAT A TRIP EP6 陳柏霖 黃宣 真的不會尋寶 女神 i-dle Shuhua 舒華降臨紐西蘭 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液"
 }
+
 
 
 ];

@@ -14493,6 +14493,66 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/p1P5lruPgyE/maxresdefault.jpg",
   "alt": "#PARADISE_challenge with #idle #MIYEON 님 ✨ #TREASURE #트레저 #PARADISE #YOSHI #요시 #아이들 #미연 #shorts",
   "title": "#PARADISE_challenge with #idle #MIYEON 님 ✨ #TREASURE #트레저 #PARADISE #YOSHI #요시 #아이들 #미연 #shorts"
+},
+{
+  "link": "https://youtu.be/coIkqZrKVoE",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-10",
+  "duration": "00:00:39",
+  "thumbnail": "https://i.ytimg.com/vi/coIkqZrKVoE/maxresdefault.jpg",
+  "alt": "아프긴 하지만 괜찮아 너니까",
+  "title": "아프긴 하지만 괜찮아 너니까"
+},
+{
+  "link": "https://youtu.be/zGUYujT5xg8",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-10",
+  "duration": "00:00:38",
+  "thumbnail": "https://i.ytimg.com/vi/zGUYujT5xg8/maxresdefault.jpg",
+  "alt": "우기(YUQI) - '아프다' | 𝗖𝗼𝘃𝗲𝗿𝗲𝗱 𝗯𝘆 𝗦𝗢𝗥𝗔𝗡  @official_i_dle",
+  "title": "우기(YUQI) - '아프다' | 𝗖𝗼𝘃𝗲𝗿𝗲𝗱 𝗯𝘆 𝗦𝗢𝗥𝗔𝗡  @official_i_dle"
+},
+{
+  "link": "https://youtu.be/pStJAHGAibs",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-12",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/pStJAHGAibs/maxresdefault.jpg",
+  "alt": "Don't cha🔥❤️‍🔥",
+  "title": "Don't cha🔥❤️‍🔥"
+},
+{
+  "link": "https://youtu.be/m2mz04V3DS8",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-11",
+  "duration": "00:00:37",
+  "thumbnail": "https://i.ytimg.com/vi/m2mz04V3DS8/maxresdefault.jpg",
+  "alt": "𝘠𝘰𝘶 𝘬𝘯𝘰𝘸 𝘐’𝘭𝘭 𝘢𝘭𝘸𝘢𝘺𝘴 𝘣𝘦 𝘸𝘪𝘵𝘩 𝘺𝘰𝘶, 𝘣𝘢𝘣𝘺 🐶",
+  "title": "𝘠𝘰𝘶 𝘬𝘯𝘰𝘸 𝘐’𝘭𝘭 𝘢𝘭𝘸𝘢𝘺𝘴 𝘣𝘦 𝘸𝘪𝘵𝘩 𝘺𝘰𝘶, 𝘣𝘢𝘣𝘺 🐶"
+},
+{
+  "link": "https://youtu.be/J56JgWDO4UA",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-11",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/J56JgWDO4UA/maxresdefault.jpg",
+  "alt": "[#우기 직캠] With 우기 from @official_i_dle, #10CM - 사랑은 여섯줄 cover",
+  "title": "[#우기 직캠] With 우기 from @official_i_dle, #10CM - 사랑은 여섯줄 cover"
+},
+{
+  "link": "https://youtu.be/w-vfGAJV0-M",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-11",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/w-vfGAJV0-M/maxresdefault.jpg",
+  "alt": "With #우기 from @official_i_dle, #10CM - 사랑은 여섯줄 cover",
+  "title": "With #우기 from @official_i_dle, #10CM - 사랑은 여섯줄 cover"
 }
 
 

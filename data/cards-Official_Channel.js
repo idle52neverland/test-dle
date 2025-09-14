@@ -9774,7 +9774,19 @@ const officialChannelCards = [
   "alt": "우기 (YUQI) '아프다' Intro Film",
   "title": "우기 (YUQI) '아프다' Intro Film",
   "subtag": "프로모션 | Comeback Promotion"
+},
+{
+  "link": "https://youtu.be/OjmhNG-qNeo",
+  "category": "Official_Channel",
+  "member": "우기",
+  "date": "2025-09-11",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/OjmhNG-qNeo/maxresdefault.jpg",
+  "alt": "우기 (YUQI) 'M.O.' M/V Teaser 1",
+  "title": "우기 (YUQI) 'M.O.' M/V Teaser 1",
+  "subtag": "프로모션 | Comeback Promotion"
 }
+
 
 
 ];

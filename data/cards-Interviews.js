@@ -2009,7 +2009,18 @@ const interviewsCards = [
   "thumbnail": "https://i.ytimg.com/vi/eIAfeOt9Lzw/maxresdefault.jpg",
   "alt": "MIYEON of (G)I-DLE Answers 21 Questions | MIYEON x Mindset",
   "title": "MIYEON of (G)I-DLE Answers 21 Questions | MIYEON x Mindset"
+},
+{
+  "link": "https://youtu.be/WXyVf150quQ",
+  "category": "Interviews",
+  "member": "민니",
+  "date": "2025-09-11",
+  "duration": "00:08:34",
+  "thumbnail": "https://i.ytimg.com/vi/WXyVf150quQ/maxresdefault.jpg",
+  "alt": "[ENG/THAI] 민니의 애장품을 보는 순간 지갑 털림⚠️  라부부&크라이베이비 풀소유 민니! 권력있다❤️ by W Korea",
+  "title": "[ENG/THAI] 민니의 애장품을 보는 순간 지갑 털림⚠️  라부부&크라이베이비 풀소유 민니! 권력있다❤️ by W Korea"
 }
+
 
 
 
