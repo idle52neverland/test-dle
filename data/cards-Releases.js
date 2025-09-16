@@ -1474,6 +1474,17 @@ const releasesCards = [
   "alt": "우기 (YUQI) '아프다' Official Music Video",
   "title": "우기 (YUQI) '아프다' Official Music Video",
   "subtag": "MV"
+},
+{
+  "link": "https://youtu.be/nZFH-gZa9R4",
+  "category": "Releases",
+  "member": "우기",
+  "date": "2025-09-16",
+  "duration": "00:03:11",
+  "thumbnail": "https://i.ytimg.com/vi/nZFH-gZa9R4/maxresdefault.jpg",
+  "alt": "우기 (YUQI) 'M.O.' Official Music Video",
+  "title": "우기 (YUQI) 'M.O.' Official Music Video",
+  "subtag": "MV"
 }
 
 ];

@@ -3055,6 +3055,16 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/Wxa-2Z-B4KI/maxresdefault.jpg",
   "alt": "민니 COVER - 1001가지의 소원 (일천령일개원망 一千零一个愿望) [중국어 번역] ",
   "title": "민니 COVER - 1001가지의 소원 (일천령일개원망 一千零一个愿望) [중국어 번역] "
+},
+{
+  "link": "https://youtu.be/_AveO5Use9o",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-09-16",
+  "duration": "00:03:14",
+  "thumbnail": "https://i.ytimg.com/vi/_AveO5Use9o/maxresdefault.jpg",
+  "alt": "YUQI (우기) 'M.O.' (4K) | STUDIO CHOOM ORIGINAL",
+  "title": "YUQI (우기) 'M.O.' (4K) | STUDIO CHOOM ORIGINAL"
 }
 
 ];

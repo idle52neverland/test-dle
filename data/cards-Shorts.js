@@ -14553,6 +14553,36 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/w-vfGAJV0-M/maxresdefault.jpg",
   "alt": "With #우기 from @official_i_dle, #10CM - 사랑은 여섯줄 cover",
   "title": "With #우기 from @official_i_dle, #10CM - 사랑은 여섯줄 cover"
+},
+{
+  "link": "https://youtu.be/coIkqZrKVoE",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-10",
+  "duration": "00:00:39",
+  "thumbnail": "https://i.ytimg.com/vi/coIkqZrKVoE/maxresdefault.jpg",
+  "alt": "아프긴 하지만 괜찮아 너니까",
+  "title": "아프긴 하지만 괜찮아 너니까"
+},
+{
+  "link": "https://youtu.be/zGUYujT5xg8",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-10",
+  "duration": "00:00:38",
+  "thumbnail": "https://i.ytimg.com/vi/zGUYujT5xg8/maxresdefault.jpg",
+  "alt": "우기(YUQI) - '아프다' | 𝗖𝗼𝘃𝗲𝗿𝗲𝗱 𝗯𝘆 𝗦𝗢𝗥𝗔𝗡  @official_i_dle",
+  "title": "우기(YUQI) - '아프다' | 𝗖𝗼𝘃𝗲𝗿𝗲𝗱 𝗯𝘆 𝗦𝗢𝗥𝗔𝗡  @official_i_dle"
+},
+{
+  "link": "https://youtu.be/AehmGMEx2Rg",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-16",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/AehmGMEx2Rg/maxresdefault.jpg",
+  "alt": "what’s your M.O.?",
+  "title": "what’s your M.O.?"
 }
 
 

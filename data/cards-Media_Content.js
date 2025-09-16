@@ -14545,6 +14545,26 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/_8HwU09O6ys/maxresdefault.jpg",
   "alt": "WHAT A TRIP EP6 陳柏霖 黃宣 真的不會尋寶 女神 i-dle Shuhua 舒華降臨紐西蘭 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液",
   "title": "WHAT A TRIP EP6 陳柏霖 黃宣 真的不會尋寶 女神 i-dle Shuhua 舒華降臨紐西蘭 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液"
+},
+{
+  "link": "https://youtu.be/ds-QYCwGmPU",
+  "category": "Media_Content",
+  "member": "미연, 우기",
+  "date": "2025-09-16",
+  "duration": "00:29:41",
+  "thumbnail": "https://i.ytimg.com/vi/ds-QYCwGmPU/maxresdefault.jpg",
+  "alt": "[미연.zip📁] 🔥케미 폭발🔥 우리애기 우기가 힙합도 잘 하네요🎤 | 미연이의 뮤트로 EP.6",
+  "title": "[미연.zip📁] 🔥케미 폭발🔥 우리애기 우기가 힙합도 잘 하네요🎤 | 미연이의 뮤트로 EP.6"
+},
+{
+  "link": "https://youtu.be/kdvoFX1mG8w",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-09-16",
+  "duration": "00:35:00",
+  "thumbnail": "https://i.ytimg.com/vi/kdvoFX1mG8w/maxresdefault.jpg",
+  "alt": "[SUB] 黃偉晉瘋狂投入K-idol挑戰! 高張力高刺激現場曝光｜鑑定師 Global EP.2 ｜i-dle 舒華 #감별사",
+  "title": "[SUB] 黃偉晉瘋狂投入K-idol挑戰! 高張力高刺激現場曝光｜鑑定師 Global EP.2 ｜i-dle 舒華 #감별사"
 }
 
 

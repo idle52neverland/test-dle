@@ -569,7 +569,18 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/nKnhXULqIoI/maxresdefault.jpg",
   "alt": "슈화 SKECHERS 팝업스토어 - 舒華帶逛SKECHERS快閃店 親授「舒式穿搭秘訣」",
   "title": "슈화 SKECHERS 팝업스토어 - 舒華帶逛SKECHERS快閃店 親授「舒式穿搭秘訣」"
+},
+{
+  "link": "https://youtu.be/yieTZE9Qt5s",
+  "category": "Etc",
+  "member": "민니",
+  "date": "2025-09-08",
+  "duration": "00:03:56",
+  "thumbnail": "https://i.ytimg.com/vi/yieTZE9Qt5s/maxresdefault.jpg",
+  "alt": "มินนี่ สมาชิกวง i-dle หนึ่งในผู้อุปการะของมูลนิธิศุภนิมิตฯ (월드비전)",
+  "title": "มินนี่ สมาชิกวง i-dle หนึ่งในผู้อุปการะของมูลนิธิศุภนิมิตฯ (월드비전)"
 }
+
 
 
 ];

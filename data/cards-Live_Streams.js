@@ -4596,6 +4596,16 @@ const liveStreamsCards = [
   "thumbnail": "https://i.ytimg.com/vi/jPKT9lzK89k/maxresdefault.jpg",
   "alt": "(ENG) 미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh",
   "title": "(ENG) 미연 인스타 라이브 (with 사토 타케루) | Miyeon IG Live with Takeru Satoh"
+},
+{
+  "link": "https://youtu.be/Ep-NIFx5WMo",
+  "category": "Live_Streams",
+  "member": "우기",
+  "date": "2025-09-16",
+  "duration": "01:11:21",
+  "thumbnail": "https://i.ytimg.com/vi/Ep-NIFx5WMo/maxresdefault.jpg",
+  "alt": "우기 (YUQI) 1st Single [Motivation] COMEBACK LIVE",
+  "title": "우기 (YUQI) 1st Single [Motivation] COMEBACK LIVE"
 }
 
 ];
