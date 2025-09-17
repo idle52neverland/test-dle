@@ -7470,17 +7470,6 @@ const broadcastStageCards = [
 },
 
 {
-  "link": "https://youtu.be/S02z8EzbkpA",
-  "category": "Broadcast_Stage",
-  "member": "아이들",
-  "date": "2023-05-18",
-  "duration": "00:07:09",
-  "thumbnail": "https://i.ytimg.com/vi/S02z8EzbkpA/maxresdefault.jpg",
-  "alt": "(G)I-DLE Performance at Golden Disc Awards 2023✨",
-  "title": "(G)I-DLE Performance at 2023✨ [골든디스크어워즈/Golden Disc Awards]"
-},
-
-{
   "link": "https://youtu.be/aXaU6ZFOLlk",
   "category": "Broadcast_Stage",
   "member": "아이들",
@@ -8048,8 +8037,8 @@ const broadcastStageCards = [
   "date": "2024-01-06",
   "duration": "00:21:06",
   "thumbnail": "https://i.ytimg.com/vi/cuG4UGCNCKQ/maxresdefault.jpg",
-  "alt": "𝗘𝘃𝗲𝗿𝘆 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗼𝗳 (𝗚)𝗜-𝗗𝗟𝗘 𝗮𝘁 𝗚𝗼𝗹𝗱𝗲𝗻 𝗗𝗶𝘀𝗰 𝗔𝘄𝗮𝗿𝗱𝘀 𝟮𝟬𝟭𝟵-𝟮𝟬𝟮𝟯😎 [골든디스크어워즈/Golden Disc Awards]",
-  "title": "𝗘𝘃𝗲𝗿𝘆 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗼𝗳 (𝗚)𝗜-𝗗𝗟𝗘 𝗮𝘁 𝗚𝗼𝗹𝗱𝗲𝗻 𝗗𝗶𝘀𝗰 𝗔𝘄𝗮𝗿𝗱𝘀 𝟮𝟬𝟭𝟵-𝟮𝟬𝟮𝟯😎 [골든디스크어워즈/Golden Disc Awards]"
+  "alt": "Every Performance of (G)I-DLE at Golden Disc Awards 2019-2023😎 [골든디스크어워즈/Golden Disc Awards]",
+  "title": "Every Performance of (G)I-DLE at Golden Disc Awards 2019-2023😎 [골든디스크어워즈/Golden Disc Awards]"
 },
 
 {
@@ -10533,6 +10522,5 @@ const broadcastStageCards = [
 
 
 ];
-
 
 window.broadcastStageCards = broadcastStageCards;
