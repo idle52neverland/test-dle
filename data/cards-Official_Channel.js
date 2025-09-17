@@ -9785,7 +9785,180 @@ const officialChannelCards = [
   "alt": "우기 (YUQI) 'M.O.' M/V Teaser 1",
   "title": "우기 (YUQI) 'M.O.' M/V Teaser 1",
   "subtag": "프로모션 | Comeback Promotion"
+},
+{
+  "link": "https://youtu.be/AdGKH1fjA1M",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2019-07-06",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/AdGKH1fjA1M/maxresdefault.jpg",
+  "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (SHUHUA)",
+  "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser (SHUHUA)",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+{
+  "link": "https://youtu.be/hWoAD89V5Kw",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2019-07-07",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/hWoAD89V5Kw/maxresdefault.jpg",
+  "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser",
+  "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser",
+  "subtag": "프로모션 | Comeback Promotion"
 }
+{
+  "link": "https://youtu.be/vUpyKv4BIqE",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2020-08-24",
+  "duration": "00:03:40",
+  "thumbnail": "https://i.ytimg.com/vi/vUpyKv4BIqE/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) MV Reaction",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) MV Reaction",
+  "subtag": "스페셜컨텐츠 | Special Content"
+},
+
+{
+  "link": "https://youtu.be/1hnA1WUO5PU",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2020-08-14",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/1hnA1WUO5PU/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SOOJIN)",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SOOJIN)",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://youtu.be/w77Is2MsynU",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2020-08-12",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/w77Is2MsynU/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (MIYEON)",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (MIYEON)",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://youtu.be/UZOIqpTtZdw",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2020-08-13",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/UZOIqpTtZdw/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (MINNIE)",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (MINNIE)",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://youtu.be/eogel7-rvrU",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2020-08-17",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/eogel7-rvrU/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SHUHUA)",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SHUHUA)",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://youtu.be/2Hg0VnufnEg",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2020-08-15",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/2Hg0VnufnEg/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SOYEON)",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (SOYEON)",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://youtu.be/cDJUEVXFXuI",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2020-08-16",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/cDJUEVXFXuI/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (YUQI)",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) M/V Teaser (YUQI)",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+{
+  "link": "https://youtu.be/2ofiMw4oJbA",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2020-08-18",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/2ofiMw4oJbA/maxresdefault.jpg",
+  "alt": "(G)I-DLE -「Oh my god」(Japanese ver.) M/V Teaser",
+  "title": "(G)I-DLE -「Oh my god」(Japanese ver.) M/V Teaser",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+{
+  "link": "https://youtu.be/lW-UGrLAYnM",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2019-06-27",
+  "duration": "00:01:31",
+  "thumbnail": "https://i.ytimg.com/vi/lW-UGrLAYnM/maxresdefault.jpg",
+  "alt": "(G)I-DLE - JAPAN 1st mini album「LATATA」Audio snippet",
+  "title": "(G)I-DLE - JAPAN 1st mini album「LATATA」Audio snippet",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://youtu.be/5mfsByNYsIc",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2020-08-11",
+  "duration": "00:01:57",
+  "thumbnail": "https://i.ytimg.com/vi/5mfsByNYsIc/maxresdefault.jpg",
+  "alt": "(G)I-DLE - JAPAN 2nd Mini Album「Oh my god」Audio snippet",
+  "title": "(G)I-DLE - JAPAN 2nd Mini Album「Oh my god」Audio snippet",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+{
+  "link": "https://youtu.be/NzXCI1CXqUY",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2020-07-29",
+  "duration": "00:01:10",
+  "thumbnail": "https://i.ytimg.com/vi/NzXCI1CXqUY/maxresdefault.jpg",
+  "alt": "(G)I-DLE - 「Oh my god」(Japanese ver.) Official Lyric Video",
+  "title": "(G)I-DLE - 「Oh my god」(Japanese ver.) Official Lyric Video",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+{
+  "link": "https://youtu.be/ydQ6tQNOzys",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2019-07-19",
+  "duration": "00:03:36",
+  "thumbnail": "https://i.ytimg.com/vi/ydQ6tQNOzys/maxresdefault.jpg",
+  "alt": "(G)I-DLE -「LATATA」(Japanese ver.) GUIDE VIDEO",
+  "title": "(G)I-DLE -「LATATA」(Japanese ver.) GUIDE VIDEO",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+{
+  "link": "https://youtu.be/UR-1Tgx1MeA",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2020-04-17",
+  "duration": "00:03:17",
+  "thumbnail": "https://i.ytimg.com/vi/UR-1Tgx1MeA/sddefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 'Oh my god (English Ver.)' Official Lyric Video",
+  "title": "(여자)아이들((G)I-DLE) - 'Oh my god (English Ver.)' Official Lyric Video",
+  "subtag": "응원법 | Fan Chant"
+}
+
 
 
 

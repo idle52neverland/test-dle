@@ -408,17 +408,6 @@ const mediaPerformanceCards = [
 },
 
 {
-  "link": "https://youtu.be/bju1EGowkKo",
-  "category": "Media_Performance",
-  "member": "아이들",
-  "date": "2019-08-19",
-  "duration": "00:03:36",
-  "thumbnail": "https://i.ytimg.com/vi/bju1EGowkKo/sddefault.jpg",
-  "alt": "KATE×(G)I-DLE ｜LATATA クラッシュダイヤモンドアイズver.",
-  "title": "KATE×(G)I-DLE ｜LATATA クラッシュダイヤモンドアイズver."
-},
-
-{
   "link": "https://youtu.be/BFr4BefEw7U",
   "category": "Media_Performance",
   "member": "아이들",

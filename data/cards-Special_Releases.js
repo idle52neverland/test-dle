@@ -131,7 +131,16 @@ const specialReleasesCards = [
   "alt": "[ Feat. MIYEON ] 행주(Hangzoo) X 미연 - 'Cart' Special Clip",
   "title": "[ Feat. MIYEON ] 행주(Hangzoo) X 미연 - 'Cart' Special Clip"
 },
-
+{
+  "link": "https://youtu.be/bju1EGowkKo",
+  "category": "Media_Performance",
+  "member": "아이들",
+  "date": "2019-08-19",
+  "duration": "00:03:36",
+  "thumbnail": "https://i.ytimg.com/vi/bju1EGowkKo/sddefault.jpg",
+  "alt": "KATE×(G)I-DLE ｜LATATA クラッシュダイヤモンドアイズver.",
+  "title": "KATE×(G)I-DLE ｜LATATA クラッシュダイヤモンドアイズver."
+},
 {
   "link": "https://youtu.be/-kVhMnKuk_A",
   "category": "Special_Releases",
