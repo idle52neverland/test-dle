@@ -14661,8 +14661,8 @@ const shortsCards = [
   "date": "2025-09-17",
   "duration": "00:00:19",
   "thumbnail": "https://i.ytimg.com/vi/w8p0qFgNHx0/maxresdefault.jpg",
-  "alt": 분금치 지하철 대첩 리벤지 #MO",
-  "title": 분금치 지하철 대첩 리벤지 #MO"
+  "alt": "분금치 지하철 대첩 리벤지 #MO",
+  "title": "분금치 지하철 대첩 리벤지 #MO"
 }
 
 
