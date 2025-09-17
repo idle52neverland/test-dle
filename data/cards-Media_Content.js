@@ -14565,6 +14565,16 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/kdvoFX1mG8w/maxresdefault.jpg",
   "alt": "[SUB] 黃偉晉瘋狂投入K-idol挑戰! 高張力高刺激現場曝光｜鑑定師 Global EP.2 ｜i-dle 舒華 #감별사",
   "title": "[SUB] 黃偉晉瘋狂投入K-idol挑戰! 高張力高刺激現場曝光｜鑑定師 Global EP.2 ｜i-dle 舒華 #감별사"
+},
+{
+  "link": "https://youtu.be/ns6v4DDkD34",
+  "category": "Media_Content",
+  "member": "우기",
+  "date": "2025-09-17",
+  "duration": "00:21:05",
+  "thumbnail": "https://i.ytimg.com/vi/ns6v4DDkD34/maxresdefault.jpg",
+  "alt": "오랜만이다 우기야. 이 정도는 소화할 수 있지? #기우쌤",
+  "title": "오랜만이다 우기야. 이 정도는 소화할 수 있지? #기우쌤"
 }
 
 

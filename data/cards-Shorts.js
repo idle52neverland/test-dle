@@ -14583,7 +14583,88 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/AehmGMEx2Rg/maxresdefault.jpg",
   "alt": "what’s your M.O.?",
   "title": "what’s your M.O.?"
+},
+{
+  "link": "https://youtu.be/nkgp2Nj3ZjI",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-17",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/nkgp2Nj3ZjI/maxresdefault.jpg",
+  "alt": "YUQI - M.O. (Color Code: 💜PURPLE💜) | #ColorPicked by YUQI",
+  "title": "YUQI - M.O. (Color Code: 💜PURPLE💜) | #ColorPicked by YUQI"
+},
+{
+  "link": "https://youtu.be/JN7C3jBqUHQ",
+  "category": "Shorts",
+  "member": "소연, 우기",
+  "date": "2025-09-17",
+  "duration": "00:00:30",
+  "thumbnail": "https://i.ytimg.com/vi/JN7C3jBqUHQ/maxresdefault.jpg",
+  "alt": "우연즈 이 조합 말해 M.O.해 🥰 with #소연 #SOYEON",
+  "title": "우연즈 이 조합 말해 M.O.해 🥰 with #소연 #SOYEON"
+},
+{
+  "link": "https://youtu.be/6AL5cuvl1p4",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-17",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/6AL5cuvl1p4/maxresdefault.jpg",
+  "alt": "Tell me, what’s your ⁉️ with #디에잇 #THE8 #세븐틴 #SEVENTEEN @pledis17",
+  "title": "Tell me, what’s your ⁉️ with #디에잇 #THE8 #세븐틴 #SEVENTEEN @pledis17"
+},
+{
+  "link": "https://youtu.be/AOH5aKnJ_-s",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-17",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/AOH5aKnJ_-s/maxresdefault.jpg",
+  "alt": "What's your M.O.?✨우기(YUQI) 'M.O.' 챌린지 / [이은지의 가요광장] I KBS 250917 방송",
+  "title": "What's your M.O.?✨우기(YUQI) 'M.O.' 챌린지 / [이은지의 가요광장] I KBS 250917 방송"
+},
+{
+  "link": "https://youtu.be/M2zaaWxv1HI",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-17",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/M2zaaWxv1HI/maxresdefault.jpg",
+  "alt": "Tell me, what’s your M.O.?",
+  "title": "Tell me, what’s your M.O.?"
+},
+{
+  "link": "https://youtu.be/wDpDqrAQKW8",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-17",
+  "duration": "00:00:30",
+  "thumbnail": "https://i.ytimg.com/vi/wDpDqrAQKW8/maxresdefault.jpg",
+  "alt": "Wait! What’s your 💙 ?? with #선미 #SUNMI @sunmi_official",
+  "title": "Wait! What’s your 💙 ?? with #선미 #SUNMI @sunmi_official"
+},
+{
+  "link": "https://youtu.be/bGCYPg1qgCo",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-17",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/bGCYPg1qgCo/maxresdefault.jpg",
+  "alt": "Don’t need a ring 💍 Need a cheque 💸 Need a friend 🩷",
+  "title": "Don’t need a ring 💍 Need a cheque 💸 Need a friend 🩷"
+},
+{
+  "link": "https://youtu.be/w8p0qFgNHx0",
+  "category": "Shorts",
+  "member": "미연, 우기",
+  "date": "2025-09-17",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/w8p0qFgNHx0/maxresdefault.jpg",
+  "alt": 분금치 지하철 대첩 리벤지 #MO",
+  "title": 분금치 지하철 대첩 리벤지 #MO"
 }
+
 
 
 

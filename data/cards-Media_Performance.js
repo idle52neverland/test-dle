@@ -3065,7 +3065,18 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/_AveO5Use9o/maxresdefault.jpg",
   "alt": "YUQI (우기) 'M.O.' (4K) | STUDIO CHOOM ORIGINAL",
   "title": "YUQI (우기) 'M.O.' (4K) | STUDIO CHOOM ORIGINAL"
+},
+{
+  "link": "https://youtu.be/pA2tFsWkKhA",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-09-17",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/pA2tFsWkKhA/maxresdefault.jpg",
+  "alt": "쿨룩 LIVE ▷ 우기(YUQI) 'M.O.' / [이은지의 가요광장] I KBS 250917 방송",
+  "title": "쿨룩 LIVE ▷ 우기(YUQI) 'M.O.' / [이은지의 가요광장] I KBS 250917 방송"
 }
+
 
 ];
 

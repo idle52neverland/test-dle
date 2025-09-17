@@ -1735,6 +1735,16 @@ const radioPodcastCards = [
   "thumbnail": "https://phinf.pstatic.net/tvcast/20220721_136/GXGvj_1658394173634RGqli_JPEG/50f9449b-08cb-11ed-b77c-48df379cca40_03.jpg?type=now720b",
   "alt": "아이들이랑 같이 쓰자 헤이즈 일기",
   "title": "아이들이랑 같이 쓰자 헤이즈 일기"
+},
+{
+  "link": "https://youtu.be/1S1jqjFiHoE",
+  "category": "Radio_Podcast",
+  "member": "우기",
+  "date": "2025-09-17",
+  "duration": "00:43:27",
+  "thumbnail": "https://i.ytimg.com/vi/1S1jqjFiHoE/maxresdefault.jpg",
+  "alt": "이은지의 가요광장｜누구세요 with 우기(아이들) KBS 250917(수) 방송",
+  "title": "이은지의 가요광장｜누구세요 with 우기(아이들) KBS 250917(수) 방송"
 }
 
 
