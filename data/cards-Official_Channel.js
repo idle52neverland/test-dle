@@ -9807,7 +9807,7 @@ const officialChannelCards = [
   "alt": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser",
   "title": "(G)I-DLE -「LATATA」(Japanese ver.) M/V Teaser",
   "subtag": "프로모션 | Comeback Promotion"
-}
+},
 {
   "link": "https://youtu.be/vUpyKv4BIqE",
   "category": "Official_Channel",
