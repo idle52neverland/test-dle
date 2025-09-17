@@ -3348,7 +3348,7 @@ const broadcastStageCards = [
   "link": "https://youtu.be/EMxUmV3ls8w",
   "category": "Broadcast_Stage",
   "member": "아이들",
-  "date": "2021-01-06",
+  "date": "2020-01-06",
   "duration": "00:04:59",
   "thumbnail": "https://i.ytimg.com/vi/EMxUmV3ls8w/maxresdefault.jpg",
   "alt": "[제34회 골든디스크] (여자)아이들 - ′Lion′♪ [골든디스크어워즈/Golden Disc Awards]",
@@ -10533,5 +10533,6 @@ const broadcastStageCards = [
 
 
 ];
+
 
 window.broadcastStageCards = broadcastStageCards;
