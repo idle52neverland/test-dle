@@ -3064,7 +3064,94 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/pA2tFsWkKhA/maxresdefault.jpg",
   "alt": "쿨룩 LIVE ▷ 우기(YUQI) 'M.O.' / [이은지의 가요광장] I KBS 250917 방송",
   "title": "쿨룩 LIVE ▷ 우기(YUQI) 'M.O.' / [이은지의 가요광장] I KBS 250917 방송"
+},
+{
+  "link": "https://youtu.be/_87ybg8LJWE",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-09-18",
+  "duration": "00:03:15",
+  "thumbnail": "https://i.ytimg.com/vi/_87ybg8LJWE/maxresdefault.jpg",
+  "alt": "[LIVE] 우기(YUQI) - M.O. | 웬디의 영스트리트",
+  "title": "[LIVE] 우기(YUQI) - M.O. | 웬디의 영스트리트"
+},
+
+{
+  "link": "https://youtu.be/A5oKADbjChE",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-09-19",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/A5oKADbjChE/maxresdefault.jpg",
+  "alt": "우기 (YUQI) -  M.O. [더 시즌즈-10CM의 쓰담쓰담]",
+  "title": "우기 (YUQI) -  M.O. [더 시즌즈-10CM의 쓰담쓰담]"
+},
+
+{
+  "link": "https://youtu.be/jyyM2wamHlM",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-09-19",
+  "duration": "00:03:18",
+  "thumbnail": "https://i.ytimg.com/vi/jyyM2wamHlM/maxresdefault.jpg",
+  "alt": "우기 (YUQI) - Always Remember Us This Way (영화 ＜스타 이즈 본＞ OST) [더 시즌즈-10CM의 쓰담쓰담]",
+  "title": "우기 (YUQI) - Always Remember Us This Way (영화 ＜스타 이즈 본＞ OST) [더 시즌즈-10CM의 쓰담쓰담]"
+},
+
+{
+  "link": "https://youtu.be/pK3Eja6Ecqc",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-09-19",
+  "duration": "00:02:52",
+  "thumbnail": "https://i.ytimg.com/vi/pK3Eja6Ecqc/maxresdefault.jpg",
+  "alt": "우기 (YUQI)X10CM - 사랑은 여섯줄 [더 시즌즈-10CM의 쓰담쓰담]",
+  "title": "우기 (YUQI)X10CM - 사랑은 여섯줄 [더 시즌즈-10CM의 쓰담쓰담]"
+},
+
+{
+  "link": "https://youtu.be/FnTOSFeMU5w",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-09-19",
+  "duration": "00:02:59",
+  "thumbnail": "https://i.ytimg.com/vi/FnTOSFeMU5w/maxresdefault.jpg",
+  "alt": "우기 (YUQI)X10CM - 아프다 [더 시즌즈-10CM의 쓰담쓰담]",
+  "title": "우기 (YUQI)X10CM - 아프다 [더 시즌즈-10CM의 쓰담쓰담]"
+},
+
+{
+  "link": "https://youtu.be/nDb-Nx9mZeQ",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-09-19",
+  "duration": "00:03:10",
+  "thumbnail": "https://i.ytimg.com/vi/nDb-Nx9mZeQ/maxresdefault.jpg",
+  "alt": "[가로] 우기 (YUQI) - M.O.  [더 시즌즈-10CM의 쓰담쓰담]",
+  "title": "[가로] 우기 (YUQI) - M.O.  [더 시즌즈-10CM의 쓰담쓰담]"
+},
+
+{
+  "link": "https://youtu.be/lO5VDK-SqN0",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-09-19",
+  "duration": "00:03:22",
+  "thumbnail": "https://i.ytimg.com/vi/lO5VDK-SqN0/maxresdefault.jpg",
+  "alt": "[세로] 우기 (YUQI) - Always Remember Us This Way (영화〈스타 이즈 본〉OST) [더 시즌즈-10CM의 쓰담쓰담]",
+  "title": "[세로] 우기 (YUQI) - Always Remember Us This Way (영화〈스타 이즈 본〉OST) [더 시즌즈-10CM의 쓰담쓰담]"
+},
+{
+  "link": "https://youtu.be/qkwljaSuvfQ",
+  "category": "Media_Performance",
+  "member": "미연, 우기",
+  "date": "2025-09-19",
+  "duration": "00:03:01",
+  "thumbnail": "https://i.ytimg.com/vi/qkwljaSuvfQ/maxresdefault.jpg",
+  "alt": "[뮤트로.zip] 미연X우기 - Treasure🎧",
+  "title": "[뮤트로.zip] 미연X우기 - Treasure🎧"
 }
+
 
 
 ];

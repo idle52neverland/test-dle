@@ -14487,16 +14487,6 @@ const mediaContentCards = [
   "title": "i-dle Shuhua 紐西蘭極限體驗 舒華玩瘋了 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液"
 },
 {
-  "link": "https://youtu.be/yieTZE9Qt5s",
-  "category": "Media_Content",
-  "member": "민니",
-  "date": "2025-09-08",
-  "duration": "00:03:56",
-  "thumbnail": "https://i.ytimg.com/vi/yieTZE9Qt5s/maxresdefault.jpg",
-  "alt": "World Vision | มินนี่ สมาชิกวง i-dle หนึ่งในผู้อุปการะของมูลนิธิศุภนิมิตฯ",
-  "title": "World Vision | มินนี่ สมาชิกวง i-dle หนึ่งในผู้อุปการะของมูลนิธิศุภนิมิตฯ"
-},
-{
   "link": "https://youtu.be/1jY6SxMNTqw",
   "category": "Media_Content",
   "member": "미연",
@@ -14575,6 +14565,26 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/ns6v4DDkD34/maxresdefault.jpg",
   "alt": "오랜만이다 우기야. 이 정도는 소화할 수 있지? #기우쌤",
   "title": "오랜만이다 우기야. 이 정도는 소화할 수 있지? #기우쌤"
+},
+{
+  "link": "https://youtu.be/aQYE-S71DX4",
+  "category": "Media_Content",
+  "member": "우기",
+  "date": "2025-09-19",
+  "duration": "00:34:55",
+  "thumbnail": "https://i.ytimg.com/vi/aQYE-S71DX4/maxresdefault.jpg",
+  "alt": "[sub] 확실히 기세가 다른 E 96%의 텐션 I 혤's club🍸 ep60 우기",
+  "title": "[sub] 확실히 기세가 다른 E 96%의 텐션 I 혤's club🍸 ep60 우기"
+},
+{
+  "link": "https://youtu.be/CEsOPtH1uFw",
+  "category": "Media_Content",
+  "member": "우기",
+  "date": "2025-09-19",
+  "duration": "00:24:30",
+  "thumbnail": "https://i.ytimg.com/vi/CEsOPtH1uFw/maxresdefault.jpg",
+  "alt": "[ENG] 우기랑 인생 첫 두리안 경험 | 조나단 조간산책 EP.09",
+  "title": "[ENG] 우기랑 인생 첫 두리안 경험 | 조나단 조간산책 EP.09"
 }
 
 

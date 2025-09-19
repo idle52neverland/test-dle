@@ -14565,16 +14565,6 @@ const shortsCards = [
   "title": "아프긴 하지만 괜찮아 너니까"
 },
 {
-  "link": "https://youtu.be/zGUYujT5xg8",
-  "category": "Shorts",
-  "member": "우기",
-  "date": "2025-09-10",
-  "duration": "00:00:38",
-  "thumbnail": "https://i.ytimg.com/vi/zGUYujT5xg8/maxresdefault.jpg",
-  "alt": "우기(YUQI) - '아프다' | 𝗖𝗼𝘃𝗲𝗿𝗲𝗱 𝗯𝘆 𝗦𝗢𝗥𝗔𝗡  @official_i_dle",
-  "title": "우기(YUQI) - '아프다' | 𝗖𝗼𝘃𝗲𝗿𝗲𝗱 𝗯𝘆 𝗦𝗢𝗥𝗔𝗡  @official_i_dle"
-},
-{
   "link": "https://youtu.be/AehmGMEx2Rg",
   "category": "Shorts",
   "member": "우기",
@@ -14663,6 +14653,101 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/w8p0qFgNHx0/maxresdefault.jpg",
   "alt": "분금치 지하철 대첩 리벤지 #MO",
   "title": "분금치 지하철 대첩 리벤지 #MO"
+},
+{
+  "link": "https://youtu.be/BCVvxtd62zo",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-18",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/BCVvxtd62zo/maxresdefault.jpg",
+  "alt": "기분 내키는 대로 Tell me, what’s your M.O.?💥with #정선혜 #SUNHYE #한지은 #JIEUN #영파씨 #YOUNGPOSSE @YOUNGPOSSEUP",
+  "title": "기분 내키는 대로 Tell me, what’s your M.O.?💥with #정선혜 #SUNHYE #한지은 #JIEUN #영파씨 #YOUNGPOSSE @YOUNGPOSSEUP"
+},
+{
+  "link": "https://youtu.be/BDyzqekv_pQ",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-18",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/BDyzqekv_pQ/maxresdefault.jpg",
+  "alt": "Tell me, what’s your PARADISE ? 🏝️ with #도영 #DOYOUNG #트레저 #TREASURE @TREASURE",
+  "title": "Tell me, what’s your PARADISE ? 🏝️ with #도영 #DOYOUNG #트레저 #TREASURE @TREASURE"
+},
+{
+  "link": "https://youtu.be/PHt-IU-lX5U",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-18",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/PHt-IU-lX5U/maxresdefault.jpg",
+  "alt": "🚨 what’s your M.O. ? with #류진 #RYUJIN #있지 #ITZY @ITZY",
+  "title": "🚨 what’s your M.O. ? with #류진 #RYUJIN #있지 #ITZY @ITZY"
+},
+{
+  "link": "https://youtu.be/6MgvP19s-GU",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-18",
+  "duration": "00:00:10",
+  "thumbnail": "https://i.ytimg.com/vi/6MgvP19s-GU/maxresdefault.jpg",
+  "alt": "M.O.두 집중 ❗ 우기 엠카 퇴근합니다 ❤️",
+  "title": "M.O.두 집중 ❗ 우기 엠카 퇴근합니다 ❤️"
+},
+
+{
+  "link": "https://youtu.be/RGGS68BDPzs",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-19",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/RGGS68BDPzs/maxresdefault.jpg",
+  "alt": "Tell me, what’s your M.O.? 🤟 #허니제이 #HoneyJ @__honey.j__",
+  "title": "Tell me, what’s your M.O.? 🤟 #허니제이 #HoneyJ @__honey.j__"
+},
+
+{
+  "link": "https://youtu.be/EDNDnsobmKs",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-19",
+  "duration": "00:00:36",
+  "thumbnail": "https://i.ytimg.com/vi/EDNDnsobmKs/maxresdefault.jpg",
+  "alt": "Kick you out the back door, gotta leave",
+  "title": "Kick you out the back door, gotta leave"
+},
+
+{
+  "link": "https://youtu.be/pR9sXRwTx_M",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-19",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/pR9sXRwTx_M/maxresdefault.jpg",
+  "alt": "Tell me, what’s your M.O.? 🧊 #천러 #CHENLE #엔시티드림 #NCTDREAM @NCTDREAM",
+  "title": "Tell me, what’s your M.O.? 🧊 #천러 #CHENLE #엔시티드림 #NCTDREAM @NCTDREAM"
+},
+
+{
+  "link": "https://youtu.be/tpf8rOvJOwA",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-19",
+  "duration": "00:00:43",
+  "thumbnail": "https://i.ytimg.com/vi/tpf8rOvJOwA/maxresdefault.jpg",
+  "alt": "'M.O.' M/V Behind",
+  "title": "'M.O.' M/V Behind"
+},
+
+{
+  "link": "https://youtu.be/TB4BfngbRX0",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-19",
+  "duration": "00:00:08",
+  "thumbnail": "https://i.ytimg.com/vi/TB4BfngbRX0/maxresdefault.jpg",
+  "alt": "M.O.두 집중 🩷 우기 뮤뱅 퇴근합니다 🐰",
+  "title": "M.O.두 집중 🩷 우기 뮤뱅 퇴근합니다 🐰"
 }
 
 

@@ -9957,6 +9957,17 @@ const officialChannelCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'Oh my god (English Ver.)' Official Lyric Video",
   "title": "(여자)아이들((G)I-DLE) - 'Oh my god (English Ver.)' Official Lyric Video",
   "subtag": "응원법 | Fan Chant"
+},
+{
+  "link": "https://youtu.be/xsXjIs0xP1c",
+  "category": "Official_Channel",
+  "member": "우기",
+  "date": "2025-09-17",
+  "duration": "00:03:03",
+  "thumbnail": "https://i.ytimg.com/vi/xsXjIs0xP1c/maxresdefault.jpg",
+  "alt": "우기 (YUQI) 'M.O.' Official Visualizer",
+  "title": "우기 (YUQI) 'M.O.' Official Visualizer",
+  "subtag": "기타 | Etc"
 }
 
 
