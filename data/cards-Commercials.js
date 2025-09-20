@@ -933,6 +933,232 @@ const commercialsCards = [
   "thumbnail": "https://i.ytimg.com/vi/j-Yf2Z7l6UE/maxresdefault.jpg",
   "alt": "(심장 단디 부여잡고 보세요💗) 아이들 레전드 화보... 이게 가능해..? 🥵💫#idle  #아이들 #앳스타일 #atstyle #화보 #비하인드 #미공개",
   "title": "(심장 단디 부여잡고 보세요💗) 아이들 레전드 화보... 이게 가능해..? 🥵💫#idle  #아이들 #앳스타일 #atstyle #화보 #비하인드 #미공개"
+},
+
+{
+  "link": "https://youtu.be/Q9QKSIBtAlo",
+  "category": "Commercials",
+  "member": "미연",
+  "date": "2019-03-19",
+  "duration": "00:01:13",
+  "thumbnail": "https://i.ytimg.com/vi/Q9QKSIBtAlo/maxresdefault.jpg",
+  "alt": "KAJA x (G)I-DLE  Interview Series: Miyeon",
+  "title": "KAJA x (G)I-DLE  Interview Series: Miyeon"
+},
+
+{
+  "link": "https://youtu.be/VIFlJEMtCYg",
+  "category": "Commercials",
+  "member": "민니",
+  "date": "2019-03-19",
+  "duration": "00:01:04",
+  "thumbnail": "https://i.ytimg.com/vi/VIFlJEMtCYg/maxresdefault.jpg",
+  "alt": "KAJA x (G)I-DLE Interview Series: Minnie",
+  "title": "KAJA x (G)I-DLE Interview Series: Minnie"
+},
+
+{
+  "link": "https://youtu.be/RfV7zafG6ag",
+  "category": "Commercials",
+  "member": "소연",
+  "date": "2019-03-19",
+  "duration": "00:01:07",
+  "thumbnail": "https://i.ytimg.com/vi/RfV7zafG6ag/maxresdefault.jpg",
+  "alt": "KAJA x (G)I-DLE Interview Series: Soyeon",
+  "title": "KAJA x (G)I-DLE Interview Series: Soyeon"
+},
+
+{
+  "link": "https://youtu.be/dUJb3F9Y8yA",
+  "category": "Commercials",
+  "member": "우기",
+  "date": "2019-03-19",
+  "duration": "00:01:11",
+  "thumbnail": "https://i.ytimg.com/vi/dUJb3F9Y8yA/maxresdefault.jpg",
+  "alt": "KAJA x (G)I-DLE Interview Series: Yuqi",
+  "title": "KAJA x (G)I-DLE Interview Series: Yuqi"
+},
+
+{
+  "link": "https://youtu.be/Ijcjg2ZSiv8",
+  "category": "Commercials",
+  "member": "슈화",
+  "date": "2019-03-19",
+  "duration": "00:01:05",
+  "thumbnail": "https://i.ytimg.com/vi/Ijcjg2ZSiv8/maxresdefault.jpg",
+  "alt": "KAJA x (G)I-DLE Interview Series: Shuhua",
+  "title": "KAJA x (G)I-DLE Interview Series: Shuhua"
+},
+
+{
+  "link": "https://youtu.be/xqapGugtAg8",
+  "category": "Commercials",
+  "member": "미연",
+  "date": "2022-06-27",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/xqapGugtAg8/maxresdefault.jpg",
+  "alt": 하루를 가볍게 딥트 3일  ㅣ 마실수록 가벼워지는 비밀 딥트 3일 (여자 아이들 미연 15)",
+  "title": 하루를 가볍게 딥트 3일  ㅣ 마실수록 가벼워지는 비밀 딥트 3일 (여자 아이들 미연 15)"
+},
+{
+  "link": "https://youtu.be/QRjN1KdvYvM",
+  "category": "Commercials",
+  "member": "미연",
+  "date": "2022-08-26",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/QRjN1KdvYvM/maxresdefault.jpg",
+  "alt": "[에스쁘아 X 미연] 얇지만 모공까지 완벽한 커버. 극강 커버 #비벨벳 ✨",
+  "title": "[에스쁘아 X 미연] 얇지만 모공까지 완벽한 커버. 극강 커버 #비벨벳 ✨"
+},
+{
+  "link": "https://youtu.be/cLqIxOMNI5o",
+  "category": "Commercials",
+  "member": "민니",
+  "date": "2022-07-08",
+  "duration": "00:00:58",
+  "thumbnail": "https://i.ytimg.com/vi/cLqIxOMNI5o/maxresdefault.jpg",
+  "alt": "ห้ามพลาด! เว็บตูน 3 เรื่องดังที่ MINNIE อ่าน",
+  "title": "ห้ามพลาด! เว็บตูน 3 เรื่องดังที่ MINNIE อ่าน"
+},
+{
+  "link": "https://youtu.be/o3ZVLZDF8kg",
+  "category": "Commercials",
+  "member": "민니",
+  "date": "2023-05-16",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/o3ZVLZDF8kg/maxresdefault.jpg",
+  "alt": "3CE 블러매트립스틱 x 민니 | 3CE STYLENANDA",
+  "title": "3CE 블러매트립스틱 x 민니 | 3CE STYLENANDA"
+},
+{
+  "link": "https://youtu.be/tzGocgdN1sc",
+  "category": "Commercials",
+  "member": "우기",
+  "date": "2023-11-16",
+  "duration": "00:01:23",
+  "thumbnail": "https://i.ytimg.com/vi/tzGocgdN1sc/sddefault.jpg",
+  "alt": "[세리박스] (여자)아이들 '우기'가 야식 먹고 난 후 꼭 챙기는 '이것'ㅣ세리번 나이트🌙",
+  "title": "[세리박스] (여자)아이들 '우기'가 야식 먹고 난 후 꼭 챙기는 '이것'ㅣ세리번 나이트🌙"
+},
+{
+  "link": "https://youtu.be/Gu6nBgNzuXw",
+  "category": "Commercials",
+  "member": "미연",
+  "date": "2023-11-02",
+  "duration": "00:00:14",
+  "thumbnail": "https://i.ytimg.com/vi/Gu6nBgNzuXw/sddefault.jpg",
+  "alt": "Winter 2023 Starring Mi Yeon | Featuring Diamond Chain Top Handle & Myos 80  | Jimmy Choo",
+  "title": "Winter 2023 Starring Mi Yeon | Featuring Diamond Chain Top Handle & Myos 80  | Jimmy Choo"
+},
+{
+  "link": "https://youtu.be/lDiwEueRysA",
+  "category": "Commercials",
+  "member": "슈화",
+  "date": "2024-09-09",
+  "duration": "00:00:42",
+  "thumbnail": "https://i.ytimg.com/vi/lDiwEueRysA/maxresdefault.jpg",
+  "alt": "24FW COVERNAT WOMAN with SHUHUA l FALL l MAIN",
+  "title": "24FW COVERNAT WOMAN with SHUHUA l FALL l MAIN"
+},
+{
+  "link": "https://youtu.be/3TBbAxz240c",
+  "category": "Commercials",
+  "member": "아이들",
+  "date": "2024-02-14",
+  "duration": "00:01:39",
+  "thumbnail": "https://i.ytimg.com/vi/3TBbAxz240c/maxresdefault.jpg",
+  "alt": "프랭크버거 x (여자)아이들 지면 촬영 현장 + 인터뷰",
+  "title": "프랭크버거 x (여자)아이들 지면 촬영 현장 + 인터뷰"
+},
+{
+  "link": "https://youtu.be/_NGz69VzL8U",
+  "category": "Commercials",
+  "member": "아이들",
+  "date": "2024-11-21",
+  "duration": "00:00:45",
+  "thumbnail": "https://i.ytimg.com/vi/_NGz69VzL8U/sddefault.jpg",
+  "alt": "OPPO Reno13 Series x Reno Girl • Female singer Song Yuqi",
+  "title": "OPPO Reno13 Series x Reno Girl • Female singer Song Yuqi"
+},
+{
+  "link": "https://youtu.be/-GGKkNnfArY",
+  "category": "Commercials",
+  "member": "우기",
+  "date": "2024-11-04",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/-GGKkNnfArY/maxresdefault.jpg",
+  "alt": "Yuqi for Tory Burch Holiday 2024",
+  "title": "Yuqi for Tory Burch Holiday 2024"
+},
+{
+  "link": "https://youtu.be/AIi_yCbBQ1I",
+  "category": "Commercials",
+  "member": "우기",
+  "date": "2024-11-25",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/AIi_yCbBQ1I/maxresdefault.jpg",
+  "alt": "[젝시믹스] XEXYMIX x (G)I-DLE YUQI_NEW CAMPAIGN",
+  "title": "[젝시믹스] XEXYMIX x (G)I-DLE YUQI_NEW CAMPAIGN"
+},
+{
+  "link": "https://youtu.be/4BEUNo2E6wk",
+  "category": "Commercials",
+  "member": "미연",
+  "date": "2024-03-19",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/4BEUNo2E6wk/maxresdefault.jpg",
+  "alt": "[셀퓨전씨x미연] 해에게서 답을 찾는 사람들, 햇빛연구소 셀퓨전씨 (full ver)",
+  "title": "[셀퓨전씨x미연] 해에게서 답을 찾는 사람들, 햇빛연구소 셀퓨전씨 (full ver)"
+},
+{
+  "link": "https://youtu.be/tIjVCs5jg3A",
+  "category": "Commercials",
+  "member": "미연",
+  "date": "2024-01-18",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/tIjVCs5jg3A/maxresdefault.jpg",
+  "alt": "Spring 2024 starring Mi Yeon | Jimmy Choo",
+  "title": "Spring 2024 starring Mi Yeon | Jimmy Choo"
+},
+{
+  "link": "https://youtu.be/P2xZvICVXWQ",
+  "category": "Commercials",
+  "member": "민니",
+  "date": "2024-09-04",
+  "duration": "00:00:57",
+  "thumbnail": "https://i.ytimg.com/vi/P2xZvICVXWQ/maxresdefault.jpg",
+  "alt": "ANOETIC 24 Fall-Winter with MINNIE",
+  "title": "ANOETIC 24 Fall-Winter with MINNIE"
+},
+{
+  "link": "https://youtu.be/JcqQllx-9yE",
+  "category": "Commercials",
+  "member": "민니",
+  "date": "2024-06-18",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/JcqQllx-9yE/maxresdefault.jpg",
+  "alt": "[MEDIHEAL × MINNIE] MEDIHEAL's NEW GLOBAL MUSE MINNIE #shorts",
+  "title": "[MEDIHEAL × MINNIE] MEDIHEAL's NEW GLOBAL MUSE MINNIE #shorts"
+},
+{
+  "link": "https://youtu.be/2I1ILw710NM",
+  "category": "Commercials",
+  "member": "민니",
+  "date": "2024-10-28",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/2I1ILw710NM/maxresdefault.jpg",
+  "alt": "NEW LAUNCH! CASHMERE HUG LIPSTICK 💋캐시미어 허그 립스틱💄 | 3CE STYLENANDA",
+  "title": "NEW LAUNCH! CASHMERE HUG LIPSTICK 💋캐시미어 허그 립스틱💄 | 3CE STYLENANDA"
+},
+{
+  "link": "https://youtu.be/DjGs7ZlKEeU",
+  "category": "Commercials",
+  "member": "미연",
+  "date": "2025-04-29",
+  "duration": "00:00:40",
+  "thumbnail": "https://i.ytimg.com/vi/DjGs7ZlKEeU/maxresdefault.jpg",
+  "alt": "나의 하루를 원씽하다, M.Y. ONE THING",
+  "title": "나의 하루를 원씽하다, M.Y. ONE THING"
 }
 
 
