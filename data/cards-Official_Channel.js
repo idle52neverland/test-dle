@@ -9968,6 +9968,28 @@ const officialChannelCards = [
   "alt": "우기 (YUQI) 'M.O.' Official Visualizer",
   "title": "우기 (YUQI) 'M.O.' Official Visualizer",
   "subtag": "기타 | Etc"
+},
+{
+  "link": "https://youtu.be/JljWWp3I55g",
+  "category": "Official_Channel",
+  "member": "우기",
+  "date": "2025-09-16",
+  "duration": "00:04:40",
+  "thumbnail": "https://i.ytimg.com/vi/JljWWp3I55g/maxresdefault.jpg",
+  "alt": "우기 (YUQI) 'M.O.' 응원법ㅣSUB",
+  "title": "우기 (YUQI) 'M.O.' 응원법ㅣSUB",
+  "subtag": "응원법 | Fan Chant"
+},
+{
+  "link": "https://youtu.be/8Mz4MHDGwrM",
+  "category": "Official_Channel",
+  "member": "우기",
+  "date": "2025-09-18",
+  "duration": "00:12:19",
+  "thumbnail": "https://i.ytimg.com/vi/8Mz4MHDGwrM/maxresdefault.jpg",
+  "alt": "[Motivation] 포토북 촬영 비하인드 [SONG TALK TALK] #8 | 우기 (YUQI)ㅣSUB",
+  "title": "[Motivation] 포토북 촬영 비하인드 [SONG TALK TALK] #8 | 우기 (YUQI)ㅣSUB",
+  "subtag": "아이톡 | I-TALK"
 }
 
 
