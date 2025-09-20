@@ -997,8 +997,8 @@ const commercialsCards = [
   "date": "2022-06-27",
   "duration": "00:00:16",
   "thumbnail": "https://i.ytimg.com/vi/xqapGugtAg8/maxresdefault.jpg",
-  "alt": 하루를 가볍게 딥트 3일  ㅣ 마실수록 가벼워지는 비밀 딥트 3일 (여자 아이들 미연 15)",
-  "title": 하루를 가볍게 딥트 3일  ㅣ 마실수록 가벼워지는 비밀 딥트 3일 (여자 아이들 미연 15)"
+  "alt": "하루를 가볍게 딥트 3일  ㅣ 마실수록 가벼워지는 비밀 딥트 3일 (여자 아이들 미연 15)",
+  "title": "하루를 가볍게 딥트 3일  ㅣ 마실수록 가벼워지는 비밀 딥트 3일 (여자 아이들 미연 15)"
 },
 {
   "link": "https://youtu.be/QRjN1KdvYvM",
