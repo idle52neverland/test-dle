@@ -9959,16 +9959,16 @@ const officialChannelCards = [
   "subtag": "응원법 | Fan Chant"
 },
 {
-  "link": "https://youtu.be/cnR4U02gPZ0",
+  "link": "https://youtu.be/xsXjIs0xP1c",
   "category": "Official_Channel",
   "member": "우기",
-  "date": "2025-09-15",
-  "duration": "00:00:14",
-  "thumbnail": "https://i.ytimg.com/vi/cnR4U02gPZ0/maxresdefault.jpg",
-  "alt": "우기 (YUQI) 'M.O.' M/V Teaser 2",
-  "title": "우기 (YUQI) 'M.O.' M/V Teaser 2",
-  "subtag": "프로모션 | Comeback Promotion"
-}
+  "date": "2025-09-17",
+  "duration": "00:03:03",
+  "thumbnail": "https://i.ytimg.com/vi/xsXjIs0xP1c/maxresdefault.jpg",
+  "alt": "우기 (YUQI) 'M.O.' Official Visualizer",
+  "title": "우기 (YUQI) 'M.O.' Official Visualizer",
+  "subtag": "기타 | Etc"
+},
 {
   "link": "https://youtu.be/JljWWp3I55g",
   "category": "Official_Channel",
@@ -9980,18 +9980,6 @@ const officialChannelCards = [
   "title": "우기 (YUQI) 'M.O.' 응원법ㅣSUB",
   "subtag": "응원법 | Fan Chant"
 },
-{
-  "link": "https://youtu.be/xsXjIs0xP1c",
-  "category": "Official_Channel",
-  "member": "우기",
-  "date": "2025-09-17",
-  "duration": "00:03:03",
-  "thumbnail": "https://i.ytimg.com/vi/xsXjIs0xP1c/maxresdefault.jpg",
-  "alt": "우기 (YUQI) 'M.O.' Official Visualizer",
-  "title": "우기 (YUQI) 'M.O.' Official Visualizer",
-  "subtag": "기타 | Etc"
-},
-
 {
   "link": "https://youtu.be/8Mz4MHDGwrM",
   "category": "Official_Channel",
@@ -10011,8 +9999,7 @@ const officialChannelCards = [
   "duration": "00:09:52",
   "thumbnail": "https://i.ytimg.com/vi/azRBA3xIodE/maxresdefault.jpg",
   "alt": "'M.O.' M/V 촬영 비하인드 [SONG TALK TALK] #9 | 우기 (YUQI)ㅣSUB",
-  "title": "'M.O.' M/V 촬영 비하인드 [SONG TALK TALK] #9 | 우기 (YUQI)ㅣSUB",
-  "subtag": "아이톡 | I-TALK"
+  "title": "'M.O.' M/V 촬영 비하인드 [SONG TALK TALK] #9 | 우기 (YUQI)ㅣSUB"
 },
 {
   "link": "https://youtu.be/FeAHoZlcX_c",
@@ -10022,8 +10009,7 @@ const officialChannelCards = [
   "duration": "00:03:09",
   "thumbnail": "https://i.ytimg.com/vi/FeAHoZlcX_c/maxresdefault.jpg",
   "alt": "우기 (YUQI) 'M.O.' Choreography Practice Video",
-  "title": "우기 (YUQI) 'M.O.' Choreography Practice Video",
-  "subtag": "안무연습 | Choreography Practice Video"
+  "title": "우기 (YUQI) 'M.O.' Choreography Practice Video"
 }
 
 
