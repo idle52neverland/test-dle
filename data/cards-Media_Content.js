@@ -14585,6 +14585,36 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/CEsOPtH1uFw/maxresdefault.jpg",
   "alt": "[ENG] 우기랑 인생 첫 두리안 경험 | 조나단 조간산책 EP.09",
   "title": "[ENG] 우기랑 인생 첫 두리안 경험 | 조나단 조간산책 EP.09"
+},
+{
+  "link": "https://youtu.be/8-UhcE4YCiQ",
+  "category": "Media_Content",
+  "member": "우기",
+  "date": "2025-09-21",
+  "duration": "00:29:47",
+  "thumbnail": "https://i.ytimg.com/vi/8-UhcE4YCiQ/maxresdefault.jpg",
+  "alt": "i-dle 우기 '우 귀인 납시오' #순간뽀짝세상에이런아이돌이",
+  "title": "i-dle 우기 '우 귀인 납시오' #순간뽀짝세상에이런아이돌이"
+},
+{
+  "link": "https://youtu.be/5ZPbsPJakd8",
+  "category": "Media_Content",
+  "member": "우기",
+  "date": "2025-09-21",
+  "duration": "00:14:48",
+  "thumbnail": "https://i.ytimg.com/vi/5ZPbsPJakd8/maxresdefault.jpg",
+  "alt": "더시즌즈 - 아이들 ‘귀여움’ 담당 우기가 힙합 여전사 되어 돌아왔다🤟🏻 우기의 첫 솔로앨범#YUQI #M.O.",
+  "title": "더시즌즈 - 아이들 ‘귀여움’ 담당 우기가 힙합 여전사 되어 돌아왔다🤟🏻 우기의 첫 솔로앨범#YUQI #M.O."
+},
+{
+  "link": "https://youtu.be/gn-lq4o_pKk",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-09-23",
+  "duration": "00:26:53",
+  "thumbnail": "https://i.ytimg.com/vi/gn-lq4o_pKk/maxresdefault.jpg",
+  "alt": "[SUB]  時隔20年回歸的我們的重組偶像, Energy 鑑定師 Global EP.3 | i-dle 舒華 #감별사",
+  "title": "[SUB]  時隔20年回歸的我們的重組偶像, Energy 鑑定師 Global EP.3 | i-dle 舒華 #감별사"
 }
 
 

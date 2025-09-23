@@ -2019,6 +2019,16 @@ const interviewsCards = [
   "thumbnail": "https://i.ytimg.com/vi/WXyVf150quQ/maxresdefault.jpg",
   "alt": "[ENG/THAI] 민니의 애장품을 보는 순간 지갑 털림⚠️  라부부&크라이베이비 풀소유 민니! 권력있다❤️ by W Korea",
   "title": "[ENG/THAI] 민니의 애장품을 보는 순간 지갑 털림⚠️  라부부&크라이베이비 풀소유 민니! 권력있다❤️ by W Korea"
+},
+{
+  "link": "https://youtu.be/7rvlEFRKIGk",
+  "category": "Interviews",
+  "member": "소연",
+  "date": "2025-09-22",
+  "duration": "00:02:28",
+  "thumbnail": "https://i.ytimg.com/vi/7rvlEFRKIGk/maxresdefault.jpg",
+  "alt": "하고 싶은 거 다 해💥 소연이 소연답게 살아가는 방법 | ELLE KOREA",
+  "title": "하고 싶은 거 다 해💥 소연이 소연답게 살아가는 방법 | ELLE KOREA"
 }
 
 

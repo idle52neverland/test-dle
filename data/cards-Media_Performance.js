@@ -3150,6 +3150,57 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/qkwljaSuvfQ/maxresdefault.jpg",
   "alt": "[뮤트로.zip] 미연X우기 - Treasure🎧",
   "title": "[뮤트로.zip] 미연X우기 - Treasure🎧"
+},
+{
+  "link": "https://youtu.be/vWAmV5TkF4U",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-09-20",
+  "duration": "00:03:50",
+  "thumbnail": "https://i.ytimg.com/vi/vWAmV5TkF4U/maxresdefault.jpg",
+  "alt": "[4K] 우기(YUQI) “M.O.” Band LIVE | it's Live",
+  "title": "[4K] 우기(YUQI) “M.O.” Band LIVE | it's Live"
+},
+{
+  "link": "https://youtu.be/O3wqXHFfBfg",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-09-20",
+  "duration": "00:03:22",
+  "thumbnail": "https://i.ytimg.com/vi/O3wqXHFfBfg/maxresdefault.jpg",
+  "alt": "[릴레이댄스] 우기(YUQI) - M.O. (4K)",
+  "title": "[릴레이댄스] 우기(YUQI) - M.O. (4K)"
+},
+{
+  "link": "https://youtu.be/s3JJWoC7YyY",
+  "category": "Media_Performance",
+  "member": "아이들",
+  "date": "2025-09-20",
+  "duration": "00:26:48",
+  "thumbnail": "https://i.ytimg.com/vi/s3JJWoC7YyY/maxresdefault.jpg",
+  "alt": "MO두 주목❣️ 5명이니까 5배로 다양한 아이들의 솔로 무대 몰아보기💜 | i-dle Stage Compilation",
+  "title": "MO두 주목❣️ 5명이니까 5배로 다양한 아이들의 솔로 무대 몰아보기💜 | i-dle Stage Compilation"
+},
+
+{
+  "link": "https://youtu.be/7XMBhrDn3hk",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-09-23",
+  "duration": "00:03:26",
+  "thumbnail": "https://i.ytimg.com/vi/7XMBhrDn3hk/maxresdefault.jpg",
+  "alt": "[LIVE] 우기(YUQI) - 아프다 | 두시탈출 컬투쇼",
+  "title": "[LIVE] 우기(YUQI) - 아프다 | 두시탈출 컬투쇼"
+},
+{
+  "link": "https://youtu.be/mCSXaNPsJm8",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-09-23",
+  "duration": "00:29:32",
+  "thumbnail": "https://i.ytimg.com/vi/mCSXaNPsJm8/maxresdefault.jpg",
+  "alt": "미연 30분 메들리🎧 눈과 귀가 호강하는 뮤트로 playlist",
+  "title": "미연 30분 메들리🎧 눈과 귀가 호강하는 뮤트로 playlist"
 }
 
 

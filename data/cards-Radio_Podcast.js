@@ -1596,17 +1596,6 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://youtu.be/2PlqWZUTIJg",
-  "category": "Radio_Podcast",
-  "member": "아이들",
-  "date": "2025-02-21",
-  "duration": "01:07:37",
-  "thumbnail": "https://i.ytimg.com/vi/2PlqWZUTIJg/sddefault.jpg",
-  "alt": "이은지의 가요광장 with 이소정, 황가람 KBS (금) 방송",
-  "title": "이은지의 가요광장 with 이소정, 황가람 KBS (금) 방송"
-},
-
-{
   "link": "https://youtu.be/ISsi7sLXI8g",
   "category": "Radio_Podcast",
   "member": "아이들",
@@ -1755,7 +1744,18 @@ const radioPodcastCards = [
   "thumbnail": "https://i.ytimg.com/vi/666A_VtHz_0/maxresdefault.jpg",
   "alt": "[FULL] ‘웬디 언니’? 나는 ‘웬디 자기~💕’ 새로운 자기가 생긴 우기(YUQI) 보는 라디오 | 웬디의 영스트리트 | 250918",
   "title": "[FULL] ‘웬디 언니’? 나는 ‘웬디 자기~💕’ 새로운 자기가 생긴 우기(YUQI) 보는 라디오 | 웬디의 영스트리트 | 250918"
+},
+{
+  "link": "https://youtu.be/ODLKMLGMpJ0",
+  "category": "Radio_Podcast",
+  "member": "우기",
+  "date": "2025-09-23",
+  "duration": "00:40:27",
+  "thumbnail": "https://i.ytimg.com/vi/ODLKMLGMpJ0/maxresdefault.jpg",
+  "alt": "[FULL] 장르 불문 올라운더들의 만남! 김희재(Kim Hee Jae), 우기(YUQI) 보는 라디오 | 두시탈출 컬투쇼 | 250923",
+  "title": "[FULL] 장르 불문 올라운더들의 만남! 김희재(Kim Hee Jae), 우기(YUQI) 보는 라디오 | 두시탈출 컬투쇼 | 250923"
 }
+
 
 
 

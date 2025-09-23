@@ -1485,7 +1485,20 @@ const releasesCards = [
   "alt": "우기 (YUQI) 'M.O.' Official Music Video",
   "title": "우기 (YUQI) 'M.O.' Official Music Video",
   "subtag": "MV"
+},
+{
+  "link": "https://youtu.be/iGNd-8gkB5E",
+  "category": "Releases",
+  "member": "우기",
+  "date": "2025-09-23",
+  "duration": "00:03:15",
+  "thumbnail": "https://i.ytimg.com/vi/iGNd-8gkB5E/maxresdefault.jpg",
+  "alt": "우기 (YUQI) '还痛吗' SPECIAL CLIP",
+  "title": "우기 (YUQI) '还痛吗' SPECIAL CLIP",
+  "subtag": "Special Clip"
 }
+
+
 
 ];
 

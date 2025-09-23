@@ -14748,8 +14748,216 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/TB4BfngbRX0/maxresdefault.jpg",
   "alt": "M.O.두 집중 🩷 우기 뮤뱅 퇴근합니다 🐰",
   "title": "M.O.두 집중 🩷 우기 뮤뱅 퇴근합니다 🐰"
-}
+},
 
+{
+  "link": "https://youtu.be/CjuTma8H7IY",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-20",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/CjuTma8H7IY/maxresdefault.jpg",
+  "alt": "☝️✌️🤟, what’s your M.O.? 🐶 with #명재현 #JAEHYUN #보이넥스트도어 #BOYNEXTDOOR @boynextdoor_official",
+  "title": "☝️✌️🤟, what’s your M.O.? 🐶 with #명재현 #JAEHYUN #보이넥스트도어 #BOYNEXTDOOR @boynextdoor_official"
+},
+
+{
+  "link": "https://youtu.be/0ewJ2WIr2jM",
+  "category": "Shorts",
+  "member": "민니, 우기",
+  "date": "2025-09-20",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/0ewJ2WIr2jM/maxresdefault.jpg",
+  "alt": "우리가 M.O.냐고 물으신다면 대답해드리는게 인지상정! 🚀 with #민니 #MINNIE",
+  "title": "우리가 M.O.냐고 물으신다면 대답해드리는게 인지상정! 🚀 with #민니 #MINNIE"
+},
+
+{
+  "link": "https://youtu.be/zLCJRoq4Oo4",
+  "category": "Shorts",
+  "member": "민니, 우기",
+  "date": "2025-09-20",
+  "duration": "00:00:07",
+  "thumbnail": "https://i.ytimg.com/vi/zLCJRoq4Oo4/maxresdefault.jpg",
+  "alt": "M.O.두 집중 ❕ 우기 오늘은 민니와 음중 퇴근합니다 💙",
+  "title": "M.O.두 집중 ❕ 우기 오늘은 민니와 음중 퇴근합니다 💙"
+},
+
+{
+  "link": "https://youtu.be/Zl1ebXp1AfM",
+  "category": "Shorts",
+  "member": "민니, 우기",
+  "date": "2025-09-20",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/Zl1ebXp1AfM/maxresdefault.jpg",
+  "alt": "민니와 우기의 M.O.는?? 네버버 💜",
+  "title": "민니와 우기의 M.O.는?? 네버버 💜"
+},
+
+{
+  "link": "https://youtu.be/0IaBAPwZ81E",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-20",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/0IaBAPwZ81E/maxresdefault.jpg",
+  "alt": "what’s your M.O.? M.O.!! 💛 with #이은지 #LEE_EUNJI @eunjirang92",
+  "title": "what’s your M.O.? M.O.!! 💛 with #이은지 #LEE_EUNJI @eunjirang92"
+},
+
+{
+  "link": "https://youtu.be/6bOlSujMhuk",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-20",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/6bOlSujMhuk/maxresdefault.jpg",
+  "alt": "[it’s CAM] 우기 퇴근해보겠습니다! | it's Live #YUQI #잇츠라이브",
+  "title": "[it’s CAM] 우기 퇴근해보겠습니다! | it's Live #YUQI #잇츠라이브"
+},
+
+
+{
+  "link": "https://youtu.be/5GFWjcaD43I",
+  "category": "Shorts",
+  "member": "미연, 우기",
+  "date": "2025-09-21",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/5GFWjcaD43I/maxresdefault.jpg",
+  "alt": "M.O.두 집중 🥰 우기 오늘은 미연과 인가 퇴근합니다 💚",
+  "title": "M.O.두 집중 🥰 우기 오늘은 미연과 인가 퇴근합니다 💚"
+},
+
+{
+  "link": "https://youtu.be/5sin0F-dmIk",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-21",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/5sin0F-dmIk/maxresdefault.jpg",
+  "alt": "I’m ready, what’s your M.O.? 🪽 with #현빈 #HYEONBIN #연우 #YEONWOO #시윤 #SIYUN #나우즈 #NOWZ @CUBE_NOWZ",
+  "title": "I’m ready, what’s your M.O.? 🪽 with #현빈 #HYEONBIN #연우 #YEONWOO #시윤 #SIYUN #나우즈 #NOWZ @CUBE_NOWZ"
+},
+
+{
+  "link": "https://youtu.be/QX0dm_BvFw8",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-21",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/QX0dm_BvFw8/maxresdefault.jpg",
+  "alt": "Fly away 🪽 what’s your M.O.? with #윤 #YOON #진혁 #JINHYUK #나우즈 #NOWZ @CUBE_NOWZ",
+  "title": "Fly away 🪽 what’s your M.O.? with #윤 #YOON #진혁 #JINHYUK #나우즈 #NOWZ @CUBE_NOWZ"
+},
+
+{
+  "link": "https://youtu.be/1gmfsU6fR90",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-21",
+  "duration": "00:00:30",
+  "thumbnail": "https://i.ytimg.com/vi/1gmfsU6fR90/maxresdefault.jpg",
+  "alt": "잠깐만, what’s your M.O.? 🩷 with #주현 #JUHYEON #라잇썸 #LIGHTSUM @LIGHTSUMOfficial",
+  "title": "잠깐만, what’s your M.O.? 🩷 with #주현 #JUHYEON #라잇썸 #LIGHTSUM @LIGHTSUMOfficial"
+},
+
+{
+  "link": "https://youtu.be/flmlyyX8HrA",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-21",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/flmlyyX8HrA/maxresdefault.jpg",
+  "alt": "Tell me, what’s your M.O.? 🪼 with #지훈 #JIHOON #투어스 #TWS @TWS_PLEDIS",
+  "title": "Tell me, what’s your M.O.? 🪼 with #지훈 #JIHOON #투어스 #TWS @TWS_PLEDIS"
+},
+
+{
+  "link": "https://youtu.be/hRyJppw5T7s",
+  "category": "Shorts",
+  "member": "미연, 우기",
+  "date": "2025-09-22",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/hRyJppw5T7s/maxresdefault.jpg",
+  "alt": "누가 M.O.래도 분금치 포에버 💐💖 with #미연 #MIYEON",
+  "title": "누가 M.O.래도 분금치 포에버 💐💖 with #미연 #MIYEON"
+},
+
+{
+  "link": "https://youtu.be/nSTQU-FCqks",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-22",
+  "duration": "00:00:29",
+  "thumbnail": "https://i.ytimg.com/vi/nSTQU-FCqks/maxresdefault.jpg",
+  "alt": "Think Too Much! What’s your M.O.? 💭 with #장우영 #JangWooyoung #투피엠 #2PM @2pm",
+  "title": "Think Too Much! What’s your M.O.? 💭 with #장우영 #JangWooyoung #투피엠 #2PM @2pm"
+},
+
+{
+  "link": "https://youtu.be/i7Vg3onShzA",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-22",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/i7Vg3onShzA/maxresdefault.jpg",
+  "alt": "Vibe so what’s your M.O.? ✨ with #EMMA #엠마 #KELLY #켈리 #BADVILLAIN #배드빌런 @badvillain_bpm",
+  "title": "Vibe so what’s your M.O.? ✨ with #EMMA #엠마 #KELLY #켈리 #BADVILLAIN #배드빌런 @badvillain_bpm"
+},
+
+{
+  "link": "https://youtu.be/Ya3a2csqOH4",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-22",
+  "duration": "00:00:50",
+  "thumbnail": "https://i.ytimg.com/vi/Ya3a2csqOH4/maxresdefault.jpg",
+  "alt": "M.O.' M/V Dance Performance Behind",
+  "title": "M.O.' M/V Dance Performance Behind"
+},
+{
+  "link": "https://youtu.be/smt0nyCc6pY",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-23",
+  "duration": "00:00:51",
+  "thumbnail": "https://i.ytimg.com/vi/smt0nyCc6pY/maxresdefault.jpg",
+  "alt": "🎂 HAPPY YUQI DAY 💕",
+  "title": "🎂 HAPPY YUQI DAY 💕"
+},
+
+{
+  "link": "https://youtu.be/J6TLXJDIrW4",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-23",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/J6TLXJDIrW4/maxresdefault.jpg",
+  "alt": "What’s your M.O.? 😎 with #쿤 #KUN #WayV @WayV",
+  "title": "What’s your M.O.? 😎 with #쿤 #KUN #WayV @WayV"
+},
+
+{
+  "link": "https://youtu.be/uTVMcejFz3o",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-23",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/uTVMcejFz3o/maxresdefault.jpg",
+  "alt": "Tell me, what’s your M.O.? 🤣 with #은혁 #EUNHYUK #슈퍼주니어 #SUPERJUNIOR @SUPERJUNIORDnE",
+  "title": "Tell me, what’s your M.O.? 🤣 with #은혁 #EUNHYUK #슈퍼주니어 #SUPERJUNIOR @SUPERJUNIORDnE"
+},
+
+{
+  "link": "https://youtu.be/E4Rr1kASIQM",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-23",
+  "duration": "00:00:29",
+  "thumbnail": "https://i.ytimg.com/vi/E4Rr1kASIQM/maxresdefault.jpg",
+  "alt": "Am I dreaming? What’s your M.O.? ❤️ with #다영 #DAYOUNG @DAYOUNG_official",
+  "title": "Am I dreaming? What’s your M.O.? ❤️ with #다영 #DAYOUNG @DAYOUNG_official"
+}
 
 
 
