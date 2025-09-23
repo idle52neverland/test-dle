@@ -9999,7 +9999,8 @@ const officialChannelCards = [
   "duration": "00:09:52",
   "thumbnail": "https://i.ytimg.com/vi/azRBA3xIodE/maxresdefault.jpg",
   "alt": "'M.O.' M/V 촬영 비하인드 [SONG TALK TALK] #9 | 우기 (YUQI)ㅣSUB",
-  "title": "'M.O.' M/V 촬영 비하인드 [SONG TALK TALK] #9 | 우기 (YUQI)ㅣSUB"
+  "title": "'M.O.' M/V 촬영 비하인드 [SONG TALK TALK] #9 | 우기 (YUQI)ㅣSUB",
+  "subtag": "아이톡 | I-TALK"
 },
 {
   "link": "https://youtu.be/FeAHoZlcX_c",
@@ -10009,7 +10010,8 @@ const officialChannelCards = [
   "duration": "00:03:09",
   "thumbnail": "https://i.ytimg.com/vi/FeAHoZlcX_c/maxresdefault.jpg",
   "alt": "우기 (YUQI) 'M.O.' Choreography Practice Video",
-  "title": "우기 (YUQI) 'M.O.' Choreography Practice Video"
+  "title": "우기 (YUQI) 'M.O.' Choreography Practice Video",
+  "subtag": "안무연습 | Choreography Practice Video",
 }
 
 
