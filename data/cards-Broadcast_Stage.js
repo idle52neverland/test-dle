@@ -10692,7 +10692,18 @@ const broadcastStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/yfmJBVcB1GU/maxresdefault.jpg",
   "alt": "[페이스캠4K] 우기 'M.O' (YUQI FaceCam) @SBS 인기가요/Inkigayo 250921",
   "title": "[페이스캠4K] 우기 'M.O' (YUQI FaceCam) @SBS 인기가요/Inkigayo 250921"
+},
+{
+  "link": "https://youtu.be/hobfTLmzYjA",
+  "category": "Broadcast_Stage",
+  "member": "우기",
+  "date": "2025-09-24",
+  "duration": "00:00:56",
+  "thumbnail": "https://i.ytimg.com/vi/hobfTLmzYjA/maxresdefault.jpg",
+  "alt": "[쇼챔 1위] 9월 4주 챔피언송 ＜YUQI - M.O.＞ 수상소감 Full ver. l Show Champion l EP.570 l 250924",
+  "title": "[쇼챔 1위] 9월 4주 챔피언송 ＜YUQI - M.O.＞ 수상소감 Full ver. l Show Champion l EP.570 l 250924"
 }
+
 
 
 ];

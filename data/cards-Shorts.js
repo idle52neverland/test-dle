@@ -14957,6 +14957,39 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/E4Rr1kASIQM/maxresdefault.jpg",
   "alt": "Am I dreaming? What’s your M.O.? ❤️ with #다영 #DAYOUNG @DAYOUNG_official",
   "title": "Am I dreaming? What’s your M.O.? ❤️ with #다영 #DAYOUNG @DAYOUNG_official"
+},
+
+{
+  "link": "https://youtu.be/Z5KonjD2tf0",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-24",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/Z5KonjD2tf0/maxresdefault.jpg",
+  "alt": "Honestly, who you trying to control?",
+  "title": "Honestly, who you trying to control?"
+},
+
+{
+  "link": "https://youtu.be/EOUNwMM7GqM",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-24",
+  "duration": "00:00:08",
+  "thumbnail": "https://i.ytimg.com/vi/EOUNwMM7GqM/maxresdefault.jpg",
+  "alt": "What's your ♪ ( ᷇࿀ ᷆ و(و " ?",
+  "title": "What's your ♪ ( ᷇࿀ ᷆ و(و " ?"
+},
+
+{
+  "link": "https://youtu.be/2GgYiiWU9lg",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-24",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/2GgYiiWU9lg/maxresdefault.jpg",
+  "alt": "Show me your M.O.",
+  "title": "Show me your M.O."
 }
 
 

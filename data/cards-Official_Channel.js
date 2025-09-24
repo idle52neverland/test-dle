@@ -10012,6 +10012,17 @@ const officialChannelCards = [
   "alt": "우기 (YUQI) 'M.O.' Choreography Practice Video",
   "title": "우기 (YUQI) 'M.O.' Choreography Practice Video",
   "subtag": "안무연습 | Choreography Practice Video",
+},
+{
+  "link": "https://youtu.be/_lrB96f2nr4",
+  "category": "Official_Channel",
+  "member": "우기",
+  "date": "2025-09-24",
+  "duration": "00:16:43",
+  "thumbnail": "https://i.ytimg.com/vi/_lrB96f2nr4/maxresdefault.jpg",
+  "alt": "'아프다' M/V 촬영 비하인드 [SONG TALK TALK] #10 | 우기 (YUQI)ㅣSUB",
+  "title": "'아프다' M/V 촬영 비하인드 [SONG TALK TALK] #10 | 우기 (YUQI)ㅣSUB",
+  "subtag": "아이톡 | I-TALK"
 }
 
 
