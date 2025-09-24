@@ -14977,8 +14977,8 @@ const shortsCards = [
   "date": "2025-09-24",
   "duration": "00:00:08",
   "thumbnail": "https://i.ytimg.com/vi/EOUNwMM7GqM/maxresdefault.jpg",
-  "alt": "What's your ♪ ( ᷇࿀ ᷆ و(و \" ? (2025-09-24)",
-  "title": "What's your ♪ ( ᷇࿀ ᷆ و(و \" ? (2025-09-24)"
+  "alt": "What's your ♪ ( ᷇࿀ ᷆ و(و ?",
+  "title": "What's your ♪ ( ᷇࿀ ᷆ و(و ?"
 }
 
 {
