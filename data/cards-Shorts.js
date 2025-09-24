@@ -14971,15 +14971,15 @@ const shortsCards = [
 },
 
 {
-  "link": "https://youtu.be/EOUNwMM7GqM",
-  "category": "Shorts",
-  "member": "우기",
-  "date": "2025-09-24",
-  "duration": "00:00:08",
-  "thumbnail": "https://i.ytimg.com/vi/EOUNwMM7GqM/maxresdefault.jpg",
-  "alt": "What's your ♪ ( ᷇࿀ ᷆ و(و ?",
-  "title": "What's your ♪ ( ᷇࿀ ᷆ و(و ?"
-}
+    "link": "https://youtu.be/EOUNwMM7GqM",
+    "category": "Shorts",
+    "member": "우기",
+    "date": "2025-09-24",
+    "duration": "00:00:08",
+    "thumbnail": "https://i.ytimg.com/vi/EOUNwMM7GqM/maxresdefault.jpg",
+    "alt": "What's your ♪ ( ᷇࿀ ᷆ و(و ?",
+    "title": "What's your ♪ ( ᷇࿀ ᷆ و(و ?"
+},
 
 {
   "link": "https://youtu.be/2GgYiiWU9lg",
