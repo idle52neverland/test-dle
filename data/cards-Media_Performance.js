@@ -100,6 +100,50 @@ const mediaPerformanceCards = [
 },
 
 {
+  "link": "https://youtu.be/r0rDWEw5wOU",
+  "category": "Media_Performance",
+  "member": "미연, 민니",
+  "date": "2018-02-16",
+  "duration": "00:02:06",
+  "thumbnail": "https://i.ytimg.com/vi/r0rDWEw5wOU/maxresdefault.jpg",
+  "alt": "[일소라] 댕댕이 자매의 그리워하다 (비투비)",
+  "title": "[일소라] 댕댕이 자매의 그리워하다 (비투비)"
+},
+
+{
+  "link": "https://youtu.be/y6XK4qYj1Vs",
+  "category": "Media_Performance",
+  "member": "미연, 민니",
+  "date": "2018-02-25",
+  "duration": "00:02:39",
+  "thumbnail": "https://i.ytimg.com/vi/y6XK4qYj1Vs/maxresdefault.jpg",
+  "alt": "[일소라] 댕댕이 자매의 사랑을 했다 (iKON - LOVE SCENARIO) cover",
+  "title": "[일소라] 댕댕이 자매의 사랑을 했다 (iKON - LOVE SCENARIO) cover"
+},
+
+{
+  "link": "https://youtu.be/KXB-9PeJbb8",
+  "category": "Media_Performance",
+  "member": "미연, 민니",
+  "date": "2018-03-05",
+  "duration": "00:03:42",
+  "thumbnail": "https://i.ytimg.com/vi/KXB-9PeJbb8/maxresdefault.jpg",
+  "alt": "[일소라] 댕댕이 자매의 노력 (박원) cover",
+  "title": "[일소라] 댕댕이 자매의 노력 (박원) cover"
+},
+
+{
+  "link": "https://youtu.be/PEW3tg4K2I4",
+  "category": "Media_Performance",
+  "member": "미연, 민니",
+  "date": "2018-03-14",
+  "duration": "00:02:27",
+  "thumbnail": "https://i.ytimg.com/vi/PEW3tg4K2I4/maxresdefault.jpg",
+  "alt": "[일소라] 댕댕이 자매의 #첫사랑 (볼빨간사춘기) cover",
+  "title": "[일소라] 댕댕이 자매의 #첫사랑 (볼빨간사춘기) cover"
+},
+
+{
   "link": "https://youtu.be/WUK4X97Fzzc",
   "category": "Media_Performance",
   "member": "아이들",

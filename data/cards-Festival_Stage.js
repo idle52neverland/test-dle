@@ -1,6 +1,17 @@
 const festivalStageCards = [
 
 {
+  "link": "https://youtu.be/6kcFXF5VQPY",
+  "category": "Festival_Stage",
+  "member": "민니, 소연",
+  "date": "2016-11-05",
+  "duration": "00:03:48",
+  "thumbnail": "https://i.ytimg.com/vi/6kcFXF5VQPY/maxresdefault.jpg",
+  "alt": "언프리티랩스타3 대구콘서트 소연&민니 '웃어' 직캠",
+  "title": "언프리티랩스타3 대구콘서트 소연&민니 '웃어' 직캠"
+},
+
+{
   "link": "https://youtu.be/dU4JD7bYVyg",
   "category": "Festival_Stage",
   "member": "아이들",

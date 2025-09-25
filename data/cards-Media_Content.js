@@ -2300,17 +2300,6 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://youtu.be/8_dmxmzwPDs",
-  "category": "Media_Content",
-  "member": "민니",
-  "date": "2025-01-13",
-  "duration": "00:39:45",
-  "thumbnail": "https://i.ytimg.com/vi/8_dmxmzwPDs/sddefault.jpg",
-  "alt": "Live | School Lunch Attack It’s MEP Time! | 13 ม.ค. 68",
-  "title": "Live | School Lunch Attack It’s MEP Time! | 13 ม.ค. 68"
-},
-
-{
   "link": "https://youtu.be/Una9yqNRPqM",
   "category": "Media_Content",
   "member": "민니",
@@ -10193,8 +10182,19 @@ const mediaContentCards = [
   "date": "2024-07-19",
   "duration": "00:25:44",
   "thumbnail": "https://i.ytimg.com/vi/1Ccx4kjPz_M/sddefault.jpg",
-  "alt": "[IND/ENG] (G)I-DLE dapat peringkat satu berkat tampil di KBS? | The Seasons |",
-  "title": "[IND/ENG] (G)I-DLE dapat peringkat satu berkat tampil di KBS? | The Seasons | KBS WORLD TV"
+  "alt": "[IND/ENG] (G)I-DLE dapat peringkat satu berkat tampil di KBS? | The Seasons 더시즌즈",
+  "title": "[IND/ENG] (G)I-DLE dapat peringkat satu berkat tampil di KBS? | The Seasons 더시즌즈"
+},
+
+{
+  "link": "https://youtu.be/ceGlUVZZC2E",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2025-06-06",
+  "duration": "00:18:00",
+  "thumbnail": "https://i.ytimg.com/vi/ceGlUVZZC2E/maxresdefault.jpg",
+  "alt": "[ENG/IND] i-dle TALK & STAGE (The Seasons 더시즌즈)",
+  "title": "[ENG/IND] i-dle TALK & STAGE (The Seasons 더시즌즈)"
 },
 
 {
@@ -10605,39 +10605,6 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://youtu.be/pPzUcAjsL8w",
-  "category": "Media_Content",
-  "member": "민니",
-  "date": "2025-02-11",
-  "duration": "00:27:48",
-  "thumbnail": "https://i.ytimg.com/vi/pPzUcAjsL8w/sddefault.jpg",
-  "alt": "＂퀸카는 난데?🔥＂ 첫 등교부터 신경전?! 아는 외고 센터 경쟁하는(?) 사쿠라(SAKURA) X 민니(MINNIE)💥｜아는 외고｜",
-  "title": "＂퀸카는 난데?🔥＂ 첫 등교부터 신경전?! 아는 외고 센터 경쟁하는(?) 사쿠라(SAKURA) X 민니(MINNIE)💥｜아는 외고｜"
-},
-
-{
-  "link": "https://youtu.be/M0NIvh7--KM",
-  "category": "Media_Content",
-  "member": "민니",
-  "date": "2025-02-11",
-  "duration": "00:08:26",
-  "thumbnail": "https://i.ytimg.com/vi/M0NIvh7--KM/sddefault.jpg",
-  "alt": "이름 말하면 큰일 나💥 핀란드에서 자기소개하다간 싸움 날 민니 ㅋㅋ | 아는 외고 1회 | JTBC 방송",
-  "title": "이름 말하면 큰일 나💥 핀란드에서 자기소개하다간 싸움 날 민니 ㅋㅋ | 아는 외고 1회 |"
-},
-
-{
-  "link": "https://youtu.be/S1Pjl5zUBjg",
-  "category": "Media_Content",
-  "member": "민니",
-  "date": "2025-02-11",
-  "duration": "00:29:44",
-  "thumbnail": "https://i.ytimg.com/vi/S1Pjl5zUBjg/sddefault.jpg",
-  "alt": "[하이라이트] ＂얼굴이 잘리는..＂ 현직 여돌 사쿠라X민니가 생각하는 '성형 수술'의 기준ㅋㅋ | 아는 외고 | JTBC 방송",
-  "title": "[하이라이트] ＂얼굴이 잘리는..＂ 현직 여돌 사쿠라X민니가 생각하는 '성형 수술'의 기준ㅋㅋ | 아는 외고 |"
-},
-
-{
   "link": "https://youtu.be/suH9D6zt_Jk",
   "category": "Media_Content",
   "member": "소연",
@@ -10671,50 +10638,6 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://youtu.be/CBohdQQ-qsI",
-  "category": "Media_Content",
-  "member": "민니",
-  "date": "2025-02-18",
-  "duration": "00:27:29",
-  "thumbnail": "https://i.ytimg.com/vi/CBohdQQ-qsI/sddefault.jpg",
-  "alt": "＂입씨름만 하지 말고!🔥＂ 걸그룹 자존심 발동에 주먹까지 나간(?) 민니(MINNIE) VS 츠키(TSUKI) 몸싸움💥｜아는 외고｜JTBC 방송",
-  "title": "＂입씨름만 하지 말고!🔥＂ 걸그룹 자존심 발동에 주먹까지 나간(?) 민니(MINNIE) VS 츠키(TSUKI) 몸싸움💥｜아는 외고｜"
-},
-
-{
-  "link": "https://youtu.be/LGVYs32Sqpc",
-  "category": "Media_Content",
-  "member": "민니",
-  "date": "2025-02-18",
-  "duration": "00:28:33",
-  "thumbnail": "https://i.ytimg.com/vi/LGVYs32Sqpc/sddefault.jpg",
-  "alt": "＂조나단 망한다🔥＂ 느낌 가는 대로 한국 욕 남발하다가(?) 칼같이 손절 당하는 민니(MINNIE)ㅋㅋ｜아는 외고｜",
-  "title": "＂조나단 망한다🔥＂ 느낌 가는 대로 한국 욕 남발하다가(?) 칼같이 손절 당하는 민니(MINNIE)ㅋㅋ｜아는 외고｜"
-},
-
-{
-  "link": "https://youtu.be/lKk1OA5A9YU",
-  "category": "Media_Content",
-  "member": "민니",
-  "date": "2025-02-18",
-  "duration": "00:29:54",
-  "thumbnail": "https://i.ytimg.com/vi/lKk1OA5A9YU/sddefault.jpg",
-  "alt": "[하이라이트] 민니의 초호화 공약에 무너지고 만 리조트 없는 조나단💦 긴장감 넘쳤던(?) 반장 선거의 결과는?! | 아는 외고 |",
-  "title": "[하이라이트] 민니의 초호화 공약에 무너지고 만 리조트 없는 조나단💦 긴장감 넘쳤던(?) 반장 선거의 결과는?! | 아는 외고 |"
-},
-
-{
-  "link": "https://youtu.be/088fdJOupkw",
-  "category": "Media_Content",
-  "member": "소연, 민니",
-  "date": "2025-02-18",
-  "duration": "00:26:16",
-  "thumbnail": "https://i.ytimg.com/vi/088fdJOupkw/sddefault.jpg",
-  "alt": "＂이런 사람이 필요해＂ 전원 재계약을 이끈 리더 소연(SOYEON)을 향한 민니(MINNIE)의 진심❤💜｜아는 외고｜",
-  "title": "＂이런 사람이 필요해＂ 전원 재계약을 이끈 리더 소연(SOYEON)을 향한 민니(MINNIE)의 진심❤💜｜아는 외고｜"
-},
-
-{
   "link": "https://youtu.be/u_8Av_bDP3U",
   "category": "Media_Content",
   "member": "소연",
@@ -10734,28 +10657,6 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/6sLTPEy6LP8/maxresdefault.jpg",
   "alt": "[면Iog] *최초 공개* 자취 n년 차 조미연의 퇴근 집밥 l 지옥에서 온 붕어빵, 지원이랑 수다☎️, 눈오리❄️",
   "title": "[미연.zip📁] [면Iog] *최초 공개* 자취 n년 차 조미연의 퇴근 집밥 l 지옥에서 온 붕어빵, 지원이랑 수다☎️, 눈오리❄️"
-},
-
-{
-  "link": "https://youtu.be/fVztsbPcywg",
-  "category": "Media_Content",
-  "member": "민니",
-  "date": "2025-02-25",
-  "duration": "00:05:46",
-  "thumbnail": "https://i.ytimg.com/vi/fVztsbPcywg/sddefault.jpg",
-  "alt": "급 성사된 제베원 비주얼 내전⚡ 석매튜 vs 장하오, 민니의 선택은?🤭 | 아는 외고 3회 |",
-  "title": "급 성사된 제베원 비주얼 내전⚡ 석매튜 vs 장하오, 민니의 선택은?🤭 | 아는 외고 3회 |"
-},
-
-{
-  "link": "https://youtu.be/G5RYvU5q32c",
-  "category": "Media_Content",
-  "member": "민니, 우기",
-  "date": "2025-02-25",
-  "duration": "00:24:16",
-  "thumbnail": "https://i.ytimg.com/vi/G5RYvU5q32c/sddefault.jpg",
-  "alt": "[하이라이트] 너네 왜 잘해?😮 후배 여돌 FIFTY FIFTY를 겁먹게 한 (여자)아이들 & 르세라핌 언니들의 찐 광기🔥 | 아는 외고 |",
-  "title": "[하이라이트] 너네 왜 잘해?😮 후배 여돌 FIFTY FIFTY를 겁먹게 한 (여자)아이들 & 르세라핌 언니들의 찐 광기🔥 | 아는 외고 |"
 },
 
 {
@@ -13289,17 +13190,6 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://youtu.be/BwvvnMrGyqY",
-  "category": "Media_Content",
-  "member": "소연",
-  "date": "2021-12-29",
-  "duration": "00:02:50",
-  "thumbnail": "https://i.ytimg.com/vi/BwvvnMrGyqY/sddefault.jpg",
-  "alt": "[2021 MBC 방송 연예 대상] 방과후 설렘 옥주현&권유리&아이키&전소연 '특별상' 수상!, MBC 방송",
-  "title": "[2021 MBC 방송 연예 대상] 방과후 설렘 옥주현&권유리&아이키&전소연 '특별상' 수상!, MBC 방송"
-},
-
-{
   "link": "https://youtu.be/-efi4z6crnY",
   "category": "Media_Content",
   "member": "소연",
@@ -14615,8 +14505,227 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/gn-lq4o_pKk/maxresdefault.jpg",
   "alt": "[SUB]  時隔20年回歸的我們的重組偶像, Energy 鑑定師 Global EP.3 | i-dle 舒華 #감별사",
   "title": "[SUB]  時隔20年回歸的我們的重組偶像, Energy 鑑定師 Global EP.3 | i-dle 舒華 #감별사"
-}
+},
 
+{
+  "link": "https://youtu.be/KmEbUQ6D_q8",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2023-05-30",
+  "duration": "00:22:49",
+  "thumbnail": "https://i.ytimg.com/vi/KmEbUQ6D_q8/maxresdefault.jpg",
+  "alt": "내일 지구가 망해버렸으면 좋겠어 [민니모음]",
+  "title": "내일 지구가 망해버렸으면 좋겠어 [민니모음]"
+},
+{
+  "link": "https://youtu.be/ayYxinccxDI",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2023-11-03",
+  "duration": "00:08:18",
+  "thumbnail": "https://i.ytimg.com/vi/ayYxinccxDI/maxresdefault.jpg",
+  "alt": "민니의 꿀톤 비결 음식부터 추천곡 커버까지..?! 꿀 빠는 소리👍👍 [더 시즌즈-악뮤의 오날오밤] | KBS 231103 방송",
+  "title": "민니의 꿀톤 비결 음식부터 추천곡 커버까지..?! 꿀 빠는 소리👍👍 [더 시즌즈-악뮤의 오날오밤] | KBS 231103 방송"
+},
+{
+  "link": "https://youtu.be/J_sPUO9W4Z8",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2023-11-03",
+  "duration": "00:01:50",
+  "thumbnail": "https://i.ytimg.com/vi/J_sPUO9W4Z8/maxresdefault.jpg",
+  "alt": "Re:Wake 곡으로 악뮤의 얼음들을 선곡한 민니, “선택하고 조금 후회했어요😥” [더 시즌즈-악뮤의 오날오밤] | KBS 231103 방송",
+  "title": "Re:Wake 곡으로 악뮤의 얼음들을 선곡한 민니, “선택하고 조금 후회했어요😥” [더 시즌즈-악뮤의 오날오밤] | KBS 231103 방송"
+},
+
+{
+  "link": "https://youtu.be/abvf2XNKpOo",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2022-04-27",
+  "duration": "00:03:38",
+  "thumbnail": "https://i.ytimg.com/vi/abvf2XNKpOo/maxresdefault.jpg",
+  "alt": "(여자) 아이들 민니의 HOT한 Tomboy 무대 ? l #대한외국인 l #MBCevery1 l EP.185",
+  "title": "(여자) 아이들 민니의 HOT한 Tomboy 무대 ? l #대한외국인 l #MBCevery1 l EP.185"
+},
+
+{
+  "link": "https://youtu.be/UYOPrR7R1pc",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2022-04-27",
+  "duration": "00:03:04",
+  "thumbnail": "https://i.ytimg.com/vi/UYOPrR7R1pc/maxresdefault.jpg",
+  "alt": "민니 VS 임미숙  ＜띄어쓰기＞ 대결 l #대한외국인 l #MBCevery1 l EP.185",
+  "title": "민니 VS 임미숙  ＜띄어쓰기＞ 대결 l #대한외국인 l #MBCevery1 l EP.185"
+},
+
+{
+  "link": "https://youtu.be/0aTUIF-UMsI",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2022-04-27",
+  "duration": "00:03:39",
+  "thumbnail": "https://i.ytimg.com/vi/0aTUIF-UMsI/maxresdefault.jpg",
+  "alt": "가요계 선후배 나윤권과 민니의 만남!  l #대한외국인 l #MBCevery1 l EP.185",
+  "title": "가요계 선후배 나윤권과 민니의 만남!  l #대한외국인 l #MBCevery1 l EP.185"
+},
+
+{
+  "link": "https://youtu.be/KWfqwQpAYdA",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2022-04-27",
+  "duration": "00:02:25",
+  "thumbnail": "https://i.ytimg.com/vi/KWfqwQpAYdA/maxresdefault.jpg",
+  "alt": "민니가 하는 외국인 팀의 ＜뭔 말인지 알지?＞ l #대한외국인 l #MBCevery1 l EP.185",
+  "title": "민니가 하는 외국인 팀의 ＜뭔 말인지 알지?＞ l #대한외국인 l #MBCevery1 l EP.185"
+},
+
+{
+  "link": "https://youtu.be/QHAjGcMQ5mw",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2025-03-04",
+  "duration": "00:27:18",
+  "thumbnail": "https://i.ytimg.com/vi/QHAjGcMQ5mw/maxresdefault.jpg",
+  "alt": "[아는외고 4화] 내가 모르는 「태국 단체방」이 있다고🤷? 닉쿤 빼고(?) 만든 민니의 '똠얌꿍방' 실체 대공개💥",
+  "title": "[아는외고 4화] 내가 모르는 「태국 단체방」이 있다고🤷? 닉쿤 빼고(?) 만든 민니의 '똠얌꿍방' 실체 대공개💥"
+},
+
+{
+  "link": "https://youtu.be/hFq0rjTRMjs",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2025-03-04",
+  "duration": "00:29:29",
+  "thumbnail": "https://i.ytimg.com/vi/hFq0rjTRMjs/maxresdefault.jpg",
+  "alt": "[아는외고 4화] 선배고 뭐고 곧 맞짱(?) 뜰 각💥 파비앙의 거침없는 광역 도발에 난장판이 된 스튜디오💢",
+  "title": "[아는외고 4화] 선배고 뭐고 곧 맞짱(?) 뜰 각💥 파비앙의 거침없는 광역 도발에 난장판이 된 스튜디오💢"
+},
+
+{
+  "link": "https://youtu.be/DJK_Q_HsKBw",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2025-03-04",
+  "duration": "00:30:54",
+  "thumbnail": "https://i.ytimg.com/vi/DJK_Q_HsKBw/maxresdefault.jpg",
+  "alt": "[아는외고 4화] ＂사쿠라랑 밥 먹고 싶어요＂ 현실적인(?) 목표가 '르세라핌'인 후배 장하오의 🔥포부 담긴 고백🔥",
+  "title": "[아는외고 4화] ＂사쿠라랑 밥 먹고 싶어요＂ 현실적인(?) 목표가 '르세라핌'인 후배 장하오의 🔥포부 담긴 고백🔥"
+},
+
+
+{
+  "link": "https://youtu.be/oQ5yXGJ-qbA",
+  "category": "Media_Content",
+  "member": "민니, 우기",
+  "date": "2025-02-25",
+  "duration": "00:31:50",
+  "thumbnail": "https://i.ytimg.com/vi/oQ5yXGJ-qbA/maxresdefault.jpg",
+  "alt": "[아는외고 3화]  파트리샤, 장하오에게 고백받다?!🙊 혈육의 연애를 목격한 조나단, 표정 관리 大 실패💦",
+  "title": "[아는외고 3화]  파트리샤, 장하오에게 고백받다?!🙊 혈육의 연애를 목격한 조나단, 표정 관리 大 실패💦"
+},
+
+{
+  "link": "https://youtu.be/_7yo-RkiNaU",
+  "category": "Media_Content",
+  "member": "민니, 우기",
+  "date": "2025-02-25",
+  "duration": "00:30:09",
+  "thumbnail": "https://i.ytimg.com/vi/_7yo-RkiNaU/maxresdefault.jpg",
+  "alt": "[아는외고 3화] 영어 문제 틀린 석매튜에게 가차 없이 팩폭 날리는 장하오💥 오늘도 평화로운 하튜즈💕",
+  "title": "[아는외고 3화] 영어 문제 틀린 석매튜에게 가차 없이 팩폭 날리는 장하오💥 오늘도 평화로운 하튜즈💕"
+},
+
+{
+  "link": "https://youtu.be/G5RYvU5q32c",
+  "category": "Media_Content",
+  "member": "민니, 우기",
+  "date": "2025-02-25",
+  "duration": "00:24:16",
+  "thumbnail": "https://i.ytimg.com/vi/G5RYvU5q32c/maxresdefault.jpg",
+  "alt": "[아는외고 3화] 너네 왜 잘해?😮 후배 여돌 FIFTY FIFTY를 겁먹게 한 (여자)아이들 & 르세라핌 언니들의 찐 광기🔥",
+  "title": "[아는외고 3화] 너네 왜 잘해?😮 후배 여돌 FIFTY FIFTY를 겁먹게 한 (여자)아이들 & 르세라핌 언니들의 찐 광기🔥"
+},
+
+{
+  "link": "https://youtu.be/_yqffQmMuoU",
+  "category": "Media_Content",
+  "member": "민니, 우기",
+  "date": "2025-02-25",
+  "duration": "00:32:40",
+  "thumbnail": "https://i.ytimg.com/vi/_yqffQmMuoU/maxresdefault.jpg",
+  "alt": "[아는외고 3화] 재계약에서 가장 중요한 건? 아이돌 자아 내려놓은 듯한 (여자)아이들 민니X우기의 거침없는 입담🔥",
+  "title": "[아는외고 3화] 재계약에서 가장 중요한 건? 아이돌 자아 내려놓은 듯한 (여자)아이들 민니X우기의 거침없는 입담🔥"
+},
+
+
+{
+  "link": "https://youtu.be/Pz7mbZ6YaKc",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2025-02-18",
+  "duration": "00:28:19",
+  "thumbnail": "https://i.ytimg.com/vi/Pz7mbZ6YaKc/maxresdefault.jpg",
+  "alt": "[아는외고 2화] 츠키의 고발로 발각된 충격적인 거래 내용(!) 고정 자리를 둔 '조나단 게이트'의 전말 ㅋㅋ",
+  "title": "[아는외고 2화] 츠키의 고발로 발각된 충격적인 거래 내용(!) 고정 자리를 둔 '조나단 게이트'의 전말 ㅋㅋ"
+},
+
+{
+  "link": "https://youtu.be/dG3IwsTSAbM",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2025-02-18",
+  "duration": "00:28:57",
+  "thumbnail": "https://i.ytimg.com/vi/dG3IwsTSAbM/maxresdefault.jpg",
+  "alt": "[아는외고 2화] 왜인지 점점 깊어지는 상상...^^❤️‍🔥 민니가 이상형과 무인도에 갇히고 싶은 이유",
+  "title": "[아는외고 2화] 왜인지 점점 깊어지는 상상...^^❤️‍🔥 민니가 이상형과 무인도에 갇히고 싶은 이유"
+},
+
+{
+  "link": "https://youtu.be/lKk1OA5A9YU",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2025-02-18",
+  "duration": "00:29:54",
+  "thumbnail": "https://i.ytimg.com/vi/lKk1OA5A9YU/maxresdefault.jpg",
+  "alt": "[아는외고 2화] 민니의 초호화 공약에 무너지고 만 리조트 없는 조나단💦 긴장감 넘쳤던(?) 반장 선거의 결과는?!",
+  "title": "[아는외고 2화] 민니의 초호화 공약에 무너지고 만 리조트 없는 조나단💦 긴장감 넘쳤던(?) 반장 선거의 결과는?!"
+},
+
+{
+  "link": "https://youtu.be/S1Pjl5zUBjg",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2025-02-11",
+  "duration": "00:29:44",
+  "thumbnail": "https://i.ytimg.com/vi/S1Pjl5zUBjg/maxresdefault.jpg",
+  "alt": "[아는외고 1화]＂얼굴이 잘리는..＂ 현직 여돌 사쿠라X민니가 생각하는 '성형 수술'의 기준ㅋㅋ",
+  "title": "[아는외고 1화]＂얼굴이 잘리는..＂ 현직 여돌 사쿠라X민니가 생각하는 '성형 수술'의 기준ㅋㅋ"
+},
+
+{
+  "link": "https://youtu.be/XpuofebTpSs",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2025-02-11",
+  "duration": "00:28:43",
+  "thumbnail": "https://i.ytimg.com/vi/XpuofebTpSs/maxresdefault.jpg",
+  "alt": "[아는외고 1화] 연애 취소할게🙏 사귀기로 한지 단 하루 만에 차인 조나단의 연애 실화(ㅠㅠ)",
+  "title": "[아는외고 1화] 연애 취소할게🙏 사귀기로 한지 단 하루 만에 차인 조나단의 연애 실화(ㅠㅠ)"
+},
+
+{
+  "link": "https://youtu.be/Jj6Yjf0zH1Y",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2025-02-11",
+  "duration": "00:26:13",
+  "thumbnail": "https://i.ytimg.com/vi/Jj6Yjf0zH1Y/maxresdefault.jpg",
+  "alt": "[아는외고 1화] 뿌뿌이↗ 한국에서 사는 외국인 셀럽들의 💥용산구VS송파구💥 지역 싸움💦",
+  "title": "[아는외고 1화] 뿌뿌이↗ 한국에서 사는 외국인 셀럽들의 💥용산구VS송파구💥 지역 싸움💦"
+}
 
 
 ];

@@ -10702,6 +10702,26 @@ const broadcastStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/hobfTLmzYjA/maxresdefault.jpg",
   "alt": "[쇼챔 1위] 9월 4주 챔피언송 ＜YUQI - M.O.＞ 수상소감 Full ver. l Show Champion l EP.570 l 250924",
   "title": "[쇼챔 1위] 9월 4주 챔피언송 ＜YUQI - M.O.＞ 수상소감 Full ver. l Show Champion l EP.570 l 250924"
+},
+{
+  "link": "https://youtu.be/czuJRCzUv6M",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2024-07-19",
+  "duration": "00:03:50",
+  "thumbnail": "https://i.ytimg.com/vi/czuJRCzUv6M/maxresdefault.jpg",
+  "alt": "티르티르 인기 스타상 - 덱스·미연·최우식·박지윤  [제3회 청룡시리즈어워즈] | KBS 240719 방송",
+  "title": "티르티르 인기 스타상 - 덱스·미연·최우식·박지윤  [제3회 청룡시리즈어워즈] | KBS 240719 방송"
+},
+{
+  "link": "https://youtu.be/BwvvnMrGyqY",
+  "category": "Broadcast_Stage",
+  "member": "소연",
+  "date": "2021-12-29",
+  "duration": "00:02:50",
+  "thumbnail": "https://i.ytimg.com/vi/BwvvnMrGyqY/sddefault.jpg",
+  "alt": "[2021 MBC 방송 연예 대상] 방과후 설렘 옥주현&권유리&아이키&전소연 '특별상' 수상!, MBC 방송",
+  "title": "[2021 MBC 방송 연예 대상] 방과후 설렘 옥주현&권유리&아이키&전소연 '특별상' 수상!, MBC 방송"
 }
 
 
