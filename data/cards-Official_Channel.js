@@ -10023,12 +10023,24 @@ const officialChannelCards = [
   "alt": "'아프다' M/V 촬영 비하인드 [SONG TALK TALK] #10 | 우기 (YUQI)ㅣSUB",
   "title": "'아프다' M/V 촬영 비하인드 [SONG TALK TALK] #10 | 우기 (YUQI)ㅣSUB",
   "subtag": "아이톡 | I-TALK"
+},
+{
+  "link": "https://youtu.be/W0Kzy7cE7ho",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-10-02T19:00:53.000",
+  "duration": "00:14:43",
+  "thumbnail": "https://i.ytimg.com/vi/W0Kzy7cE7ho/maxresdefault.jpg",
+  "alt": "2025 TIMA + TMEA 2025 비하인드 [i-talk] #223 | i-dle (아이들)ㅣSUB",
+  "title": "2025 TIMA + TMEA 2025 비하인드 [i-talk] #223 | i-dle (아이들)ㅣSUB",
+  "subtag": "아이톡 | I-TALK"
 }
 
 
 
 
 ];
+
 
 
 window.officialChannelCards = officialChannelCards;
