@@ -10023,7 +10023,184 @@ const officialChannelCards = [
   "alt": "'아프다' M/V 촬영 비하인드 [SONG TALK TALK] #10 | 우기 (YUQI)ㅣSUB",
   "title": "'아프다' M/V 촬영 비하인드 [SONG TALK TALK] #10 | 우기 (YUQI)ㅣSUB",
   "subtag": "아이톡 | I-TALK"
+},
+{
+  "link": "https://www.youtube.com/watch?v=meEbzNv2LoE",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-09-26T18:00:00",
+  "duration": "00:02:41",
+  "thumbnail": "https://i.ytimg.com/vi/meEbzNv2LoE/maxresdefault.jpg",
+  "alt": "i-dle '傷つくのは嫌いだから(Fate)' Official Lyric Video (JPN)",
+  "title": "i-dle '傷つくのは嫌いだから(Fate)' Official Lyric Video (JPN)",
+  "subtag": "기타 | Etc"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=C3oKHufXL2U",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-09-26T18:00:00",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/C3oKHufXL2U/maxresdefault.jpg",
+  "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser 1",
+  "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser 1",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=DL6jpeEcRew",
+  "category": "Official_Channel",
+  "member": "소연, 우기",
+  "date": "2025-09-27T18:00:00",
+  "duration": "00:08:04",
+  "thumbnail": "https://i.ytimg.com/vi/DL6jpeEcRew/maxresdefault.jpg",
+  "alt": "소연, 우기의 UGG 광고 촬영 비하인드 [i-talk] #221 | i-dle (아이들)ㅣSUB",
+  "title": "소연, 우기의 UGG 광고 촬영 비하인드 [i-talk] #221 | i-dle (아이들)ㅣSUB",
+  "subtag": "아이톡 | I-TALK"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=IrVEdfCUYW0",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-09-28T18:00:00",
+  "duration": "00:00:10",
+  "thumbnail": "https://i.ytimg.com/vi/IrVEdfCUYW0/maxresdefault.jpg",
+  "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - MIYEON",
+  "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - MIYEON",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=Sdqm7jKIHh0",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-09-28T18:00:00",
+  "duration": "00:00:14",
+  "thumbnail": "https://i.ytimg.com/vi/Sdqm7jKIHh0/maxresdefault.jpg",
+  "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - MINNIE",
+  "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - MINNIE",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=UGb9XrhKWp8",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-09-28T18:00:00",
+  "duration": "00:00:14",
+  "thumbnail": "https://i.ytimg.com/vi/UGb9XrhKWp8/maxresdefault.jpg",
+  "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - SOYEON",
+  "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - SOYEON",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=X4cGisr-haA",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-09-29T18:00:00",
+  "duration": "00:00:12",
+  "thumbnail": "https://i.ytimg.com/vi/X4cGisr-haA/maxresdefault.jpg",
+  "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - YUQI",
+  "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - YUQI",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=bGfYlaCJQbk",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-09-29T18:00:00",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/bGfYlaCJQbk/maxresdefault.jpg",
+  "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - SHUHUA",
+  "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser - SHUHUA",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=eDSZY9SmgMo",
+  "category": "Official_Channel",
+  "member": "소연",
+  "date": "2025-09-30T18:00:00",
+  "duration": "00:06:56",
+  "thumbnail": "https://i.ytimg.com/vi/eDSZY9SmgMo/maxresdefault.jpg",
+  "alt": "소연의 Coach 캠페인 촬영 비하인드 [i-talk] #222 | i-dle (아이들)ㅣSUB",
+  "title": "소연의 Coach 캠페인 촬영 비하인드 [i-talk] #222 | i-dle (아이들)ㅣSUB",
+  "subtag": "아이톡 | I-TALK"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=bRFqkBZlkko",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-10-02T18:00:00",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/bRFqkBZlkko/maxresdefault.jpg",
+  "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser 2",
+  "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V Teaser 2",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=W0Kzy7cE7ho",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-10-02T18:00:00",
+  "duration": "00:14:43",
+  "thumbnail": "https://i.ytimg.com/vi/W0Kzy7cE7ho/maxresdefault.jpg",
+  "alt": "2025 TIMA + TMEA 2025 비하인드 [i-talk] #223 | i-dle (아이들)ㅣSUB",
+  "title": "2025 TIMA + TMEA 2025 비하인드 [i-talk] #223 | i-dle (아이들)ㅣSUB",
+  "subtag": "아이톡 | I-TALK"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=Cgc_oJFpMqM",
+  "category": "Official_Channel",
+  "member": "우기",
+  "date": "2025-10-04T18:00:00",
+  "duration": "00:08:21",
+  "thumbnail": "https://i.ytimg.com/vi/Cgc_oJFpMqM/maxresdefault.jpg",
+  "alt": "우기의 제주 DAY OFF [i-log] #45 🍊 | i-dle (아이들)ㅣSUB",
+  "title": "우기의 제주 DAY OFF [i-log] #45 🍊 | i-dle (아이들)ㅣSUB",
+  "subtag": "아이로그 | I-LOG"
+},
+{
+  "link": "https://www.youtube.com/watch?v=5yEE3a6_t9Y",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-10-05T18:00:00",
+  "duration": "00:06:48",
+  "thumbnail": "https://i.ytimg.com/vi/5yEE3a6_t9Y/maxresdefault.jpg",
+  "alt": "2025 큐브 엔터테인먼트 추석 인사 영상",
+  "title": "2025 큐브 엔터테인먼트 추석 인사 영상",
+  "subtag": "기타 | Etc"
+},
+{
+  "link": "https://www.youtube.com/watch?v=KLxtOB-T-qI",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-10-06T18:00:00",
+  "duration": "00:04:21",
+  "thumbnail": "https://i.ytimg.com/vi/KLxtOB-T-qI/maxresdefault.jpg",
+  "alt": "i-dle 'どうしよっかな (Where Do We Go)' @ [ 逢い-dle ]",
+  "title": "i-dle 'どうしよっかな (Where Do We Go)' @ [ 逢い-dle ]",
+  "subtag": "퍼포먼스 | Performance"
+},
+{
+  "link": "https://www.youtube.com/watch?v=meEbzNv2LoE",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-09-26T18:00:00",
+  "duration": "00:02:41",
+  "thumbnail": "https://i.ytimg.com/vi/meEbzNv2LoE/maxresdefault.jpg",
+  "alt": "i-dle '傷つくのは嫌いだから(Fate)' Official Lyric Video (JPN)",
+  "title": "i-dle '傷つくのは嫌いだから(Fate)' Official Lyric Video (JPN)",
+  "subtag": "기타 | Etc"
 }
+
 
 
 
@@ -10031,6 +10208,4 @@ const officialChannelCards = [
 ];
 
 
-
 window.officialChannelCards = officialChannelCards;
-

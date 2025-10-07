@@ -14725,6 +14725,103 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/Jj6Yjf0zH1Y/maxresdefault.jpg",
   "alt": "[아는외고 1화] 뿌뿌이↗ 한국에서 사는 외국인 셀럽들의 💥용산구VS송파구💥 지역 싸움💦",
   "title": "[아는외고 1화] 뿌뿌이↗ 한국에서 사는 외국인 셀럽들의 💥용산구VS송파구💥 지역 싸움💦"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=CyZL2KvNl2E",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-09-30T18:00:00",
+  "duration": "00:30:31",
+  "thumbnail": "https://i.ytimg.com/vi/CyZL2KvNl2E/maxresdefault.jpg",
+  "alt": "[미연.zip📁] 엠넷의 딸 이즈나&퀸덤 미연🌟서바이벌 비하인드 공개 | 미연이의 뮤트로 EP.7",
+  "title": "[미연.zip📁] 엠넷의 딸 이즈나&퀸덤 미연🌟서바이벌 비하인드 공개 | 미연이의 뮤트로 EP.7"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=Gqk3Ve1Tk3o",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-09-30T18:00:00",
+  "duration": "00:22:05",
+  "thumbnail": "https://i.ytimg.com/vi/Gqk3Ve1Tk3o/maxresdefault.jpg",
+  "alt": "[SUB] 女團偶像要怎麼做才好呢？Lulu | 鑑定師 Global EP.4 | i-dle 舒華 #감별사",
+  "title": "[SUB] 女團偶像要怎麼做才好呢？Lulu | 鑑定師 Global EP.4 | i-dle 舒華 #감별사"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=tRpLxLe4Ynw",
+  "category": "Media_Content",
+  "member": "소연",
+  "date": "2025-09-30T18:00:00",
+  "duration": "00:14:48",
+  "thumbnail": "https://i.ytimg.com/vi/tRpLxLe4Ynw/maxresdefault.jpg",
+  "alt": "[#힙팝프린세스/1회 선공개] '𝘽𝙊𝙒 𝙏𝙊 𝙈𝙀!' 한국 VS 일본 자기소개 싸이퍼 START🔥",
+  "title": "[#힙팝프린세스/1회 선공개] '𝘽𝙊𝙒 𝙏𝙊 𝙈𝙀!' 한국 VS 일본 자기소개 싸이퍼 START🔥"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=P_0J47IbrAE",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2025-10-01T18:00:00",
+  "duration": "00:24:23",
+  "thumbnail": "https://i.ytimg.com/vi/P_0J47IbrAE/maxresdefault.jpg",
+  "alt": "BIBIM-POP WITH THAILAND EP.01 BamBam with MINNIE x NATTY | 비빔팝",
+  "title": "BIBIM-POP WITH THAILAND EP.01 BamBam with MINNIE x NATTY | 비빔팝"
+},
+
+
+{
+  "link": "https://www.youtube.com/watch?v=-Lk2slQGgsc",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-10-06T18:00:00",
+  "duration": "00:17:24",
+  "thumbnail": "https://i.ytimg.com/vi/-Lk2slQGgsc/maxresdefault.jpg",
+  "alt": "숨겨진 MLB 선수를 찾아라! NCT 쟈니, 아이들 미연, 김병현: 과연 진짜 MLB 선수를 맞힐 수 있을까?",
+  "title": "숨겨진 MLB 선수를 찾아라! NCT 쟈니, 아이들 미연, 김병현: 과연 진짜 MLB 선수를 맞힐 수 있을까?"
+},
+{
+  "link": "https://www.youtube.com/watch?v=fYgrwYfN_XA",
+  "category": "Media_Content",
+  "member": "민니, 슈화",
+  "date": "2025-09-27T18:00:00",
+  "duration": "00:04:17",
+  "thumbnail": "https://i.ytimg.com/vi/fYgrwYfN_XA/maxresdefault.jpg",
+  "alt": "《回魂計》The Resurrected | i-dle宣傳曲訪談 Promotional Song Interview | Netflix",
+  "title": "《回魂計》The Resurrected | i-dle宣傳曲訪談 Promotional Song Interview | Netflix"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=yKGJ4skMico",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2025-10-06T18:00:00",
+  "duration": "00:02:57",
+  "thumbnail": "https://i.ytimg.com/vi/yKGJ4skMico/maxresdefault.jpg",
+  "alt": "아이들 'ASEA 2025’ 아티스트석 리액션 모음 🎬 | idle Artist Seat Reactions at Asia Star Entertainer Awards 2025",
+  "title": "아이들 'ASEA 2025’ 아티스트석 리액션 모음 🎬 | idle Artist Seat Reactions at Asia Star Entertainer Awards 2025"
+},
+{
+  "link": "https://www.youtube.com/watch?v=Yz4x0EqnKNs",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-10-07T18:00:00",
+  "duration": "00:01:22",
+  "thumbnail": "https://i.ytimg.com/vi/Yz4x0EqnKNs/maxresdefault.jpg",
+  "alt": "[미연.zip📁] 드릴 말씀이 있어요📢",
+  "title": "[미연.zip📁] 드릴 말씀이 있어요📢"
+},
+{
+  "link": "https://www.youtube.com/watch?v=Wwvk3BCbgeU",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-10-07T18:00:00",
+  "duration": "00:25:26",
+  "thumbnail": "https://i.ytimg.com/vi/Wwvk3BCbgeU/maxresdefault.jpg",
+  "alt": "[SUB] 范少勳, 本來是為了宣傳才來的.. 結果卻公開告白了💝 | 鑑定師 Global EP.5 | i-dle 舒華 #감별사",
+  "title": "[SUB] 范少勳, 本來是為了宣傳才來的.. 結果卻公開告白了💝 | 鑑定師 Global EP.5 | i-dle 舒華 #감별사"
 }
 
 

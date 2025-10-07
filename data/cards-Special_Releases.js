@@ -1040,6 +1040,26 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/AGa2wCSK45Y/maxresdefault.jpg",
   "alt": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' #비하인더스테이션",
   "title": "[STATION X 0] 슬기(SEULGI)X신비(여자친구)X청하X소연 'Wow Thing' #비하인더스테이션"
+},
+{
+  "link": "https://www.youtube.com/watch?v=npndTWCUXSA",
+  "category": "Special_Releases",
+  "member": "아이들",
+  "date": "2025-10-03T18:00:00",
+  "duration": "00:02:59",
+  "thumbnail": "https://i.ytimg.com/vi/npndTWCUXSA/maxresdefault.jpg",
+  "alt": "BEYBLADE X × i-dle 「Invincible」 アニメMV",
+  "title": "BEYBLADE X × i-dle 「Invincible」 アニメMV"
+},
+{
+  "link": "https://www.youtube.com/watch?v=pcsLPm0ootg",
+  "category": "Special_Releases",
+  "member": "소연, 우기",
+  "date": "2025-10-03T18:00:00",
+  "duration": "00:03:33",
+  "thumbnail": "https://i.ytimg.com/vi/pcsLPm0ootg/maxresdefault.jpg",
+  "alt": "[소연, 우기] Genie, Make a Wish OST (다 이루어질지니) - GAME",
+  "title": "[소연, 우기] Genie, Make a Wish OST (다 이루어질지니) - GAME"
 }
 
 

@@ -1159,6 +1159,16 @@ const commercialsCards = [
   "thumbnail": "https://i.ytimg.com/vi/DjGs7ZlKEeU/maxresdefault.jpg",
   "alt": "나의 하루를 원씽하다, M.Y. ONE THING",
   "title": "나의 하루를 원씽하다, M.Y. ONE THING"
+},
+{
+  "link": "https://www.youtube.com/watch?v=SnQ6GcKn__8",
+  "category": "Commercials",
+  "member": "슈화",
+  "date": "2025-09-24T18:00:00",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/SnQ6GcKn__8/sddefault.jpg",
+  "alt": "𝙎𝙆𝙀𝘾𝙃𝙀𝙍𝙎 𝙭 𝙎𝙃𝙐𝙃𝙐𝘼 「我的舒式主場」 GO WALK 8 升級上市",
+  "title": "𝙎𝙆𝙀𝘾𝙃𝙀𝙍𝙎 𝙭 𝙎𝙃𝙐𝙃𝙐𝘼 「我的舒式主場」 GO WALK 8 升級上市"
 }
 
 

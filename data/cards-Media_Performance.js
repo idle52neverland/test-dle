@@ -3215,16 +3215,6 @@ const mediaPerformanceCards = [
   "alt": "[릴레이댄스] 우기(YUQI) - M.O. (4K)",
   "title": "[릴레이댄스] 우기(YUQI) - M.O. (4K)"
 },
-{
-  "link": "https://youtu.be/s3JJWoC7YyY",
-  "category": "Media_Performance",
-  "member": "아이들",
-  "date": "2025-09-20",
-  "duration": "00:26:48",
-  "thumbnail": "https://i.ytimg.com/vi/s3JJWoC7YyY/maxresdefault.jpg",
-  "alt": "MO두 주목❣️ 5명이니까 5배로 다양한 아이들의 솔로 무대 몰아보기💜 | i-dle Stage Compilation",
-  "title": "MO두 주목❣️ 5명이니까 5배로 다양한 아이들의 솔로 무대 몰아보기💜 | i-dle Stage Compilation"
-},
 
 {
   "link": "https://youtu.be/7XMBhrDn3hk",
@@ -3245,7 +3235,28 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/mCSXaNPsJm8/maxresdefault.jpg",
   "alt": "미연 30분 메들리🎧 눈과 귀가 호강하는 뮤트로 playlist",
   "title": "미연 30분 메들리🎧 눈과 귀가 호강하는 뮤트로 playlist"
+},
+{
+  "link": "https://www.youtube.com/watch?v=51CPdqT2k-Q",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-09-28T18:00:00",
+  "duration": "00:04:09",
+  "thumbnail": "https://i.ytimg.com/vi/51CPdqT2k-Q/maxresdefault.jpg",
+  "alt": "[4K] 우기(YUQI) “아프다(Gone)” Band LIVE | it's Live",
+  "title": "[4K] 우기(YUQI) “아프다(Gone)” Band LIVE | it's Live"
+},
+{
+  "link": "https://www.youtube.com/watch?v=TT--75sUly8",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-10-02T18:00:00",
+  "duration": "00:01:51",
+  "thumbnail": "https://i.ytimg.com/vi/TT--75sUly8/maxresdefault.jpg",
+  "alt": "[뮤트로.zip] 미연 - SIGN🎧",
+  "title": "[뮤트로.zip] 미연 - SIGN🎧"
 }
+
 
 
 

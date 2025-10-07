@@ -14990,7 +14990,421 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/2GgYiiWU9lg/maxresdefault.jpg",
   "alt": "Show me your M.O.",
   "title": "Show me your M.O."
+},
+{
+  "link": "https://www.youtube.com/watch?v=crgLUTzRSXE",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-09-25T18:00:00",
+  "duration": "00:00:50",
+  "thumbnail": "https://i.ytimg.com/vi/crgLUTzRSXE/maxresdefault.jpg",
+  "alt": "i-dle JAPAN 1st EP 『i-dle』 Concept Image Behind 💛",
+  "title": "i-dle JAPAN 1st EP 『i-dle』 Concept Image Behind 💛"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=XVZWBAr9k2c",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-09-25T18:00:00",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/XVZWBAr9k2c/maxresdefault.jpg",
+  "alt": "💌 MINNIE’s Message about the FAN MEET UP ❤️",
+  "title": "💌 MINNIE’s Message about the FAN MEET UP ❤️"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=6rgJanQ7BTw",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-09-26T18:00:00",
+  "duration": "00:00:33",
+  "thumbnail": "https://i.ytimg.com/vi/6rgJanQ7BTw/maxresdefault.jpg",
+  "alt": "i-dle JAPAN 1st EP 『i-dle』 Concept Image Behind 🎆",
+  "title": "i-dle JAPAN 1st EP 『i-dle』 Concept Image Behind 🎆"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=pnctXpk5dk4",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-09-28T18:00:00",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/pnctXpk5dk4/maxresdefault.jpg",
+  "alt": "MINNIE, what are you doing? 🧐",
+  "title": "MINNIE, what are you doing? 🧐"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=LJUtAfNWZT0",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-28T18:00:00",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/LJUtAfNWZT0/maxresdefault.jpg",
+  "alt": "Could it be magic 💫",
+  "title": "Could it be magic 💫"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=Bo_G0MB0_qc",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-09-28T18:00:00",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/Bo_G0MB0_qc/maxresdefault.jpg",
+  "alt": "i-dle JAPAN 1st EP 『i-dle』 Coming Soon 💫✨",
+  "title": "i-dle JAPAN 1st EP 『i-dle』 Coming Soon 💫✨"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=Reyoq92PeKY",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-28T18:00:00",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/Reyoq92PeKY/maxresdefault.jpg",
+  "alt": "[it’s CAM] 우기 퇴근해보겠습니다! | it's Live #YUQI #잇츠라이브",
+  "title": "[it’s CAM] 우기 퇴근해보겠습니다! | it's Live #YUQI #잇츠라이브"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=2lBZVRGZCxw",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-28T18:00:00",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/2lBZVRGZCxw/maxresdefault.jpg",
+  "alt": "카메라 ON/OFF 확실한 프로 아이돌 송우기❤️ | STUDIO CHOOM ORIGINAL #shorts",
+  "title": "카메라 ON/OFF 확실한 프로 아이돌 송우기❤️ | STUDIO CHOOM ORIGINAL #shorts"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=1kVP2HjITMk",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-28T18:00:00",
+  "duration": "00:01:06",
+  "thumbnail": "https://i.ytimg.com/vi/1kVP2HjITMk/maxresdefault.jpg",
+  "alt": "우기가 M.O.든지 대답해 드립니다! 랜덤 질문 뽑기🗳 | STUDIO CHOOM ORIGINAL #shorts",
+  "title": "우기가 M.O.든지 대답해 드립니다! 랜덤 질문 뽑기🗳 | STUDIO CHOOM ORIGINAL #shorts"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=CGMI3eoRSJ4",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-28T18:00:00",
+  "duration": "00:01:24",
+  "thumbnail": "https://i.ytimg.com/vi/CGMI3eoRSJ4/maxresdefault.jpg",
+  "alt": "도전! 우기의 한호흡 챌린지 | STUDIO CHOOM ORIGINAL #shorts",
+  "title": "도전! 우기의 한호흡 챌린지 | STUDIO CHOOM ORIGINAL #shorts"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=hnqN5YGpRc4",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-29T18:00:00",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/hnqN5YGpRc4/maxresdefault.jpg",
+  "alt": "What do you want? SUPERSTAR琦妙夜💖",
+  "title": "What do you want? SUPERSTAR琦妙夜💖"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=XuviitBJMLM",
+  "category": "Shorts",
+  "member": "민니, 슈화",
+  "date": "2025-09-29T18:00:00",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/XuviitBJMLM/maxresdefault.jpg",
+  "alt": "《回魂計》｜ i-dle 復仇表情符號挑戰｜Netflix",
+  "title": "《回魂計》｜ i-dle 復仇表情符號挑戰｜Netflix"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=S556XPcHgGU",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-30T18:00:00",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/S556XPcHgGU/maxresdefault.jpg",
+  "alt": "YUQI's M.O. = Neverland 💕",
+  "title": "YUQI's M.O. = Neverland 💕"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=YjRZrs82e7E",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-09-30T18:00:00",
+  "duration": "00:00:49",
+  "thumbnail": "https://i.ytimg.com/vi/YjRZrs82e7E/maxresdefault.jpg",
+  "alt": "태국 vs 한국 과자 맞추기 챌린지!(틀리면 레몬 벌칙🤢) #비빔팝 #BIBIMPOP #BAMBAM #MINNIE #NATTY",
+  "title": "태국 vs 한국 과자 맞추기 챌린지!(틀리면 레몬 벌칙🤢) #비빔팝 #BIBIMPOP #BAMBAM #MINNIE #NATTY"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=qyjREgPy1dw",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-02T18:00:00",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/qyjREgPy1dw/maxresdefault.jpg",
+  "alt": "아이들 미연이 궁금해해요! 여러분의 월드시리즈 PICK은 누구?!🔥⚾👀",
+  "title": "아이들 미연이 궁금해해요! 여러분의 월드시리즈 PICK은 누구?!🔥⚾👀"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=KFpaKav1zbc",
+  "category": "Shorts",
+  "member": "민니, 소연",
+  "date": "2025-10-02T18:00:00",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/KFpaKav1zbc/maxresdefault.jpg",
+  "alt": "아이들 민니 & 소연이 묻습니다!⚾ 올해 월드시리즈 결승팀은 어디?!🔥",
+  "title": "아이들 민니 & 소연이 묻습니다!⚾ 올해 월드시리즈 결승팀은 어디?!🔥"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=6WaEfFzP9TA",
+  "category": "Shorts",
+  "member": "우기, 슈화",
+  "date": "2025-10-02T18:00:00",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/6WaEfFzP9TA/maxresdefault.jpg",
+  "alt": "아이들 우기와 슈화가 묻습니다!⚾ 올해 월드시리즈 결승팀은 어디?!🔥",
+  "title": "아이들 우기와 슈화가 묻습니다!⚾ 올해 월드시리즈 결승팀은 어디?!🔥"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=sW2OD_d69ho",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-10-03T18:00:00",
+  "duration": "00:00:33",
+  "thumbnail": "https://i.ytimg.com/vi/sW2OD_d69ho/maxresdefault.jpg",
+  "alt": "どうしよっかな ∘｡*✩‧₊˚",
+  "title": "どうしよっかな ∘｡*✩‧₊˚"
+},
+{
+  "link": "https://www.youtube.com/watch?v=IqZnrj_jLCo",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-03T18:00:00",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/IqZnrj_jLCo/maxresdefault.jpg",
+  "alt": "#MammaMia_challenge with #MIYEON @m1yeon_zip #izna #이즈나 #RYUSARANG #CHOIJUNGEUN #MammaMia",
+  "title": "#MammaMia_challenge with #MIYEON @m1yeon_zip #izna #이즈나 #RYUSARANG #CHOIJUNGEUN #MammaMia"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=g3NEV6YMUP0",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-10-04T18:00:00",
+  "duration": "00:00:35",
+  "thumbnail": "https://i.ytimg.com/vi/g3NEV6YMUP0/maxresdefault.jpg",
+  "alt": "We runnin’ blind but the stars still shine ⌒♡｡．",
+  "title": "We runnin’ blind but the stars still shine ⌒♡｡．"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=ipMDHYCfSIc",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-04T18:00:00",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/ipMDHYCfSIc/maxresdefault.jpg",
+  "alt": "退屈な日々に穴 ⁺. ⊹˚₊ ₊·",
+  "title": "退屈な日々に穴 ⁺. ⊹˚₊ ₊·"
+},
+{
+  "link": "https://www.youtube.com/watch?v=O8wjj2jYA3k",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-10-04T18:00:00",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/O8wjj2jYA3k/maxresdefault.jpg",
+  "alt": "もっと楽しい日が続く ♡.˚⑅",
+  "title": "もっと楽しい日が続く ♡.˚⑅"
+},
+{
+  "link": "https://www.youtube.com/watch?v=Gh36WYN4qE0",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-10-04T18:00:00",
+  "duration": "00:00:35",
+  "thumbnail": "https://i.ytimg.com/vi/Gh36WYN4qE0/maxresdefault.jpg",
+  "alt": "SAITAMA いきましょう 🩵🤍",
+  "title": "SAITAMA いきましょう 🩵🤍"
+},
+{
+  "link": "https://www.youtube.com/watch?v=osWBxj_lfr8",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-10-04T18:00:00",
+  "duration": "00:00:13",
+  "thumbnail": "https://i.ytimg.com/vi/osWBxj_lfr8/maxresdefault.jpg",
+  "alt": "3 2 1 Invincible ❣️",
+  "title": "3 2 1 Invincible ❣️"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=K1Z3zxrKHN8",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2025-10-05T18:00:00",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/K1Z3zxrKHN8/maxresdefault.jpg",
+  "alt": "ଘ 心でまだ輝いてる ミ★",
+  "title": "ଘ 心でまだ輝いてる ミ★"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=BIrxBE8ypDA",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-10-05T18:00:00",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/BIrxBE8ypDA/maxresdefault.jpg",
+  "alt": "何も怖くなかったの *｡⋆ !",
+  "title": "何も怖くなかったの *｡⋆ !"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=X3iqUyqFTJ0",
+  "category": "Shorts",
+  "member": "슈화",
+  "date": "2025-10-05T18:00:00",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/X3iqUyqFTJ0/maxresdefault.jpg",
+  "alt": "♥* 探し求めていた幸せ +♡*",
+  "title": "♥* 探し求めていた幸せ +♡*"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=x7FnLDAfcmg",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-05T18:00:00",
+  "duration": "00:00:46",
+  "thumbnail": "https://i.ytimg.com/vi/x7FnLDAfcmg/maxresdefault.jpg",
+  "alt": "🎼 なつかしい歌が聞こえた",
+  "title": "🎼 なつかしい歌が聞こえた"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=9NKNholhcbE",
+  "category": "Shorts",
+  "member": "민니, 우기, 슈화",
+  "date": "2025-10-05T18:00:00",
+  "duration": "00:00:42",
+  "thumbnail": "https://i.ytimg.com/vi/9NKNholhcbE/maxresdefault.jpg",
+  "alt": "ネボボ 💜 何が好き?🍦",
+  "title": "ネボボ 💜 何が好き?🍦"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=2MsHreHGTlg",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2025-10-05T18:00:00",
+  "duration": "00:00:54",
+  "thumbnail": "https://i.ytimg.com/vi/2MsHreHGTlg/maxresdefault.jpg",
+  "alt": "どこまでも キミに会いに行こう 🦋",
+  "title": "どこまでも キミに会いに行こう 🦋"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=1r_o904Ddu0",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-06T18:00:00",
+  "duration": "00:00:14",
+  "thumbnail": "https://i.ytimg.com/vi/1r_o904Ddu0/maxresdefault.jpg",
+  "alt": "천천히 한명씩...! どうしよっかな..😥",
+  "title": "천천히 한명씩...! どうしよっかな..😥"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=055wqGoA3-8",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-10-06T18:00:00",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/055wqGoA3-8/maxresdefault.jpg",
+  "alt": "We tryin’ find what’s real inside",
+  "title": "We tryin’ find what’s real inside"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=UrTbrc1Ahus",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2025-10-07T18:00:00",
+  "duration": "00:00:12",
+  "thumbnail": "https://i.ytimg.com/vi/UrTbrc1Ahus/maxresdefault.jpg",
+  "alt": "올라가야 하는데.. どうしよっかな..😳",
+  "title": "올라가야 하는데.. どうしよっかな..😳"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=OiM-3OFmjwU",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-10-07T18:00:00",
+  "duration": "00:00:12",
+  "thumbnail": "https://i.ytimg.com/vi/OiM-3OFmjwU/maxresdefault.jpg",
+  "alt": "여기가 어디지.. どうしよっかな..🫨",
+  "title": "여기가 어디지.. どうしよっかな..🫨"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=rspRGf3jxFY",
+  "category": "Shorts",
+  "member": "슈화",
+  "date": "2025-10-07T18:00:00",
+  "duration": "00:00:14",
+  "thumbnail": "https://i.ytimg.com/vi/rspRGf3jxFY/sddefault.jpg",
+  "alt": "지갑이 어딨지.. どうしよっかな..😂",
+  "title": "지갑이 어딨지.. どうしよっかな..😂"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=4TXzX8ILlHA",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2025-09-25T18:00:00",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/4TXzX8ILlHA/maxresdefault.jpg",
+  "alt": "[#힙팝프린세스] 𝑯𝑰𝑷𝑻𝑰𝑷 | 소연",
+  "title": "[#힙팝프린세스] 𝑯𝑰𝑷𝑻𝑰𝑷 | 소연"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=crgLUTzRSXE",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-09-25T18:00:00",
+  "duration": "00:00:50",
+  "thumbnail": "https://i.ytimg.com/vi/crgLUTzRSXE/maxresdefault.jpg",
+  "alt": "i-dle JAPAN 1st EP 『i-dle』 Concept Image Behind 💛",
+  "title": "i-dle JAPAN 1st EP 『i-dle』 Concept Image Behind 💛"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=XVZWBAr9k2c",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-09-25T18:00:00",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/XVZWBAr9k2c/maxresdefault.jpg",
+  "alt": "💌 MINNIE’s Message about the FAN MEET UP ❤️",
+  "title": "💌 MINNIE’s Message about the FAN MEET UP ❤️"
 }
+
 
 
 

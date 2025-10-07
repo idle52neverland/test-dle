@@ -579,6 +579,26 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/yieTZE9Qt5s/maxresdefault.jpg",
   "alt": "มินนี่ สมาชิกวง i-dle หนึ่งในผู้อุปการะของมูลนิธิศุภนิมิตฯ World Vision | 월드비전",
   "title": "มินนี่ สมาชิกวง i-dle หนึ่งในผู้อุปการะของมูลนิธิศุภนิมิตฯ World Vision | 월드비전"
+},
+{
+  "link": "https://www.youtube.com/watch?v=JmFgJt8aL2I",
+  "category": "Etc",
+  "member": "우기",
+  "date": "2025-09-26T18:00:00",
+  "duration": "00:00:43",
+  "thumbnail": "https://i.ytimg.com/vi/JmFgJt8aL2I/maxresdefault.jpg",
+  "alt": "날 사랑했던 널 찾아갈 테니까 💘 #폴킴 #PaulKim #우기 #YUQI #아프다 #아이들 #idle @official_i_dle",
+  "title": "날 사랑했던 널 찾아갈 테니까 💘 #폴킴 #PaulKim #우기 #YUQI #아프다 #아이들 #idle @official_i_dle"
+},
+{
+  "link": "https://www.youtube.com/watch?v=Q_yM2dJQS6I",
+  "category": "Etc",
+  "member": "우기",
+  "date": "2025-10-05T18:00:00",
+  "duration": "00:28:59",
+  "thumbnail": "https://i.ytimg.com/vi/Q_yM2dJQS6I/maxresdefault.jpg",
+  "alt": "[17:23~] I Surprised 5 Kpop Groups in ONE COLOR!",
+  "title": "[17:23~]I Surprised 5 Kpop Groups in ONE COLOR!"
 }
 
 

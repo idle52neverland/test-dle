@@ -2029,8 +2029,18 @@ const interviewsCards = [
   "thumbnail": "https://i.ytimg.com/vi/7rvlEFRKIGk/maxresdefault.jpg",
   "alt": "하고 싶은 거 다 해💥 소연이 소연답게 살아가는 방법 | ELLE KOREA",
   "title": "하고 싶은 거 다 해💥 소연이 소연답게 살아가는 방법 | ELLE KOREA"
-}
+},
 
+{
+  "link": "https://www.youtube.com/watch?v=qQDotug8amE",
+  "category": "Interviews",
+  "member": "아이들",
+  "date": "2025-09-29T18:00:00",
+  "duration": "00:05:43",
+  "thumbnail": "https://i.ytimg.com/vi/qQDotug8amE/maxresdefault.jpg",
+  "alt": "I-dle on Singapore, learning Japanese and their solo work | E-Junkies",
+  "title": "I-dle on Singapore, learning Japanese and their solo work | E-Junkies"
+}
 
 
 

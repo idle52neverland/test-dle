@@ -604,6 +604,27 @@ const recordingBehindCards = [
   "thumbnail": "https://i.ytimg.com/vi/aHIY4dHawsA/maxresdefault.jpg",
   "alt": "i-dle (아이들) '그래도 돼요' Recording BehindㅣSUB",
   "title": "i-dle (아이들) '그래도 돼요' Recording BehindㅣSUB"
+},
+{
+  "link": "https://www.youtube.com/watch?v=FgVpKAmowTY",
+  "category": "Recording_Behind",
+  "member": "우기",
+  "date": "2025-09-26T18:00:00",
+  "duration": "00:16:38",
+  "thumbnail": "https://i.ytimg.com/vi/FgVpKAmowTY/maxresdefault.jpg",
+  "alt": "우기 (YUQI) 'M.O.' Recording BehindㅣSUB",
+  "title": "우기 (YUQI) 'M.O.' Recording BehindㅣSUB"
+},
+
+{
+  "link": "https://www.youtube.com/watch?v=ERx40yJ9zXQ",
+  "category": "Recording_Behind",
+  "member": "우기",
+  "date": "2025-09-28T18:00:00",
+  "duration": "00:19:05",
+  "thumbnail": "https://i.ytimg.com/vi/ERx40yJ9zXQ/maxresdefault.jpg",
+  "alt": "우기 (YUQI) '아프다' Recording BehindㅣSUB",
+  "title": "우기 (YUQI) '아프다' Recording BehindㅣSUB"
 }
 
 

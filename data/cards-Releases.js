@@ -1496,6 +1496,16 @@ const releasesCards = [
   "alt": "우기 (YUQI) '还痛吗' SPECIAL CLIP",
   "title": "우기 (YUQI) '还痛吗' SPECIAL CLIP",
   "subtag": "Special Clip"
+},
+{
+  "link": "https://www.youtube.com/watch?v=DcxiggTs_q4",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2025-10-03T18:00:00",
+  "duration": "00:03:51",
+  "thumbnail": "https://i.ytimg.com/vi/DcxiggTs_q4/maxresdefault.jpg",
+  "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V",
+  "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V"
 }
 
 
