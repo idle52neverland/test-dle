@@ -7,7 +7,7 @@ const shortsCards = [
   "member": "아이들",
   "date": "2019-12-05T18:00:00",
   "duration": "00:00:23",
-  "thumbnail": "https://raw.githubusercontent.com/idle52neverland/replay/main/images/tiktok.jpg",
+  "thumbnail": "images/tiktok.jpg",
   "alt": "[📢] (여자)아이들 오피셜 틱톡 채널 오픈!(G)I-DLE Official TikTok Channel is Open! ❤💜 #여자아이들#g_i_dle",
   "title": "[📢] (여자)아이들 오피셜 틱톡 채널 오픈!(G)I-DLE Official TikTok Channel is Open! ❤💜 #여자아이들#g_i_dle"
 },
@@ -16766,4 +16766,5 @@ const shortsCards = [
 
 
   ];
+
 window.shortsCards = shortsCards;
