@@ -1,7 +1,7 @@
 const recordingBehindCards = [
 
 {
-  "link": "https://www.youtube.com/watch?v=MAcsBbKPMtE",
+  "link": "https://youtu.be/MAcsBbKPMtE",
   "category": "Recording_Behind",
   "member": "미연",
   "date": "2019-07-11T18:00:00",
@@ -12,7 +12,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=S3DVpMbd9Aw",
+  "link": "https://youtu.be/S3DVpMbd9Aw",
   "category": "Recording_Behind",
   "member": "소연",
   "date": "2020-07-21T18:00:00",
@@ -23,7 +23,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ipeRGRNQiC4",
+  "link": "https://youtu.be/ipeRGRNQiC4",
   "category": "Recording_Behind",
   "member": "소연, 미연",
   "date": "2020-08-28T18:00:00",
@@ -34,7 +34,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YVjugI2zlk4",
+  "link": "https://youtu.be/YVjugI2zlk4",
   "category": "Recording_Behind",
   "member": "민니",
   "date": "2020-10-14T18:00:00",
@@ -45,7 +45,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=v99wxx_Dkj8",
+  "link": "https://youtu.be/v99wxx_Dkj8",
   "category": "Recording_Behind",
   "member": "아이들",
   "date": "2021-02-06T18:00:00",
@@ -56,7 +56,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rI-88uYZNyE",
+  "link": "https://youtu.be/rI-88uYZNyE",
   "category": "Recording_Behind",
   "member": "미연",
   "date": "2021-10-24T18:00:00",
@@ -67,7 +67,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mgB4LrADUls",
+  "link": "https://youtu.be/mgB4LrADUls",
   "category": "Recording_Behind",
   "member": "소연",
   "date": "2022-01-17T18:00:00",
@@ -78,7 +78,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zGTjopEZnmQ",
+  "link": "https://youtu.be/zGTjopEZnmQ",
   "category": "Recording_Behind",
   "member": "미연",
   "date": "2022-01-29T18:00:00",
@@ -89,7 +89,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UUh3rlx3lSw",
+  "link": "https://youtu.be/UUh3rlx3lSw",
   "category": "Recording_Behind",
   "member": "미연",
   "date": "2022-02-08T18:00:00",
@@ -100,7 +100,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pXVD5lLQyq0",
+  "link": "https://youtu.be/pXVD5lLQyq0",
   "category": "Recording_Behind",
   "member": "민니",
   "date": "2022-06-21T18:00:00",
@@ -111,7 +111,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4zKHhA_HtKQ",
+  "link": "https://youtu.be/4zKHhA_HtKQ",
   "category": "Recording_Behind",
   "member": "민니",
   "date": "2022-07-05T18:00:00",
@@ -122,7 +122,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xBdy4pG6pK4",
+  "link": "https://youtu.be/xBdy4pG6pK4",
   "category": "Recording_Behind",
   "member": "아이들",
   "date": "2022-07-28T18:00:00",
@@ -133,7 +133,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=F8p3RR37naI",
+  "link": "https://youtu.be/F8p3RR37naI",
   "category": "Recording_Behind",
   "member": "아이들",
   "date": "2022-12-23T18:00:00",
@@ -144,7 +144,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kfadkfcKUrU",
+  "link": "https://youtu.be/kfadkfcKUrU",
   "category": "Recording_Behind",
   "member": "민니",
   "date": "2023-01-24T18:00:00",
@@ -155,7 +155,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pPLX4Y37dD0",
+  "link": "https://youtu.be/pPLX4Y37dD0",
   "category": "Recording_Behind",
   "member": "민니",
   "date": "2023-01-26T18:00:00",
@@ -166,7 +166,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NPrqmhdrjjI",
+  "link": "https://youtu.be/NPrqmhdrjjI",
   "category": "Recording_Behind",
   "member": "민니",
   "date": "2023-01-26T18:00:00",
@@ -177,7 +177,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FaSYRHyd-2E",
+  "link": "https://youtu.be/FaSYRHyd-2E",
   "category": "Recording_Behind",
   "member": "미연",
   "date": "2023-02-01T18:00:00",
@@ -188,7 +188,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YlEahTLcL_Y",
+  "link": "https://youtu.be/YlEahTLcL_Y",
   "category": "Recording_Behind",
   "member": "우기",
   "date": "2023-02-23T18:00:00",
@@ -199,7 +199,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CqBytxSQhHo",
+  "link": "https://youtu.be/CqBytxSQhHo",
   "category": "Recording_Behind",
   "member": "우기",
   "date": "2023-02-23T18:00:00",
@@ -210,7 +210,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aCHXSOMiZII",
+  "link": "https://youtu.be/aCHXSOMiZII",
   "category": "Recording_Behind",
   "member": "민니",
   "date": "2023-03-13T18:00:00",
@@ -221,7 +221,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=17I_MiCA9HQ",
+  "link": "https://youtu.be/17I_MiCA9HQ",
   "category": "Recording_Behind",
   "member": "민니",
   "date": "2023-03-20T18:00:00",
@@ -232,7 +232,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wg7AL7inFTE",
+  "link": "https://youtu.be/wg7AL7inFTE",
   "category": "Recording_Behind",
   "member": "아이들",
   "date": "2023-05-26T18:00:00",
@@ -243,7 +243,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_5EOmPP9qwM",
+  "link": "https://youtu.be/_5EOmPP9qwM",
   "category": "Recording_Behind",
   "member": "아이들",
   "date": "2023-06-16T18:00:00",
@@ -254,7 +254,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CdSWl1tU_pk",
+  "link": "https://youtu.be/CdSWl1tU_pk",
   "category": "Recording_Behind",
   "member": "미연",
   "date": "2023-08-21T18:00:00",
@@ -265,7 +265,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=O2sNRgiTidc",
+  "link": "https://youtu.be/O2sNRgiTidc",
   "category": "Recording_Behind",
   "member": "미연",
   "date": "2023-08-21T18:00:00",
@@ -276,7 +276,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=C5VwU4rdeHU",
+  "link": "https://youtu.be/C5VwU4rdeHU",
   "category": "Recording_Behind",
   "member": "민니",
   "date": "2023-11-15T18:00:00",
@@ -287,7 +287,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6aYHbuAscVI",
+  "link": "https://youtu.be/6aYHbuAscVI",
   "category": "Recording_Behind",
   "member": "미연",
   "date": "2023-11-23T18:00:00",
@@ -298,7 +298,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=u_rl0JqSGVY",
+  "link": "https://youtu.be/u_rl0JqSGVY",
   "category": "Recording_Behind",
   "member": "아이들",
   "date": "2024-02-11T18:00:00",
@@ -309,7 +309,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RwmNUJFSX2E",
+  "link": "https://youtu.be/RwmNUJFSX2E",
   "category": "Recording_Behind",
   "member": "우기",
   "date": "2024-02-27T18:00:00",
@@ -320,7 +320,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wFikxHi9WO0",
+  "link": "https://youtu.be/wFikxHi9WO0",
   "category": "Recording_Behind",
   "member": "미연",
   "date": "2024-03-22T18:00:00",
@@ -331,7 +331,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KSFu__HZVf8",
+  "link": "https://youtu.be/KSFu__HZVf8",
   "category": "Recording_Behind",
   "member": "우기",
   "date": "2024-04-09T18:00:00",
@@ -342,7 +342,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_lQxaYmt0DQ",
+  "link": "https://youtu.be/_lQxaYmt0DQ",
   "category": "Recording_Behind",
   "member": "민니",
   "date": "2024-04-17T18:00:00",
@@ -353,7 +353,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nYUetCEWXVE",
+  "link": "https://youtu.be/nYUetCEWXVE",
   "category": "Recording_Behind",
   "member": "우기",
   "date": "2024-05-01T18:00:00",
@@ -364,7 +364,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=n2Q4qN7kjGM",
+  "link": "https://youtu.be/n2Q4qN7kjGM",
   "category": "Recording_Behind",
   "member": "민니, 우기",
   "date": "2024-05-17T18:00:00",
@@ -375,7 +375,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ioWv9shT4lU",
+  "link": "https://youtu.be/ioWv9shT4lU",
   "category": "Recording_Behind",
   "member": "아이들",
   "date": "2024-07-17T18:00:00",
@@ -386,7 +386,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dTAvYoKt6M4",
+  "link": "https://youtu.be/dTAvYoKt6M4",
   "category": "Recording_Behind",
   "member": "아이들",
   "date": "2024-08-02T18:00:00",
@@ -397,7 +397,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8u9879OGO14",
+  "link": "https://youtu.be/8u9879OGO14",
   "category": "Recording_Behind",
   "member": "아이들",
   "date": "2024-08-06T18:00:00",
@@ -408,7 +408,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=s_CQvOpX9FY",
+  "link": "https://youtu.be/s_CQvOpX9FY",
   "category": "Recording_Behind",
   "member": "소연",
   "date": "2024-09-26T18:00:00",
@@ -419,7 +419,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3Ccu3CjsPZo",
+  "link": "https://youtu.be/3Ccu3CjsPZo",
   "category": "Recording_Behind",
   "member": "미연",
   "date": "2024-11-13T18:00:00",
@@ -430,7 +430,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HKzKcnEx9Bk",
+  "link": "https://youtu.be/HKzKcnEx9Bk",
   "category": "Recording_Behind",
   "member": "민니",
   "date": "2025-02-01T18:00:00",
@@ -441,7 +441,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8V2SpdoRxTk",
+  "link": "https://youtu.be/8V2SpdoRxTk",
   "category": "Recording_Behind",
   "member": "미연",
   "date": "2025-02-12T18:00:00",
@@ -452,7 +452,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yvWNj1E872g",
+  "link": "https://youtu.be/yvWNj1E872g",
   "category": "Recording_Behind",
   "member": "민니",
   "date": "2025-02-17T18:00:00",
@@ -463,7 +463,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OAISVzre8QQ",
+  "link": "https://youtu.be/OAISVzre8QQ",
   "category": "Recording_Behind",
   "member": "민니",
   "date": "2025-03-21T18:00:00",
@@ -474,7 +474,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pdUV1R2ZObs",
+  "link": "https://youtu.be/pdUV1R2ZObs",
   "category": "Recording_Behind",
   "member": "아이들",
   "date": "2025-04-12T18:00:00",
@@ -485,7 +485,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HxROxHdBQ2g",
+  "link": "https://youtu.be/HxROxHdBQ2g",
   "category": "Recording_Behind",
   "member": "미연",
   "date": "2025-04-17T18:00:00",
@@ -496,7 +496,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9qLXSI7soLw",
+  "link": "https://youtu.be/9qLXSI7soLw",
   "category": "Recording_Behind",
   "member": "민니",
   "date": "2025-04-22T18:00:00",
@@ -507,7 +507,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eOFfOLZOp0M",
+  "link": "https://youtu.be/eOFfOLZOp0M",
   "category": "Recording_Behind",
   "member": "민니",
   "date": "2025-04-26T18:00:00",
@@ -518,7 +518,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ly5SxYH5OhI",
+  "link": "https://youtu.be/Ly5SxYH5OhI",
   "category": "Recording_Behind",
   "member": "아이들",
   "date": "2025-05-27T18:00:00",
@@ -529,7 +529,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Rf0ajz4PrEg",
+  "link": "https://youtu.be/Rf0ajz4PrEg",
   "category": "Recording_Behind",
   "member": "아이들",
   "date": "2025-06-03T18:00:00",
@@ -540,7 +540,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=u3Yu5N3CMNw",
+  "link": "https://youtu.be/u3Yu5N3CMNw",
   "category": "Recording_Behind",
   "member": "아이들",
   "date": "2025-06-10T18:00:00",
@@ -551,7 +551,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vQvPnv1ADkk",
+  "link": "https://youtu.be/vQvPnv1ADkk",
   "category": "Recording_Behind",
   "member": "아이들",
   "date": "2025-06-17T18:00:00",
@@ -562,7 +562,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TofDu5B6OcA",
+  "link": "https://youtu.be/TofDu5B6OcA",
   "category": "Recording_Behind",
   "member": "우기",
   "date": "2025-06-20T18:00:00",
@@ -573,7 +573,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pjtTA-gGy9k",
+  "link": "https://youtu.be/pjtTA-gGy9k",
   "category": "Recording_Behind",
   "member": "아이들",
   "date": "2025-06-24T18:00:00",
@@ -584,7 +584,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fnW6z7a5Hm8",
+  "link": "https://youtu.be/fnW6z7a5Hm8",
   "category": "Recording_Behind",
   "member": "미연",
   "date": "2025-06-26T18:00:00",
@@ -595,7 +595,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aHIY4dHawsA",
+  "link": "https://youtu.be/aHIY4dHawsA",
   "category": "Recording_Behind",
   "member": "아이들",
   "date": "2025-07-01T18:00:00",
@@ -606,7 +606,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FgVpKAmowTY",
+  "link": "https://youtu.be/FgVpKAmowTY",
   "category": "Recording_Behind",
   "member": "우기",
   "date": "2025-09-26T18:00:00",
@@ -617,7 +617,7 @@ const recordingBehindCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ERx40yJ9zXQ",
+  "link": "https://youtu.be/ERx40yJ9zXQ",
   "category": "Recording_Behind",
   "member": "우기",
   "date": "2025-09-28T18:00:00",

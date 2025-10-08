@@ -1,7 +1,7 @@
 const officialChannelCards = [
 
 {
-  "link": "https://www.youtube.com/watch?v=Skz2kUcS5Jc",
+  "link": "https://youtu.be/Skz2kUcS5Jc",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2017-11-01T18:00:00",
@@ -13,7 +13,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=R5nP0jKDdR8",
+  "link": "https://youtu.be/R5nP0jKDdR8",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2017-11-04T18:00:00",
@@ -25,7 +25,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lI1WgtVyNOQ",
+  "link": "https://youtu.be/lI1WgtVyNOQ",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2017-11-14T18:00:00",
@@ -37,7 +37,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eg-l23ps50M",
+  "link": "https://youtu.be/eg-l23ps50M",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2018-01-06T18:00:00",
@@ -49,7 +49,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yXQFSJV2wtQ",
+  "link": "https://youtu.be/yXQFSJV2wtQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-01-31T18:00:00",
@@ -61,7 +61,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zX5Wf3SVSqM",
+  "link": "https://youtu.be/zX5Wf3SVSqM",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2018-03-07T18:00:00",
@@ -73,7 +73,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Dwi-oX-hRg8",
+  "link": "https://youtu.be/Dwi-oX-hRg8",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2018-04-25T18:00:00",
@@ -85,7 +85,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lJfzlFJq3Ts",
+  "link": "https://youtu.be/lJfzlFJq3Ts",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-04-25T18:00:00",
@@ -97,7 +97,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6KvYHQqq5F8",
+  "link": "https://youtu.be/6KvYHQqq5F8",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2018-04-25T18:00:00",
@@ -109,7 +109,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YHz9ABDyjmg",
+  "link": "https://youtu.be/YHz9ABDyjmg",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2018-04-26T18:00:00",
@@ -121,7 +121,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1woJTDD96iU",
+  "link": "https://youtu.be/1woJTDD96iU",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2018-04-26T18:00:00",
@@ -133,7 +133,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MkkbLKWx_GY",
+  "link": "https://youtu.be/MkkbLKWx_GY",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2018-04-26T18:00:00",
@@ -145,7 +145,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=r-B4WCuI78c",
+  "link": "https://youtu.be/r-B4WCuI78c",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-04-30T18:00:00",
@@ -157,7 +157,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mz-9otF_v00",
+  "link": "https://youtu.be/mz-9otF_v00",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2018-04-30T18:00:00",
@@ -169,7 +169,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=398QLj8ZKmE",
+  "link": "https://youtu.be/398QLj8ZKmE",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2018-04-30T18:00:00",
@@ -181,7 +181,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pOOwt28gZYA",
+  "link": "https://youtu.be/pOOwt28gZYA",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2018-04-30T18:00:00",
@@ -193,7 +193,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3w4ljZZ0iIA",
+  "link": "https://youtu.be/3w4ljZZ0iIA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-04-30T18:00:00",
@@ -205,7 +205,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Qw6Z4BbNbMc",
+  "link": "https://youtu.be/Qw6Z4BbNbMc",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2018-04-30T18:00:00",
@@ -217,7 +217,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5wn5ponH2XI",
+  "link": "https://youtu.be/5wn5ponH2XI",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2018-04-30T18:00:00",
@@ -229,7 +229,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=H54rWc8laeE",
+  "link": "https://youtu.be/H54rWc8laeE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-05-01T18:00:00",
@@ -241,7 +241,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mIh0X4jGLcE",
+  "link": "https://youtu.be/mIh0X4jGLcE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-05-03T18:00:00",
@@ -253,7 +253,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=atdBi-yIDgk",
+  "link": "https://youtu.be/atdBi-yIDgk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-05-04T18:00:00",
@@ -265,7 +265,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WeFiRp0p2JA",
+  "link": "https://youtu.be/WeFiRp0p2JA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-05-08T18:00:00",
@@ -277,7 +277,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Fhk4Qzj_QpM",
+  "link": "https://youtu.be/Fhk4Qzj_QpM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-05-10T18:00:00",
@@ -289,7 +289,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GOcJMC_JR7M",
+  "link": "https://youtu.be/GOcJMC_JR7M",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-05-16T18:00:00",
@@ -301,7 +301,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mV2KEz4OIAs",
+  "link": "https://youtu.be/mV2KEz4OIAs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-05-18T18:00:00",
@@ -313,7 +313,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=O5pRVUqzAuA",
+  "link": "https://youtu.be/O5pRVUqzAuA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-05-21T18:00:00",
@@ -325,7 +325,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SUFzczU-ahU",
+  "link": "https://youtu.be/SUFzczU-ahU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-05-29T18:00:00",
@@ -337,7 +337,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=W2CqsPE5Gtw",
+  "link": "https://youtu.be/W2CqsPE5Gtw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-06-05T18:00:00",
@@ -349,7 +349,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9zH2JuvaT8Y",
+  "link": "https://youtu.be/9zH2JuvaT8Y",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-06-18T18:00:00",
@@ -361,7 +361,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BPKyBsqE7Lg",
+  "link": "https://youtu.be/BPKyBsqE7Lg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-06-24T18:00:00",
@@ -373,7 +373,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_tghpBwByM0",
+  "link": "https://youtu.be/_tghpBwByM0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-07-02T18:00:00",
@@ -385,7 +385,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5t6XK3h-sTI",
+  "link": "https://youtu.be/5t6XK3h-sTI",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2018-07-10T18:00:00",
@@ -397,7 +397,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ch91ZeS0zEw",
+  "link": "https://youtu.be/ch91ZeS0zEw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-07-18T18:00:00",
@@ -409,7 +409,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GAGUJ_c72Jo",
+  "link": "https://youtu.be/GAGUJ_c72Jo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-07-27T18:00:00",
@@ -421,7 +421,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vhkltG7Tb84",
+  "link": "https://youtu.be/vhkltG7Tb84",
   "category": "Official_Channel",
   "member": "우기, 슈화",
   "date": "2018-07-29T18:00:00",
@@ -433,7 +433,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ztWnrkpKPk8",
+  "link": "https://youtu.be/ztWnrkpKPk8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-08-12T18:00:00",
@@ -445,7 +445,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=s_cd0CKZjL4",
+  "link": "https://youtu.be/s_cd0CKZjL4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-08-13T18:00:00",
@@ -457,7 +457,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ERK1jzLEDm0",
+  "link": "https://youtu.be/ERK1jzLEDm0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-08-16T18:00:00",
@@ -469,7 +469,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fAJi2ZAryNY",
+  "link": "https://youtu.be/fAJi2ZAryNY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-08-16T18:00:00",
@@ -481,7 +481,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yFpYfOrGkdw",
+  "link": "https://youtu.be/yFpYfOrGkdw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-08-19T18:00:00",
@@ -493,7 +493,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EGuuBE7xjBk",
+  "link": "https://youtu.be/EGuuBE7xjBk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-08-20T18:00:00",
@@ -517,7 +517,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1RRPkd9toZw",
+  "link": "https://youtu.be/1RRPkd9toZw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-08-28T18:00:00",
@@ -553,7 +553,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kLs5rsrbamg",
+  "link": "https://youtu.be/kLs5rsrbamg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-09-06T18:00:00",
@@ -565,7 +565,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=p8WDE-tsKv8",
+  "link": "https://youtu.be/p8WDE-tsKv8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-09-17T18:00:00",
@@ -577,7 +577,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_ttzcNoj1nQ",
+  "link": "https://youtu.be/_ttzcNoj1nQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-09-21T18:00:00",
@@ -589,7 +589,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4G9MLumJLJI",
+  "link": "https://youtu.be/4G9MLumJLJI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-10-01T18:00:00",
@@ -601,7 +601,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ctq1jDzX34o",
+  "link": "https://youtu.be/Ctq1jDzX34o",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-10-08T18:00:00",
@@ -613,7 +613,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8b2DjJ5iVgI",
+  "link": "https://youtu.be/8b2DjJ5iVgI",
   "category": "Official_Channel",
   "member": "소연, 미연",
   "date": "2018-11-10T18:00:00",
@@ -625,7 +625,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0qxfaNCYY6o",
+  "link": "https://youtu.be/0qxfaNCYY6o",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-11-10T18:00:00",
@@ -637,7 +637,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3CY33hfnUy4",
+  "link": "https://youtu.be/3CY33hfnUy4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-12-18T18:00:00",
@@ -649,7 +649,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BGz8n0yhrDs",
+  "link": "https://youtu.be/BGz8n0yhrDs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-12-25T18:00:00",
@@ -661,7 +661,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6GeXJH_QIrE",
+  "link": "https://youtu.be/6GeXJH_QIrE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-12-30T18:00:00",
@@ -673,7 +673,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Y_RnAf-ZFEA",
+  "link": "https://youtu.be/Y_RnAf-ZFEA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2018-12-31T18:00:00",
@@ -685,7 +685,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oD9pU98pizA",
+  "link": "https://youtu.be/oD9pU98pizA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-01-13T18:00:00",
@@ -697,7 +697,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6-GnSGXxWc8",
+  "link": "https://youtu.be/6-GnSGXxWc8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-01-21T18:00:00",
@@ -709,7 +709,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=v4lQkLixffs",
+  "link": "https://youtu.be/v4lQkLixffs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-01-25T18:00:00",
@@ -721,7 +721,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4-HN0siT65A",
+  "link": "https://youtu.be/4-HN0siT65A",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-02-02T18:00:00",
@@ -733,7 +733,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kGXLROgEnyw",
+  "link": "https://youtu.be/kGXLROgEnyw",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2019-02-09T18:00:00",
@@ -745,7 +745,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RgZ7ohHwWZc",
+  "link": "https://youtu.be/RgZ7ohHwWZc",
   "category": "Official_Channel",
   "member": "미연, 우기",
   "date": "2019-02-10T18:00:00",
@@ -757,7 +757,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qBUY8lv5nJ4",
+  "link": "https://youtu.be/qBUY8lv5nJ4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-02-13T18:00:00",
@@ -769,7 +769,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DJ2oZj8nyig",
+  "link": "https://youtu.be/DJ2oZj8nyig",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-02-19T18:00:00",
@@ -781,7 +781,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KtOC9LNIyBo",
+  "link": "https://youtu.be/KtOC9LNIyBo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-02-20T18:00:00",
@@ -793,7 +793,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4mtAWfuDcwo",
+  "link": "https://youtu.be/4mtAWfuDcwo",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2019-02-21T18:00:00",
@@ -805,7 +805,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7bqewyz8_5s",
+  "link": "https://youtu.be/7bqewyz8_5s",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2019-02-21T18:00:00",
@@ -817,7 +817,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HI7syzmCutA",
+  "link": "https://youtu.be/HI7syzmCutA",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2019-02-22T18:00:00",
@@ -829,7 +829,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9khosHZ7YLo",
+  "link": "https://youtu.be/9khosHZ7YLo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-02-22T18:00:00",
@@ -841,7 +841,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FHhOwtQ85Ow",
+  "link": "https://youtu.be/FHhOwtQ85Ow",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2019-02-23T18:00:00",
@@ -853,7 +853,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3Yjln4kr84Y",
+  "link": "https://youtu.be/3Yjln4kr84Y",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2019-02-23T18:00:00",
@@ -865,7 +865,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=b5LqwD78OVs",
+  "link": "https://youtu.be/b5LqwD78OVs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-02-24T18:00:00",
@@ -877,7 +877,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=M12zfy-IZLA",
+  "link": "https://youtu.be/M12zfy-IZLA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-02-25T18:00:00",
@@ -889,7 +889,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mtS__Me5KhM",
+  "link": "https://youtu.be/mtS__Me5KhM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-02-26T18:00:00",
@@ -901,7 +901,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nLKPXoxPGfI",
+  "link": "https://youtu.be/nLKPXoxPGfI",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2019-02-28T18:00:00",
@@ -913,7 +913,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rhBa2_-qw00",
+  "link": "https://youtu.be/rhBa2_-qw00",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-03-04T18:00:00",
@@ -925,7 +925,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wukHr2r2wVw",
+  "link": "https://youtu.be/wukHr2r2wVw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-03-10T18:00:00",
@@ -937,7 +937,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4gxMgJSSVaQ",
+  "link": "https://youtu.be/4gxMgJSSVaQ",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2019-03-13T18:00:00",
@@ -949,7 +949,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7ku_kVxCQrs",
+  "link": "https://youtu.be/7ku_kVxCQrs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-03-17T18:00:00",
@@ -961,7 +961,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IyVT0FcCXlc",
+  "link": "https://youtu.be/IyVT0FcCXlc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-03-25T18:00:00",
@@ -973,7 +973,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BUF5N54Wnw0",
+  "link": "https://youtu.be/BUF5N54Wnw0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-03-30T18:00:00",
@@ -985,7 +985,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=e7C91J_JQSQ",
+  "link": "https://youtu.be/e7C91J_JQSQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-04-08T18:00:00",
@@ -997,7 +997,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IOHMP3f-Zsg",
+  "link": "https://youtu.be/IOHMP3f-Zsg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-05-02T18:00:00",
@@ -1009,7 +1009,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=--jnauMUngI",
+  "link": "https://youtu.be/--jnauMUngI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-05-21T18:00:00",
@@ -1021,7 +1021,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-HPdxo3kNbg",
+  "link": "https://youtu.be/-HPdxo3kNbg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-06-17T18:00:00",
@@ -1033,7 +1033,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lmADefjjV14",
+  "link": "https://youtu.be/lmADefjjV14",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2019-06-17T18:00:00",
@@ -1045,7 +1045,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uFA8Y3tKHjU",
+  "link": "https://youtu.be/uFA8Y3tKHjU",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2019-06-17T18:00:00",
@@ -1057,7 +1057,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6oZ80LMxsuE",
+  "link": "https://youtu.be/6oZ80LMxsuE",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2019-06-19T18:00:00",
@@ -1069,7 +1069,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mttovhSQVVs",
+  "link": "https://youtu.be/mttovhSQVVs",
   "category": "Official_Channel",
   "member": "민니, 우기",
   "date": "2019-06-20T18:00:00",
@@ -1081,7 +1081,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1CPQFG4k97k",
+  "link": "https://youtu.be/1CPQFG4k97k",
   "category": "Official_Channel",
   "member": "민니, 우기",
   "date": "2019-06-20T18:00:00",
@@ -1093,7 +1093,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rKKdpcnyO74",
+  "link": "https://youtu.be/rKKdpcnyO74",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-06-24T18:00:00",
@@ -1105,7 +1105,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nwsGnx4Bebc",
+  "link": "https://youtu.be/nwsGnx4Bebc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-06-25T18:00:00",
@@ -1117,7 +1117,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TqW04rj2WOs",
+  "link": "https://youtu.be/TqW04rj2WOs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-06-26T18:00:00",
@@ -1129,7 +1129,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Xc67HobtL68",
+  "link": "https://youtu.be/Xc67HobtL68",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-06-26T18:00:00",
@@ -1141,7 +1141,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lW-UGrLAYnM",
+  "link": "https://youtu.be/lW-UGrLAYnM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-06-28T18:00:00",
@@ -1153,7 +1153,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PzSCnRCpM_c",
+  "link": "https://youtu.be/PzSCnRCpM_c",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-06-30T18:00:00",
@@ -1165,7 +1165,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tJZlZj3s5io",
+  "link": "https://youtu.be/tJZlZj3s5io",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-06-30T18:00:00",
@@ -1177,7 +1177,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aud0TbYbcRc",
+  "link": "https://youtu.be/aud0TbYbcRc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-07-01T18:00:00",
@@ -1189,7 +1189,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=G80FyC2_UyY",
+  "link": "https://youtu.be/G80FyC2_UyY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-07-02T18:00:00",
@@ -1201,7 +1201,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=csTEFg3Cefs",
+  "link": "https://youtu.be/csTEFg3Cefs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-07-03T18:00:00",
@@ -1213,7 +1213,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eqqzvSNMJHg",
+  "link": "https://youtu.be/eqqzvSNMJHg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-07-04T18:00:00",
@@ -1225,7 +1225,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9mLIX-AwQuQ",
+  "link": "https://youtu.be/9mLIX-AwQuQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-07-05T18:00:00",
@@ -1237,7 +1237,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IjnxHVIgJ3M",
+  "link": "https://youtu.be/IjnxHVIgJ3M",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-07-06T18:00:00",
@@ -1249,7 +1249,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AdGKH1fjA1M",
+  "link": "https://youtu.be/AdGKH1fjA1M",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-07-06T18:00:00",
@@ -1261,7 +1261,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hWoAD89V5Kw",
+  "link": "https://youtu.be/hWoAD89V5Kw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-07-07T18:00:00",
@@ -1285,7 +1285,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ydQ6tQNOzys",
+  "link": "https://youtu.be/ydQ6tQNOzys",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-07-19T18:00:00",
@@ -1297,7 +1297,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MOL71EcqTh8",
+  "link": "https://youtu.be/MOL71EcqTh8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-07-22T18:00:00",
@@ -1309,7 +1309,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kMVY3GNNgBw",
+  "link": "https://youtu.be/kMVY3GNNgBw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-08-03T18:00:00",
@@ -1321,7 +1321,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SGueYGtOwOg",
+  "link": "https://youtu.be/SGueYGtOwOg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-08-09T18:00:00",
@@ -1333,7 +1333,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vV6R6cdJb2I",
+  "link": "https://youtu.be/vV6R6cdJb2I",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-08-29T18:00:00",
@@ -1345,7 +1345,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lR9QM56IDCM",
+  "link": "https://youtu.be/lR9QM56IDCM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-09-11T18:00:00",
@@ -1369,7 +1369,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zL94SV9_j34",
+  "link": "https://youtu.be/zL94SV9_j34",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-09-20T18:00:00",
@@ -1381,7 +1381,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GQh88VtWoFs",
+  "link": "https://youtu.be/GQh88VtWoFs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-09-26T18:00:00",
@@ -1393,7 +1393,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1-GWerSkngM",
+  "link": "https://youtu.be/1-GWerSkngM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-10-19T18:00:00",
@@ -1405,7 +1405,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=V3rcK6jIa6c",
+  "link": "https://youtu.be/V3rcK6jIa6c",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2019-10-22T18:00:00",
@@ -1417,7 +1417,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SBtF_e6XWnc",
+  "link": "https://youtu.be/SBtF_e6XWnc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-10-30T18:00:00",
@@ -1429,7 +1429,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=n0mwthRl1qc",
+  "link": "https://youtu.be/n0mwthRl1qc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-11-03T18:00:00",
@@ -1441,7 +1441,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3EXJJeFkNmM",
+  "link": "https://youtu.be/3EXJJeFkNmM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-11-09T18:00:00",
@@ -1453,7 +1453,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FQ4MNRKhUXU",
+  "link": "https://youtu.be/FQ4MNRKhUXU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-11-11T18:00:00",
@@ -1465,7 +1465,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8z3xzJurlhg",
+  "link": "https://youtu.be/8z3xzJurlhg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-11-16T18:00:00",
@@ -1477,7 +1477,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=32XCmuFOt44",
+  "link": "https://youtu.be/32XCmuFOt44",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-11-22T18:00:00",
@@ -1489,7 +1489,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FRYY-OxzRTU",
+  "link": "https://youtu.be/FRYY-OxzRTU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-11-27T18:00:00",
@@ -1501,7 +1501,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=B4pd_JgZk40",
+  "link": "https://youtu.be/B4pd_JgZk40",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-11-30T18:00:00",
@@ -1513,7 +1513,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QlMi79s1WtM",
+  "link": "https://youtu.be/QlMi79s1WtM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2019-12-20T18:00:00",
@@ -1525,7 +1525,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aukVj8epA74",
+  "link": "https://youtu.be/aukVj8epA74",
   "category": "Official_Channel",
   "member": "우기, 슈화",
   "date": "2020-01-06T18:00:00",
@@ -1537,7 +1537,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Bf-dtm4u8_E",
+  "link": "https://youtu.be/Bf-dtm4u8_E",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-01-13T18:00:00",
@@ -1549,7 +1549,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sw6DrozQ9tc",
+  "link": "https://youtu.be/sw6DrozQ9tc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-01-17T18:00:00",
@@ -1561,7 +1561,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GcVV6bY35IU",
+  "link": "https://youtu.be/GcVV6bY35IU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-01-19T18:00:00",
@@ -1573,7 +1573,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PCHCvt1DsKI",
+  "link": "https://youtu.be/PCHCvt1DsKI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-01-22T18:00:00",
@@ -1585,7 +1585,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aFhyJ-YqEK8",
+  "link": "https://youtu.be/aFhyJ-YqEK8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-01-23T18:00:00",
@@ -1597,7 +1597,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jrJGmq010R0",
+  "link": "https://youtu.be/jrJGmq010R0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-01-24T18:00:00",
@@ -1609,7 +1609,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lN8N84vSeEI",
+  "link": "https://youtu.be/lN8N84vSeEI",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2020-01-28T18:00:00",
@@ -1621,7 +1621,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7HluoYHuEyU",
+  "link": "https://youtu.be/7HluoYHuEyU",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2020-01-29T18:00:00",
@@ -1633,7 +1633,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qvnpyX_h_L0",
+  "link": "https://youtu.be/qvnpyX_h_L0",
   "category": "Official_Channel",
   "member": "민니, 우기, 슈화",
   "date": "2020-02-03T18:00:00",
@@ -1645,7 +1645,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vbor1FfbApM",
+  "link": "https://youtu.be/vbor1FfbApM",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2020-02-04T18:00:00",
@@ -1657,7 +1657,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sEAry8EAbpo",
+  "link": "https://youtu.be/sEAry8EAbpo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-02-06T18:00:00",
@@ -1669,7 +1669,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GEHfqT3hrtA",
+  "link": "https://youtu.be/GEHfqT3hrtA",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2020-02-11T18:00:00",
@@ -1681,7 +1681,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WwvGegsivfw",
+  "link": "https://youtu.be/WwvGegsivfw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-02-13T18:00:00",
@@ -1693,7 +1693,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=u7cyF9bg4fw",
+  "link": "https://youtu.be/u7cyF9bg4fw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-02-17T18:00:00",
@@ -1705,7 +1705,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ln65fG0CnwM",
+  "link": "https://youtu.be/Ln65fG0CnwM",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2020-02-19T18:00:00",
@@ -1717,7 +1717,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZvHwRuyDl7s",
+  "link": "https://youtu.be/ZvHwRuyDl7s",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2020-02-21T18:00:00",
@@ -1729,7 +1729,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=w6xQbDB6BcI",
+  "link": "https://youtu.be/w6xQbDB6BcI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-03-27T18:00:00",
@@ -1741,7 +1741,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ysmHFXpdAkI",
+  "link": "https://youtu.be/ysmHFXpdAkI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-03-30T18:00:00",
@@ -1753,7 +1753,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uhAQ1Hrbc8w",
+  "link": "https://youtu.be/uhAQ1Hrbc8w",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-04-03T18:00:00",
@@ -1765,7 +1765,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cIRuLD0-isY",
+  "link": "https://youtu.be/cIRuLD0-isY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-04-04T18:00:00",
@@ -1777,7 +1777,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OT-pQiWt_A0",
+  "link": "https://youtu.be/OT-pQiWt_A0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-04-06T18:00:00",
@@ -1789,7 +1789,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iG6KRfUE_hs",
+  "link": "https://youtu.be/iG6KRfUE_hs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-04-08T18:00:00",
@@ -1801,7 +1801,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=twXUS3fqI74",
+  "link": "https://youtu.be/twXUS3fqI74",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-04-09T18:00:00",
@@ -1813,7 +1813,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TzepUKHa9lg",
+  "link": "https://youtu.be/TzepUKHa9lg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-04-10T18:00:00",
@@ -1825,7 +1825,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YlBcYcgr89I",
+  "link": "https://youtu.be/YlBcYcgr89I",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-04-11T18:00:00",
@@ -1837,7 +1837,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wLlKktf0ZWE",
+  "link": "https://youtu.be/wLlKktf0ZWE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-04-12T18:00:00",
@@ -1849,7 +1849,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PwV31p7GkmU",
+  "link": "https://youtu.be/PwV31p7GkmU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-04-15T18:00:00",
@@ -1861,7 +1861,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=brH6kAa9waA",
+  "link": "https://youtu.be/brH6kAa9waA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-04-16T18:00:00",
@@ -1873,7 +1873,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UKcKVqE259E",
+  "link": "https://youtu.be/UKcKVqE259E",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2020-04-17T18:00:00",
@@ -1885,7 +1885,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UR-1Tgx1MeA",
+  "link": "https://youtu.be/UR-1Tgx1MeA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-04-17T18:00:00",
@@ -1897,7 +1897,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KqE4UK5sfHA",
+  "link": "https://youtu.be/KqE4UK5sfHA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-04-20T18:00:00",
@@ -1909,7 +1909,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vcTbzTjGs28",
+  "link": "https://youtu.be/vcTbzTjGs28",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-04-28T18:00:00",
@@ -1921,7 +1921,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xIL1T1q2irg",
+  "link": "https://youtu.be/xIL1T1q2irg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-05-02T18:00:00",
@@ -1933,7 +1933,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LHTMZOL4tQ0",
+  "link": "https://youtu.be/LHTMZOL4tQ0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-05-02T18:00:00",
@@ -1945,7 +1945,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YQA03ceSQEc",
+  "link": "https://youtu.be/YQA03ceSQEc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-05-02T18:00:00",
@@ -1957,7 +1957,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4aeff7VTWAs",
+  "link": "https://youtu.be/4aeff7VTWAs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-05-02T18:00:00",
@@ -1969,7 +1969,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yVD4glcIS7o",
+  "link": "https://youtu.be/yVD4glcIS7o",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-05-02T18:00:00",
@@ -1981,7 +1981,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HVumeeDWHZs",
+  "link": "https://youtu.be/HVumeeDWHZs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-05-02T18:00:00",
@@ -1993,7 +1993,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-rpeMCEhCEY",
+  "link": "https://youtu.be/-rpeMCEhCEY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-05-03T18:00:00",
@@ -2005,7 +2005,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=y5TdZnnFFBs",
+  "link": "https://youtu.be/y5TdZnnFFBs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-05-11T18:00:00",
@@ -2017,7 +2017,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jV1tyZj4Pjs",
+  "link": "https://youtu.be/jV1tyZj4Pjs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-05-16T18:00:00",
@@ -2029,7 +2029,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HnvWJehjYQA",
+  "link": "https://youtu.be/HnvWJehjYQA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-05-20T18:00:00",
@@ -2041,7 +2041,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PqoufdgLfqQ",
+  "link": "https://youtu.be/PqoufdgLfqQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-05-23T18:00:00",
@@ -2053,7 +2053,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pi32eMzUrEM",
+  "link": "https://youtu.be/pi32eMzUrEM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-06-01T18:00:00",
@@ -2065,7 +2065,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VLrEJnJSh6s",
+  "link": "https://youtu.be/VLrEJnJSh6s",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-06-18T18:00:00",
@@ -2077,7 +2077,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sF5pj1CZv2o",
+  "link": "https://youtu.be/sF5pj1CZv2o",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-06-19T18:00:00",
@@ -2089,7 +2089,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6iM5pZtvbis",
+  "link": "https://youtu.be/6iM5pZtvbis",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-06-19T18:00:00",
@@ -2101,7 +2101,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DgF3tjsujdY",
+  "link": "https://youtu.be/DgF3tjsujdY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-06-25T18:00:00",
@@ -2113,7 +2113,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NEBneT2X6o0",
+  "link": "https://youtu.be/NEBneT2X6o0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-07-05T18:00:00",
@@ -2125,7 +2125,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=H4xb7punc-Y",
+  "link": "https://youtu.be/H4xb7punc-Y",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-07-07T18:00:00",
@@ -2137,7 +2137,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CWrthwplNgc",
+  "link": "https://youtu.be/CWrthwplNgc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-07-07T18:00:00",
@@ -2149,7 +2149,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Oq07gOGw4Ec",
+  "link": "https://youtu.be/Oq07gOGw4Ec",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-07-11T18:00:00",
@@ -2161,7 +2161,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=i8zdCEK67ms",
+  "link": "https://youtu.be/i8zdCEK67ms",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-07-14T18:00:00",
@@ -2173,7 +2173,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8-me2RYYxfc",
+  "link": "https://youtu.be/8-me2RYYxfc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-07-19T18:00:00",
@@ -2185,7 +2185,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=a1FO6QlLtJY",
+  "link": "https://youtu.be/a1FO6QlLtJY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-07-26T18:00:00",
@@ -2197,7 +2197,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NzXCI1CXqUY",
+  "link": "https://youtu.be/NzXCI1CXqUY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-07-29T18:00:00",
@@ -2209,7 +2209,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EEIeyyBMhdg",
+  "link": "https://youtu.be/EEIeyyBMhdg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-07-30T18:00:00",
@@ -2221,7 +2221,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2LZ8UR1R2bg",
+  "link": "https://youtu.be/2LZ8UR1R2bg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-07-31T18:00:00",
@@ -2233,7 +2233,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2qBh7xa2bFg",
+  "link": "https://youtu.be/2qBh7xa2bFg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-01T18:00:00",
@@ -2245,7 +2245,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=H_HKE1mwzuo",
+  "link": "https://youtu.be/H_HKE1mwzuo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-03T18:00:00",
@@ -2257,7 +2257,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DPykR20ZxAo",
+  "link": "https://youtu.be/DPykR20ZxAo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-05T18:00:00",
@@ -2269,7 +2269,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7La7aO6VihA",
+  "link": "https://youtu.be/7La7aO6VihA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-05T18:00:00",
@@ -2281,7 +2281,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sPzF8DZI5ZM",
+  "link": "https://youtu.be/sPzF8DZI5ZM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-07T18:00:00",
@@ -2293,7 +2293,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aD-ZAhCVV-s",
+  "link": "https://youtu.be/aD-ZAhCVV-s",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-07T18:00:00",
@@ -2305,7 +2305,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Z9faUX6RnTQ",
+  "link": "https://youtu.be/Z9faUX6RnTQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-09T18:00:00",
@@ -2317,7 +2317,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=naRRqAGIAqQ",
+  "link": "https://youtu.be/naRRqAGIAqQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-10T18:00:00",
@@ -2329,7 +2329,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=za4mpgQWs7c",
+  "link": "https://youtu.be/za4mpgQWs7c",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-10T18:00:00",
@@ -2341,7 +2341,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5mfsByNYsIc",
+  "link": "https://youtu.be/5mfsByNYsIc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-11T18:00:00",
@@ -2353,7 +2353,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=w77Is2MsynU",
+  "link": "https://youtu.be/w77Is2MsynU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-12T18:00:00",
@@ -2365,7 +2365,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UZOIqpTtZdw",
+  "link": "https://youtu.be/UZOIqpTtZdw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-13T18:00:00",
@@ -2377,7 +2377,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1hnA1WUO5PU",
+  "link": "https://youtu.be/1hnA1WUO5PU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-14T18:00:00",
@@ -2389,7 +2389,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2Hg0VnufnEg",
+  "link": "https://youtu.be/2Hg0VnufnEg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-15T18:00:00",
@@ -2401,7 +2401,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Bfpdb1EdI5g",
+  "link": "https://youtu.be/Bfpdb1EdI5g",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-16T18:00:00",
@@ -2413,7 +2413,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cDJUEVXFXuI",
+  "link": "https://youtu.be/cDJUEVXFXuI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-16T18:00:00",
@@ -2425,7 +2425,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eogel7-rvrU",
+  "link": "https://youtu.be/eogel7-rvrU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-17T18:00:00",
@@ -2437,7 +2437,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2ofiMw4oJbA",
+  "link": "https://youtu.be/2ofiMw4oJbA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-18T18:00:00",
@@ -2449,7 +2449,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OdL-6LMTyKc",
+  "link": "https://youtu.be/OdL-6LMTyKc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-20T18:00:00",
@@ -2461,7 +2461,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=B76OrD9JmeI",
+  "link": "https://youtu.be/B76OrD9JmeI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-21T18:00:00",
@@ -2473,7 +2473,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=imoLXmbxUdQ",
+  "link": "https://youtu.be/imoLXmbxUdQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-22T18:00:00",
@@ -2485,7 +2485,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vUpyKv4BIqE",
+  "link": "https://youtu.be/vUpyKv4BIqE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-08-24T18:00:00",
@@ -2497,7 +2497,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=t767qLX8xys",
+  "link": "https://youtu.be/t767qLX8xys",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-09-03T18:00:00",
@@ -2509,7 +2509,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SHguASL-yDs",
+  "link": "https://youtu.be/SHguASL-yDs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-09-06T18:00:00",
@@ -2521,7 +2521,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZEqbiI2HHGQ",
+  "link": "https://youtu.be/ZEqbiI2HHGQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-09-22T18:00:00",
@@ -2533,7 +2533,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=G-HmfEBRHB4",
+  "link": "https://youtu.be/G-HmfEBRHB4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-09-22T18:00:00",
@@ -2545,7 +2545,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-RLQFpuvru4",
+  "link": "https://youtu.be/-RLQFpuvru4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-09-22T18:00:00",
@@ -2557,7 +2557,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0B1rjWurMFU",
+  "link": "https://youtu.be/0B1rjWurMFU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-09-22T18:00:00",
@@ -2569,7 +2569,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Q8mioC2TpLg",
+  "link": "https://youtu.be/Q8mioC2TpLg",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2020-09-23T18:00:00",
@@ -2581,7 +2581,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1MJBKuvt-EI",
+  "link": "https://youtu.be/1MJBKuvt-EI",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2020-10-05T18:00:00",
@@ -2593,7 +2593,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LxdkIhUyakE",
+  "link": "https://youtu.be/LxdkIhUyakE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-10-11T18:00:00",
@@ -2605,7 +2605,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4qkbnw79voA",
+  "link": "https://youtu.be/4qkbnw79voA",
   "category": "Official_Channel",
   "member": "민니, 우기, 슈화",
   "date": "2020-10-21T18:00:00",
@@ -2617,7 +2617,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=k8HNMV5ubvE",
+  "link": "https://youtu.be/k8HNMV5ubvE",
   "category": "Official_Channel",
   "member": "미연, 소연",
   "date": "2020-11-05T18:00:00",
@@ -2629,7 +2629,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Mg4Z4QFfIOw",
+  "link": "https://youtu.be/Mg4Z4QFfIOw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-11-11T18:00:00",
@@ -2641,7 +2641,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oKsbhYSLs8M",
+  "link": "https://youtu.be/oKsbhYSLs8M",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2020-11-11T18:00:00",
@@ -2653,7 +2653,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eiHCe0kGy3M",
+  "link": "https://youtu.be/eiHCe0kGy3M",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2020-11-12T18:00:00",
@@ -2665,7 +2665,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EFkVZYAQO2k",
+  "link": "https://youtu.be/EFkVZYAQO2k",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-11-15T18:00:00",
@@ -2677,7 +2677,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KWo9Ug4zrZI",
+  "link": "https://youtu.be/KWo9Ug4zrZI",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2020-11-21T18:00:00",
@@ -2689,7 +2689,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=e2_BCG7f2J8",
+  "link": "https://youtu.be/e2_BCG7f2J8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-11-26T18:00:00",
@@ -2701,7 +2701,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LTnDy_v77Cg",
+  "link": "https://youtu.be/LTnDy_v77Cg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-12-01T18:00:00",
@@ -2713,7 +2713,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Kv_Cfa9b8FQ",
+  "link": "https://youtu.be/Kv_Cfa9b8FQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-12-02T18:00:00",
@@ -2725,7 +2725,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cXdyFwuhScA",
+  "link": "https://youtu.be/cXdyFwuhScA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-12-17T18:00:00",
@@ -2737,7 +2737,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vu16GWI3WMQ",
+  "link": "https://youtu.be/vu16GWI3WMQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-12-22T18:00:00",
@@ -2749,7 +2749,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yuEmtXzrBS8",
+  "link": "https://youtu.be/yuEmtXzrBS8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-12-25T18:00:00",
@@ -2761,7 +2761,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3SsM-A71f10",
+  "link": "https://youtu.be/3SsM-A71f10",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2020-12-28T18:00:00",
@@ -2773,7 +2773,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-RLp1yiTPh0",
+  "link": "https://youtu.be/-RLp1yiTPh0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-01T18:00:00",
@@ -2785,7 +2785,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=i--O8Yhrc44",
+  "link": "https://youtu.be/i--O8Yhrc44",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-01T18:00:00",
@@ -2797,7 +2797,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=10i04-F_IO8",
+  "link": "https://youtu.be/10i04-F_IO8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-01T18:00:00",
@@ -2809,7 +2809,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tPIUXk96xng",
+  "link": "https://youtu.be/tPIUXk96xng",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-02T18:00:00",
@@ -2821,7 +2821,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7FnbZGoMig0",
+  "link": "https://youtu.be/7FnbZGoMig0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-07T18:00:00",
@@ -2833,7 +2833,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mex7aRfrTiU",
+  "link": "https://youtu.be/mex7aRfrTiU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-08T18:00:00",
@@ -2845,7 +2845,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ErTq-VvkqIk",
+  "link": "https://youtu.be/ErTq-VvkqIk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-09T18:00:00",
@@ -2857,7 +2857,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QTaC9QjUlNo",
+  "link": "https://youtu.be/QTaC9QjUlNo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-10T18:00:00",
@@ -2869,7 +2869,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=55TEB82zfVk",
+  "link": "https://youtu.be/55TEB82zfVk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-11T18:00:00",
@@ -2881,7 +2881,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cD47izQfxTs",
+  "link": "https://youtu.be/cD47izQfxTs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-12T18:00:00",
@@ -2893,7 +2893,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Xv_s8WBurWU",
+  "link": "https://youtu.be/Xv_s8WBurWU",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2021-01-13T18:00:00",
@@ -2905,7 +2905,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LlPS_LYhnTE",
+  "link": "https://youtu.be/LlPS_LYhnTE",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2021-01-13T18:00:00",
@@ -2917,7 +2917,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nlLc9p8q75w",
+  "link": "https://youtu.be/nlLc9p8q75w",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-01-13T18:00:00",
@@ -2929,7 +2929,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SLsWLUNADtM",
+  "link": "https://youtu.be/SLsWLUNADtM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-13T18:00:00",
@@ -2941,7 +2941,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=M-YQ_0GOa88",
+  "link": "https://youtu.be/M-YQ_0GOa88",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2021-01-13T18:00:00",
@@ -2953,7 +2953,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=87zYoeoqFrM",
+  "link": "https://youtu.be/87zYoeoqFrM",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2021-01-13T18:00:00",
@@ -2965,7 +2965,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2njcKe_wweU",
+  "link": "https://youtu.be/2njcKe_wweU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-14T18:00:00",
@@ -2977,7 +2977,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eUoBGShDoA8",
+  "link": "https://youtu.be/eUoBGShDoA8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-15T18:00:00",
@@ -2989,7 +2989,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ANhubXC-hSg",
+  "link": "https://youtu.be/ANhubXC-hSg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-16T18:00:00",
@@ -3001,7 +3001,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hGiePSHdRw8",
+  "link": "https://youtu.be/hGiePSHdRw8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-18T18:00:00",
@@ -3013,7 +3013,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cwKYh2geaik",
+  "link": "https://youtu.be/cwKYh2geaik",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-19T18:00:00",
@@ -3025,7 +3025,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NtmzLugaJDQ",
+  "link": "https://youtu.be/NtmzLugaJDQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-22T18:00:00",
@@ -3037,7 +3037,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rQAUm0rJWDE",
+  "link": "https://youtu.be/rQAUm0rJWDE",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2021-01-24T18:00:00",
@@ -3049,7 +3049,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=miU4s4PUACY",
+  "link": "https://youtu.be/miU4s4PUACY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-01-27T18:00:00",
@@ -3061,7 +3061,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HBzPLYWmBEw",
+  "link": "https://youtu.be/HBzPLYWmBEw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-02-01T18:00:00",
@@ -3073,7 +3073,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3ism5AMppCM",
+  "link": "https://youtu.be/3ism5AMppCM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-02-04T18:00:00",
@@ -3085,7 +3085,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=P62kgQCuxGE",
+  "link": "https://youtu.be/P62kgQCuxGE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-02-05T18:00:00",
@@ -3097,7 +3097,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PmYtROm07Ac",
+  "link": "https://youtu.be/PmYtROm07Ac",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2021-02-10T18:00:00",
@@ -3109,7 +3109,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MUEo_-WYX-Q",
+  "link": "https://youtu.be/MUEo_-WYX-Q",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-03-10T18:00:00",
@@ -3121,7 +3121,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hhiK2nbnrs4",
+  "link": "https://youtu.be/hhiK2nbnrs4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-03-16T18:00:00",
@@ -3133,7 +3133,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Yx9xhYRonpw",
+  "link": "https://youtu.be/Yx9xhYRonpw",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2021-05-11T18:00:00",
@@ -3145,7 +3145,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ch2zY9eUFzk",
+  "link": "https://youtu.be/Ch2zY9eUFzk",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2021-05-12T18:00:00",
@@ -3157,7 +3157,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=09o7NGd9zQY",
+  "link": "https://youtu.be/09o7NGd9zQY",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2021-05-19T18:00:00",
@@ -3169,7 +3169,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=czUwp_YNdCo",
+  "link": "https://youtu.be/czUwp_YNdCo",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2021-05-20T18:00:00",
@@ -3181,7 +3181,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7VReeoBR3Kk",
+  "link": "https://youtu.be/7VReeoBR3Kk",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-06-21T18:00:00",
@@ -3193,7 +3193,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hr3np7viBPw",
+  "link": "https://youtu.be/hr3np7viBPw",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-06-24T18:00:00",
@@ -3205,7 +3205,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6UXb3tDJg_Y",
+  "link": "https://youtu.be/6UXb3tDJg_Y",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-06-25T18:00:00",
@@ -3217,7 +3217,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DXWE5FqdpGk",
+  "link": "https://youtu.be/DXWE5FqdpGk",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-06-30T18:00:00",
@@ -3229,7 +3229,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FsMfjN63FTg",
+  "link": "https://youtu.be/FsMfjN63FTg",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-07-01T18:00:00",
@@ -3241,7 +3241,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2ucAQuPRpmU",
+  "link": "https://youtu.be/2ucAQuPRpmU",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-07-02T18:00:00",
@@ -3253,7 +3253,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pQMh6dZiYM8",
+  "link": "https://youtu.be/pQMh6dZiYM8",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-07-03T18:00:00",
@@ -3265,7 +3265,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MuNo4FX4Ur0",
+  "link": "https://youtu.be/MuNo4FX4Ur0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-07-05T18:00:00",
@@ -3277,7 +3277,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wK_l3Uc0-tU",
+  "link": "https://youtu.be/wK_l3Uc0-tU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-07-05T18:00:00",
@@ -3289,7 +3289,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=v7h5eN21w8w",
+  "link": "https://youtu.be/v7h5eN21w8w",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-07-05T18:00:00",
@@ -3301,7 +3301,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CD12U9gyE0c",
+  "link": "https://youtu.be/CD12U9gyE0c",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-07-05T18:00:00",
@@ -3313,7 +3313,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=X5nNmF_m220",
+  "link": "https://youtu.be/X5nNmF_m220",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-07-05T18:00:00",
@@ -3325,7 +3325,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vPu95lo5SVw",
+  "link": "https://youtu.be/vPu95lo5SVw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-07-05T18:00:00",
@@ -3337,7 +3337,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_4o_TR0LE28",
+  "link": "https://youtu.be/_4o_TR0LE28",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-07-05T18:00:00",
@@ -3349,7 +3349,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yClG9_ldxNw",
+  "link": "https://youtu.be/yClG9_ldxNw",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-07-05T18:00:00",
@@ -3361,7 +3361,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=srepY5GVRhU",
+  "link": "https://youtu.be/srepY5GVRhU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-07-06T18:00:00",
@@ -3373,7 +3373,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jN4xMjrfIi8",
+  "link": "https://youtu.be/jN4xMjrfIi8",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-07-06T18:00:00",
@@ -3385,7 +3385,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wyNWtNSUqs4",
+  "link": "https://youtu.be/wyNWtNSUqs4",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-07-07T18:00:00",
@@ -3397,7 +3397,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=X3NAUy7EjHQ",
+  "link": "https://youtu.be/X3NAUy7EjHQ",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-07-11T18:00:00",
@@ -3409,7 +3409,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6YGOq65MZpw",
+  "link": "https://youtu.be/6YGOq65MZpw",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-07-12T18:00:00",
@@ -3421,7 +3421,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=y3yqSbJ2T0w",
+  "link": "https://youtu.be/y3yqSbJ2T0w",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-07-13T18:00:00",
@@ -3433,7 +3433,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zvuAQsBjHVA",
+  "link": "https://youtu.be/zvuAQsBjHVA",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-07-22T18:00:00",
@@ -3445,7 +3445,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=o0MM7TIpilE",
+  "link": "https://youtu.be/o0MM7TIpilE",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-08-01T18:00:00",
@@ -3457,7 +3457,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-L4QCCMYjgE",
+  "link": "https://youtu.be/-L4QCCMYjgE",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2021-08-13T18:00:00",
@@ -3469,7 +3469,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oAPm3_s68OI",
+  "link": "https://youtu.be/oAPm3_s68OI",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2021-09-15T18:00:00",
@@ -3481,7 +3481,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=W4sKzw7FWK4",
+  "link": "https://youtu.be/W4sKzw7FWK4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2021-09-20T18:00:00",
@@ -3493,7 +3493,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fyk0U2BpiQg",
+  "link": "https://youtu.be/fyk0U2BpiQg",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2021-09-23T18:00:00",
@@ -3505,7 +3505,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2sFnGME_iGQ",
+  "link": "https://youtu.be/2sFnGME_iGQ",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2021-10-20T18:00:00",
@@ -3517,7 +3517,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XspBCK9zNMM",
+  "link": "https://youtu.be/XspBCK9zNMM",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2021-11-05T18:00:00",
@@ -3529,7 +3529,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pHZM7O87zoE",
+  "link": "https://youtu.be/pHZM7O87zoE",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2021-12-24T18:00:00",
@@ -3541,7 +3541,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iA04XJDdyrg",
+  "link": "https://youtu.be/iA04XJDdyrg",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2021-12-31T18:00:00",
@@ -3553,7 +3553,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=krzXdipQK2o",
+  "link": "https://youtu.be/krzXdipQK2o",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2022-02-12T18:00:00",
@@ -3565,7 +3565,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lLiiq3_nABA",
+  "link": "https://youtu.be/lLiiq3_nABA",
   "category": "Official_Channel",
   "member": "미연, 우기",
   "date": "2022-02-19T18:00:00",
@@ -3577,7 +3577,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=N1qWluicDkM",
+  "link": "https://youtu.be/N1qWluicDkM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-02-25T18:00:00",
@@ -3589,7 +3589,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=viKTTmds5w0",
+  "link": "https://youtu.be/viKTTmds5w0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-03-07T18:00:00",
@@ -3601,7 +3601,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CK422h0brGE",
+  "link": "https://youtu.be/CK422h0brGE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-03-08T18:00:00",
@@ -3613,7 +3613,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-nYIOcvTfWM",
+  "link": "https://youtu.be/-nYIOcvTfWM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-03-11T18:00:00",
@@ -3625,7 +3625,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Bvx_7Z60jDg",
+  "link": "https://youtu.be/Bvx_7Z60jDg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-03-12T18:00:00",
@@ -3637,7 +3637,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eqB57puP5vQ",
+  "link": "https://youtu.be/eqB57puP5vQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-03-14T18:00:00",
@@ -3649,7 +3649,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ax45oDJiQh0",
+  "link": "https://youtu.be/ax45oDJiQh0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-03-16T18:00:00",
@@ -3661,7 +3661,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wkTOHWQvGXQ",
+  "link": "https://youtu.be/wkTOHWQvGXQ",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2022-03-16T18:00:00",
@@ -3673,7 +3673,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pBzZvIiBvA4",
+  "link": "https://youtu.be/pBzZvIiBvA4",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2022-03-16T18:00:00",
@@ -3685,7 +3685,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pq_J-0d0z3M",
+  "link": "https://youtu.be/pq_J-0d0z3M",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2022-03-16T18:00:00",
@@ -3697,7 +3697,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=foNBw_ubhf8",
+  "link": "https://youtu.be/foNBw_ubhf8",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2022-03-16T18:00:00",
@@ -3709,7 +3709,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VsW8oXuCNUk",
+  "link": "https://youtu.be/VsW8oXuCNUk",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2022-03-16T18:00:00",
@@ -3721,7 +3721,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-QHYb8fuwIs",
+  "link": "https://youtu.be/-QHYb8fuwIs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-03-16T18:00:00",
@@ -3733,7 +3733,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uOT2HadPJh8",
+  "link": "https://youtu.be/uOT2HadPJh8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-03-20T18:00:00",
@@ -3745,7 +3745,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CKSQjJDQTaQ",
+  "link": "https://youtu.be/CKSQjJDQTaQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-03-24T18:00:00",
@@ -3757,7 +3757,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=a8TWfH4RqB0",
+  "link": "https://youtu.be/a8TWfH4RqB0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-03-27T18:00:00",
@@ -3769,7 +3769,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Si5pQHRRH5w",
+  "link": "https://youtu.be/Si5pQHRRH5w",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-03-28T18:00:00",
@@ -3781,7 +3781,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=J0Qkr0Ypqfo",
+  "link": "https://youtu.be/J0Qkr0Ypqfo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-04-01T18:00:00",
@@ -3793,7 +3793,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hi3l7y6ZwrY",
+  "link": "https://youtu.be/hi3l7y6ZwrY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-04-09T18:00:00",
@@ -3805,7 +3805,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OXT3-sLFiaU",
+  "link": "https://youtu.be/OXT3-sLFiaU",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2022-04-13T18:00:00",
@@ -3817,7 +3817,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=x8NSEmpC4Jo",
+  "link": "https://youtu.be/x8NSEmpC4Jo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-04-14T18:00:00",
@@ -3829,7 +3829,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uMl_cMm7o_E",
+  "link": "https://youtu.be/uMl_cMm7o_E",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2022-04-16T18:00:00",
@@ -3841,7 +3841,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pEMC4GOMmOw",
+  "link": "https://youtu.be/pEMC4GOMmOw",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2022-04-23T18:00:00",
@@ -3853,7 +3853,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ij69A4ETIas",
+  "link": "https://youtu.be/ij69A4ETIas",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2022-04-25T18:00:00",
@@ -3865,7 +3865,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7lU3Rvw3nGk",
+  "link": "https://youtu.be/7lU3Rvw3nGk",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2022-04-26T18:00:00",
@@ -3877,7 +3877,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QZOvAdQqbjk",
+  "link": "https://youtu.be/QZOvAdQqbjk",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2022-04-27T18:00:00",
@@ -3889,7 +3889,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1q_yooSrgJ4",
+  "link": "https://youtu.be/1q_yooSrgJ4",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2022-04-30T18:00:00",
@@ -3901,7 +3901,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bNEp5XtJwow",
+  "link": "https://youtu.be/bNEp5XtJwow",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-05-02T18:00:00",
@@ -3913,7 +3913,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kKDd451WWAw",
+  "link": "https://youtu.be/kKDd451WWAw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-05-02T18:00:00",
@@ -3925,7 +3925,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=69oSaVo3wPo",
+  "link": "https://youtu.be/69oSaVo3wPo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-05-02T18:00:00",
@@ -3937,7 +3937,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_Sbv4c1PxwI",
+  "link": "https://youtu.be/_Sbv4c1PxwI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-05-02T18:00:00",
@@ -3949,7 +3949,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cY0Va2TgsfI",
+  "link": "https://youtu.be/cY0Va2TgsfI",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2022-05-02T18:00:00",
@@ -3961,7 +3961,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=60Rb1vTzffI",
+  "link": "https://youtu.be/60Rb1vTzffI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-05-02T18:00:00",
@@ -3973,7 +3973,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=un2_yqdc72g",
+  "link": "https://youtu.be/un2_yqdc72g",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-05-02T18:00:00",
@@ -3985,7 +3985,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BEOF3t0fM9g",
+  "link": "https://youtu.be/BEOF3t0fM9g",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-05-02T18:00:00",
@@ -3997,7 +3997,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BMNofD53P2U",
+  "link": "https://youtu.be/BMNofD53P2U",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-05-02T18:00:00",
@@ -4009,7 +4009,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kmfHkL7u7IY",
+  "link": "https://youtu.be/kmfHkL7u7IY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-05-02T18:00:00",
@@ -4021,7 +4021,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ur2x3tdoX5Q",
+  "link": "https://youtu.be/ur2x3tdoX5Q",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2022-05-04T18:00:00",
@@ -4033,7 +4033,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=L37aZiXpqY0",
+  "link": "https://youtu.be/L37aZiXpqY0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-05-05T18:00:00",
@@ -4045,7 +4045,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cKqxdDg-d9I",
+  "link": "https://youtu.be/cKqxdDg-d9I",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2022-05-08T18:00:00",
@@ -4057,7 +4057,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0GvaKrCGV6s",
+  "link": "https://youtu.be/0GvaKrCGV6s",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-05-09T18:00:00",
@@ -4069,7 +4069,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=c3-dnBwM6O8",
+  "link": "https://youtu.be/c3-dnBwM6O8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-05-12T18:00:00",
@@ -4081,7 +4081,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_FCfCpJMvOg",
+  "link": "https://youtu.be/_FCfCpJMvOg",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2022-05-15T18:00:00",
@@ -4093,7 +4093,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=n7l5pRXQKoc",
+  "link": "https://youtu.be/n7l5pRXQKoc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-05-16T18:00:00",
@@ -4105,7 +4105,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9IdcoGWD6cI",
+  "link": "https://youtu.be/9IdcoGWD6cI",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2022-05-22T18:00:00",
@@ -4117,7 +4117,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=z3LjmE-Jf9U",
+  "link": "https://youtu.be/z3LjmE-Jf9U",
   "category": "Official_Channel",
   "member": "소연, 우기",
   "date": "2022-05-23T18:00:00",
@@ -4129,7 +4129,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nQBqKynYiWI",
+  "link": "https://youtu.be/nQBqKynYiWI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-06-05T18:00:00",
@@ -4141,7 +4141,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=x12T7F5Ak8E",
+  "link": "https://youtu.be/x12T7F5Ak8E",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-06-06T18:00:00",
@@ -4153,7 +4153,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XsXyaXIv5lM",
+  "link": "https://youtu.be/XsXyaXIv5lM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-06-13T18:00:00",
@@ -4165,7 +4165,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kye1yH1d2TQ",
+  "link": "https://youtu.be/kye1yH1d2TQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-06-21T18:00:00",
@@ -4177,7 +4177,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YwSWrRCUeI8",
+  "link": "https://youtu.be/YwSWrRCUeI8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-06-22T18:00:00",
@@ -4189,7 +4189,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nwvZlzf0Qfk",
+  "link": "https://youtu.be/nwvZlzf0Qfk",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2022-07-04T18:00:00",
@@ -4201,7 +4201,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dPM9_Y-n-LM",
+  "link": "https://youtu.be/dPM9_Y-n-LM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-07-06T18:00:00",
@@ -4213,7 +4213,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=THbNbuWvkTw",
+  "link": "https://youtu.be/THbNbuWvkTw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-07-18T18:00:00",
@@ -4225,7 +4225,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eFs6BZOvp7Y",
+  "link": "https://youtu.be/eFs6BZOvp7Y",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-07-29T18:00:00",
@@ -4237,7 +4237,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=k1AjiiFOQIU",
+  "link": "https://youtu.be/k1AjiiFOQIU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-08-01T18:00:00",
@@ -4249,7 +4249,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7qzwlb73-yM",
+  "link": "https://youtu.be/7qzwlb73-yM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-08-12T18:00:00",
@@ -4261,7 +4261,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kK4zZtJU1aA",
+  "link": "https://youtu.be/kK4zZtJU1aA",
   "category": "Official_Channel",
   "member": "미연, 우기",
   "date": "2022-08-15T18:00:00",
@@ -4273,7 +4273,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KN3j4jS-5l0",
+  "link": "https://youtu.be/KN3j4jS-5l0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-08-26T18:00:00",
@@ -4285,7 +4285,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FUKPxRSNI7w",
+  "link": "https://youtu.be/FUKPxRSNI7w",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2022-08-29T18:00:00",
@@ -4297,7 +4297,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=klm3ZO0VxVE",
+  "link": "https://youtu.be/klm3ZO0VxVE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-09-09T18:00:00",
@@ -4309,7 +4309,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TTRQ3HtUVas",
+  "link": "https://youtu.be/TTRQ3HtUVas",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-09-12T18:00:00",
@@ -4321,7 +4321,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cVvLMuzeXs4",
+  "link": "https://youtu.be/cVvLMuzeXs4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-09-13T18:00:00",
@@ -4333,7 +4333,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xDBvRbiy9aI",
+  "link": "https://youtu.be/xDBvRbiy9aI",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2022-09-23T18:00:00",
@@ -4345,7 +4345,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3Rcj4NmkRWw",
+  "link": "https://youtu.be/3Rcj4NmkRWw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-09-23T18:00:00",
@@ -4357,7 +4357,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JHrzlRFbnns",
+  "link": "https://youtu.be/JHrzlRFbnns",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-09-26T18:00:00",
@@ -4369,7 +4369,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=q3dPS1a1pm8",
+  "link": "https://youtu.be/q3dPS1a1pm8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-09-30T18:00:00",
@@ -4381,7 +4381,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=v3XUlKoQIZQ",
+  "link": "https://youtu.be/v3XUlKoQIZQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-07T18:00:00",
@@ -4393,7 +4393,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0IJcKyjy7P0",
+  "link": "https://youtu.be/0IJcKyjy7P0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-08T18:00:00",
@@ -4405,7 +4405,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xSKVz1QshaM",
+  "link": "https://youtu.be/xSKVz1QshaM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-08T18:00:00",
@@ -4417,7 +4417,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bzXXG9VaULI",
+  "link": "https://youtu.be/bzXXG9VaULI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-08T18:00:00",
@@ -4429,7 +4429,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9NGWQcgQHOI",
+  "link": "https://youtu.be/9NGWQcgQHOI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-08T18:00:00",
@@ -4441,7 +4441,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Fs8ILBls_2Y",
+  "link": "https://youtu.be/Fs8ILBls_2Y",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-09T18:00:00",
@@ -4453,7 +4453,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9Y8oSiV1FNM",
+  "link": "https://youtu.be/9Y8oSiV1FNM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-09T18:00:00",
@@ -4465,7 +4465,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qEWfUqSxmSY",
+  "link": "https://youtu.be/qEWfUqSxmSY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-10T18:00:00",
@@ -4477,7 +4477,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=T91NIKVhn_4",
+  "link": "https://youtu.be/T91NIKVhn_4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-12T18:00:00",
@@ -4489,7 +4489,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jcKhzuNhvFQ",
+  "link": "https://youtu.be/jcKhzuNhvFQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-14T18:00:00",
@@ -4501,7 +4501,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hZf4w5d1T34",
+  "link": "https://youtu.be/hZf4w5d1T34",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-15T18:00:00",
@@ -4513,7 +4513,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=taGjyi9M0i0",
+  "link": "https://youtu.be/taGjyi9M0i0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-16T18:00:00",
@@ -4525,7 +4525,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WjCYHBcNS08",
+  "link": "https://youtu.be/WjCYHBcNS08",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-18T18:00:00",
@@ -4537,7 +4537,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uPU1l6fBEEQ",
+  "link": "https://youtu.be/uPU1l6fBEEQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-19T18:00:00",
@@ -4549,7 +4549,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Tw7ynjk6rVc",
+  "link": "https://youtu.be/Tw7ynjk6rVc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-19T18:00:00",
@@ -4561,7 +4561,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9f1iFCxhc4U",
+  "link": "https://youtu.be/9f1iFCxhc4U",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-21T18:00:00",
@@ -4573,7 +4573,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=b8pFGiXiTjY",
+  "link": "https://youtu.be/b8pFGiXiTjY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-22T18:00:00",
@@ -4585,7 +4585,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=R9UsmrVEWYY",
+  "link": "https://youtu.be/R9UsmrVEWYY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-23T18:00:00",
@@ -4597,7 +4597,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7ZJwXaL8mD4",
+  "link": "https://youtu.be/7ZJwXaL8mD4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-25T18:00:00",
@@ -4609,7 +4609,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KnUzX0m2sHo",
+  "link": "https://youtu.be/KnUzX0m2sHo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-27T18:00:00",
@@ -4621,7 +4621,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AKAA4js2858",
+  "link": "https://youtu.be/AKAA4js2858",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-28T18:00:00",
@@ -4633,7 +4633,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7RuqX8NDMD8",
+  "link": "https://youtu.be/7RuqX8NDMD8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-28T18:00:00",
@@ -4645,7 +4645,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xB8aJ5KVW1o",
+  "link": "https://youtu.be/xB8aJ5KVW1o",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-28T18:00:00",
@@ -4657,7 +4657,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bvNNoY4rH28",
+  "link": "https://youtu.be/bvNNoY4rH28",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-28T18:00:00",
@@ -4669,7 +4669,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RI-rPp75kCg",
+  "link": "https://youtu.be/RI-rPp75kCg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-10-28T18:00:00",
@@ -4681,7 +4681,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VYgI3YmlxHk",
+  "link": "https://youtu.be/VYgI3YmlxHk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-11-06T18:00:00",
@@ -4693,7 +4693,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RM_9krmkC2I",
+  "link": "https://youtu.be/RM_9krmkC2I",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-11-09T18:00:00",
@@ -4705,7 +4705,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YQt3gzOWKMo",
+  "link": "https://youtu.be/YQt3gzOWKMo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-11-11T18:00:00",
@@ -4717,7 +4717,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xecwwEWwqOY",
+  "link": "https://youtu.be/xecwwEWwqOY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-11-13T18:00:00",
@@ -4729,7 +4729,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=I_YjPHZE04A",
+  "link": "https://youtu.be/I_YjPHZE04A",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-11-20T18:00:00",
@@ -4741,7 +4741,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Gk80c8nSV0k",
+  "link": "https://youtu.be/Gk80c8nSV0k",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-11-25T18:00:00",
@@ -4753,7 +4753,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bsMO-p89ORg",
+  "link": "https://youtu.be/bsMO-p89ORg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-12-01T18:00:00",
@@ -4765,7 +4765,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xqRjm5ulgJs",
+  "link": "https://youtu.be/xqRjm5ulgJs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-12-12T18:00:00",
@@ -4777,7 +4777,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TFGeHfqVswI",
+  "link": "https://youtu.be/TFGeHfqVswI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-12-15T18:00:00",
@@ -4789,7 +4789,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qRrV31S7oO0",
+  "link": "https://youtu.be/qRrV31S7oO0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-12-16T18:00:00",
@@ -4801,7 +4801,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VagJTHGmjAg",
+  "link": "https://youtu.be/VagJTHGmjAg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-12-17T18:00:00",
@@ -4813,7 +4813,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2lDPw8FP0rI",
+  "link": "https://youtu.be/2lDPw8FP0rI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2022-12-20T18:00:00",
@@ -4825,7 +4825,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CQO4TFM0oZk",
+  "link": "https://youtu.be/CQO4TFM0oZk",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2022-12-21T18:00:00",
@@ -4837,7 +4837,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=P7zU8MNxAoU",
+  "link": "https://youtu.be/P7zU8MNxAoU",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2022-12-25T18:00:00",
@@ -4849,7 +4849,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tZM8ZZhcbiQ",
+  "link": "https://youtu.be/tZM8ZZhcbiQ",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2022-12-30T18:00:00",
@@ -4861,7 +4861,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pf_I0r7fUck",
+  "link": "https://youtu.be/pf_I0r7fUck",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-01-06T18:00:00",
@@ -4873,7 +4873,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ryNHXwE3uDM",
+  "link": "https://youtu.be/ryNHXwE3uDM",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2023-01-18T18:00:00",
@@ -4885,7 +4885,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=J9Xh4_zoWD0",
+  "link": "https://youtu.be/J9Xh4_zoWD0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-01-20T18:00:00",
@@ -4897,7 +4897,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RAKBokE7C-8",
+  "link": "https://youtu.be/RAKBokE7C-8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-01-31T18:00:00",
@@ -4909,7 +4909,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gYDo7FOyz1Q",
+  "link": "https://youtu.be/gYDo7FOyz1Q",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-02-03T18:00:00",
@@ -4921,7 +4921,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=URlJud2rlMo",
+  "link": "https://youtu.be/URlJud2rlMo",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2023-02-04T18:00:00",
@@ -4933,7 +4933,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wMmL0Ufb7u4",
+  "link": "https://youtu.be/wMmL0Ufb7u4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-02-05T18:00:00",
@@ -4945,7 +4945,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wHqn-UIyLHg",
+  "link": "https://youtu.be/wHqn-UIyLHg",
   "category": "Official_Channel",
   "member": "민니, 우기",
   "date": "2023-02-08T18:00:00",
@@ -4957,7 +4957,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HYZrwHYR8NQ",
+  "link": "https://youtu.be/HYZrwHYR8NQ",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2023-02-12T18:00:00",
@@ -4969,7 +4969,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LEp7sPPCkII",
+  "link": "https://youtu.be/LEp7sPPCkII",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-02-28T18:00:00",
@@ -4981,7 +4981,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UZbO1ccNb84",
+  "link": "https://youtu.be/UZbO1ccNb84",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-03-03T18:00:00",
@@ -4993,7 +4993,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zi8zJBT2QyE",
+  "link": "https://youtu.be/zi8zJBT2QyE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-03-07T18:00:00",
@@ -5005,7 +5005,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9XiIpdo7xhA",
+  "link": "https://youtu.be/9XiIpdo7xhA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-03-13T18:00:00",
@@ -5017,7 +5017,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0X4XGrK_PwM",
+  "link": "https://youtu.be/0X4XGrK_PwM",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2023-03-14T18:00:00",
@@ -5029,7 +5029,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=D4c-8wlkzpc",
+  "link": "https://youtu.be/D4c-8wlkzpc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-03-15T18:00:00",
@@ -5041,7 +5041,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fngLL-2V5T8",
+  "link": "https://youtu.be/fngLL-2V5T8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-03-25T18:00:00",
@@ -5053,7 +5053,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Qu71MoWLA3c",
+  "link": "https://youtu.be/Qu71MoWLA3c",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-03-28T18:00:00",
@@ -5065,7 +5065,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dDZT1faYx0Y",
+  "link": "https://youtu.be/dDZT1faYx0Y",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2023-04-01T18:00:00",
@@ -5077,7 +5077,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Rq-sSDdMOxI",
+  "link": "https://youtu.be/Rq-sSDdMOxI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-04-08T18:00:00",
@@ -5089,7 +5089,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pdkt_wXOtW0",
+  "link": "https://youtu.be/pdkt_wXOtW0",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2023-04-10T18:00:00",
@@ -5101,7 +5101,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QWQfHKGmSeM",
+  "link": "https://youtu.be/QWQfHKGmSeM",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2023-04-15T18:00:00",
@@ -5113,7 +5113,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=URh5fgVufm4",
+  "link": "https://youtu.be/URh5fgVufm4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-04-24T18:00:00",
@@ -5125,7 +5125,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6P3fqtf3ibM",
+  "link": "https://youtu.be/6P3fqtf3ibM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-04-27T18:00:00",
@@ -5137,7 +5137,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TFb3ITn3TyQ",
+  "link": "https://youtu.be/TFb3ITn3TyQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-04-28T18:00:00",
@@ -5149,7 +5149,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=riLm94E6EfE",
+  "link": "https://youtu.be/riLm94E6EfE",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2023-04-28T18:00:00",
@@ -5161,7 +5161,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FZc4wGOf0i4",
+  "link": "https://youtu.be/FZc4wGOf0i4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-01T18:00:00",
@@ -5173,7 +5173,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mdYmtp7z4k8",
+  "link": "https://youtu.be/mdYmtp7z4k8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-01T18:00:00",
@@ -5185,7 +5185,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lH7zwkESfwg",
+  "link": "https://youtu.be/lH7zwkESfwg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-01T18:00:00",
@@ -5197,7 +5197,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XYIBQAm8iZ4",
+  "link": "https://youtu.be/XYIBQAm8iZ4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-02T18:00:00",
@@ -5209,7 +5209,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IlFh4Zzgh4U",
+  "link": "https://youtu.be/IlFh4Zzgh4U",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-02T18:00:00",
@@ -5221,7 +5221,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=60knHM-d0L8",
+  "link": "https://youtu.be/60knHM-d0L8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-02T18:00:00",
@@ -5233,7 +5233,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pblTCkuBCHw",
+  "link": "https://youtu.be/pblTCkuBCHw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-02T18:00:00",
@@ -5245,7 +5245,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=x4Fib7qx3Gk",
+  "link": "https://youtu.be/x4Fib7qx3Gk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-02T18:00:00",
@@ -5257,7 +5257,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fNw87YN_y_g",
+  "link": "https://youtu.be/fNw87YN_y_g",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-02T18:00:00",
@@ -5269,7 +5269,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UYKElCRktyE",
+  "link": "https://youtu.be/UYKElCRktyE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-02T18:00:00",
@@ -5281,7 +5281,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ofVzUKoKbqY",
+  "link": "https://youtu.be/ofVzUKoKbqY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-02T18:00:00",
@@ -5293,7 +5293,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nEtSDq6geSc",
+  "link": "https://youtu.be/nEtSDq6geSc",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2023-05-03T18:00:00",
@@ -5305,7 +5305,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=38kvqREhg8k",
+  "link": "https://youtu.be/38kvqREhg8k",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-04T18:00:00",
@@ -5317,7 +5317,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5a7RDNGdXnU",
+  "link": "https://youtu.be/5a7RDNGdXnU",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2023-05-05T18:00:00",
@@ -5329,7 +5329,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dFNyiyofGlE",
+  "link": "https://youtu.be/dFNyiyofGlE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-14T18:00:00",
@@ -5341,7 +5341,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NV-pwtijKWg",
+  "link": "https://youtu.be/NV-pwtijKWg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-16T18:00:00",
@@ -5353,7 +5353,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PAh2PEsX65U",
+  "link": "https://youtu.be/PAh2PEsX65U",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-20T18:00:00",
@@ -5365,7 +5365,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pKCaXYYwGjw",
+  "link": "https://youtu.be/pKCaXYYwGjw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-21T18:00:00",
@@ -5377,7 +5377,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Kly9hFFGrb0",
+  "link": "https://youtu.be/Kly9hFFGrb0",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2023-05-22T18:00:00",
@@ -5389,7 +5389,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IquoKcN-vU4",
+  "link": "https://youtu.be/IquoKcN-vU4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-23T18:00:00",
@@ -5401,7 +5401,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6jL7U29W5Mk",
+  "link": "https://youtu.be/6jL7U29W5Mk",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2023-05-24T18:00:00",
@@ -5413,7 +5413,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZqL9SCPGrTA",
+  "link": "https://youtu.be/ZqL9SCPGrTA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-27T18:00:00",
@@ -5425,7 +5425,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4OV_zNx54Ho",
+  "link": "https://youtu.be/4OV_zNx54Ho",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-27T18:00:00",
@@ -5437,7 +5437,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-mDVfE5NeK0",
+  "link": "https://youtu.be/-mDVfE5NeK0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-27T18:00:00",
@@ -5449,7 +5449,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hfBPHLBxZro",
+  "link": "https://youtu.be/hfBPHLBxZro",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-27T18:00:00",
@@ -5461,7 +5461,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IVAXcw0qH_c",
+  "link": "https://youtu.be/IVAXcw0qH_c",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-27T18:00:00",
@@ -5473,7 +5473,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tOID3CTHBHg",
+  "link": "https://youtu.be/tOID3CTHBHg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-27T18:00:00",
@@ -5485,7 +5485,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qYpPn5CudRw",
+  "link": "https://youtu.be/qYpPn5CudRw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-27T18:00:00",
@@ -5497,7 +5497,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AKg_9dn_VmA",
+  "link": "https://youtu.be/AKg_9dn_VmA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-28T18:00:00",
@@ -5509,7 +5509,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EJ-Gb-ljxdM",
+  "link": "https://youtu.be/EJ-Gb-ljxdM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-05-30T18:00:00",
@@ -5521,7 +5521,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pz1iMo5pQcg",
+  "link": "https://youtu.be/pz1iMo5pQcg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-06-01T18:00:00",
@@ -5533,7 +5533,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=je9vk7qIM7A",
+  "link": "https://youtu.be/je9vk7qIM7A",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-06-01T18:00:00",
@@ -5545,7 +5545,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZHJPJleCa5M",
+  "link": "https://youtu.be/ZHJPJleCa5M",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-06-01T18:00:00",
@@ -5557,7 +5557,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jgtYt_k5tYg",
+  "link": "https://youtu.be/jgtYt_k5tYg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-06-03T18:00:00",
@@ -5569,7 +5569,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Nzs9Liewjo8",
+  "link": "https://youtu.be/Nzs9Liewjo8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-06-05T18:00:00",
@@ -5581,7 +5581,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=w0TQ51nnM5c",
+  "link": "https://youtu.be/w0TQ51nnM5c",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-06-06T18:00:00",
@@ -5593,7 +5593,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_NCMWptDQFg",
+  "link": "https://youtu.be/_NCMWptDQFg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-06-07T18:00:00",
@@ -5605,7 +5605,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4Btl-X89kBY",
+  "link": "https://youtu.be/4Btl-X89kBY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-06-12T18:00:00",
@@ -5617,7 +5617,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dcn9yDyDZ0o",
+  "link": "https://youtu.be/dcn9yDyDZ0o",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2023-06-14T18:00:00",
@@ -5629,7 +5629,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8JYjc2nSL48",
+  "link": "https://youtu.be/8JYjc2nSL48",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2023-06-21T18:00:00",
@@ -5641,7 +5641,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ckcVS1YWcr4",
+  "link": "https://youtu.be/ckcVS1YWcr4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-06-24T18:00:00",
@@ -5653,7 +5653,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GzxxFZoHESU",
+  "link": "https://youtu.be/GzxxFZoHESU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-06-30T18:00:00",
@@ -5665,7 +5665,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bMDNqCMAn6g",
+  "link": "https://youtu.be/bMDNqCMAn6g",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-07-04T18:00:00",
@@ -5677,7 +5677,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2HYls6OJ4I8",
+  "link": "https://youtu.be/2HYls6OJ4I8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-07-08T18:00:00",
@@ -5689,7 +5689,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=m5x85EObU1Q",
+  "link": "https://youtu.be/m5x85EObU1Q",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-07-12T18:00:00",
@@ -5701,7 +5701,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ISGec0pg5mk",
+  "link": "https://youtu.be/ISGec0pg5mk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-07-21T18:00:00",
@@ -5713,7 +5713,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zZQBBbTazuY",
+  "link": "https://youtu.be/zZQBBbTazuY",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2023-07-25T18:00:00",
@@ -5725,7 +5725,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=v4qn-GFXfQI",
+  "link": "https://youtu.be/v4qn-GFXfQI",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2023-08-04T18:00:00",
@@ -5737,7 +5737,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nzGA5nKMDRg",
+  "link": "https://youtu.be/nzGA5nKMDRg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-08-14T18:00:00",
@@ -5749,7 +5749,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0K5RvD2p6v8",
+  "link": "https://youtu.be/0K5RvD2p6v8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-08-18T18:00:00",
@@ -5761,7 +5761,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=h22rV2yCpnc",
+  "link": "https://youtu.be/h22rV2yCpnc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-08-25T18:00:00",
@@ -5773,7 +5773,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SZoacJ-KSxU",
+  "link": "https://youtu.be/SZoacJ-KSxU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-08-25T18:00:00",
@@ -5785,7 +5785,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=x7i6iIil-dQ",
+  "link": "https://youtu.be/x7i6iIil-dQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-09-01T18:00:00",
@@ -5797,7 +5797,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=07NbYKFBJRs",
+  "link": "https://youtu.be/07NbYKFBJRs",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2023-09-08T18:00:00",
@@ -5809,7 +5809,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qh2MGXp7HYs",
+  "link": "https://youtu.be/qh2MGXp7HYs",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2023-09-15T18:00:00",
@@ -5821,7 +5821,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RbFdaAUXGIY",
+  "link": "https://youtu.be/RbFdaAUXGIY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-09-22T18:00:00",
@@ -5833,7 +5833,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Zi2kJvHwk1k",
+  "link": "https://youtu.be/Zi2kJvHwk1k",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2023-09-23T18:00:00",
@@ -5845,7 +5845,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=46Nr2DsHEYA",
+  "link": "https://youtu.be/46Nr2DsHEYA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-09-23T18:00:00",
@@ -5857,7 +5857,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YePeIJjGQgc",
+  "link": "https://youtu.be/YePeIJjGQgc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-09-29T18:00:00",
@@ -5869,7 +5869,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XJ0zcVrvLO4",
+  "link": "https://youtu.be/XJ0zcVrvLO4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-10-02T18:00:00",
@@ -5881,7 +5881,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CIxApX7r9YQ",
+  "link": "https://youtu.be/CIxApX7r9YQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-10-04T18:00:00",
@@ -5893,7 +5893,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IjGdsdLMttc",
+  "link": "https://youtu.be/IjGdsdLMttc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-10-05T18:00:00",
@@ -5905,7 +5905,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sxl3aKjF1e4",
+  "link": "https://youtu.be/sxl3aKjF1e4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-10-06T18:00:00",
@@ -5917,7 +5917,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=frYByt36Wj4",
+  "link": "https://youtu.be/frYByt36Wj4",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2023-10-10T18:00:00",
@@ -5929,7 +5929,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uordQfbb4OI",
+  "link": "https://youtu.be/uordQfbb4OI",
   "category": "Official_Channel",
   "member": "민니, 우기",
   "date": "2023-10-13T18:00:00",
@@ -5941,7 +5941,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PnJBs44SpMo",
+  "link": "https://youtu.be/PnJBs44SpMo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-10-17T18:00:00",
@@ -5953,7 +5953,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2WZY9gRJfrw",
+  "link": "https://youtu.be/2WZY9gRJfrw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-10-20T18:00:00",
@@ -5965,7 +5965,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5RSIJdz9x_w",
+  "link": "https://youtu.be/5RSIJdz9x_w",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2023-10-23T18:00:00",
@@ -5977,7 +5977,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IQdDn_ktGww",
+  "link": "https://youtu.be/IQdDn_ktGww",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-10-27T18:00:00",
@@ -5989,7 +5989,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-RORM6aWoJw",
+  "link": "https://youtu.be/-RORM6aWoJw",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2023-11-03T18:00:00",
@@ -6001,7 +6001,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ng021moIyt4",
+  "link": "https://youtu.be/Ng021moIyt4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-11-04T18:00:00",
@@ -6013,7 +6013,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UiqTmnzhvpU",
+  "link": "https://youtu.be/UiqTmnzhvpU",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2023-11-08T18:00:00",
@@ -6025,7 +6025,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gI9rtej6Xck",
+  "link": "https://youtu.be/gI9rtej6Xck",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-11-10T18:00:00",
@@ -6037,7 +6037,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YNviAJJ3qsg",
+  "link": "https://youtu.be/YNviAJJ3qsg",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2023-11-17T18:00:00",
@@ -6049,7 +6049,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ay4S4V2vYzs",
+  "link": "https://youtu.be/Ay4S4V2vYzs",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2023-11-21T18:00:00",
@@ -6061,7 +6061,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0cFfTpbr-2A",
+  "link": "https://youtu.be/0cFfTpbr-2A",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-11-24T18:00:00",
@@ -6073,7 +6073,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OzlQzpstJQY",
+  "link": "https://youtu.be/OzlQzpstJQY",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2023-12-01T18:00:00",
@@ -6085,7 +6085,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=K2aDQ1r8-64",
+  "link": "https://youtu.be/K2aDQ1r8-64",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2023-12-10T18:00:00",
@@ -6097,7 +6097,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=j9Z3_7P1wsc",
+  "link": "https://youtu.be/j9Z3_7P1wsc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-12-17T18:00:00",
@@ -6109,7 +6109,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6g_qFnZjsxQ",
+  "link": "https://youtu.be/6g_qFnZjsxQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-12-18T18:00:00",
@@ -6121,7 +6121,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=H6pLWC7zvA8",
+  "link": "https://youtu.be/H6pLWC7zvA8",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2023-12-25T18:00:00",
@@ -6133,7 +6133,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fI8ziJMj1D8",
+  "link": "https://youtu.be/fI8ziJMj1D8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2023-12-27T18:00:00",
@@ -6145,7 +6145,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3zD8YRus8HI",
+  "link": "https://youtu.be/3zD8YRus8HI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-03T18:00:00",
@@ -6157,7 +6157,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hgrClZcu-Uc",
+  "link": "https://youtu.be/hgrClZcu-Uc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-04T18:00:00",
@@ -6169,7 +6169,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IIhPuxpted8",
+  "link": "https://youtu.be/IIhPuxpted8",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2024-01-06T18:00:00",
@@ -6181,7 +6181,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3f3p64CNwyA",
+  "link": "https://youtu.be/3f3p64CNwyA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-08T18:00:00",
@@ -6193,7 +6193,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=E31_uxS2Lyw",
+  "link": "https://youtu.be/E31_uxS2Lyw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-09T18:00:00",
@@ -6205,7 +6205,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=g_L_DZFdSNI",
+  "link": "https://youtu.be/g_L_DZFdSNI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-12T18:00:00",
@@ -6217,7 +6217,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7NQwzm3d9lc",
+  "link": "https://youtu.be/7NQwzm3d9lc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-12T18:00:00",
@@ -6229,7 +6229,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8GAIFlkBcM4",
+  "link": "https://youtu.be/8GAIFlkBcM4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-18T18:00:00",
@@ -6241,7 +6241,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IBoOqS3bGh8",
+  "link": "https://youtu.be/IBoOqS3bGh8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-19T18:00:00",
@@ -6253,7 +6253,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mBah7X9Yj88",
+  "link": "https://youtu.be/mBah7X9Yj88",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-20T18:00:00",
@@ -6265,7 +6265,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ff-s_LFaBiQ",
+  "link": "https://youtu.be/ff-s_LFaBiQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-21T18:00:00",
@@ -6277,7 +6277,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2wyRHP5poeE",
+  "link": "https://youtu.be/2wyRHP5poeE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-23T18:00:00",
@@ -6289,7 +6289,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=j9YdW0adWTM",
+  "link": "https://youtu.be/j9YdW0adWTM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-24T18:00:00",
@@ -6301,7 +6301,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-Dr-lwOygig",
+  "link": "https://youtu.be/-Dr-lwOygig",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-24T18:00:00",
@@ -6313,7 +6313,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=P1LPQTQa7gw",
+  "link": "https://youtu.be/P1LPQTQa7gw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-24T18:00:00",
@@ -6325,7 +6325,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=W08Ax_U9jxQ",
+  "link": "https://youtu.be/W08Ax_U9jxQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-25T18:00:00",
@@ -6337,7 +6337,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yFngSPM0J1s",
+  "link": "https://youtu.be/yFngSPM0J1s",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-26T18:00:00",
@@ -6349,7 +6349,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=T6PUaBgHbao",
+  "link": "https://youtu.be/T6PUaBgHbao",
   "category": "Official_Channel",
   "member": "소연, 우기",
   "date": "2024-01-27T18:00:00",
@@ -6361,7 +6361,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YP1NyGaa4uU",
+  "link": "https://youtu.be/YP1NyGaa4uU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-01-30T18:00:00",
@@ -6373,7 +6373,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6SNUbo1G0JE",
+  "link": "https://youtu.be/6SNUbo1G0JE",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2024-01-31T18:00:00",
@@ -6385,7 +6385,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KWI_ThK1BMU",
+  "link": "https://youtu.be/KWI_ThK1BMU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-02-03T18:00:00",
@@ -6397,7 +6397,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=quZ9zI24mp4",
+  "link": "https://youtu.be/quZ9zI24mp4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-02-07T18:00:00",
@@ -6409,7 +6409,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kS1Du7zkKG8",
+  "link": "https://youtu.be/kS1Du7zkKG8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-02-08T18:00:00",
@@ -6421,7 +6421,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sbYTcMoKh64",
+  "link": "https://youtu.be/sbYTcMoKh64",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-02-09T18:00:00",
@@ -6433,7 +6433,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lipxvr_VlTA",
+  "link": "https://youtu.be/lipxvr_VlTA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-02-14T18:00:00",
@@ -6445,7 +6445,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=d2nPTeE_tZA",
+  "link": "https://youtu.be/d2nPTeE_tZA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-02-16T18:00:00",
@@ -6457,7 +6457,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WGY9G0xXdlY",
+  "link": "https://youtu.be/WGY9G0xXdlY",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2024-02-19T18:00:00",
@@ -6469,7 +6469,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CA9jn8viiK4",
+  "link": "https://youtu.be/CA9jn8viiK4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-02-20T18:00:00",
@@ -6481,7 +6481,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Us_i2kNQWdM",
+  "link": "https://youtu.be/Us_i2kNQWdM",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2024-02-20T18:00:00",
@@ -6493,7 +6493,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jL1pj_H4lMw",
+  "link": "https://youtu.be/jL1pj_H4lMw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-02-23T18:00:00",
@@ -6505,7 +6505,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KFMe0WbALtE",
+  "link": "https://youtu.be/KFMe0WbALtE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-02-26T18:00:00",
@@ -6517,7 +6517,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fUrArxSnJCw",
+  "link": "https://youtu.be/fUrArxSnJCw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-03-01T18:00:00",
@@ -6529,7 +6529,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=C45qwOFdMS8",
+  "link": "https://youtu.be/C45qwOFdMS8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-03-04T18:00:00",
@@ -6541,7 +6541,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=44XT6cL7qks",
+  "link": "https://youtu.be/44XT6cL7qks",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2024-03-11T18:00:00",
@@ -6553,7 +6553,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8e8SeQAsBYE",
+  "link": "https://youtu.be/8e8SeQAsBYE",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-03-15T18:00:00",
@@ -6565,7 +6565,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mqbIEKDM4TI",
+  "link": "https://youtu.be/mqbIEKDM4TI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-03-21T18:00:00",
@@ -6577,7 +6577,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=B9VXlhmOH6Y",
+  "link": "https://youtu.be/B9VXlhmOH6Y",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2024-03-29T18:00:00",
@@ -6589,7 +6589,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qdbEj8aohRk",
+  "link": "https://youtu.be/qdbEj8aohRk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-03-31T18:00:00",
@@ -6601,7 +6601,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vq3-lPqBX-o",
+  "link": "https://youtu.be/vq3-lPqBX-o",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-04-01T18:00:00",
@@ -6613,7 +6613,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=40T4DYvgvJc",
+  "link": "https://youtu.be/40T4DYvgvJc",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-04-03T18:00:00",
@@ -6625,7 +6625,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zY4fvm0msMQ",
+  "link": "https://youtu.be/zY4fvm0msMQ",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-04-04T18:00:00",
@@ -6637,7 +6637,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fEOaSMFIeIY",
+  "link": "https://youtu.be/fEOaSMFIeIY",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-04-06T18:00:00",
@@ -6649,7 +6649,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2C6f7r_Hqfs",
+  "link": "https://youtu.be/2C6f7r_Hqfs",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-04-09T18:00:00",
@@ -6661,7 +6661,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VL34uz_mj94",
+  "link": "https://youtu.be/VL34uz_mj94",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-04-11T18:00:00",
@@ -6673,7 +6673,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KFfBRqKBjCM",
+  "link": "https://youtu.be/KFfBRqKBjCM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-04-13T18:00:00",
@@ -6685,7 +6685,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VDtDh21N61c",
+  "link": "https://youtu.be/VDtDh21N61c",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-04-15T18:00:00",
@@ -6697,7 +6697,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VNwkts-Wb58",
+  "link": "https://youtu.be/VNwkts-Wb58",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-04-19T18:00:00",
@@ -6709,7 +6709,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4NYVk2sgw20",
+  "link": "https://youtu.be/4NYVk2sgw20",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-04-21T18:00:00",
@@ -6721,7 +6721,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EFOsEsFXWVE",
+  "link": "https://youtu.be/EFOsEsFXWVE",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-04-22T18:00:00",
@@ -6733,7 +6733,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=--jLgCIDrC8",
+  "link": "https://youtu.be/--jLgCIDrC8",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-04-23T18:00:00",
@@ -6745,7 +6745,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mBJfHXE5fKU",
+  "link": "https://youtu.be/mBJfHXE5fKU",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-04-24T18:00:00",
@@ -6757,7 +6757,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3avr0zsWANM",
+  "link": "https://youtu.be/3avr0zsWANM",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-04-25T18:00:00",
@@ -6769,7 +6769,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BAemXVPRVmA",
+  "link": "https://youtu.be/BAemXVPRVmA",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-04-27T18:00:00",
@@ -6781,7 +6781,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OEpmaBcQdHI",
+  "link": "https://youtu.be/OEpmaBcQdHI",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2024-04-28T18:00:00",
@@ -6793,7 +6793,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dyFGwGFerAc",
+  "link": "https://youtu.be/dyFGwGFerAc",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-04-29T18:00:00",
@@ -6805,7 +6805,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xixoX8iOsPo",
+  "link": "https://youtu.be/xixoX8iOsPo",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2024-04-30T18:00:00",
@@ -6817,7 +6817,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JHm3SEYuYlo",
+  "link": "https://youtu.be/JHm3SEYuYlo",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-05-01T18:00:00",
@@ -6829,7 +6829,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=y6J4gvnJRYY",
+  "link": "https://youtu.be/y6J4gvnJRYY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-02T18:00:00",
@@ -6841,7 +6841,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Lyt8-ZiqTpA",
+  "link": "https://youtu.be/Lyt8-ZiqTpA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-02T18:00:00",
@@ -6853,7 +6853,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EcISuKwE9fo",
+  "link": "https://youtu.be/EcISuKwE9fo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-02T18:00:00",
@@ -6865,7 +6865,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZgMCwWSDB1A",
+  "link": "https://youtu.be/ZgMCwWSDB1A",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-02T18:00:00",
@@ -6877,7 +6877,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EpRflTq7iEg",
+  "link": "https://youtu.be/EpRflTq7iEg",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-05-05T18:00:00",
@@ -6889,7 +6889,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=J_2r39dcPAM",
+  "link": "https://youtu.be/J_2r39dcPAM",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-05-05T18:00:00",
@@ -6901,7 +6901,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ChiQ0Ukh470",
+  "link": "https://youtu.be/ChiQ0Ukh470",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-05-05T18:00:00",
@@ -6913,7 +6913,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=N9Q0T7OWhuA",
+  "link": "https://youtu.be/N9Q0T7OWhuA",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-05-05T18:00:00",
@@ -6925,7 +6925,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XVlVpYDaQMQ",
+  "link": "https://youtu.be/XVlVpYDaQMQ",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-05-05T18:00:00",
@@ -6937,7 +6937,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sk1EJFVN1pM",
+  "link": "https://youtu.be/sk1EJFVN1pM",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-05-09T18:00:00",
@@ -6949,7 +6949,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=huJj-s2jyzE",
+  "link": "https://youtu.be/huJj-s2jyzE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-12T18:00:00",
@@ -6961,7 +6961,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=usbqQMR2SpQ",
+  "link": "https://youtu.be/usbqQMR2SpQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-19T18:00:00",
@@ -6973,7 +6973,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QKqan5ul3YY",
+  "link": "https://youtu.be/QKqan5ul3YY",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-05-21T18:00:00",
@@ -6985,7 +6985,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=izrjkPuhwQ8",
+  "link": "https://youtu.be/izrjkPuhwQ8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-23T18:00:00",
@@ -6997,7 +6997,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=X6vuf4JMVgk",
+  "link": "https://youtu.be/X6vuf4JMVgk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-23T18:00:00",
@@ -7009,7 +7009,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Zm4mTxuiTJw",
+  "link": "https://youtu.be/Zm4mTxuiTJw",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-05-24T18:00:00",
@@ -7021,7 +7021,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6lOH7_DUd14",
+  "link": "https://youtu.be/6lOH7_DUd14",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-26T18:00:00",
@@ -7033,7 +7033,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lgTXNtoLiqU",
+  "link": "https://youtu.be/lgTXNtoLiqU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-26T18:00:00",
@@ -7045,7 +7045,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sj8jWrOGmjM",
+  "link": "https://youtu.be/sj8jWrOGmjM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-26T18:00:00",
@@ -7057,7 +7057,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PEkyyrO5SZ8",
+  "link": "https://youtu.be/PEkyyrO5SZ8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-26T18:00:00",
@@ -7069,7 +7069,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4BU7sPv7qM0",
+  "link": "https://youtu.be/4BU7sPv7qM0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-26T18:00:00",
@@ -7081,7 +7081,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1yeHokGLIQI",
+  "link": "https://youtu.be/1yeHokGLIQI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-26T18:00:00",
@@ -7093,7 +7093,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IkN4Ta1Fs94",
+  "link": "https://youtu.be/IkN4Ta1Fs94",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-30T18:00:00",
@@ -7105,7 +7105,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WYA7TiSATbE",
+  "link": "https://youtu.be/WYA7TiSATbE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-30T18:00:00",
@@ -7117,7 +7117,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8EsTc6Fsr4M",
+  "link": "https://youtu.be/8EsTc6Fsr4M",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-30T18:00:00",
@@ -7129,7 +7129,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nAnuEnrK9Gs",
+  "link": "https://youtu.be/nAnuEnrK9Gs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-30T18:00:00",
@@ -7141,7 +7141,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZF2G464WaKI",
+  "link": "https://youtu.be/ZF2G464WaKI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-30T18:00:00",
@@ -7153,7 +7153,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SQTTslwrZUE",
+  "link": "https://youtu.be/SQTTslwrZUE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-30T18:00:00",
@@ -7165,7 +7165,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4-vCpfmMcN0",
+  "link": "https://youtu.be/4-vCpfmMcN0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-30T18:00:00",
@@ -7177,7 +7177,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1TShABJ0Y_A",
+  "link": "https://youtu.be/1TShABJ0Y_A",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-30T18:00:00",
@@ -7189,7 +7189,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yqjYHNmwxJI",
+  "link": "https://youtu.be/yqjYHNmwxJI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-30T18:00:00",
@@ -7201,7 +7201,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PEEmKcuJsCE",
+  "link": "https://youtu.be/PEEmKcuJsCE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-30T18:00:00",
@@ -7213,7 +7213,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XfyFeQBXbFA",
+  "link": "https://youtu.be/XfyFeQBXbFA",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2024-05-31T18:00:00",
@@ -7225,7 +7225,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LquxAnFh2Hw",
+  "link": "https://youtu.be/LquxAnFh2Hw",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-05-31T18:00:00",
@@ -7237,7 +7237,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5iLFGN34GYc",
+  "link": "https://youtu.be/5iLFGN34GYc",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2024-05-31T18:00:00",
@@ -7249,7 +7249,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TxDBjfijhIA",
+  "link": "https://youtu.be/TxDBjfijhIA",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2024-05-31T18:00:00",
@@ -7261,7 +7261,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DrdwtIeT8Vk",
+  "link": "https://youtu.be/DrdwtIeT8Vk",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2024-05-31T18:00:00",
@@ -7273,7 +7273,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mJxWu_PrqLQ",
+  "link": "https://youtu.be/mJxWu_PrqLQ",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-05-31T18:00:00",
@@ -7285,7 +7285,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6vQPTPbAPgY",
+  "link": "https://youtu.be/6vQPTPbAPgY",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2024-05-31T18:00:00",
@@ -7297,7 +7297,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Zmncc6A2OOQ",
+  "link": "https://youtu.be/Zmncc6A2OOQ",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2024-05-31T18:00:00",
@@ -7309,7 +7309,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=91J3FD5qTIY",
+  "link": "https://youtu.be/91J3FD5qTIY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-31T18:00:00",
@@ -7321,7 +7321,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=z4jDoc9GKEc",
+  "link": "https://youtu.be/z4jDoc9GKEc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-31T18:00:00",
@@ -7333,7 +7333,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QPZY2Ityh8A",
+  "link": "https://youtu.be/QPZY2Ityh8A",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-05-31T18:00:00",
@@ -7345,7 +7345,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9FG9Zf2CmrM",
+  "link": "https://youtu.be/9FG9Zf2CmrM",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-05-31T18:00:00",
@@ -7357,7 +7357,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Vc-XGZ3DbJE",
+  "link": "https://youtu.be/Vc-XGZ3DbJE",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-06-01T18:00:00",
@@ -7369,7 +7369,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nfU3GiPMafs",
+  "link": "https://youtu.be/nfU3GiPMafs",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2024-06-03T18:00:00",
@@ -7381,7 +7381,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JKYzmuEOAtw",
+  "link": "https://youtu.be/JKYzmuEOAtw",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-06-16T18:00:00",
@@ -7393,7 +7393,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XFk0K-lL4gQ",
+  "link": "https://youtu.be/XFk0K-lL4gQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-06-21T18:00:00",
@@ -7405,7 +7405,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0eP7SFuL3g8",
+  "link": "https://youtu.be/0eP7SFuL3g8",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2024-06-22T18:00:00",
@@ -7417,7 +7417,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dgbc_BNJHiw",
+  "link": "https://youtu.be/dgbc_BNJHiw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-06-28T18:00:00",
@@ -7429,7 +7429,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LinvEDArNwM",
+  "link": "https://youtu.be/LinvEDArNwM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-06-28T18:00:00",
@@ -7441,7 +7441,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BnzVK8ae9MY",
+  "link": "https://youtu.be/BnzVK8ae9MY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-06-29T18:00:00",
@@ -7453,7 +7453,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sncQwmz6scQ",
+  "link": "https://youtu.be/sncQwmz6scQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-06-30T18:00:00",
@@ -7465,7 +7465,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HQ7QkWOxR9k",
+  "link": "https://youtu.be/HQ7QkWOxR9k",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2024-07-01T18:00:00",
@@ -7477,7 +7477,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AHXMG0hCZLs",
+  "link": "https://youtu.be/AHXMG0hCZLs",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-07-01T18:00:00",
@@ -7489,7 +7489,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dxI3rieml2E",
+  "link": "https://youtu.be/dxI3rieml2E",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2024-07-01T18:00:00",
@@ -7501,7 +7501,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=J3dRsBZMKq4",
+  "link": "https://youtu.be/J3dRsBZMKq4",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2024-07-01T18:00:00",
@@ -7513,7 +7513,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LkdK0-ySh_g",
+  "link": "https://youtu.be/LkdK0-ySh_g",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2024-07-01T18:00:00",
@@ -7525,7 +7525,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=knGQfZU3hAU",
+  "link": "https://youtu.be/knGQfZU3hAU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-07-02T18:00:00",
@@ -7537,7 +7537,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2rQBtMEB6Bs",
+  "link": "https://youtu.be/2rQBtMEB6Bs",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-07-03T18:00:00",
@@ -7549,7 +7549,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hqXwRaAFEtk",
+  "link": "https://youtu.be/hqXwRaAFEtk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-07-04T18:00:00",
@@ -7561,7 +7561,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TEDw01ilFMc",
+  "link": "https://youtu.be/TEDw01ilFMc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-07-05T18:00:00",
@@ -7573,7 +7573,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UPLnChh47lU",
+  "link": "https://youtu.be/UPLnChh47lU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-07-06T18:00:00",
@@ -7585,7 +7585,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pS_dBL63oAc",
+  "link": "https://youtu.be/pS_dBL63oAc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-07-08T18:00:00",
@@ -7597,7 +7597,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pQpXPxBRzqE",
+  "link": "https://youtu.be/pQpXPxBRzqE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-07-09T18:00:00",
@@ -7609,7 +7609,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5G8UqkXhS0w",
+  "link": "https://youtu.be/5G8UqkXhS0w",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-07-10T18:00:00",
@@ -7621,7 +7621,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BxFVF8DAGro",
+  "link": "https://youtu.be/BxFVF8DAGro",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-07-12T18:00:00",
@@ -7633,7 +7633,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hLntT4a_O58",
+  "link": "https://youtu.be/hLntT4a_O58",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-07-13T18:00:00",
@@ -7645,7 +7645,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2B8LN0DKb2g",
+  "link": "https://youtu.be/2B8LN0DKb2g",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-07-16T18:00:00",
@@ -7657,7 +7657,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=h68eA967Svo",
+  "link": "https://youtu.be/h68eA967Svo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-07-20T18:00:00",
@@ -7669,7 +7669,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zAMMcs2ZX70",
+  "link": "https://youtu.be/zAMMcs2ZX70",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-07-22T18:00:00",
@@ -7681,7 +7681,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=j4PaBGG8r5Y",
+  "link": "https://youtu.be/j4PaBGG8r5Y",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2024-07-24T18:00:00",
@@ -7693,7 +7693,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cQ19LQPTH4k",
+  "link": "https://youtu.be/cQ19LQPTH4k",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-07-25T18:00:00",
@@ -7705,7 +7705,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dTRMAIME31E",
+  "link": "https://youtu.be/dTRMAIME31E",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-07-27T18:00:00",
@@ -7717,7 +7717,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7lEVIPeba_c",
+  "link": "https://youtu.be/7lEVIPeba_c",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-07-30T18:00:00",
@@ -7729,7 +7729,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=M5EXpycSy3s",
+  "link": "https://youtu.be/M5EXpycSy3s",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-08-01T18:00:00",
@@ -7741,7 +7741,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=STsCCb30WHw",
+  "link": "https://youtu.be/STsCCb30WHw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-08-07T18:00:00",
@@ -7753,7 +7753,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=60vocAC15Ag",
+  "link": "https://youtu.be/60vocAC15Ag",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-08-09T18:00:00",
@@ -7765,7 +7765,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=W-XejFa7r0c",
+  "link": "https://youtu.be/W-XejFa7r0c",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-08-13T18:00:00",
@@ -7777,7 +7777,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=X9VwcBm-qKA",
+  "link": "https://youtu.be/X9VwcBm-qKA",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2024-08-26T18:00:00",
@@ -7789,7 +7789,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gNK9V4pAQuo",
+  "link": "https://youtu.be/gNK9V4pAQuo",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2024-09-11T18:00:00",
@@ -7801,7 +7801,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0yJ7bMyGUCw",
+  "link": "https://youtu.be/0yJ7bMyGUCw",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-09-22T18:00:00",
@@ -7813,7 +7813,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ETrwHSfoiTk",
+  "link": "https://youtu.be/ETrwHSfoiTk",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-09-24T18:00:00",
@@ -7825,7 +7825,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zBFM3Da6eBg",
+  "link": "https://youtu.be/zBFM3Da6eBg",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-09-24T18:00:00",
@@ -7837,7 +7837,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iW7lVbow27Q",
+  "link": "https://youtu.be/iW7lVbow27Q",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-09-24T18:00:00",
@@ -7849,7 +7849,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iW7lVbow27Q",
+  "link": "https://youtu.be/iW7lVbow27Q",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-09-24T18:00:00",
@@ -7861,7 +7861,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EG_YFhrMkZ0",
+  "link": "https://youtu.be/EG_YFhrMkZ0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-09-27T18:00:00",
@@ -7873,7 +7873,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mFXJPYI4iYU",
+  "link": "https://youtu.be/mFXJPYI4iYU",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-09-30T18:00:00",
@@ -7885,7 +7885,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ycXbEIvOi9E",
+  "link": "https://youtu.be/ycXbEIvOi9E",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-10-07T18:00:00",
@@ -7897,7 +7897,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1RP9N_fZe7w",
+  "link": "https://youtu.be/1RP9N_fZe7w",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-10-10T18:00:00",
@@ -7909,7 +7909,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YDrwz8lZ21g",
+  "link": "https://youtu.be/YDrwz8lZ21g",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-10-13T18:00:00",
@@ -7921,7 +7921,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lxZlm_vxw_E",
+  "link": "https://youtu.be/lxZlm_vxw_E",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2024-10-15T18:00:00",
@@ -7933,7 +7933,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vY3EfQyCdZ8",
+  "link": "https://youtu.be/vY3EfQyCdZ8",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-10-18T18:00:00",
@@ -7945,7 +7945,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kr3XVoiGFWg",
+  "link": "https://youtu.be/kr3XVoiGFWg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-10-22T18:00:00",
@@ -7957,7 +7957,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=deuX_x6ykRY",
+  "link": "https://youtu.be/deuX_x6ykRY",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2024-10-23T18:00:00",
@@ -7969,7 +7969,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hqEBPVNxg-A",
+  "link": "https://youtu.be/hqEBPVNxg-A",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-10-24T18:00:00",
@@ -7981,7 +7981,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=X8BhS_yhRJY",
+  "link": "https://youtu.be/X8BhS_yhRJY",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2024-10-25T18:00:00",
@@ -7993,7 +7993,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=m32aowLzWT0",
+  "link": "https://youtu.be/m32aowLzWT0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-10-28T18:00:00",
@@ -8005,7 +8005,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3A_qkAf6T84",
+  "link": "https://youtu.be/3A_qkAf6T84",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2024-10-31T18:00:00",
@@ -8017,7 +8017,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=etGKyx4pSXo",
+  "link": "https://youtu.be/etGKyx4pSXo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-11-04T18:00:00",
@@ -8029,7 +8029,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=skCiLytQACY",
+  "link": "https://youtu.be/skCiLytQACY",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-11-07T18:00:00",
@@ -8041,7 +8041,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hWMJY89qTsU",
+  "link": "https://youtu.be/hWMJY89qTsU",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2024-11-11T18:00:00",
@@ -8053,7 +8053,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=b0QjjQ8Ag3A",
+  "link": "https://youtu.be/b0QjjQ8Ag3A",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-11-14T18:00:00",
@@ -8065,7 +8065,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=a62yW5R_nDw",
+  "link": "https://youtu.be/a62yW5R_nDw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-11-22T18:00:00",
@@ -8077,7 +8077,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Enu4vXAvMiA",
+  "link": "https://youtu.be/Enu4vXAvMiA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-11-25T18:00:00",
@@ -8089,7 +8089,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=q9-O55X-mCY",
+  "link": "https://youtu.be/q9-O55X-mCY",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-11-27T18:00:00",
@@ -8101,7 +8101,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QqcXotwxGtg",
+  "link": "https://youtu.be/QqcXotwxGtg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-11-29T18:00:00",
@@ -8113,7 +8113,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NBkyet53xGQ",
+  "link": "https://youtu.be/NBkyet53xGQ",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2024-12-02T18:00:00",
@@ -8125,7 +8125,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PG79NvF8MoE",
+  "link": "https://youtu.be/PG79NvF8MoE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-12-04T18:00:00",
@@ -8137,7 +8137,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LvhZgCAv7_M",
+  "link": "https://youtu.be/LvhZgCAv7_M",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-12-09T18:00:00",
@@ -8149,7 +8149,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gL-ZqpdiJXo",
+  "link": "https://youtu.be/gL-ZqpdiJXo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-12-13T18:00:00",
@@ -8161,7 +8161,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JzxMKt8Ulgo",
+  "link": "https://youtu.be/JzxMKt8Ulgo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-12-17T18:00:00",
@@ -8173,7 +8173,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tfet3q7ympE",
+  "link": "https://youtu.be/tfet3q7ympE",
   "category": "Official_Channel",
   "member": "미연, 소연",
   "date": "2024-12-19T18:00:00",
@@ -8185,7 +8185,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TbtHV-Mcn9Q",
+  "link": "https://youtu.be/TbtHV-Mcn9Q",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-12-22T18:00:00",
@@ -8197,7 +8197,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EV2NXUYZ3Js",
+  "link": "https://youtu.be/EV2NXUYZ3Js",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2024-12-25T18:00:00",
@@ -8209,7 +8209,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-A3xiSG1gAA",
+  "link": "https://youtu.be/-A3xiSG1gAA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2024-12-27T18:00:00",
@@ -8221,7 +8221,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=R0-xJDAAEWw",
+  "link": "https://youtu.be/R0-xJDAAEWw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-01-05T18:00:00",
@@ -8233,7 +8233,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8B1z9u-p31s",
+  "link": "https://youtu.be/8B1z9u-p31s",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2025-01-06T18:00:00",
@@ -8245,7 +8245,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IBmYGGE35Ss",
+  "link": "https://youtu.be/IBmYGGE35Ss",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-01-08T18:00:00",
@@ -8257,7 +8257,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AiAseBkFo04",
+  "link": "https://youtu.be/AiAseBkFo04",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-01-08T18:00:00",
@@ -8269,7 +8269,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=N4_0-lYIKLA",
+  "link": "https://youtu.be/N4_0-lYIKLA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-01-08T18:00:00",
@@ -8281,7 +8281,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BLJIzLLdPYU",
+  "link": "https://youtu.be/BLJIzLLdPYU",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-01-13T18:00:00",
@@ -8293,7 +8293,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kWLhZ6Tf4EE",
+  "link": "https://youtu.be/kWLhZ6Tf4EE",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-01-16T18:00:00",
@@ -8305,7 +8305,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SXp592Vquiw",
+  "link": "https://youtu.be/SXp592Vquiw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-01-16T18:00:00",
@@ -8317,7 +8317,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HbHSQiRExAM",
+  "link": "https://youtu.be/HbHSQiRExAM",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-01-17T18:00:00",
@@ -8329,7 +8329,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iLFMj3OdKG8",
+  "link": "https://youtu.be/iLFMj3OdKG8",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-01-20T18:00:00",
@@ -8341,7 +8341,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=M9MfR2Y6unk",
+  "link": "https://youtu.be/M9MfR2Y6unk",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-01-21T18:00:00",
@@ -8353,7 +8353,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=j1dICgQi-gU",
+  "link": "https://youtu.be/j1dICgQi-gU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-01-22T18:00:00",
@@ -8365,7 +8365,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9rGA5Zdlx9Y",
+  "link": "https://youtu.be/9rGA5Zdlx9Y",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-01-22T18:00:00",
@@ -8377,7 +8377,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ok4l4FWcvtw",
+  "link": "https://youtu.be/ok4l4FWcvtw",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-01-23T18:00:00",
@@ -8389,7 +8389,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4GB-VjoTLMs",
+  "link": "https://youtu.be/4GB-VjoTLMs",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-01-26T18:00:00",
@@ -8401,7 +8401,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qDg3uR7exAU",
+  "link": "https://youtu.be/qDg3uR7exAU",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-01-27T18:00:00",
@@ -8413,7 +8413,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_jsLicER8XY",
+  "link": "https://youtu.be/_jsLicER8XY",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-01-29T18:00:00",
@@ -8425,7 +8425,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=a0NFYWHjRy8",
+  "link": "https://youtu.be/a0NFYWHjRy8",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-01-30T18:00:00",
@@ -8437,7 +8437,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_-_0rSo_4x4",
+  "link": "https://youtu.be/_-_0rSo_4x4",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2025-01-31T18:00:00",
@@ -8449,7 +8449,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bF5nZw4fE_k",
+  "link": "https://youtu.be/bF5nZw4fE_k",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-02-04T18:00:00",
@@ -8461,7 +8461,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZmuQSydCrhg",
+  "link": "https://youtu.be/ZmuQSydCrhg",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-02-06T18:00:00",
@@ -8473,7 +8473,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KJ4-7DxXqeg",
+  "link": "https://youtu.be/KJ4-7DxXqeg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-02-08T18:00:00",
@@ -8485,7 +8485,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=00SlVIVDP4w",
+  "link": "https://youtu.be/00SlVIVDP4w",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-02-09T18:00:00",
@@ -8497,7 +8497,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=E2O0DT1al8o",
+  "link": "https://youtu.be/E2O0DT1al8o",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-02-10T18:00:00",
@@ -8509,7 +8509,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QujC4QNhbhw",
+  "link": "https://youtu.be/QujC4QNhbhw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-02-13T18:00:00",
@@ -8521,7 +8521,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=r9SwEcxVdec",
+  "link": "https://youtu.be/r9SwEcxVdec",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-02-14T18:00:00",
@@ -8533,7 +8533,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kvLcWr-hQBA",
+  "link": "https://youtu.be/kvLcWr-hQBA",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-02-15T18:00:00",
@@ -8545,7 +8545,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=M4SSAVNYCFQ",
+  "link": "https://youtu.be/M4SSAVNYCFQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-02-16T18:00:00",
@@ -8557,7 +8557,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GGoFWBbbpUE",
+  "link": "https://youtu.be/GGoFWBbbpUE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-02-19T18:00:00",
@@ -8569,7 +8569,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QJskxdBfCjM",
+  "link": "https://youtu.be/QJskxdBfCjM",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-02-21T18:00:00",
@@ -8581,7 +8581,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lwsn7bBZ4yg",
+  "link": "https://youtu.be/lwsn7bBZ4yg",
   "category": "Official_Channel",
   "member": "미연, 소연",
   "date": "2025-02-23T18:00:00",
@@ -8593,7 +8593,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lwsn7bBZ4yg",
+  "link": "https://youtu.be/lwsn7bBZ4yg",
   "category": "Official_Channel",
   "member": "소연, 미연",
   "date": "2025-02-23T18:00:00",
@@ -8605,7 +8605,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=O0ddGU45ahE",
+  "link": "https://youtu.be/O0ddGU45ahE",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-02-27T18:00:00",
@@ -8617,7 +8617,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EWn3u6LLRhM",
+  "link": "https://youtu.be/EWn3u6LLRhM",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-03-03T18:00:00",
@@ -8629,7 +8629,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TezybDObkWo",
+  "link": "https://youtu.be/TezybDObkWo",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-03-06T18:00:00",
@@ -8641,7 +8641,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vd8j7PPF5UQ",
+  "link": "https://youtu.be/vd8j7PPF5UQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-03-08T18:00:00",
@@ -8653,7 +8653,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DFNE3fdHKJ0",
+  "link": "https://youtu.be/DFNE3fdHKJ0",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2025-03-13T18:00:00",
@@ -8665,7 +8665,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Kx4gideWRvU",
+  "link": "https://youtu.be/Kx4gideWRvU",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-03-25T18:00:00",
@@ -8677,7 +8677,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XnFO4Kg-w10",
+  "link": "https://youtu.be/XnFO4Kg-w10",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-04-03T18:00:00",
@@ -8689,7 +8689,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qR0uNdipgMk",
+  "link": "https://youtu.be/qR0uNdipgMk",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2025-04-07T18:00:00",
@@ -8701,7 +8701,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ejh3je1MbFo",
+  "link": "https://youtu.be/Ejh3je1MbFo",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-04-11T18:00:00",
@@ -8713,7 +8713,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cGFDQziSI9A",
+  "link": "https://youtu.be/cGFDQziSI9A",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2025-04-16T18:00:00",
@@ -8725,7 +8725,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SnbfsSJiwF8",
+  "link": "https://youtu.be/SnbfsSJiwF8",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2025-04-23T18:00:00",
@@ -8737,7 +8737,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8b82nUsmmrU",
+  "link": "https://youtu.be/8b82nUsmmrU",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-04-25T18:00:00",
@@ -8749,7 +8749,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_MQaK1X2d0c",
+  "link": "https://youtu.be/_MQaK1X2d0c",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-04-28T18:00:00",
@@ -8761,7 +8761,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=d6ZMNCgQ7lM",
+  "link": "https://youtu.be/d6ZMNCgQ7lM",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2025-04-30T18:00:00",
@@ -8773,7 +8773,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OCYwFICly34",
+  "link": "https://youtu.be/OCYwFICly34",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-05-01T18:00:00",
@@ -8785,7 +8785,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8AN66zZYLw8",
+  "link": "https://youtu.be/8AN66zZYLw8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-02T18:00:00",
@@ -8797,7 +8797,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Qp0Kt2VjWKI",
+  "link": "https://youtu.be/Qp0Kt2VjWKI",
   "category": "Official_Channel",
   "member": "슈화",
   "date": "2025-05-03T18:00:00",
@@ -8809,7 +8809,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4ax2btnrfSc",
+  "link": "https://youtu.be/4ax2btnrfSc",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-05-03T18:00:00",
@@ -8821,7 +8821,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fcE9bmxrWq0",
+  "link": "https://youtu.be/fcE9bmxrWq0",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2025-05-03T18:00:00",
@@ -8833,7 +8833,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Hu5a-1kiAYk",
+  "link": "https://youtu.be/Hu5a-1kiAYk",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-05-03T18:00:00",
@@ -8845,7 +8845,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QQrBSLp_1OE",
+  "link": "https://youtu.be/QQrBSLp_1OE",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2025-05-03T18:00:00",
@@ -8857,7 +8857,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2fWmaepwVDk",
+  "link": "https://youtu.be/2fWmaepwVDk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-04T18:00:00",
@@ -8869,7 +8869,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=G5rAbdThQ2o",
+  "link": "https://youtu.be/G5rAbdThQ2o",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-05T18:00:00",
@@ -8881,7 +8881,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=intLWpnYwp0",
+  "link": "https://youtu.be/intLWpnYwp0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-05T18:00:00",
@@ -8893,7 +8893,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=b2Tf4A_49Ak",
+  "link": "https://youtu.be/b2Tf4A_49Ak",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-05T18:00:00",
@@ -8905,7 +8905,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GIzYsGoeqkc",
+  "link": "https://youtu.be/GIzYsGoeqkc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-05T18:00:00",
@@ -8917,7 +8917,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IR_GuZbEWRE",
+  "link": "https://youtu.be/IR_GuZbEWRE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-05T18:00:00",
@@ -8929,7 +8929,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LPLI43Yz5QU",
+  "link": "https://youtu.be/LPLI43Yz5QU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-05T18:00:00",
@@ -8941,7 +8941,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fiRsc0NrAxQ",
+  "link": "https://youtu.be/fiRsc0NrAxQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-08T18:00:00",
@@ -8953,7 +8953,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Q48SBRcZpeo",
+  "link": "https://youtu.be/Q48SBRcZpeo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-08T18:00:00",
@@ -8965,7 +8965,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=g5v9L6ot7kQ",
+  "link": "https://youtu.be/g5v9L6ot7kQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-08T18:00:00",
@@ -8977,7 +8977,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kEBTAeL_fRE",
+  "link": "https://youtu.be/kEBTAeL_fRE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-08T18:00:00",
@@ -8989,7 +8989,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_Nu5EUvqQzg",
+  "link": "https://youtu.be/_Nu5EUvqQzg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-08T18:00:00",
@@ -9001,7 +9001,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NnTwSEQTeQk",
+  "link": "https://youtu.be/NnTwSEQTeQk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-08T18:00:00",
@@ -9013,7 +9013,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=j2jM6qMdYFw",
+  "link": "https://youtu.be/j2jM6qMdYFw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-09T18:00:00",
@@ -9025,7 +9025,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oh6OUj51vZg",
+  "link": "https://youtu.be/oh6OUj51vZg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-13T18:00:00",
@@ -9037,7 +9037,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fAzEh21SXzQ",
+  "link": "https://youtu.be/fAzEh21SXzQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-13T18:00:00",
@@ -9049,7 +9049,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dqlbozzFt8g",
+  "link": "https://youtu.be/dqlbozzFt8g",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-16T18:00:00",
@@ -9061,7 +9061,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kmeNJo5osnw",
+  "link": "https://youtu.be/kmeNJo5osnw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-16T18:00:00",
@@ -9073,7 +9073,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4QBVn5qG4pI",
+  "link": "https://youtu.be/4QBVn5qG4pI",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2025-05-16T18:00:00",
@@ -9085,7 +9085,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=x2Mu2Zk_CVk",
+  "link": "https://youtu.be/x2Mu2Zk_CVk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-19T18:00:00",
@@ -9097,7 +9097,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=E92XiOgeugA",
+  "link": "https://youtu.be/E92XiOgeugA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-21T18:00:00",
@@ -9109,7 +9109,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rnHFWKdFl2c",
+  "link": "https://youtu.be/rnHFWKdFl2c",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-21T18:00:00",
@@ -9121,7 +9121,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gJmGdiCpjLU",
+  "link": "https://youtu.be/gJmGdiCpjLU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-22T18:00:00",
@@ -9133,7 +9133,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=g5XfEhrBFIY",
+  "link": "https://youtu.be/g5XfEhrBFIY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-24T18:00:00",
@@ -9145,7 +9145,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RRKPGgXN2ZM",
+  "link": "https://youtu.be/RRKPGgXN2ZM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-24T18:00:00",
@@ -9157,7 +9157,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3K85aoBqWZ4",
+  "link": "https://youtu.be/3K85aoBqWZ4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-24T18:00:00",
@@ -9169,7 +9169,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=V8uyahHBnSM",
+  "link": "https://youtu.be/V8uyahHBnSM",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-24T18:00:00",
@@ -9181,7 +9181,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-RP_w7uPkQg",
+  "link": "https://youtu.be/-RP_w7uPkQg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-25T18:00:00",
@@ -9193,7 +9193,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MrHZxn43JKc",
+  "link": "https://youtu.be/MrHZxn43JKc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-25T18:00:00",
@@ -9205,7 +9205,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tebm9v-ZtrY",
+  "link": "https://youtu.be/tebm9v-ZtrY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-25T18:00:00",
@@ -9217,7 +9217,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DIuXiA_SmQk",
+  "link": "https://youtu.be/DIuXiA_SmQk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-25T18:00:00",
@@ -9229,7 +9229,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=d3dAJCwIgtE",
+  "link": "https://youtu.be/d3dAJCwIgtE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-25T18:00:00",
@@ -9241,7 +9241,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Z_NdOXT6Qpw",
+  "link": "https://youtu.be/Z_NdOXT6Qpw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-25T18:00:00",
@@ -9253,7 +9253,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xS2POqRLYHI",
+  "link": "https://youtu.be/xS2POqRLYHI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-25T18:00:00",
@@ -9265,7 +9265,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=imljbaHBB3M",
+  "link": "https://youtu.be/imljbaHBB3M",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-25T18:00:00",
@@ -9277,7 +9277,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DRuH0wOzrrE",
+  "link": "https://youtu.be/DRuH0wOzrrE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-25T18:00:00",
@@ -9289,7 +9289,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9wzgDlRso7I",
+  "link": "https://youtu.be/9wzgDlRso7I",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-25T18:00:00",
@@ -9301,7 +9301,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=v1Ag_n9UbIc",
+  "link": "https://youtu.be/v1Ag_n9UbIc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-25T18:00:00",
@@ -9313,7 +9313,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5MrJBrR_sfo",
+  "link": "https://youtu.be/5MrJBrR_sfo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-26T18:00:00",
@@ -9325,7 +9325,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TO_iKgjJIxo",
+  "link": "https://youtu.be/TO_iKgjJIxo",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-28T18:00:00",
@@ -9337,7 +9337,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6W3qWE-_q3Q",
+  "link": "https://youtu.be/6W3qWE-_q3Q",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-28T18:00:00",
@@ -9349,7 +9349,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TMT0N6waMYU",
+  "link": "https://youtu.be/TMT0N6waMYU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-28T18:00:00",
@@ -9361,7 +9361,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=A5PK6VDU-b4",
+  "link": "https://youtu.be/A5PK6VDU-b4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-28T18:00:00",
@@ -9373,7 +9373,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=66z9wRdjvbQ",
+  "link": "https://youtu.be/66z9wRdjvbQ",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-28T18:00:00",
@@ -9385,7 +9385,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4H3T8MEnsdg",
+  "link": "https://youtu.be/4H3T8MEnsdg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-28T18:00:00",
@@ -9397,7 +9397,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=35uSNCtNjNY",
+  "link": "https://youtu.be/35uSNCtNjNY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-28T18:00:00",
@@ -9409,7 +9409,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=g4QP414Nv80",
+  "link": "https://youtu.be/g4QP414Nv80",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-29T18:00:00",
@@ -9421,7 +9421,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=c3EPyO8KKK8",
+  "link": "https://youtu.be/c3EPyO8KKK8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-29T18:00:00",
@@ -9433,7 +9433,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vKXr1ybcpfk",
+  "link": "https://youtu.be/vKXr1ybcpfk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-29T18:00:00",
@@ -9445,7 +9445,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=A-KqstaIEsY",
+  "link": "https://youtu.be/A-KqstaIEsY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-29T18:00:00",
@@ -9457,7 +9457,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=c3rPZjxUVGE",
+  "link": "https://youtu.be/c3rPZjxUVGE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-29T18:00:00",
@@ -9469,7 +9469,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4MThNhG-dIg",
+  "link": "https://youtu.be/4MThNhG-dIg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-30T18:00:00",
@@ -9481,7 +9481,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8bguFz5ns3w",
+  "link": "https://youtu.be/8bguFz5ns3w",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-30T18:00:00",
@@ -9493,7 +9493,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4VGO8ci5avI",
+  "link": "https://youtu.be/4VGO8ci5avI",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-30T18:00:00",
@@ -9505,7 +9505,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2eQd4xKszEw",
+  "link": "https://youtu.be/2eQd4xKszEw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-30T18:00:00",
@@ -9517,7 +9517,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AwoAZs69s2w",
+  "link": "https://youtu.be/AwoAZs69s2w",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-30T18:00:00",
@@ -9529,7 +9529,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=972ISNkOQtU",
+  "link": "https://youtu.be/972ISNkOQtU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-30T18:00:00",
@@ -9541,7 +9541,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_nnhV9iW_dE",
+  "link": "https://youtu.be/_nnhV9iW_dE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-05-31T18:00:00",
@@ -9553,7 +9553,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KceEp8y5HC4",
+  "link": "https://youtu.be/KceEp8y5HC4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-06-02T18:00:00",
@@ -9565,7 +9565,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XVKRymF-1aw",
+  "link": "https://youtu.be/XVKRymF-1aw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-06-07T18:00:00",
@@ -9577,7 +9577,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_DnwJLFit0g",
+  "link": "https://youtu.be/_DnwJLFit0g",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-06-08T18:00:00",
@@ -9589,7 +9589,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sYGLN6biYb0",
+  "link": "https://youtu.be/sYGLN6biYb0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-06-14T18:00:00",
@@ -9601,7 +9601,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=j193YQslaSs",
+  "link": "https://youtu.be/j193YQslaSs",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-06-15T18:00:00",
@@ -9613,7 +9613,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2NhGrE9HJl0",
+  "link": "https://youtu.be/2NhGrE9HJl0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-06-21T18:00:00",
@@ -9625,7 +9625,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=c_e7-ZTxp5Q",
+  "link": "https://youtu.be/c_e7-ZTxp5Q",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-06-25T18:00:00",
@@ -9637,7 +9637,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fJGLDA1FvQo",
+  "link": "https://youtu.be/fJGLDA1FvQo",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-06-28T18:00:00",
@@ -9649,7 +9649,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=V-2lTBsI4_U",
+  "link": "https://youtu.be/V-2lTBsI4_U",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-06-29T18:00:00",
@@ -9661,7 +9661,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JQC5nQiOURY",
+  "link": "https://youtu.be/JQC5nQiOURY",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-07-05T18:00:00",
@@ -9673,7 +9673,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vFA56rcyljU",
+  "link": "https://youtu.be/vFA56rcyljU",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2025-07-07T18:00:00",
@@ -9685,7 +9685,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=g5KNuqSw8qY",
+  "link": "https://youtu.be/g5KNuqSw8qY",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2025-07-09T18:00:00",
@@ -9697,7 +9697,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8TDKvw0eUjU",
+  "link": "https://youtu.be/8TDKvw0eUjU",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-07-14T18:00:00",
@@ -9709,7 +9709,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yTTbpm3vsyY",
+  "link": "https://youtu.be/yTTbpm3vsyY",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-07-18T18:00:00",
@@ -9721,7 +9721,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qtWo9AL4Ln4",
+  "link": "https://youtu.be/qtWo9AL4Ln4",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-07-25T18:00:00",
@@ -9733,7 +9733,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EA6-aSy54lA",
+  "link": "https://youtu.be/EA6-aSy54lA",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2025-08-01T18:00:00",
@@ -9745,7 +9745,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AAx1bHsXzBo",
+  "link": "https://youtu.be/AAx1bHsXzBo",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-08-06T18:00:00",
@@ -9757,7 +9757,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CoaEi13hCcg",
+  "link": "https://youtu.be/CoaEi13hCcg",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2025-08-07T18:00:00",
@@ -9769,7 +9769,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZoZQoYpZaso",
+  "link": "https://youtu.be/ZoZQoYpZaso",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-08-08T18:00:00",
@@ -9781,7 +9781,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oGL75DS7gmk",
+  "link": "https://youtu.be/oGL75DS7gmk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-08-11T18:00:00",
@@ -9793,7 +9793,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XH-O7m2oR1k",
+  "link": "https://youtu.be/XH-O7m2oR1k",
   "category": "Official_Channel",
   "member": "민니",
   "date": "2025-08-13T18:00:00",
@@ -9805,7 +9805,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6TtNmK64t2I",
+  "link": "https://youtu.be/6TtNmK64t2I",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2025-08-14T18:00:00",
@@ -9817,7 +9817,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CrsFxQ5SYN4",
+  "link": "https://youtu.be/CrsFxQ5SYN4",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-08-20T18:00:00",
@@ -9829,7 +9829,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EMYBp89KjK8",
+  "link": "https://youtu.be/EMYBp89KjK8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-08-22T18:00:00",
@@ -9841,7 +9841,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Pakez4KMpAY",
+  "link": "https://youtu.be/Pakez4KMpAY",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2025-08-23T18:00:00",
@@ -9853,7 +9853,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lPXt1Lh963k",
+  "link": "https://youtu.be/lPXt1Lh963k",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-08-25T18:00:00",
@@ -9865,7 +9865,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=v4yUN8uWbVg",
+  "link": "https://youtu.be/v4yUN8uWbVg",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-08-26T18:00:00",
@@ -9877,7 +9877,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=V6OH8_gTgCk",
+  "link": "https://youtu.be/V6OH8_gTgCk",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-08-27T18:00:00",
@@ -9889,7 +9889,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7QIPBa_ENTI",
+  "link": "https://youtu.be/7QIPBa_ENTI",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2025-08-29T18:00:00",
@@ -9901,7 +9901,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DAC-fUEIZ7U",
+  "link": "https://youtu.be/DAC-fUEIZ7U",
   "category": "Official_Channel",
   "member": "미연",
   "date": "2025-08-30T18:00:00",
@@ -9913,7 +9913,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FVduH3q8Evw",
+  "link": "https://youtu.be/FVduH3q8Evw",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-08-30T18:00:00",
@@ -9925,7 +9925,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eegFt2_-mzc",
+  "link": "https://youtu.be/eegFt2_-mzc",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-08-31T18:00:00",
@@ -9937,7 +9937,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WrE8XCMyPGA",
+  "link": "https://youtu.be/WrE8XCMyPGA",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-09-08T18:00:00",
@@ -9949,7 +9949,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PG-fbNsWLOM",
+  "link": "https://youtu.be/PG-fbNsWLOM",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-09-09T18:00:00",
@@ -9961,7 +9961,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OjmhNG-qNeo",
+  "link": "https://youtu.be/OjmhNG-qNeo",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-09-12T18:00:00",
@@ -9973,7 +9973,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JljWWp3I55g",
+  "link": "https://youtu.be/JljWWp3I55g",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-09-16T18:00:00",
@@ -9985,7 +9985,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xsXjIs0xP1c",
+  "link": "https://youtu.be/xsXjIs0xP1c",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-09-18T18:00:00",
@@ -9997,7 +9997,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8Mz4MHDGwrM",
+  "link": "https://youtu.be/8Mz4MHDGwrM",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-09-18T18:00:00",
@@ -10009,7 +10009,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=azRBA3xIodE",
+  "link": "https://youtu.be/azRBA3xIodE",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-09-20T18:00:00",
@@ -10021,7 +10021,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FeAHoZlcX_c",
+  "link": "https://youtu.be/FeAHoZlcX_c",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-09-22T18:00:00",
@@ -10033,7 +10033,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_lrB96f2nr4",
+  "link": "https://youtu.be/_lrB96f2nr4",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-09-24T18:00:00",
@@ -10045,7 +10045,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=meEbzNv2LoE",
+  "link": "https://youtu.be/meEbzNv2LoE",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-09-26T18:00:00",
@@ -10057,7 +10057,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=C3oKHufXL2U",
+  "link": "https://youtu.be/C3oKHufXL2U",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-09-26T18:00:00",
@@ -10069,7 +10069,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DL6jpeEcRew",
+  "link": "https://youtu.be/DL6jpeEcRew",
   "category": "Official_Channel",
   "member": "소연, 우기",
   "date": "2025-09-27T18:00:00",
@@ -10081,7 +10081,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IrVEdfCUYW0",
+  "link": "https://youtu.be/IrVEdfCUYW0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-09-28T18:00:00",
@@ -10093,7 +10093,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Sdqm7jKIHh0",
+  "link": "https://youtu.be/Sdqm7jKIHh0",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-09-28T18:00:00",
@@ -10105,7 +10105,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UGb9XrhKWp8",
+  "link": "https://youtu.be/UGb9XrhKWp8",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-09-28T18:00:00",
@@ -10117,7 +10117,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=X4cGisr-haA",
+  "link": "https://youtu.be/X4cGisr-haA",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-09-29T18:00:00",
@@ -10129,7 +10129,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bGfYlaCJQbk",
+  "link": "https://youtu.be/bGfYlaCJQbk",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-09-29T18:00:00",
@@ -10141,7 +10141,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eDSZY9SmgMo",
+  "link": "https://youtu.be/eDSZY9SmgMo",
   "category": "Official_Channel",
   "member": "소연",
   "date": "2025-09-30T18:00:00",
@@ -10153,7 +10153,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bRFqkBZlkko",
+  "link": "https://youtu.be/bRFqkBZlkko",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-10-02T18:00:00",
@@ -10165,7 +10165,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=W0Kzy7cE7ho",
+  "link": "https://youtu.be/W0Kzy7cE7ho",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-10-02T18:00:00",
@@ -10177,7 +10177,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Cgc_oJFpMqM",
+  "link": "https://youtu.be/Cgc_oJFpMqM",
   "category": "Official_Channel",
   "member": "우기",
   "date": "2025-10-04T18:00:00",
@@ -10189,7 +10189,7 @@ const officialChannelCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5yEE3a6_t9Y",
+  "link": "https://youtu.be/5yEE3a6_t9Y",
   "category": "Official_Channel",
   "member": "아이들",
   "date": "2025-10-05T18:00:00",
@@ -10199,8 +10199,6 @@ const officialChannelCards = [
   "title": "2025 큐브 엔터테인먼트 추석 인사 영상",
   "subtag": "기타 | Etc"
 }
-
-
 
 
 ];

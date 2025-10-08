@@ -1,7 +1,7 @@
 const interviewsCards = [
 
 {
-  "link": "https://www.youtube.com/watch?v=nI3v3PunQVk",
+  "link": "https://youtu.be/nI3v3PunQVk",
   "category": "Interviews",
   "member": "소연",
   "date": "2016-10-06T18:00:00",
@@ -12,7 +12,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LpANo-YD4-E",
+  "link": "https://youtu.be/LpANo-YD4-E",
   "category": "Interviews",
   "member": "소연",
   "date": "2018-03-20T18:00:00",
@@ -23,7 +23,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Uqhm7vq3u1Y",
+  "link": "https://youtu.be/Uqhm7vq3u1Y",
   "category": "Interviews",
   "member": "소연",
   "date": "2018-05-02T18:00:00",
@@ -34,7 +34,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qDnFFHosNUg",
+  "link": "https://youtu.be/qDnFFHosNUg",
   "category": "Interviews",
   "member": "미연",
   "date": "2018-05-28T18:00:00",
@@ -45,7 +45,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lhs0y6k2z3c",
+  "link": "https://youtu.be/lhs0y6k2z3c",
   "category": "Interviews",
   "member": "민니",
   "date": "2018-05-29T18:00:00",
@@ -56,7 +56,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Vfyd5q99eiI",
+  "link": "https://youtu.be/Vfyd5q99eiI",
   "category": "Interviews",
   "member": "아이들",
   "date": "2018-05-30T18:00:00",
@@ -67,7 +67,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PvKRasJ4QM0",
+  "link": "https://youtu.be/PvKRasJ4QM0",
   "category": "Interviews",
   "member": "소연",
   "date": "2018-05-31T18:00:00",
@@ -78,7 +78,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NY8nbgD2odI",
+  "link": "https://youtu.be/NY8nbgD2odI",
   "category": "Interviews",
   "member": "아이들",
   "date": "2018-05-31T18:00:00",
@@ -89,7 +89,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_HAH0Eqpj6o",
+  "link": "https://youtu.be/_HAH0Eqpj6o",
   "category": "Interviews",
   "member": "우기",
   "date": "2018-06-01T18:00:00",
@@ -100,7 +100,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vsb62-O5Cwg",
+  "link": "https://youtu.be/vsb62-O5Cwg",
   "category": "Interviews",
   "member": "슈화",
   "date": "2018-06-02T18:00:00",
@@ -111,7 +111,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yvg0JI02nDU",
+  "link": "https://youtu.be/yvg0JI02nDU",
   "category": "Interviews",
   "member": "아이들",
   "date": "2018-07-13T18:00:00",
@@ -122,7 +122,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qJoppg1L6ts",
+  "link": "https://youtu.be/qJoppg1L6ts",
   "category": "Interviews",
   "member": "아이들",
   "date": "2018-08-25T18:00:00",
@@ -133,7 +133,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TtbRfX4F8mQ",
+  "link": "https://youtu.be/TtbRfX4F8mQ",
   "category": "Interviews",
   "member": "아이들",
   "date": "2019-01-30T18:00:00",
@@ -144,7 +144,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nXQJhTa6HXs",
+  "link": "https://youtu.be/nXQJhTa6HXs",
   "category": "Interviews",
   "member": "아이들",
   "date": "2019-02-26T18:00:00",
@@ -155,7 +155,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vXUKDkK3hi0",
+  "link": "https://youtu.be/vXUKDkK3hi0",
   "category": "Interviews",
   "member": "아이들",
   "date": "2019-03-01T18:00:00",
@@ -166,7 +166,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bmqshsqVYkg",
+  "link": "https://youtu.be/bmqshsqVYkg",
   "category": "Interviews",
   "member": "아이들",
   "date": "2019-03-07T18:00:00",
@@ -177,7 +177,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5RgCND3HbWw",
+  "link": "https://youtu.be/5RgCND3HbWw",
   "category": "Interviews",
   "member": "아이들",
   "date": "2019-03-08T18:00:00",
@@ -188,7 +188,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=V0eEifvMpdc",
+  "link": "https://youtu.be/V0eEifvMpdc",
   "category": "Interviews",
   "member": "아이들",
   "date": "2019-03-29T18:00:00",
@@ -199,7 +199,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=r7egXBZRM7o",
+  "link": "https://youtu.be/r7egXBZRM7o",
   "category": "Interviews",
   "member": "아이들",
   "date": "2019-04-01T18:00:00",
@@ -210,7 +210,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=V5Io30Sz8CI",
+  "link": "https://youtu.be/V5Io30Sz8CI",
   "category": "Interviews",
   "member": "아이들",
   "date": "2019-06-26T18:00:00",
@@ -221,7 +221,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SUg4NVD7nPQ",
+  "link": "https://youtu.be/SUg4NVD7nPQ",
   "category": "Interviews",
   "member": "아이들",
   "date": "2019-08-03T18:00:00",
@@ -232,7 +232,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9Eq_DrLQmuM",
+  "link": "https://youtu.be/9Eq_DrLQmuM",
   "category": "Interviews",
   "member": "아이들",
   "date": "2019-08-24T18:00:00",
@@ -243,7 +243,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jfzm4KxmPyA",
+  "link": "https://youtu.be/jfzm4KxmPyA",
   "category": "Interviews",
   "member": "슈화",
   "date": "2019-09-30T18:00:00",
@@ -254,7 +254,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-sLXjQTDwV8",
+  "link": "https://youtu.be/-sLXjQTDwV8",
   "category": "Interviews",
   "member": "아이들",
   "date": "2019-10-25T18:00:00",
@@ -265,7 +265,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yhCAvYHTF7g",
+  "link": "https://youtu.be/yhCAvYHTF7g",
   "category": "Interviews",
   "member": "아이들",
   "date": "2019-12-22T18:00:00",
@@ -276,7 +276,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sce5ct7nCVE",
+  "link": "https://youtu.be/sce5ct7nCVE",
   "category": "Interviews",
   "member": "아이들",
   "date": "2019-12-27T18:00:00",
@@ -287,7 +287,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hNMsePqV1FE",
+  "link": "https://youtu.be/hNMsePqV1FE",
   "category": "Interviews",
   "member": "아이들",
   "date": "2020-04-06T18:00:00",
@@ -298,7 +298,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eqpesL2E9co",
+  "link": "https://youtu.be/eqpesL2E9co",
   "category": "Interviews",
   "member": "아이들",
   "date": "2020-04-11T18:00:00",
@@ -309,7 +309,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PUC7Rs6FuxM",
+  "link": "https://youtu.be/PUC7Rs6FuxM",
   "category": "Interviews",
   "member": "아이들",
   "date": "2020-04-14T18:00:00",
@@ -320,7 +320,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SYgqRbCmNsQ",
+  "link": "https://youtu.be/SYgqRbCmNsQ",
   "category": "Interviews",
   "member": "아이들",
   "date": "2020-04-16T18:00:00",
@@ -331,7 +331,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qmoT-VuvI9A",
+  "link": "https://youtu.be/qmoT-VuvI9A",
   "category": "Interviews",
   "member": "아이들",
   "date": "2020-04-19T18:00:00",
@@ -342,7 +342,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RkBzgG6BUrk",
+  "link": "https://youtu.be/RkBzgG6BUrk",
   "category": "Interviews",
   "member": "아이들",
   "date": "2020-04-20T18:00:00",
@@ -353,7 +353,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EGcLl7MUFFg",
+  "link": "https://youtu.be/EGcLl7MUFFg",
   "category": "Interviews",
   "member": "아이들",
   "date": "2020-05-16T18:00:00",
@@ -364,7 +364,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-ZeDaxqB8BM",
+  "link": "https://youtu.be/-ZeDaxqB8BM",
   "category": "Interviews",
   "member": "미연, 슈화",
   "date": "2020-06-01T18:00:00",
@@ -375,7 +375,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nmY4AEZfRfE",
+  "link": "https://youtu.be/nmY4AEZfRfE",
   "category": "Interviews",
   "member": "미연, 슈화",
   "date": "2020-06-05T18:00:00",
@@ -386,7 +386,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IKvBAJk5Ydk",
+  "link": "https://youtu.be/IKvBAJk5Ydk",
   "category": "Interviews",
   "member": "아이들",
   "date": "2020-08-02T18:00:00",
@@ -397,7 +397,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=o5NFx1DMMj4",
+  "link": "https://youtu.be/o5NFx1DMMj4",
   "category": "Interviews",
   "member": "아이들",
   "date": "2020-08-03T18:00:00",
@@ -408,7 +408,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=J6E6wQl6Xac",
+  "link": "https://youtu.be/J6E6wQl6Xac",
   "category": "Interviews",
   "member": "우기",
   "date": "2020-11-04T18:00:00",
@@ -419,7 +419,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Kt-OUrecJ_g",
+  "link": "https://youtu.be/Kt-OUrecJ_g",
   "category": "Interviews",
   "member": "민니",
   "date": "2020-11-26T18:00:00",
@@ -430,7 +430,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pU8GHpHA4ts",
+  "link": "https://youtu.be/pU8GHpHA4ts",
   "category": "Interviews",
   "member": "슈화",
   "date": "2020-12-19T18:00:00",
@@ -441,7 +441,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CEYyGxftaYQ",
+  "link": "https://youtu.be/CEYyGxftaYQ",
   "category": "Interviews",
   "member": "슈화",
   "date": "2020-12-21T18:00:00",
@@ -452,7 +452,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ynYP0zHOvYk",
+  "link": "https://youtu.be/ynYP0zHOvYk",
   "category": "Interviews",
   "member": "소연, 우기",
   "date": "2021-01-06T18:00:00",
@@ -463,7 +463,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YnaRV2-3Hoo",
+  "link": "https://youtu.be/YnaRV2-3Hoo",
   "category": "Interviews",
   "member": "아이들",
   "date": "2021-01-10T18:00:00",
@@ -474,7 +474,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=67GwZiEjeMk",
+  "link": "https://youtu.be/67GwZiEjeMk",
   "category": "Interviews",
   "member": "아이들",
   "date": "2021-01-11T18:00:00",
@@ -485,7 +485,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=y_Z5kAf96yo",
+  "link": "https://youtu.be/y_Z5kAf96yo",
   "category": "Interviews",
   "member": "아이들",
   "date": "2021-01-11T18:00:00",
@@ -496,7 +496,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=55TEB82zfVk",
+  "link": "https://youtu.be/55TEB82zfVk",
   "category": "Interviews",
   "member": "아이들",
   "date": "2021-01-11T18:00:00",
@@ -507,7 +507,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wB2r4hxi9JA",
+  "link": "https://youtu.be/wB2r4hxi9JA",
   "category": "Interviews",
   "member": "소연, 우기",
   "date": "2021-01-13T18:00:00",
@@ -518,7 +518,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pJlxwB0Sa4A",
+  "link": "https://youtu.be/pJlxwB0Sa4A",
   "category": "Interviews",
   "member": "아이들",
   "date": "2021-01-15T18:00:00",
@@ -529,7 +529,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4d68adSEfmg",
+  "link": "https://youtu.be/4d68adSEfmg",
   "category": "Interviews",
   "member": "미연, 민니",
   "date": "2021-02-27T18:00:00",
@@ -540,7 +540,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=M0Q2tK6bAag",
+  "link": "https://youtu.be/M0Q2tK6bAag",
   "category": "Interviews",
   "member": "민니",
   "date": "2021-05-28T18:00:00",
@@ -551,7 +551,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=k5d5TRDxl8A",
+  "link": "https://youtu.be/k5d5TRDxl8A",
   "category": "Interviews",
   "member": "민니",
   "date": "2021-06-14T18:00:00",
@@ -562,7 +562,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GCDj3sxmO7w",
+  "link": "https://youtu.be/GCDj3sxmO7w",
   "category": "Interviews",
   "member": "민니",
   "date": "2021-06-14T18:00:00",
@@ -573,7 +573,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3rgzfcTvuSs",
+  "link": "https://youtu.be/3rgzfcTvuSs",
   "category": "Interviews",
   "member": "민니",
   "date": "2021-06-15T18:00:00",
@@ -584,7 +584,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nOadVxssyAw",
+  "link": "https://youtu.be/nOadVxssyAw",
   "category": "Interviews",
   "member": "민니",
   "date": "2021-06-17",
@@ -595,7 +595,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nMa4UJDc7OY",
+  "link": "https://youtu.be/nMa4UJDc7OY",
   "category": "Interviews",
   "member": "민니",
   "date": "2021-06-19T18:00:00",
@@ -606,7 +606,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ccSdMrR3CYA",
+  "link": "https://youtu.be/ccSdMrR3CYA",
   "category": "Interviews",
   "member": "민니",
   "date": "2021-06-26T18:00:00",
@@ -617,7 +617,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vvmMT57ekDQ",
+  "link": "https://youtu.be/vvmMT57ekDQ",
   "category": "Interviews",
   "member": "민니",
   "date": "2021-07-06T18:00:00",
@@ -628,7 +628,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JM67SbkWUes",
+  "link": "https://youtu.be/JM67SbkWUes",
   "category": "Interviews",
   "member": "소연",
   "date": "2021-07-07T18:00:00",
@@ -639,7 +639,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Srsz_OKZgzA",
+  "link": "https://youtu.be/Srsz_OKZgzA",
   "category": "Interviews",
   "member": "민니",
   "date": "2021-07-16T18:00:00",
@@ -650,7 +650,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Y1Ie8uDbhrY",
+  "link": "https://youtu.be/Y1Ie8uDbhrY",
   "category": "Interviews",
   "member": "소연",
   "date": "2021-07-17T18:00:00",
@@ -661,7 +661,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HXda3rdPs6E",
+  "link": "https://youtu.be/HXda3rdPs6E",
   "category": "Interviews",
   "member": "소연",
   "date": "2021-07-28T18:00:00",
@@ -672,7 +672,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fMR_Hs9TEFY",
+  "link": "https://youtu.be/fMR_Hs9TEFY",
   "category": "Interviews",
   "member": "민니",
   "date": "2021-07-28T18:00:00",
@@ -683,7 +683,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=46R8bC04MsE",
+  "link": "https://youtu.be/46R8bC04MsE",
   "category": "Interviews",
   "member": "민니",
   "date": "2021-08-02T18:00:00",
@@ -694,7 +694,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2JHwTJETnuc",
+  "link": "https://youtu.be/2JHwTJETnuc",
   "category": "Interviews",
   "member": "소연",
   "date": "2021-08-04T18:00:00",
@@ -705,7 +705,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ELW_jflFceg",
+  "link": "https://youtu.be/ELW_jflFceg",
   "category": "Interviews",
   "member": "소연",
   "date": "2021-08-05T18:00:00",
@@ -716,7 +716,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QPk0aV4YrzU",
+  "link": "https://youtu.be/QPk0aV4YrzU",
   "category": "Interviews",
   "member": "민니",
   "date": "2021-08-09T18:00:00",
@@ -727,7 +727,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bhj4WDg-I_A",
+  "link": "https://youtu.be/bhj4WDg-I_A",
   "category": "Interviews",
   "member": "민니",
   "date": "2021-08-11T18:00:00",
@@ -738,7 +738,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8uT30GTGea8",
+  "link": "https://youtu.be/8uT30GTGea8",
   "category": "Interviews",
   "member": "아이들",
   "date": "2021-09-06T18:00:00",
@@ -749,7 +749,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xnTaBBNqTm0",
+  "link": "https://youtu.be/xnTaBBNqTm0",
   "category": "Interviews",
   "member": "민니",
   "date": "2021-09-08T18:00:00",
@@ -760,7 +760,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Bma3vrk1XtY",
+  "link": "https://youtu.be/Bma3vrk1XtY",
   "category": "Interviews",
   "member": "민니",
   "date": "2021-09-15T18:00:00",
@@ -771,7 +771,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6y-sSbHZyMc",
+  "link": "https://youtu.be/6y-sSbHZyMc",
   "category": "Interviews",
   "member": "민니",
   "date": "2021-10-12T18:00:00",
@@ -782,7 +782,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Nk4DydPTSx0",
+  "link": "https://youtu.be/Nk4DydPTSx0",
   "category": "Interviews",
   "member": "미연",
   "date": "2021-11-10T18:00:00",
@@ -793,7 +793,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9K9eWjMIOi0",
+  "link": "https://youtu.be/9K9eWjMIOi0",
   "category": "Interviews",
   "member": "미연",
   "date": "2021-11-11T18:00:00",
@@ -804,7 +804,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=n697A-TbFFE",
+  "link": "https://youtu.be/n697A-TbFFE",
   "category": "Interviews",
   "member": "미연",
   "date": "2021-11-19T18:00:00",
@@ -815,7 +815,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CRaxcdiGpyg",
+  "link": "https://youtu.be/CRaxcdiGpyg",
   "category": "Interviews",
   "member": "미연",
   "date": "2021-11-19T18:00:00",
@@ -826,7 +826,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9yGq-mIo-mg",
+  "link": "https://youtu.be/9yGq-mIo-mg",
   "category": "Interviews",
   "member": "소연",
   "date": "2021-11-25T18:00:00",
@@ -837,7 +837,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZFQ48gknSF0",
+  "link": "https://youtu.be/ZFQ48gknSF0",
   "category": "Interviews",
   "member": "소연",
   "date": "2022-01-28T18:00:00",
@@ -848,7 +848,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=exH70A1huzs",
+  "link": "https://youtu.be/exH70A1huzs",
   "category": "Interviews",
   "member": "소연",
   "date": "2022-01-31T18:00:00",
@@ -859,7 +859,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=F65srPl8I-U",
+  "link": "https://youtu.be/F65srPl8I-U",
   "category": "Interviews",
   "member": "소연, 미연, 민니",
   "date": "2022-03-14T18:00:00",
@@ -870,7 +870,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=N9rj2BipAqY",
+  "link": "https://youtu.be/N9rj2BipAqY",
   "category": "Interviews",
   "member": "소연",
   "date": "2022-03-22T18:00:00",
@@ -881,7 +881,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RYR4H1DYzcs",
+  "link": "https://youtu.be/RYR4H1DYzcs",
   "category": "Interviews",
   "member": "민니",
   "date": "2022-03-24T18:00:00",
@@ -892,7 +892,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=L-5BsMgB4FQ",
+  "link": "https://youtu.be/L-5BsMgB4FQ",
   "category": "Interviews",
   "member": "소연, 민니, 우기",
   "date": "2022-03-24T18:00:00",
@@ -903,7 +903,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zoz64gmt-Z8",
+  "link": "https://youtu.be/zoz64gmt-Z8",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-03-31T18:00:00",
@@ -914,7 +914,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=c8780vEbx1k",
+  "link": "https://youtu.be/c8780vEbx1k",
   "category": "Interviews",
   "member": "민니",
   "date": "2022-04-01T18:00:00",
@@ -925,7 +925,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bUdyN4Ja1Uo",
+  "link": "https://youtu.be/bUdyN4Ja1Uo",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-04-09T18:00:00",
@@ -936,7 +936,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eoyCrS3ysb4",
+  "link": "https://youtu.be/eoyCrS3ysb4",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-04-13T18:00:00",
@@ -947,7 +947,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=P_Pk8ehfOCQ",
+  "link": "https://youtu.be/P_Pk8ehfOCQ",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-04-21T18:00:00",
@@ -958,7 +958,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RiSjSWOcU04",
+  "link": "https://youtu.be/RiSjSWOcU04",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-04-22T18:00:00",
@@ -969,7 +969,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6UVkGdUOjfo",
+  "link": "https://youtu.be/6UVkGdUOjfo",
   "category": "Interviews",
   "member": "미연",
   "date": "2022-04-29T18:00:00",
@@ -980,7 +980,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=f0IGLrgKjwM",
+  "link": "https://youtu.be/f0IGLrgKjwM",
   "category": "Interviews",
   "member": "미연",
   "date": "2022-05-02T18:00:00",
@@ -991,7 +991,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ARVPBgjzUJ4",
+  "link": "https://youtu.be/ARVPBgjzUJ4",
   "category": "Interviews",
   "member": "미연",
   "date": "2022-05-05T18:00:00",
@@ -1002,7 +1002,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EHsVCyKOymM",
+  "link": "https://youtu.be/EHsVCyKOymM",
   "category": "Interviews",
   "member": "슈화",
   "date": "2022-05-09T18:00:00",
@@ -1013,7 +1013,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7muD6N96B4Q",
+  "link": "https://youtu.be/7muD6N96B4Q",
   "category": "Interviews",
   "member": "슈화",
   "date": "2022-05-13T18:00:00",
@@ -1024,7 +1024,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FWHELcAB7hM",
+  "link": "https://youtu.be/FWHELcAB7hM",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-05-21T18:00:00",
@@ -1035,7 +1035,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vjkY9KsZqqw",
+  "link": "https://youtu.be/vjkY9KsZqqw",
   "category": "Interviews",
   "member": "소연, 미연, 민니",
   "date": "2022-06-15T18:00:00",
@@ -1046,7 +1046,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YBE2VcpALQQ",
+  "link": "https://youtu.be/YBE2VcpALQQ",
   "category": "Interviews",
   "member": "우기",
   "date": "2022-06-30T18:00:00",
@@ -1057,7 +1057,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0iBe7RJkF_w",
+  "link": "https://youtu.be/0iBe7RJkF_w",
   "category": "Interviews",
   "member": "미연",
   "date": "2022-07-04T18:00:00",
@@ -1068,7 +1068,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AfGxxcWPOro",
+  "link": "https://youtu.be/AfGxxcWPOro",
   "category": "Interviews",
   "member": "민니",
   "date": "2022-07-05T18:00:00",
@@ -1079,7 +1079,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=V8wtsSCRKRg",
+  "link": "https://youtu.be/V8wtsSCRKRg",
   "category": "Interviews",
   "member": "소연",
   "date": "2022-07-06T18:00:00",
@@ -1090,7 +1090,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Su4ROnuZy2I",
+  "link": "https://youtu.be/Su4ROnuZy2I",
   "category": "Interviews",
   "member": "우기",
   "date": "2022-07-07T18:00:00",
@@ -1101,7 +1101,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gLY8nbCRmuQ",
+  "link": "https://youtu.be/gLY8nbCRmuQ",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-07-12T18:00:00",
@@ -1112,7 +1112,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=srJWnrV_6bw",
+  "link": "https://youtu.be/srJWnrV_6bw",
   "category": "Interviews",
   "member": "소연",
   "date": "2022-07-22T18:00:00",
@@ -1123,7 +1123,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=arHZL3QSnq4",
+  "link": "https://youtu.be/arHZL3QSnq4",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-07-29T18:00:00",
@@ -1134,7 +1134,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fe7-gv2GjSQ",
+  "link": "https://youtu.be/fe7-gv2GjSQ",
   "category": "Interviews",
   "member": "민니",
   "date": "2022-07-30T18:00:00",
@@ -1145,7 +1145,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_toQhv6h2OQ",
+  "link": "https://youtu.be/_toQhv6h2OQ",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-08-05T18:00:00",
@@ -1156,7 +1156,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7DTKsdzL7Ys",
+  "link": "https://youtu.be/7DTKsdzL7Ys",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-08-05T18:00:00",
@@ -1167,7 +1167,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XWYFkx4NQKI",
+  "link": "https://youtu.be/XWYFkx4NQKI",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-09-23T18:00:00",
@@ -1178,7 +1178,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0OFG2Z88Tog",
+  "link": "https://youtu.be/0OFG2Z88Tog",
   "category": "Interviews",
   "member": "우기, 슈화",
   "date": "2022-10-11T18:00:00",
@@ -1189,7 +1189,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2HbCdXfKzEs",
+  "link": "https://youtu.be/2HbCdXfKzEs",
   "category": "Interviews",
   "member": "민니, 우기",
   "date": "2022-10-13T18:00:00",
@@ -1200,7 +1200,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AOiqHD7r6U4",
+  "link": "https://youtu.be/AOiqHD7r6U4",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-10-13T18:00:00",
@@ -1211,7 +1211,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XFVGF_1DDQk",
+  "link": "https://youtu.be/XFVGF_1DDQk",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-10-14",
@@ -1222,7 +1222,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fn7RMJPx8ww",
+  "link": "https://youtu.be/fn7RMJPx8ww",
   "category": "Interviews",
   "member": "우기, 슈화",
   "date": "2022-10-14T18:00:00",
@@ -1233,7 +1233,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=O6aRrFZGuGY",
+  "link": "https://youtu.be/O6aRrFZGuGY",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-10-17T18:00:00",
@@ -1244,7 +1244,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=a5MB1tkHMlE",
+  "link": "https://youtu.be/a5MB1tkHMlE",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-10-19T18:00:00",
@@ -1255,7 +1255,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TDnWQFMQ1a0",
+  "link": "https://youtu.be/TDnWQFMQ1a0",
   "category": "Interviews",
   "member": "미연, 슈화",
   "date": "2022-10-19T18:00:00",
@@ -1266,7 +1266,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jw2ykFpMt6Y",
+  "link": "https://youtu.be/jw2ykFpMt6Y",
   "category": "Interviews",
   "member": "민니, 슈화",
   "date": "2022-10-21T18:00:00",
@@ -1277,7 +1277,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tZrEWldWHCg",
+  "link": "https://youtu.be/tZrEWldWHCg",
   "category": "Interviews",
   "member": "소연",
   "date": "2022-10-26T18:00:00",
@@ -1288,7 +1288,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dhWATtljlVM",
+  "link": "https://youtu.be/dhWATtljlVM",
   "category": "Interviews",
   "member": "우기",
   "date": "2022-10-29T18:00:00",
@@ -1299,7 +1299,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PpwPAcdh-As",
+  "link": "https://youtu.be/PpwPAcdh-As",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-11-09T18:00:00",
@@ -1310,7 +1310,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NCqy39zGfow",
+  "link": "https://youtu.be/NCqy39zGfow",
   "category": "Interviews",
   "member": "미연",
   "date": "2022-11-17T18:00:00",
@@ -1321,7 +1321,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aDWdhbeWwgM",
+  "link": "https://youtu.be/aDWdhbeWwgM",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-11-20T18:00:00",
@@ -1332,7 +1332,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-EVQZLNHl6g",
+  "link": "https://youtu.be/-EVQZLNHl6g",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-11-29T18:00:00",
@@ -1343,7 +1343,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6fKxTMn6vB4",
+  "link": "https://youtu.be/6fKxTMn6vB4",
   "category": "Interviews",
   "member": "미연, 민니",
   "date": "2022-12-02T18:00:00",
@@ -1354,7 +1354,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=39clq3fn4w0",
+  "link": "https://youtu.be/39clq3fn4w0",
   "category": "Interviews",
   "member": "슈화",
   "date": "2022-12-02T18:00:00",
@@ -1365,7 +1365,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=J_KZhtVe_Zk",
+  "link": "https://youtu.be/J_KZhtVe_Zk",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-12-04T18:00:00",
@@ -1376,7 +1376,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jbhv6Rg41bo",
+  "link": "https://youtu.be/jbhv6Rg41bo",
   "category": "Interviews",
   "member": "민니, 우기",
   "date": "2022-12-07T18:00:00",
@@ -1387,7 +1387,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QGgo7r3QP3o",
+  "link": "https://youtu.be/QGgo7r3QP3o",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-12-08T18:00:00",
@@ -1398,7 +1398,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dI_8XzWS81I",
+  "link": "https://youtu.be/dI_8XzWS81I",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-12-10T18:00:00",
@@ -1409,7 +1409,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pPbkEVCX1dA",
+  "link": "https://youtu.be/pPbkEVCX1dA",
   "category": "Interviews",
   "member": "우기",
   "date": "2022-12-23T18:00:00",
@@ -1420,7 +1420,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=t7V8EeVxLg0",
+  "link": "https://youtu.be/t7V8EeVxLg0",
   "category": "Interviews",
   "member": "아이들",
   "date": "2022-12-24T18:00:00",
@@ -1431,7 +1431,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dE70UVkkvpE",
+  "link": "https://youtu.be/dE70UVkkvpE",
   "category": "Interviews",
   "member": "슈화",
   "date": "2022-12-26T18:00:00",
@@ -1442,7 +1442,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZxV1wz1bpDk",
+  "link": "https://youtu.be/ZxV1wz1bpDk",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-01-30T18:00:00",
@@ -1453,7 +1453,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VotvPanrGHo",
+  "link": "https://youtu.be/VotvPanrGHo",
   "category": "Interviews",
   "member": "미연",
   "date": "2023-03-31T18:00:00",
@@ -1464,7 +1464,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=a3R3KPgP5u4",
+  "link": "https://youtu.be/a3R3KPgP5u4",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-05-17T18:00:00",
@@ -1475,7 +1475,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CbAVQGPqvtM",
+  "link": "https://youtu.be/CbAVQGPqvtM",
   "category": "Interviews",
   "member": "슈화",
   "date": "2023-05-19T18:00:00",
@@ -1486,7 +1486,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nK57FEe9a_U",
+  "link": "https://youtu.be/nK57FEe9a_U",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-05-26T18:00:00",
@@ -1497,7 +1497,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=93z_ePVDzUc",
+  "link": "https://youtu.be/93z_ePVDzUc",
   "category": "Interviews",
   "member": "소연",
   "date": "2023-05-26T18:00:00",
@@ -1508,7 +1508,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gKPisaOJzQw",
+  "link": "https://youtu.be/gKPisaOJzQw",
   "category": "Interviews",
   "member": "우기",
   "date": "2023-06-02T18:00:00",
@@ -1519,7 +1519,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=riYNymhKtHE",
+  "link": "https://youtu.be/riYNymhKtHE",
   "category": "Interviews",
   "member": "미연",
   "date": "2023-06-08T18:00:00",
@@ -1530,7 +1530,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ISQRO4UNh80",
+  "link": "https://youtu.be/ISQRO4UNh80",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-06-21T18:00:00",
@@ -1541,7 +1541,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YQV5B8qoDEc",
+  "link": "https://youtu.be/YQV5B8qoDEc",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-06-21T18:00:00",
@@ -1552,7 +1552,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tIALOeq2Mwo",
+  "link": "https://youtu.be/tIALOeq2Mwo",
   "category": "Interviews",
   "member": "민니",
   "date": "2023-06-24T18:00:00",
@@ -1563,7 +1563,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Lgc9s-kTTKk",
+  "link": "https://youtu.be/Lgc9s-kTTKk",
   "category": "Interviews",
   "member": "슈화",
   "date": "2023-07-07T18:00:00",
@@ -1574,7 +1574,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iacZ4UR-m_g",
+  "link": "https://youtu.be/iacZ4UR-m_g",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-07-13T18:00:00",
@@ -1585,7 +1585,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2XTW18a5DVY",
+  "link": "https://youtu.be/2XTW18a5DVY",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-07-14T18:00:00",
@@ -1596,7 +1596,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Uxkw8z9nfFw",
+  "link": "https://youtu.be/Uxkw8z9nfFw",
   "category": "Interviews",
   "member": "민니",
   "date": "2023-08-04T18:00:00",
@@ -1607,7 +1607,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LFsSEoiyjOY",
+  "link": "https://youtu.be/LFsSEoiyjOY",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-08-10T18:00:00",
@@ -1618,7 +1618,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZRbbd8ojDGk",
+  "link": "https://youtu.be/ZRbbd8ojDGk",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-09-03T18:00:00",
@@ -1629,7 +1629,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wW23SWOmdDk",
+  "link": "https://youtu.be/wW23SWOmdDk",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-09-06T18:00:00",
@@ -1640,7 +1640,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uCqZKpISJI0",
+  "link": "https://youtu.be/uCqZKpISJI0",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-09-07T18:00:00",
@@ -1651,7 +1651,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=taRyoI-CMyY",
+  "link": "https://youtu.be/taRyoI-CMyY",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-09-09T18:00:00",
@@ -1662,7 +1662,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=enigs5YRIzU",
+  "link": "https://youtu.be/enigs5YRIzU",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-09-13T18:00:00",
@@ -1673,7 +1673,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QMmFRSMduuU",
+  "link": "https://youtu.be/QMmFRSMduuU",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-09-21T18:00:00",
@@ -1684,7 +1684,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Y_cBrePWzyo",
+  "link": "https://youtu.be/Y_cBrePWzyo",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-09-22T18:00:00",
@@ -1695,7 +1695,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bcA9cMy1h94",
+  "link": "https://youtu.be/bcA9cMy1h94",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-10-04T18:00:00",
@@ -1706,7 +1706,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5lGZICZ3ANc",
+  "link": "https://youtu.be/5lGZICZ3ANc",
   "category": "Interviews",
   "member": "아이들",
   "date": "2023-10-07T18:00:00",
@@ -1717,7 +1717,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uRdHqhQdP2k",
+  "link": "https://youtu.be/uRdHqhQdP2k",
   "category": "Interviews",
   "member": "미연",
   "date": "2023-10-10T18:00:00",
@@ -1728,7 +1728,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rj9wt9b_8e0",
+  "link": "https://youtu.be/rj9wt9b_8e0",
   "category": "Interviews",
   "member": "민니",
   "date": "2023-10-23T18:00:00",
@@ -1739,7 +1739,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sk60HEx2BBg",
+  "link": "https://youtu.be/sk60HEx2BBg",
   "category": "Interviews",
   "member": "소연",
   "date": "2023-11-29T18:00:00",
@@ -1750,7 +1750,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7jPhEu2I4qc",
+  "link": "https://youtu.be/7jPhEu2I4qc",
   "category": "Interviews",
   "member": "아이들",
   "date": "2024-02-07T18:00:00",
@@ -1761,7 +1761,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yjdg8jmXXOw",
+  "link": "https://youtu.be/yjdg8jmXXOw",
   "category": "Interviews",
   "member": "아이들",
   "date": "2024-02-16T18:00:00",
@@ -1772,7 +1772,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=S28IPI0PTZ4",
+  "link": "https://youtu.be/S28IPI0PTZ4",
   "category": "Interviews",
   "member": "아이들",
   "date": "2024-02-21T18:00:00",
@@ -1783,7 +1783,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=D3mLlNqHUbA",
+  "link": "https://youtu.be/D3mLlNqHUbA",
   "category": "Interviews",
   "member": "아이들",
   "date": "2024-03-12T18:00:00",
@@ -1794,7 +1794,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=d_BH_NvLb5Q",
+  "link": "https://youtu.be/d_BH_NvLb5Q",
   "category": "Interviews",
   "member": "우기",
   "date": "2024-04-30T18:00:00",
@@ -1805,7 +1805,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=slrQWhFYVKQ",
+  "link": "https://youtu.be/slrQWhFYVKQ",
   "category": "Interviews",
   "member": "슈화",
   "date": "2024-05-15T18:00:00",
@@ -1816,7 +1816,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FYkex66MH4U",
+  "link": "https://youtu.be/FYkex66MH4U",
   "category": "Interviews",
   "member": "우기",
   "date": "2024-05-30T18:00:00",
@@ -1827,7 +1827,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Yb3D1vFNQ8s",
+  "link": "https://youtu.be/Yb3D1vFNQ8s",
   "category": "Interviews",
   "member": "소연",
   "date": "2024-07-01T18:00:00",
@@ -1838,7 +1838,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RbQip_zmPxI",
+  "link": "https://youtu.be/RbQip_zmPxI",
   "category": "Interviews",
   "member": "민니",
   "date": "2024-09-02T18:00:00",
@@ -1849,7 +1849,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eIAfeOt9Lzw",
+  "link": "https://youtu.be/eIAfeOt9Lzw",
   "category": "Interviews",
   "member": "미연",
   "date": "2024-09-23T18:00:00",
@@ -1860,7 +1860,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tjCUIsH66jU",
+  "link": "https://youtu.be/tjCUIsH66jU",
   "category": "Interviews",
   "member": "아이들",
   "date": "2024-10-07T18:00:00",
@@ -1871,7 +1871,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=L7uwbUvH_O0",
+  "link": "https://youtu.be/L7uwbUvH_O0",
   "category": "Interviews",
   "member": "민니",
   "date": "2024-12-04T18:00:00",
@@ -1882,7 +1882,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2EkLzvXAV0M",
+  "link": "https://youtu.be/2EkLzvXAV0M",
   "category": "Interviews",
   "member": "미연",
   "date": "2024-12-06T18:00:00",
@@ -1893,7 +1893,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Y2UwPjp2Mus",
+  "link": "https://youtu.be/Y2UwPjp2Mus",
   "category": "Interviews",
   "member": "미연",
   "date": "2024-12-09T18:00:00",
@@ -1904,7 +1904,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Iz9q_y8Piaw",
+  "link": "https://youtu.be/Iz9q_y8Piaw",
   "category": "Interviews",
   "member": "민니",
   "date": "2025-01-12T18:00:00",
@@ -1915,7 +1915,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nbM1BAv0heI",
+  "link": "https://youtu.be/nbM1BAv0heI",
   "category": "Interviews",
   "member": "민니",
   "date": "2025-01-27T18:00:00",
@@ -1926,7 +1926,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QaeK_XwpeGI",
+  "link": "https://youtu.be/QaeK_XwpeGI",
   "category": "Interviews",
   "member": "슈화",
   "date": "2025-02-04T18:00:00",
@@ -1937,7 +1937,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SCGW79pWEIw",
+  "link": "https://youtu.be/SCGW79pWEIw",
   "category": "Interviews",
   "member": "슈화",
   "date": "2025-03-14T18:00:00",
@@ -1948,7 +1948,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VCLjwNlZYvU",
+  "link": "https://youtu.be/VCLjwNlZYvU",
   "category": "Interviews",
   "member": "소연",
   "date": "2025-03-26T18:00:00",
@@ -1959,7 +1959,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=G0FrdVlNuHE",
+  "link": "https://youtu.be/G0FrdVlNuHE",
   "category": "Interviews",
   "member": "미연",
   "date": "2025-05-14T18:00:00",
@@ -1970,7 +1970,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NSD0BJIdCjw",
+  "link": "https://youtu.be/NSD0BJIdCjw",
   "category": "Interviews",
   "member": "아이들",
   "date": "2025-05-19T18:00:00",
@@ -1981,7 +1981,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DTFeuesDDyg",
+  "link": "https://youtu.be/DTFeuesDDyg",
   "category": "Interviews",
   "member": "아이들",
   "date": "2025-05-19T18:00:00",
@@ -1992,7 +1992,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YA7W7r_4A6Y",
+  "link": "https://youtu.be/YA7W7r_4A6Y",
   "category": "Interviews",
   "member": "아이들",
   "date": "2025-05-21T18:00:00",
@@ -2003,7 +2003,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-xcOOq9bWYI",
+  "link": "https://youtu.be/-xcOOq9bWYI",
   "category": "Interviews",
   "member": "아이들",
   "date": "2025-05-28T18:00:00",
@@ -2014,7 +2014,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WXyVf150quQ",
+  "link": "https://youtu.be/WXyVf150quQ",
   "category": "Interviews",
   "member": "민니",
   "date": "2025-09-11T18:00:00",
@@ -2025,7 +2025,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7rvlEFRKIGk",
+  "link": "https://youtu.be/7rvlEFRKIGk",
   "category": "Interviews",
   "member": "소연",
   "date": "2025-09-22T18:00:00",
@@ -2036,7 +2036,7 @@ const interviewsCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qQDotug8amE",
+  "link": "https://youtu.be/qQDotug8amE",
   "category": "Interviews",
   "member": "아이들",
   "date": "2025-09-29T18:00:00",
@@ -2047,5 +2047,4 @@ const interviewsCards = [
 }
 
 ];
-
 window.interviewsCards = interviewsCards;

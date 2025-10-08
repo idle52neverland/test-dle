@@ -1,7 +1,7 @@
 const mediaContentCards = [
 
 {
-  "link": "https://www.youtube.com/watch?v=sb6swBDIyes",
+  "link": "https://youtu.be/sb6swBDIyes",
   "category": "MEDIA_CONTENTS",
   "member": "소연",
   "date": "2016-12-13T18:00:00",
@@ -12,7 +12,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MbHVHQstS9w",
+  "link": "https://youtu.be/MbHVHQstS9w",
   "category": "Media_Content",
   "member": "우기",
   "date": "2018-02-27T18:00:00",
@@ -23,7 +23,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YkrS9kfFO_s",
+  "link": "https://youtu.be/YkrS9kfFO_s",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2018-04-21T18:00:00",
@@ -34,7 +34,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FoiDU23wjO4",
+  "link": "https://youtu.be/FoiDU23wjO4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2018-04-26T18:00:00",
@@ -45,7 +45,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Yeed17jb814",
+  "link": "https://youtu.be/Yeed17jb814",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2018-05-03T18:00:00",
@@ -56,7 +56,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=viqFO-U77x8",
+  "link": "https://youtu.be/viqFO-U77x8",
   "category": "Media_Content",
   "member": "우기",
   "date": "2018-05-18T18:00:00",
@@ -67,7 +67,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uHBXlFUALKo",
+  "link": "https://youtu.be/uHBXlFUALKo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2018-05-22T18:00:00",
@@ -78,7 +78,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=v8l_e1-0L0U",
+  "link": "https://youtu.be/v8l_e1-0L0U",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2018-05-25T18:00:00",
@@ -89,7 +89,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GrIRN1471Qc",
+  "link": "https://youtu.be/GrIRN1471Qc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2018-06-01T18:00:00",
@@ -100,7 +100,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5xZfbrKpK8A",
+  "link": "https://youtu.be/5xZfbrKpK8A",
   "category": "Media_Content",
   "member": "우기",
   "date": "2018-08-17T18:00:00",
@@ -111,7 +111,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mrOUtO8duXU",
+  "link": "https://youtu.be/mrOUtO8duXU",
   "category": "Media_Content",
   "member": "우기",
   "date": "2018-08-17T18:00:00",
@@ -122,7 +122,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Nf7MPmZhroA",
+  "link": "https://youtu.be/Nf7MPmZhroA",
   "category": "Media_Content",
   "member": "우기",
   "date": "2018-08-18T18:00:00",
@@ -133,7 +133,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tZncktuTi_A",
+  "link": "https://youtu.be/tZncktuTi_A",
   "category": "Media_Content",
   "member": "우기",
   "date": "2018-08-18T18:00:00",
@@ -144,7 +144,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2zq1oy7MZ50",
+  "link": "https://youtu.be/2zq1oy7MZ50",
   "category": "Media_Content",
   "member": "우기",
   "date": "2018-08-18T18:00:00",
@@ -155,7 +155,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UmxE266X6hE",
+  "link": "https://youtu.be/UmxE266X6hE",
   "category": "Media_Content",
   "member": "우기",
   "date": "2018-08-23T18:00:00",
@@ -166,7 +166,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UyrfKsh96-Q",
+  "link": "https://youtu.be/UyrfKsh96-Q",
   "category": "Media_Content",
   "member": "소연, 우기, 슈화",
   "date": "2018-08-30T18:00:00",
@@ -177,7 +177,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9ht-nmKm1Hc",
+  "link": "https://youtu.be/9ht-nmKm1Hc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2018-08-31T18:00:00",
@@ -188,7 +188,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MnX5fthP4Ms",
+  "link": "https://youtu.be/MnX5fthP4Ms",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2018-09-14T18:00:00",
@@ -199,7 +199,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zrqEv17u63A",
+  "link": "https://youtu.be/zrqEv17u63A",
   "category": "Media_Content",
   "member": "우기",
   "date": "2018-09-25T18:00:00",
@@ -210,7 +210,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mxlqvIAmDRY",
+  "link": "https://youtu.be/mxlqvIAmDRY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2018-10-11T18:00:00",
@@ -221,7 +221,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MYrW_IToCDk",
+  "link": "https://youtu.be/MYrW_IToCDk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2018-12-10T18:00:00",
@@ -232,7 +232,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vgNtfaWSEUs",
+  "link": "https://youtu.be/vgNtfaWSEUs",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2018-12-11T18:00:00",
@@ -243,7 +243,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mDiZFM97uUo",
+  "link": "https://youtu.be/mDiZFM97uUo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2018-12-24T18:00:00",
@@ -254,7 +254,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GmaPL6maAtY",
+  "link": "https://youtu.be/GmaPL6maAtY",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2019-02-05T18:00:00",
@@ -265,7 +265,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9jUzFZ0leC8",
+  "link": "https://youtu.be/9jUzFZ0leC8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-02-28T18:00:00",
@@ -276,7 +276,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=na-jXrhV-3k",
+  "link": "https://youtu.be/na-jXrhV-3k",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-03-03T18:00:00",
@@ -287,7 +287,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XIdyJNG3m88",
+  "link": "https://youtu.be/XIdyJNG3m88",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2019-03-04T18:00:00",
@@ -298,7 +298,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kIzY2F-9u2s",
+  "link": "https://youtu.be/kIzY2F-9u2s",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-03-05T18:00:00",
@@ -309,7 +309,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yj4-s_UEQqU",
+  "link": "https://youtu.be/yj4-s_UEQqU",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-03-06T18:00:00",
@@ -320,7 +320,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YDVq_EpraPk",
+  "link": "https://youtu.be/YDVq_EpraPk",
   "category": "Media_Content",
   "member": "민니, 슈화",
   "date": "2019-04-09T18:00:00",
@@ -331,7 +331,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DDoIycDrSr8",
+  "link": "https://youtu.be/DDoIycDrSr8",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-05-02T18:00:00",
@@ -342,7 +342,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=n4s-QdGSxo0",
+  "link": "https://youtu.be/n4s-QdGSxo0",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-05-07T18:00:00",
@@ -353,7 +353,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eOSMtcffeZ4",
+  "link": "https://youtu.be/eOSMtcffeZ4",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-05-20T18:00:00",
@@ -364,7 +364,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MhMUhFuERyE",
+  "link": "https://youtu.be/MhMUhFuERyE",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-05-20T18:00:00",
@@ -375,7 +375,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DIAdk3SbRsc",
+  "link": "https://youtu.be/DIAdk3SbRsc",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-05-20T18:00:00",
@@ -386,7 +386,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9NUOBTIxSRg",
+  "link": "https://youtu.be/9NUOBTIxSRg",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-05-20T18:00:00",
@@ -397,7 +397,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YXTbMdUj-3Q",
+  "link": "https://youtu.be/YXTbMdUj-3Q",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-05-20T18:00:00",
@@ -408,7 +408,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QLzxj4l3aOA",
+  "link": "https://youtu.be/QLzxj4l3aOA",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-05-26T18:00:00",
@@ -419,7 +419,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4-rr2zw2Rd4",
+  "link": "https://youtu.be/4-rr2zw2Rd4",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-05-27T18:00:00",
@@ -430,7 +430,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mgLmUR_c2kQ",
+  "link": "https://youtu.be/mgLmUR_c2kQ",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-05-27T18:00:00",
@@ -441,7 +441,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=r2gzZKHkriE",
+  "link": "https://youtu.be/r2gzZKHkriE",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-05-27T18:00:00",
@@ -452,7 +452,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=f3oAllymTRE",
+  "link": "https://youtu.be/f3oAllymTRE",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-05-27T18:00:00",
@@ -463,7 +463,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tJgncf99Bt8",
+  "link": "https://youtu.be/tJgncf99Bt8",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-05-27T18:00:00",
@@ -474,7 +474,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_Cv9K6tY7jI",
+  "link": "https://youtu.be/_Cv9K6tY7jI",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-05-27T18:00:00",
@@ -485,7 +485,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dFoXDP1E_Mo",
+  "link": "https://youtu.be/dFoXDP1E_Mo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-05-28T18:00:00",
@@ -496,7 +496,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6JqmWidim_c",
+  "link": "https://youtu.be/6JqmWidim_c",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-06-02T18:00:00",
@@ -507,7 +507,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3swzGmS_rP0",
+  "link": "https://youtu.be/3swzGmS_rP0",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-06-03T18:00:00",
@@ -518,7 +518,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=78jSNN701is",
+  "link": "https://youtu.be/78jSNN701is",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-06-03T18:00:00",
@@ -529,7 +529,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vXz_ZUo5L7Y",
+  "link": "https://youtu.be/vXz_ZUo5L7Y",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-06-03T18:00:00",
@@ -540,7 +540,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pPDVzwfxQiI",
+  "link": "https://youtu.be/pPDVzwfxQiI",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-06-03T18:00:00",
@@ -551,7 +551,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VZ6F0HytGcQ",
+  "link": "https://youtu.be/VZ6F0HytGcQ",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-06-03T18:00:00",
@@ -562,7 +562,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-YXCqaPD8_4",
+  "link": "https://youtu.be/-YXCqaPD8_4",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-06-09T18:00:00",
@@ -573,7 +573,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UVxQ-K0QAA4",
+  "link": "https://youtu.be/UVxQ-K0QAA4",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-06-09T18:00:00",
@@ -584,7 +584,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=k_iRHoocLHE",
+  "link": "https://youtu.be/k_iRHoocLHE",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-06-10T18:00:00",
@@ -595,7 +595,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UgEI48lWgXM",
+  "link": "https://youtu.be/UgEI48lWgXM",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-06-10T18:00:00",
@@ -606,7 +606,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JBbNuBTyFJM",
+  "link": "https://youtu.be/JBbNuBTyFJM",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-06-10T18:00:00",
@@ -617,7 +617,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dCqbsqsh-eE",
+  "link": "https://youtu.be/dCqbsqsh-eE",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-06-10T18:00:00",
@@ -628,7 +628,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uIlq4ypPPxc",
+  "link": "https://youtu.be/uIlq4ypPPxc",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-06-10T18:00:00",
@@ -639,7 +639,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rBnlxgfGGTI",
+  "link": "https://youtu.be/rBnlxgfGGTI",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-06-11T18:00:00",
@@ -650,7 +650,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fF8rRPhNGNc",
+  "link": "https://youtu.be/fF8rRPhNGNc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-06-21T18:00:00",
@@ -661,7 +661,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=T5qE0SMoDYs",
+  "link": "https://youtu.be/T5qE0SMoDYs",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-06-26T18:00:00",
@@ -672,7 +672,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Z9ciANWgC6M",
+  "link": "https://youtu.be/Z9ciANWgC6M",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-06-26T18:00:00",
@@ -683,7 +683,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=47kiw9sUfgg",
+  "link": "https://youtu.be/47kiw9sUfgg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-06-26T18:00:00",
@@ -694,7 +694,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=q-zptxyUEpM",
+  "link": "https://youtu.be/q-zptxyUEpM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-06-26T18:00:00",
@@ -705,7 +705,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JB-CEZ-GA4c",
+  "link": "https://youtu.be/JB-CEZ-GA4c",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-06-26T18:00:00",
@@ -716,7 +716,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZnjNDxslY2A",
+  "link": "https://youtu.be/ZnjNDxslY2A",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-06-26T18:00:00",
@@ -727,7 +727,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rT3UqPDT9pk",
+  "link": "https://youtu.be/rT3UqPDT9pk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-06-26T18:00:00",
@@ -738,7 +738,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8zOcUtZM3JE",
+  "link": "https://youtu.be/8zOcUtZM3JE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-06-26T18:00:00",
@@ -749,7 +749,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0nto0bXULoA",
+  "link": "https://youtu.be/0nto0bXULoA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-06-26T18:00:00",
@@ -760,7 +760,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aPMQmiiHL3g",
+  "link": "https://youtu.be/aPMQmiiHL3g",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-06-26T18:00:00",
@@ -771,7 +771,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=auNUEZ-w3Cg",
+  "link": "https://youtu.be/auNUEZ-w3Cg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-06-26T18:00:00",
@@ -782,7 +782,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Pw8dyKiZv4k",
+  "link": "https://youtu.be/Pw8dyKiZv4k",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-06-26T18:00:00",
@@ -793,7 +793,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bDObmEY45d8",
+  "link": "https://youtu.be/bDObmEY45d8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2019-06-26T18:00:00",
@@ -804,7 +804,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5osKJ3cDTDM",
+  "link": "https://youtu.be/5osKJ3cDTDM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2019-06-26T18:00:00",
@@ -815,7 +815,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wC0JuBPSgTg",
+  "link": "https://youtu.be/wC0JuBPSgTg",
   "category": "Media_Content",
   "member": "민니",
   "date": "2019-06-26T18:00:00",
@@ -826,7 +826,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UH51HzIZOrE",
+  "link": "https://youtu.be/UH51HzIZOrE",
   "category": "Media_Content",
   "member": "소연",
   "date": "2019-06-26T18:00:00",
@@ -837,7 +837,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7cOPPsjXNxY",
+  "link": "https://youtu.be/7cOPPsjXNxY",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-06-26T18:00:00",
@@ -848,7 +848,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yFX1WA1UzoE",
+  "link": "https://youtu.be/yFX1WA1UzoE",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2019-06-26T18:00:00",
@@ -859,7 +859,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JbD7dZAnkjs",
+  "link": "https://youtu.be/JbD7dZAnkjs",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-06-27T18:00:00",
@@ -870,7 +870,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=p-vb_s0a53I",
+  "link": "https://youtu.be/p-vb_s0a53I",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-06-27T18:00:00",
@@ -881,7 +881,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Jw9eWqScvWc",
+  "link": "https://youtu.be/Jw9eWqScvWc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-07-02T18:00:00",
@@ -892,7 +892,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vok-tx3LadQ",
+  "link": "https://youtu.be/vok-tx3LadQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-07-03T18:00:00",
@@ -903,7 +903,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2cg4Mc0-4tM",
+  "link": "https://youtu.be/2cg4Mc0-4tM",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-07-03T18:00:00",
@@ -914,7 +914,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lIe2O6wCjSM",
+  "link": "https://youtu.be/lIe2O6wCjSM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-07-04T18:00:00",
@@ -925,7 +925,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8caqLyeENB0",
+  "link": "https://youtu.be/8caqLyeENB0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2019-07-08T18:00:00",
@@ -936,7 +936,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zn_kPnx7i5w",
+  "link": "https://youtu.be/zn_kPnx7i5w",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2019-07-09T18:00:00",
@@ -947,7 +947,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9svWxaXSEGI",
+  "link": "https://youtu.be/9svWxaXSEGI",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-07-11T18:00:00",
@@ -958,7 +958,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HRGHXkyZ-Zo",
+  "link": "https://youtu.be/HRGHXkyZ-Zo",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-07-12T18:00:00",
@@ -969,7 +969,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oLPI-MUPZUc",
+  "link": "https://youtu.be/oLPI-MUPZUc",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-07-12T18:00:00",
@@ -980,7 +980,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BJKW0OAyX1g",
+  "link": "https://youtu.be/BJKW0OAyX1g",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-07-12T18:00:00",
@@ -991,7 +991,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zLLMob9m4ns",
+  "link": "https://youtu.be/zLLMob9m4ns",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-07-12T18:00:00",
@@ -1002,7 +1002,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=g5dSxZYbSyg",
+  "link": "https://youtu.be/g5dSxZYbSyg",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-07-12T18:00:00",
@@ -1013,7 +1013,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hTQ0XY1TW3s",
+  "link": "https://youtu.be/hTQ0XY1TW3s",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-07-12T18:00:00",
@@ -1024,7 +1024,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jJrP0MFZKp0",
+  "link": "https://youtu.be/jJrP0MFZKp0",
   "category": "Media_Content",
   "member": "미연, 민니",
   "date": "2019-07-12T18:00:00",
@@ -1035,7 +1035,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QcXyNZBNCec",
+  "link": "https://youtu.be/QcXyNZBNCec",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-07-14T18:00:00",
@@ -1046,7 +1046,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BYA2W3Iuhes",
+  "link": "https://youtu.be/BYA2W3Iuhes",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-07-19T18:00:00",
@@ -1057,7 +1057,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aB5Kf3q_qsg",
+  "link": "https://youtu.be/aB5Kf3q_qsg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-07-21T18:00:00",
@@ -1068,7 +1068,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0Re2BEbylKM",
+  "link": "https://youtu.be/0Re2BEbylKM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-07-21T18:00:00",
@@ -1079,7 +1079,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XaykABBu-9U",
+  "link": "https://youtu.be/XaykABBu-9U",
   "category": "Media_Content",
   "member": "소연",
   "date": "2019-07-22T18:00:00",
@@ -1090,7 +1090,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Mtt9Hoz_o3Q",
+  "link": "https://youtu.be/Mtt9Hoz_o3Q",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-07-24T18:00:00",
@@ -1101,7 +1101,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DUgmb361oW8",
+  "link": "https://youtu.be/DUgmb361oW8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-08-08T18:00:00",
@@ -1112,7 +1112,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QBjV5p1ctwo",
+  "link": "https://youtu.be/QBjV5p1ctwo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-08-14T18:00:00",
@@ -1123,7 +1123,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=x7XEAPlYp2Y",
+  "link": "https://youtu.be/x7XEAPlYp2Y",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-08-24T18:00:00",
@@ -1134,7 +1134,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nHkRgfZ-25U",
+  "link": "https://youtu.be/nHkRgfZ-25U",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-08-24T18:00:00",
@@ -1145,7 +1145,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DZrNzHMkhts",
+  "link": "https://youtu.be/DZrNzHMkhts",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-08-24T18:00:00",
@@ -1156,7 +1156,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AZmWCf4jIKE",
+  "link": "https://youtu.be/AZmWCf4jIKE",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-08-28T18:00:00",
@@ -1167,7 +1167,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rTRpbF8Ke0A",
+  "link": "https://youtu.be/rTRpbF8Ke0A",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-08-29T18:00:00",
@@ -1178,7 +1178,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=q-WvE6f3iRg",
+  "link": "https://youtu.be/q-WvE6f3iRg",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-08-31T18:00:00",
@@ -1189,7 +1189,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Pi3F3iPxRfs",
+  "link": "https://youtu.be/Pi3F3iPxRfs",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-08-31T18:00:00",
@@ -1200,7 +1200,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7BNksNMA718",
+  "link": "https://youtu.be/7BNksNMA718",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-08-31T18:00:00",
@@ -1211,7 +1211,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ruoY45nzwSA",
+  "link": "https://youtu.be/ruoY45nzwSA",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-08-31T18:00:00",
@@ -1222,7 +1222,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XYUvsOWKfSc",
+  "link": "https://youtu.be/XYUvsOWKfSc",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-08-31T18:00:00",
@@ -1233,7 +1233,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0RVrt-dJRrA",
+  "link": "https://youtu.be/0RVrt-dJRrA",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-09-08T18:00:00",
@@ -1244,7 +1244,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=m57dd7Rlmuc",
+  "link": "https://youtu.be/m57dd7Rlmuc",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-09-08T18:00:00",
@@ -1255,7 +1255,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=i_9gUh6KeVM",
+  "link": "https://youtu.be/i_9gUh6KeVM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-09-10T18:00:00",
@@ -1266,7 +1266,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aRz2zt-nDOI",
+  "link": "https://youtu.be/aRz2zt-nDOI",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-09-10T18:00:00",
@@ -1277,7 +1277,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NMQzMdgzkPM",
+  "link": "https://youtu.be/NMQzMdgzkPM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-09-19T18:00:00",
@@ -1288,7 +1288,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oDvpYD4zB4k",
+  "link": "https://youtu.be/oDvpYD4zB4k",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-09-21T18:00:00",
@@ -1299,7 +1299,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kMcAJN12GdU",
+  "link": "https://youtu.be/kMcAJN12GdU",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-09-21T18:00:00",
@@ -1310,7 +1310,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WcHbCNDu-UM",
+  "link": "https://youtu.be/WcHbCNDu-UM",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-09-21T18:00:00",
@@ -1321,7 +1321,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9_hd_1sz5e0",
+  "link": "https://youtu.be/9_hd_1sz5e0",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-09-21T18:00:00",
@@ -1332,7 +1332,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KubTFeVuG44",
+  "link": "https://youtu.be/KubTFeVuG44",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-09-21T18:00:00",
@@ -1343,7 +1343,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UmPmihIRlZ8",
+  "link": "https://youtu.be/UmPmihIRlZ8",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-09-22T18:00:00",
@@ -1354,7 +1354,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dW9wTXpqDUk",
+  "link": "https://youtu.be/dW9wTXpqDUk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-09-23T18:00:00",
@@ -1365,7 +1365,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Cvtny6UdSNQ",
+  "link": "https://youtu.be/Cvtny6UdSNQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-09-23T18:00:00",
@@ -1376,7 +1376,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=m2rOsVEoFp0",
+  "link": "https://youtu.be/m2rOsVEoFp0",
   "category": "Media_Content",
   "member": "소연",
   "date": "2019-09-23T18:00:00",
@@ -1387,7 +1387,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=blWd5aEmQD4",
+  "link": "https://youtu.be/blWd5aEmQD4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-09-25T18:00:00",
@@ -1398,7 +1398,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FWPqZ2i6slM",
+  "link": "https://youtu.be/FWPqZ2i6slM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-09-26T18:00:00",
@@ -1409,7 +1409,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZlPJw0-fa38",
+  "link": "https://youtu.be/ZlPJw0-fa38",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-03T18:00:00",
@@ -1420,7 +1420,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qqzwlO03jn0",
+  "link": "https://youtu.be/qqzwlO03jn0",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-05T18:00:00",
@@ -1431,7 +1431,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yyFf5wUHrI0",
+  "link": "https://youtu.be/yyFf5wUHrI0",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-05T18:00:00",
@@ -1442,7 +1442,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eGEn-nMgEeo",
+  "link": "https://youtu.be/eGEn-nMgEeo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-05T18:00:00",
@@ -1453,7 +1453,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=c_4rhAVd3oY",
+  "link": "https://youtu.be/c_4rhAVd3oY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-10T18:00:00",
@@ -1464,7 +1464,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SUQ758xSlYc",
+  "link": "https://youtu.be/SUQ758xSlYc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-10T18:00:00",
@@ -1475,7 +1475,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BAfq_jTDi1w",
+  "link": "https://youtu.be/BAfq_jTDi1w",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-10T18:00:00",
@@ -1486,7 +1486,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ciHOdUf-X5U",
+  "link": "https://youtu.be/ciHOdUf-X5U",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-17T18:00:00",
@@ -1497,7 +1497,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bNCbjendYO4",
+  "link": "https://youtu.be/bNCbjendYO4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-17T18:00:00",
@@ -1508,7 +1508,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Kine31OCEms",
+  "link": "https://youtu.be/Kine31OCEms",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-17T18:00:00",
@@ -1519,7 +1519,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=76KUkEB3Z1U",
+  "link": "https://youtu.be/76KUkEB3Z1U",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-17T18:00:00",
@@ -1530,7 +1530,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gFAGMkm3XIY",
+  "link": "https://youtu.be/gFAGMkm3XIY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-17T18:00:00",
@@ -1541,7 +1541,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MnmNvJ66iT0",
+  "link": "https://youtu.be/MnmNvJ66iT0",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-17T18:00:00",
@@ -1552,7 +1552,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=z1N8Pxf6ACw",
+  "link": "https://youtu.be/z1N8Pxf6ACw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-18T18:00:00",
@@ -1563,7 +1563,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CL3Mi0MAvkQ",
+  "link": "https://youtu.be/CL3Mi0MAvkQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-18T18:00:00",
@@ -1574,7 +1574,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FLl13NMe0Cg",
+  "link": "https://youtu.be/FLl13NMe0Cg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-18T18:00:00",
@@ -1585,7 +1585,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gNX2lU_ub4c",
+  "link": "https://youtu.be/gNX2lU_ub4c",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-18T18:00:00",
@@ -1596,7 +1596,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aMc-0OiKawY",
+  "link": "https://youtu.be/aMc-0OiKawY",
   "category": "Media_Content",
   "member": "민니",
   "date": "2019-10-18T18:00:00",
@@ -1607,7 +1607,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-VNmEhr9WKQ",
+  "link": "https://youtu.be/-VNmEhr9WKQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-24T18:00:00",
@@ -1618,7 +1618,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mP71e4hFfL0",
+  "link": "https://youtu.be/mP71e4hFfL0",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-25T18:00:00",
@@ -1629,7 +1629,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HTCOti9KqYE",
+  "link": "https://youtu.be/HTCOti9KqYE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-28T18:00:00",
@@ -1640,7 +1640,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uaqNcr1UH5A",
+  "link": "https://youtu.be/uaqNcr1UH5A",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-28T18:00:00",
@@ -1651,7 +1651,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hWtqH3i3QFo",
+  "link": "https://youtu.be/hWtqH3i3QFo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-28T18:00:00",
@@ -1662,7 +1662,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MzmoRoJ1CZo",
+  "link": "https://youtu.be/MzmoRoJ1CZo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-29T18:00:00",
@@ -1673,7 +1673,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AUvnvZdTyH4",
+  "link": "https://youtu.be/AUvnvZdTyH4",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-10-29T18:00:00",
@@ -1684,7 +1684,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BWKPCKljftY",
+  "link": "https://youtu.be/BWKPCKljftY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-31T18:00:00",
@@ -1695,7 +1695,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ihnKFyB2HXI",
+  "link": "https://youtu.be/ihnKFyB2HXI",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-10-31T18:00:00",
@@ -1706,7 +1706,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hUykIdD4pQM",
+  "link": "https://youtu.be/hUykIdD4pQM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-11-01T18:00:00",
@@ -1717,7 +1717,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DCzC6tbIcyg",
+  "link": "https://youtu.be/DCzC6tbIcyg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-11-01T18:00:00",
@@ -1728,7 +1728,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1yJfSk7xgO4",
+  "link": "https://youtu.be/1yJfSk7xgO4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-11-06T18:00:00",
@@ -1739,7 +1739,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=utlgTmcA_fY",
+  "link": "https://youtu.be/utlgTmcA_fY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-12-05T18:00:00",
@@ -1750,7 +1750,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3V-_py3pZVY",
+  "link": "https://youtu.be/3V-_py3pZVY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-12-13T18:00:00",
@@ -1761,7 +1761,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8jDtzYNJQyo",
+  "link": "https://youtu.be/8jDtzYNJQyo",
   "category": "Media_Content",
   "member": "소연",
   "date": "2019-12-13T18:00:00",
@@ -1772,7 +1772,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5EZyGLUMP3c",
+  "link": "https://youtu.be/5EZyGLUMP3c",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-12-13T18:00:00",
@@ -1783,7 +1783,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ToCJp1IIHzk",
+  "link": "https://youtu.be/ToCJp1IIHzk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-12-14T18:00:00",
@@ -1794,7 +1794,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eWkiv3emw6k",
+  "link": "https://youtu.be/eWkiv3emw6k",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-12-18T18:00:00",
@@ -1805,7 +1805,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=M0Yhn1uBcto",
+  "link": "https://youtu.be/M0Yhn1uBcto",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-12-18T18:00:00",
@@ -1816,7 +1816,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=e3EywQN_eZI",
+  "link": "https://youtu.be/e3EywQN_eZI",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-12-18T18:00:00",
@@ -1827,7 +1827,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=h2llxlVL6N4",
+  "link": "https://youtu.be/h2llxlVL6N4",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-12-18T18:00:00",
@@ -1838,7 +1838,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=I-raEDZhPl8",
+  "link": "https://youtu.be/I-raEDZhPl8",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-12-18T18:00:00",
@@ -1849,7 +1849,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BvQBknn_2Zs",
+  "link": "https://youtu.be/BvQBknn_2Zs",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-12-18T18:00:00",
@@ -1860,7 +1860,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RE3nPuibmzM",
+  "link": "https://youtu.be/RE3nPuibmzM",
   "category": "Media_Content",
   "member": "우기",
   "date": "2019-12-18T18:00:00",
@@ -1871,7 +1871,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qJ25SOuYGys",
+  "link": "https://youtu.be/qJ25SOuYGys",
   "category": "Media_Content",
   "member": "민니",
   "date": "2019-12-22T18:00:00",
@@ -1882,7 +1882,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1DcyDax98S8",
+  "link": "https://youtu.be/1DcyDax98S8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2019-12-31T18:00:00",
@@ -1893,7 +1893,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OOnz_ogNB6s",
+  "link": "https://youtu.be/OOnz_ogNB6s",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2020-01-04T18:00:00",
@@ -1904,7 +1904,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=x9uDEYGxVnk",
+  "link": "https://youtu.be/x9uDEYGxVnk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-01-04T18:00:00",
@@ -1915,7 +1915,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SzHrw9BKVwM",
+  "link": "https://youtu.be/SzHrw9BKVwM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-01-04T18:00:00",
@@ -1926,7 +1926,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HFr8bpWn0es",
+  "link": "https://youtu.be/HFr8bpWn0es",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-01-04T18:00:00",
@@ -1937,7 +1937,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OYJWDMXMgbU",
+  "link": "https://youtu.be/OYJWDMXMgbU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-01-11T18:00:00",
@@ -1948,7 +1948,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fYSMdYLdKHU",
+  "link": "https://youtu.be/fYSMdYLdKHU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-01-11T18:00:00",
@@ -1959,7 +1959,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VU1u2ST7otM",
+  "link": "https://youtu.be/VU1u2ST7otM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-01-15T18:00:00",
@@ -1970,7 +1970,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ECFpAFTMIF0",
+  "link": "https://youtu.be/ECFpAFTMIF0",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2020-01-17T18:00:00",
@@ -1981,7 +1981,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Cn-OBYDmTyY",
+  "link": "https://youtu.be/Cn-OBYDmTyY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-01-18T18:00:00",
@@ -1992,7 +1992,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fc_pDk7gPeU",
+  "link": "https://youtu.be/fc_pDk7gPeU",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-01-18T18:00:00",
@@ -2003,7 +2003,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0SEWQmVlMGg",
+  "link": "https://youtu.be/0SEWQmVlMGg",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2020-01-18T18:00:00",
@@ -2014,7 +2014,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-f4tkjle-Vo",
+  "link": "https://youtu.be/-f4tkjle-Vo",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2020-01-18T18:00:00",
@@ -2025,7 +2025,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UHt18tFXIII",
+  "link": "https://youtu.be/UHt18tFXIII",
   "category": "Media_Content",
   "member": "소연, 미연, 우기",
   "date": "2020-01-20T18:00:00",
@@ -2036,7 +2036,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=e4tUYqTT_qc",
+  "link": "https://youtu.be/e4tUYqTT_qc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-01-23T18:00:00",
@@ -2047,7 +2047,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NhyXqmKA6us",
+  "link": "https://youtu.be/NhyXqmKA6us",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-01-25T18:00:00",
@@ -2058,7 +2058,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MqaN3RuFvfI",
+  "link": "https://youtu.be/MqaN3RuFvfI",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-01-29T18:00:00",
@@ -2069,7 +2069,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=htmMB-JhiCA",
+  "link": "https://youtu.be/htmMB-JhiCA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-01-29T18:00:00",
@@ -2080,7 +2080,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QHlZ4ZUPwBM",
+  "link": "https://youtu.be/QHlZ4ZUPwBM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-01-29T18:00:00",
@@ -2091,7 +2091,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=E5TMUsmCvYc",
+  "link": "https://youtu.be/E5TMUsmCvYc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-01-30T18:00:00",
@@ -2102,7 +2102,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tdU-XC_k1dQ",
+  "link": "https://youtu.be/tdU-XC_k1dQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-01-31T18:00:00",
@@ -2113,7 +2113,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5eUHlXzU0n0",
+  "link": "https://youtu.be/5eUHlXzU0n0",
   "category": "Media_Content",
   "member": "민니",
   "date": "2020-01-31T18:00:00",
@@ -2124,7 +2124,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=E3AwthSdzgA",
+  "link": "https://youtu.be/E3AwthSdzgA",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-01-31T18:00:00",
@@ -2135,7 +2135,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OHWkstyZUR4",
+  "link": "https://youtu.be/OHWkstyZUR4",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2020-01-31T18:00:00",
@@ -2146,7 +2146,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9oF6Ch4JCXo",
+  "link": "https://youtu.be/9oF6Ch4JCXo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-02-01T18:00:00",
@@ -2157,7 +2157,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CU4A9WmzbAg",
+  "link": "https://youtu.be/CU4A9WmzbAg",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2020-02-01T18:00:00",
@@ -2168,7 +2168,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8FLePM1Hlck",
+  "link": "https://youtu.be/8FLePM1Hlck",
   "category": "Media_Content",
   "member": "슈화, 우기",
   "date": "2020-02-03T18:00:00",
@@ -2179,7 +2179,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yzxc0yk-x_k",
+  "link": "https://youtu.be/yzxc0yk-x_k",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-02-03T18:00:00",
@@ -2190,7 +2190,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pSnD2hFY_Bo",
+  "link": "https://youtu.be/pSnD2hFY_Bo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-02-06T18:00:00",
@@ -2201,7 +2201,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wjo4OoOenwQ",
+  "link": "https://youtu.be/wjo4OoOenwQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-02-06T18:00:00",
@@ -2212,7 +2212,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fgUX2APOo4E",
+  "link": "https://youtu.be/fgUX2APOo4E",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-02-09T18:00:00",
@@ -2223,7 +2223,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3gjooT02-ic",
+  "link": "https://youtu.be/3gjooT02-ic",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-02-10T18:00:00",
@@ -2234,7 +2234,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ryt1MPKzw8s",
+  "link": "https://youtu.be/ryt1MPKzw8s",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-02-12T18:00:00",
@@ -2245,7 +2245,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=e5vKoP2oXcg",
+  "link": "https://youtu.be/e5vKoP2oXcg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-02-16T18:00:00",
@@ -2256,7 +2256,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9S3sfkfkZN8",
+  "link": "https://youtu.be/9S3sfkfkZN8",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2020-02-19T18:00:00",
@@ -2267,7 +2267,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vaBbiRdhO_c",
+  "link": "https://youtu.be/vaBbiRdhO_c",
   "category": "Media_Content",
   "member": "소연",
   "date": "2020-02-19T18:00:00",
@@ -2278,7 +2278,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aERXQTIqNWg",
+  "link": "https://youtu.be/aERXQTIqNWg",
   "category": "Media_Content",
   "member": "미연",
   "date": "2020-02-23T18:00:00",
@@ -2289,7 +2289,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-XJttkRMRZA",
+  "link": "https://youtu.be/-XJttkRMRZA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2020-02-23T18:00:00",
@@ -2300,7 +2300,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VZj43uDugjk",
+  "link": "https://youtu.be/VZj43uDugjk",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-02-28T18:00:00",
@@ -2311,7 +2311,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=N6tS4_JSG3s",
+  "link": "https://youtu.be/N6tS4_JSG3s",
   "category": "Media_Content",
   "member": "소연",
   "date": "2020-02-29T18:00:00",
@@ -2322,7 +2322,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=W8DPUSNNhS4",
+  "link": "https://youtu.be/W8DPUSNNhS4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2020-03-01T18:00:00",
@@ -2333,7 +2333,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cp5vEqLe__A",
+  "link": "https://youtu.be/cp5vEqLe__A",
   "category": "Media_Content",
   "member": "미연",
   "date": "2020-03-01T18:00:00",
@@ -2344,7 +2344,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GI9blP-ReRc",
+  "link": "https://youtu.be/GI9blP-ReRc",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2020-03-04T18:00:00",
@@ -2355,7 +2355,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xCf8h_3qi7Y",
+  "link": "https://youtu.be/xCf8h_3qi7Y",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2020-03-06T18:00:00",
@@ -2366,7 +2366,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=l2C4k3VmzNo",
+  "link": "https://youtu.be/l2C4k3VmzNo",
   "category": "Media_Content",
   "member": "소연",
   "date": "2020-03-07T18:00:00",
@@ -2377,7 +2377,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TzcF5Nqfldo",
+  "link": "https://youtu.be/TzcF5Nqfldo",
   "category": "Media_Content",
   "member": "소연",
   "date": "2020-03-07T18:00:00",
@@ -2388,7 +2388,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tvf9DTC_n0I",
+  "link": "https://youtu.be/tvf9DTC_n0I",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-03-17T18:00:00",
@@ -2399,7 +2399,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1-3r-7CGOcY",
+  "link": "https://youtu.be/1-3r-7CGOcY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-03-24T18:00:00",
@@ -2410,7 +2410,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SQzo9KQZPvM",
+  "link": "https://youtu.be/SQzo9KQZPvM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-03-31T18:00:00",
@@ -2421,7 +2421,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4sFR80Ko6-o",
+  "link": "https://youtu.be/4sFR80Ko6-o",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-07T18:00:00",
@@ -2432,7 +2432,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7h8vHv3pqq0",
+  "link": "https://youtu.be/7h8vHv3pqq0",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-08T18:00:00",
@@ -2443,7 +2443,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gyNGq5hs-Zg",
+  "link": "https://youtu.be/gyNGq5hs-Zg",
   "category": "Media_Content",
   "member": "미연",
   "date": "2020-04-08T18:00:00",
@@ -2454,7 +2454,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kxt5H9yx25w",
+  "link": "https://youtu.be/kxt5H9yx25w",
   "category": "Media_Content",
   "member": "소연",
   "date": "2020-04-08T18:00:00",
@@ -2465,7 +2465,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_lyjv6ci1U0",
+  "link": "https://youtu.be/_lyjv6ci1U0",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-04-08T18:00:00",
@@ -2476,7 +2476,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YC-aIbhxpu0",
+  "link": "https://youtu.be/YC-aIbhxpu0",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-04-08T18:00:00",
@@ -2487,7 +2487,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FO8lvO0lfyk",
+  "link": "https://youtu.be/FO8lvO0lfyk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-09T18:00:00",
@@ -2498,7 +2498,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_iT1h_5Vc-Y",
+  "link": "https://youtu.be/_iT1h_5Vc-Y",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2020-04-09T18:00:00",
@@ -2509,7 +2509,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rILeC4E7ct4",
+  "link": "https://youtu.be/rILeC4E7ct4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-16T18:00:00",
@@ -2520,7 +2520,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ETfmqpZvn_s",
+  "link": "https://youtu.be/ETfmqpZvn_s",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-17T18:00:00",
@@ -2531,7 +2531,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Hc01-xYBSNE",
+  "link": "https://youtu.be/Hc01-xYBSNE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-17T18:00:00",
@@ -2542,7 +2542,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Fd6cxqUkpfE",
+  "link": "https://youtu.be/Fd6cxqUkpfE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-18T18:00:00",
@@ -2553,7 +2553,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iWmjp-hWkL4",
+  "link": "https://youtu.be/iWmjp-hWkL4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-23T18:00:00",
@@ -2564,7 +2564,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NRQyPvS1aJI",
+  "link": "https://youtu.be/NRQyPvS1aJI",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-25T18:00:00",
@@ -2575,7 +2575,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lXbyVw6F1dg",
+  "link": "https://youtu.be/lXbyVw6F1dg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-25T18:00:00",
@@ -2586,7 +2586,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZWXN2CCYkfw",
+  "link": "https://youtu.be/ZWXN2CCYkfw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-27T18:00:00",
@@ -2597,7 +2597,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Dy94oGZueUs",
+  "link": "https://youtu.be/Dy94oGZueUs",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-28T18:00:00",
@@ -2608,7 +2608,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hrLlVxpbGlI",
+  "link": "https://youtu.be/hrLlVxpbGlI",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-28T18:00:00",
@@ -2619,7 +2619,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4DUG8wAZNNc",
+  "link": "https://youtu.be/4DUG8wAZNNc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-28T18:00:00",
@@ -2630,7 +2630,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=g1STXl8lHtM",
+  "link": "https://youtu.be/g1STXl8lHtM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-28T18:00:00",
@@ -2641,7 +2641,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1ISy8dR-a2Q",
+  "link": "https://youtu.be/1ISy8dR-a2Q",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-28T18:00:00",
@@ -2652,7 +2652,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bwO046TMRXQ",
+  "link": "https://youtu.be/bwO046TMRXQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-29T18:00:00",
@@ -2663,7 +2663,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=L9p-4UaEf2I",
+  "link": "https://youtu.be/L9p-4UaEf2I",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-04-29T18:00:00",
@@ -2674,7 +2674,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=d6lmphiZ3ds",
+  "link": "https://youtu.be/d6lmphiZ3ds",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-05-03T18:00:00",
@@ -2685,7 +2685,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=N_b7oFlmG3w",
+  "link": "https://youtu.be/N_b7oFlmG3w",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-05-05T18:00:00",
@@ -2696,7 +2696,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=n5R0G4twrHg",
+  "link": "https://youtu.be/n5R0G4twrHg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-05-06T18:00:00",
@@ -2707,7 +2707,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nC2IHE3w9DQ",
+  "link": "https://youtu.be/nC2IHE3w9DQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-05-06T18:00:00",
@@ -2718,7 +2718,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WfH316YIC6w",
+  "link": "https://youtu.be/WfH316YIC6w",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-05-06T18:00:00",
@@ -2729,7 +2729,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=az5TqBfpz0o",
+  "link": "https://youtu.be/az5TqBfpz0o",
   "category": "Media_Content",
   "member": "미연",
   "date": "2020-05-06T18:00:00",
@@ -2740,7 +2740,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WrLldmC5dL4",
+  "link": "https://youtu.be/WrLldmC5dL4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2020-05-06T18:00:00",
@@ -2751,7 +2751,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vvehhu-oqyw",
+  "link": "https://youtu.be/vvehhu-oqyw",
   "category": "Media_Content",
   "member": "민니",
   "date": "2020-05-06T18:00:00",
@@ -2762,7 +2762,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tjieiPDsB3A",
+  "link": "https://youtu.be/tjieiPDsB3A",
   "category": "Media_Content",
   "member": "민니",
   "date": "2020-05-06T18:00:00",
@@ -2773,7 +2773,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4upEL_ZEDc0",
+  "link": "https://youtu.be/4upEL_ZEDc0",
   "category": "Media_Content",
   "member": "소연",
   "date": "2020-05-06T18:00:00",
@@ -2784,7 +2784,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QvPUFf9MmVU",
+  "link": "https://youtu.be/QvPUFf9MmVU",
   "category": "Media_Content",
   "member": "소연",
   "date": "2020-05-06T18:00:00",
@@ -2795,7 +2795,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=78eclPwxreQ",
+  "link": "https://youtu.be/78eclPwxreQ",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-05-06T18:00:00",
@@ -2806,7 +2806,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=v4wEzHhbsBg",
+  "link": "https://youtu.be/v4wEzHhbsBg",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-05-06T18:00:00",
@@ -2817,7 +2817,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VByCaOBARZ4",
+  "link": "https://youtu.be/VByCaOBARZ4",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-05-06T18:00:00",
@@ -2828,7 +2828,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2TohqHS0Mso",
+  "link": "https://youtu.be/2TohqHS0Mso",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2020-05-06T18:00:00",
@@ -2839,7 +2839,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=E_U3NNv9ryY",
+  "link": "https://youtu.be/E_U3NNv9ryY",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2020-05-06T18:00:00",
@@ -2850,7 +2850,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Sw59kmzuzSQ",
+  "link": "https://youtu.be/Sw59kmzuzSQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-05-07T18:00:00",
@@ -2861,7 +2861,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sZ1W3haUR3M",
+  "link": "https://youtu.be/sZ1W3haUR3M",
   "category": "Media_Content",
   "member": "미연",
   "date": "2020-05-07T18:00:00",
@@ -2872,7 +2872,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ohV93QEgOQE",
+  "link": "https://youtu.be/ohV93QEgOQE",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2020-05-07T18:00:00",
@@ -2883,7 +2883,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IvCgRVTDMeA",
+  "link": "https://youtu.be/IvCgRVTDMeA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-05-13T18:00:00",
@@ -2894,7 +2894,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ld40x6HZzQs",
+  "link": "https://youtu.be/Ld40x6HZzQs",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-05-14T18:00:00",
@@ -2905,7 +2905,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KD5Ca1DTGqU",
+  "link": "https://youtu.be/KD5Ca1DTGqU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-05-14T18:00:00",
@@ -2916,7 +2916,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qsuqWO5yZik",
+  "link": "https://youtu.be/qsuqWO5yZik",
   "category": "Media_Content",
   "member": "소연",
   "date": "2020-05-15T18:00:00",
@@ -2927,7 +2927,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Mo-uyOVosQg",
+  "link": "https://youtu.be/Mo-uyOVosQg",
   "category": "Media_Content",
   "member": "미연",
   "date": "2020-05-25T18:00:00",
@@ -2938,7 +2938,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zXaZlvOAeJw",
+  "link": "https://youtu.be/zXaZlvOAeJw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-05-29T18:00:00",
@@ -2949,7 +2949,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ABUlf7ZWWM4",
+  "link": "https://youtu.be/ABUlf7ZWWM4",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-05-29T18:00:00",
@@ -2960,7 +2960,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vzB4D1wqqLg",
+  "link": "https://youtu.be/vzB4D1wqqLg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-05-30T18:00:00",
@@ -2971,7 +2971,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fCRNiRCL4aU",
+  "link": "https://youtu.be/fCRNiRCL4aU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-06-01T18:00:00",
@@ -2982,7 +2982,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XFRadoCTP2s",
+  "link": "https://youtu.be/XFRadoCTP2s",
   "category": "Media_Content",
   "member": "소연",
   "date": "2020-06-03T18:00:00",
@@ -2993,7 +2993,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zI7qONiJv9Q",
+  "link": "https://youtu.be/zI7qONiJv9Q",
   "category": "Media_Content",
   "member": "민니",
   "date": "2020-06-05T18:00:00",
@@ -3004,7 +3004,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IY8V6gQtwuQ",
+  "link": "https://youtu.be/IY8V6gQtwuQ",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-06-05T18:00:00",
@@ -3015,7 +3015,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZVtoH3tZtlE",
+  "link": "https://youtu.be/ZVtoH3tZtlE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2020-06-09T18:00:00",
@@ -3026,7 +3026,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=q_QJtA-D9BU",
+  "link": "https://youtu.be/q_QJtA-D9BU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-06-11T18:00:00",
@@ -3037,7 +3037,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=H6FAzIgOYH0",
+  "link": "https://youtu.be/H6FAzIgOYH0",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-06-12T18:00:00",
@@ -3048,7 +3048,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CWcAfbBhP_g",
+  "link": "https://youtu.be/CWcAfbBhP_g",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-06-16T18:00:00",
@@ -3059,7 +3059,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1j6Cl2hH2yY",
+  "link": "https://youtu.be/1j6Cl2hH2yY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-06-19T18:00:00",
@@ -3070,7 +3070,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=36Conr4Nk_A",
+  "link": "https://youtu.be/36Conr4Nk_A",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-06-24T18:00:00",
@@ -3081,7 +3081,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rUi9Z8ZaF-A",
+  "link": "https://youtu.be/rUi9Z8ZaF-A",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-07-08T18:00:00",
@@ -3092,7 +3092,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ObM3iB317FM",
+  "link": "https://youtu.be/ObM3iB317FM",
   "category": "Media_Content",
   "member": "소연",
   "date": "2020-07-24T18:00:00",
@@ -3103,7 +3103,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EHV16B9aSYA",
+  "link": "https://youtu.be/EHV16B9aSYA",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-07-27T18:00:00",
@@ -3114,7 +3114,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AQWWtwyBWC8",
+  "link": "https://youtu.be/AQWWtwyBWC8",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-07-28T18:00:00",
@@ -3125,7 +3125,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NBISLXLJoW0",
+  "link": "https://youtu.be/NBISLXLJoW0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2020-08-02T18:00:00",
@@ -3136,7 +3136,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OCumENO5ijg",
+  "link": "https://youtu.be/OCumENO5ijg",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3147,7 +3147,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=a0fePkHeQt0",
+  "link": "https://youtu.be/a0fePkHeQt0",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3158,7 +3158,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3OcdT93dnPE",
+  "link": "https://youtu.be/3OcdT93dnPE",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3169,7 +3169,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aE6BsJGa19o",
+  "link": "https://youtu.be/aE6BsJGa19o",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3180,7 +3180,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Q2xTa-7uhic",
+  "link": "https://youtu.be/Q2xTa-7uhic",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3191,7 +3191,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=upBpLVfJNuI",
+  "link": "https://youtu.be/upBpLVfJNuI",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3202,7 +3202,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TwQmk6igDHA",
+  "link": "https://youtu.be/TwQmk6igDHA",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3213,7 +3213,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7kUSU2ECc50",
+  "link": "https://youtu.be/7kUSU2ECc50",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3224,7 +3224,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1Nd9xsqh5VE",
+  "link": "https://youtu.be/1Nd9xsqh5VE",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3235,7 +3235,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hM4PycDqHv0",
+  "link": "https://youtu.be/hM4PycDqHv0",
   "category": "Media_Content",
   "member": "미연, 민니",
   "date": "2020-08-05T18:00:00",
@@ -3246,7 +3246,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gawEULCUd18",
+  "link": "https://youtu.be/gawEULCUd18",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3257,7 +3257,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=E-hmPopOkoE",
+  "link": "https://youtu.be/E-hmPopOkoE",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3268,7 +3268,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VludHIxspyI",
+  "link": "https://youtu.be/VludHIxspyI",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3279,7 +3279,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZNUZTNgzUHM",
+  "link": "https://youtu.be/ZNUZTNgzUHM",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3290,7 +3290,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=M14Qsk45YGE",
+  "link": "https://youtu.be/M14Qsk45YGE",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3301,7 +3301,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5X9zwNcoClo",
+  "link": "https://youtu.be/5X9zwNcoClo",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3312,7 +3312,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JopzVK4Szbk",
+  "link": "https://youtu.be/JopzVK4Szbk",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3323,7 +3323,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eOrvO8o2k-0",
+  "link": "https://youtu.be/eOrvO8o2k-0",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3334,7 +3334,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4CZKNOEqT_Y",
+  "link": "https://youtu.be/4CZKNOEqT_Y",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-05T18:00:00",
@@ -3345,7 +3345,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JTRRhkjicPo",
+  "link": "https://youtu.be/JTRRhkjicPo",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2020-08-06T18:00:00",
@@ -3356,7 +3356,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=C8jl3hLBB5I",
+  "link": "https://youtu.be/C8jl3hLBB5I",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-08-07T18:00:00",
@@ -3367,7 +3367,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tYgD_bJysfw",
+  "link": "https://youtu.be/tYgD_bJysfw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-08-11T18:00:00",
@@ -3378,7 +3378,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=merDpU-rsQA",
+  "link": "https://youtu.be/merDpU-rsQA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-08-12T18:00:00",
@@ -3389,7 +3389,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ILo5Q6FnpG8",
+  "link": "https://youtu.be/ILo5Q6FnpG8",
   "category": "Media_Content",
   "member": "소연",
   "date": "2020-08-12T18:00:00",
@@ -3400,7 +3400,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sqlNv5vfGSE",
+  "link": "https://youtu.be/sqlNv5vfGSE",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-08-13T18:00:00",
@@ -3411,7 +3411,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=X-h-wsY4uwI",
+  "link": "https://youtu.be/X-h-wsY4uwI",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-08-14T18:00:00",
@@ -3422,7 +3422,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yKIVAQmi-Qk",
+  "link": "https://youtu.be/yKIVAQmi-Qk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-08-18T18:00:00",
@@ -3433,7 +3433,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ee5JkpEWQRA",
+  "link": "https://youtu.be/Ee5JkpEWQRA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-08-18T18:00:00",
@@ -3444,7 +3444,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=t0fYdXYLmVE",
+  "link": "https://youtu.be/t0fYdXYLmVE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-08-18T18:00:00",
@@ -3455,7 +3455,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3XIEZAOlEuk",
+  "link": "https://youtu.be/3XIEZAOlEuk",
   "category": "Media_Content",
   "member": "소연",
   "date": "2020-08-22T18:00:00",
@@ -3466,7 +3466,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mbDKSPfSvvA",
+  "link": "https://youtu.be/mbDKSPfSvvA",
   "category": "Media_Content",
   "member": "소연, 미연",
   "date": "2020-08-22T18:00:00",
@@ -3477,7 +3477,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=etIHDEtaT6Y",
+  "link": "https://youtu.be/etIHDEtaT6Y",
   "category": "Media_Content",
   "member": "미연",
   "date": "2020-08-25T18:00:00",
@@ -3488,7 +3488,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=u1sEy9RAqjI",
+  "link": "https://youtu.be/u1sEy9RAqjI",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-08-25T18:00:00",
@@ -3499,7 +3499,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nfwxkKRD8Ik",
+  "link": "https://youtu.be/nfwxkKRD8Ik",
   "category": "Media_Content",
   "member": "소연, 미연, 민니",
   "date": "2020-09-01T18:00:00",
@@ -3510,7 +3510,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mbq5ih0DAwU",
+  "link": "https://youtu.be/mbq5ih0DAwU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-03T18:00:00",
@@ -3521,7 +3521,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6cHIz7nGAq0",
+  "link": "https://youtu.be/6cHIz7nGAq0",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-03T18:00:00",
@@ -3532,7 +3532,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IyPSDK_Qhd8",
+  "link": "https://youtu.be/IyPSDK_Qhd8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-04T18:00:00",
@@ -3543,7 +3543,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7yUBBqIthwI",
+  "link": "https://youtu.be/7yUBBqIthwI",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-04T18:00:00",
@@ -3554,7 +3554,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vQvKWIfaFmI",
+  "link": "https://youtu.be/vQvKWIfaFmI",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-09-12T18:00:00",
@@ -3565,7 +3565,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Nb7Vy0wJO-E",
+  "link": "https://youtu.be/Nb7Vy0wJO-E",
   "category": "Media_Content",
   "member": "민니, 우기, 슈화",
   "date": "2020-09-13T18:00:00",
@@ -3576,7 +3576,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5JM9emvFjsM",
+  "link": "https://youtu.be/5JM9emvFjsM",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-09-17T18:00:00",
@@ -3587,7 +3587,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AsSZB44wGO4",
+  "link": "https://youtu.be/AsSZB44wGO4",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-09-19T18:00:00",
@@ -3598,7 +3598,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hyROmptQ_aU",
+  "link": "https://youtu.be/hyROmptQ_aU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-23T18:00:00",
@@ -3609,7 +3609,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5AjP1tCT0Yo",
+  "link": "https://youtu.be/5AjP1tCT0Yo",
   "category": "Media_Content",
   "member": "소연, 우기",
   "date": "2020-09-23T18:00:00",
@@ -3620,7 +3620,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lWfjDaiZozs",
+  "link": "https://youtu.be/lWfjDaiZozs",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-09-23T18:00:00",
@@ -3631,7 +3631,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=G2nD73xPgAA",
+  "link": "https://youtu.be/G2nD73xPgAA",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-09-24T18:00:00",
@@ -3642,7 +3642,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hhDU9sWsYjY",
+  "link": "https://youtu.be/hhDU9sWsYjY",
   "category": "Media_Content",
   "member": "미연, 슈화",
   "date": "2020-09-24T18:00:00",
@@ -3653,7 +3653,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kwJLge3ALWM",
+  "link": "https://youtu.be/kwJLge3ALWM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3664,7 +3664,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QdJPD6Mjlzw",
+  "link": "https://youtu.be/QdJPD6Mjlzw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3675,7 +3675,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2klT62iu3pU",
+  "link": "https://youtu.be/2klT62iu3pU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3686,7 +3686,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AJ05hZ1kej8",
+  "link": "https://youtu.be/AJ05hZ1kej8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3697,7 +3697,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lJRp6i8JX9A",
+  "link": "https://youtu.be/lJRp6i8JX9A",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3708,7 +3708,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bqueA4tsx8I",
+  "link": "https://youtu.be/bqueA4tsx8I",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3719,7 +3719,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5mtPyNFuCKQ",
+  "link": "https://youtu.be/5mtPyNFuCKQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3730,7 +3730,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VzVJKqXv_TY",
+  "link": "https://youtu.be/VzVJKqXv_TY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3741,7 +3741,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_QCvM9V5ebI",
+  "link": "https://youtu.be/_QCvM9V5ebI",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3752,7 +3752,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1Qot8k8HEQc",
+  "link": "https://youtu.be/1Qot8k8HEQc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3763,7 +3763,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8OZrdHo6Vws",
+  "link": "https://youtu.be/8OZrdHo6Vws",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3774,7 +3774,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lP4XyjOFkiM",
+  "link": "https://youtu.be/lP4XyjOFkiM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3785,7 +3785,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Egal3Ugjwo4",
+  "link": "https://youtu.be/Egal3Ugjwo4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3796,7 +3796,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hl5yWvpLTdk",
+  "link": "https://youtu.be/hl5yWvpLTdk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3807,7 +3807,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qYvnMdL90Hg",
+  "link": "https://youtu.be/qYvnMdL90Hg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3818,7 +3818,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nB0JZLYchPE",
+  "link": "https://youtu.be/nB0JZLYchPE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3829,7 +3829,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WyiRw4es7Tk",
+  "link": "https://youtu.be/WyiRw4es7Tk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3840,7 +3840,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LGrliLCKqb4",
+  "link": "https://youtu.be/LGrliLCKqb4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3851,7 +3851,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=S9xXFGoDem8",
+  "link": "https://youtu.be/S9xXFGoDem8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3862,7 +3862,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UDmYb5T-FjE",
+  "link": "https://youtu.be/UDmYb5T-FjE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-09-25T18:00:00",
@@ -3873,7 +3873,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tPoUPnMBFHI",
+  "link": "https://youtu.be/tPoUPnMBFHI",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-09-25T18:00:00",
@@ -3884,7 +3884,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yp3mbK-2nkw",
+  "link": "https://youtu.be/yp3mbK-2nkw",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2020-10-02T18:00:00",
@@ -3895,7 +3895,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Q16K1HwBTfs",
+  "link": "https://youtu.be/Q16K1HwBTfs",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-10-02T18:00:00",
@@ -3906,7 +3906,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZGgRnyZPbcM",
+  "link": "https://youtu.be/ZGgRnyZPbcM",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2020-10-02T18:00:00",
@@ -3917,7 +3917,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=j2jmOq1XVFI",
+  "link": "https://youtu.be/j2jmOq1XVFI",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2020-10-02T18:00:00",
@@ -3928,7 +3928,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=S-78TvKxoEQ",
+  "link": "https://youtu.be/S-78TvKxoEQ",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2020-10-02T18:00:00",
@@ -3939,7 +3939,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zRhFLW5Fz1Q",
+  "link": "https://youtu.be/zRhFLW5Fz1Q",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2020-10-02T18:00:00",
@@ -3950,7 +3950,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Bt18G3oBhqQ",
+  "link": "https://youtu.be/Bt18G3oBhqQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-10-04T18:00:00",
@@ -3961,7 +3961,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DK32EVcgPH0",
+  "link": "https://youtu.be/DK32EVcgPH0",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-10-09T18:00:00",
@@ -3972,7 +3972,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=91_BB_EAHhE",
+  "link": "https://youtu.be/91_BB_EAHhE",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2020-10-14T18:00:00",
@@ -3983,7 +3983,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3YkGqby0_Pk",
+  "link": "https://youtu.be/3YkGqby0_Pk",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-10-16T18:00:00",
@@ -3994,7 +3994,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SHJm_wo2LSM",
+  "link": "https://youtu.be/SHJm_wo2LSM",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-10-16T18:00:00",
@@ -4005,7 +4005,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=L40hFFNoRN4",
+  "link": "https://youtu.be/L40hFFNoRN4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-10-20T18:00:00",
@@ -4016,7 +4016,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=00L672Fc7rU",
+  "link": "https://youtu.be/00L672Fc7rU",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-10-23T18:00:00",
@@ -4027,7 +4027,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=89norapeIl4",
+  "link": "https://youtu.be/89norapeIl4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-10-23T18:00:00",
@@ -4038,7 +4038,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3tdBGHPP2e8",
+  "link": "https://youtu.be/3tdBGHPP2e8",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-10-30T18:00:00",
@@ -4049,7 +4049,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0N8plAbdN2w",
+  "link": "https://youtu.be/0N8plAbdN2w",
   "category": "Media_Content",
   "member": "미연",
   "date": "2020-10-31T18:00:00",
@@ -4060,7 +4060,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-VLquFsP3pU",
+  "link": "https://youtu.be/-VLquFsP3pU",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-10-31T18:00:00",
@@ -4071,7 +4071,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5YGUHKzIvqg",
+  "link": "https://youtu.be/5YGUHKzIvqg",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-11-01T18:00:00",
@@ -4082,7 +4082,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iTuWmm6dAY4",
+  "link": "https://youtu.be/iTuWmm6dAY4",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-11-01T18:00:00",
@@ -4093,7 +4093,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6HnZusiMykM",
+  "link": "https://youtu.be/6HnZusiMykM",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-11-03T18:00:00",
@@ -4104,7 +4104,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9nGQoBuBPFI",
+  "link": "https://youtu.be/9nGQoBuBPFI",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-11-05T18:00:00",
@@ -4115,7 +4115,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oTL-QWq5tEM",
+  "link": "https://youtu.be/oTL-QWq5tEM",
   "category": "Media_Content",
   "member": "소연, 미연",
   "date": "2020-11-05T18:00:00",
@@ -4126,7 +4126,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2lfAHUYN2Fo",
+  "link": "https://youtu.be/2lfAHUYN2Fo",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-11-06T18:00:00",
@@ -4137,7 +4137,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eNSMEpHF4SA",
+  "link": "https://youtu.be/eNSMEpHF4SA",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-11-06T18:00:00",
@@ -4148,7 +4148,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4FPgIBgEJrQ",
+  "link": "https://youtu.be/4FPgIBgEJrQ",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-11-06T18:00:00",
@@ -4159,7 +4159,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5z71ZqrChJA",
+  "link": "https://youtu.be/5z71ZqrChJA",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-11-07T18:00:00",
@@ -4170,7 +4170,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DOZ7amtXlCA",
+  "link": "https://youtu.be/DOZ7amtXlCA",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-11-13T18:00:00",
@@ -4181,7 +4181,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_F6vjNIuAnw",
+  "link": "https://youtu.be/_F6vjNIuAnw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-11-16T18:00:00",
@@ -4192,7 +4192,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=THXd5YqXTEs",
+  "link": "https://youtu.be/THXd5YqXTEs",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2020-11-17T18:00:00",
@@ -4203,7 +4203,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nnHwbilrNbo",
+  "link": "https://youtu.be/nnHwbilrNbo",
   "category": "Media_Content",
   "member": "민니",
   "date": "2020-11-18T18:00:00",
@@ -4214,7 +4214,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PcgRbaBfI4Q",
+  "link": "https://youtu.be/PcgRbaBfI4Q",
   "category": "Media_Content",
   "member": "미연, 우기",
   "date": "2020-11-20T18:00:00",
@@ -4225,7 +4225,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RC02PqtcX9k",
+  "link": "https://youtu.be/RC02PqtcX9k",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2020-11-25T18:00:00",
@@ -4236,7 +4236,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ku3rhY4LMtg",
+  "link": "https://youtu.be/Ku3rhY4LMtg",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-11-27T18:00:00",
@@ -4247,7 +4247,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UgNJLQCn_5Q",
+  "link": "https://youtu.be/UgNJLQCn_5Q",
   "category": "Media_Content",
   "member": "미연, 우기",
   "date": "2020-11-30T18:00:00",
@@ -4258,7 +4258,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KhOpiBsBtlU",
+  "link": "https://youtu.be/KhOpiBsBtlU",
   "category": "Media_Content",
   "member": "미연, 우기",
   "date": "2020-11-30T18:00:00",
@@ -4269,7 +4269,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AEm33Kse1eg",
+  "link": "https://youtu.be/AEm33Kse1eg",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-12-01T18:00:00",
@@ -4280,7 +4280,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RIQOsxjSxdE",
+  "link": "https://youtu.be/RIQOsxjSxdE",
   "category": "Media_Content",
   "member": "민니",
   "date": "2020-12-02T18:00:00",
@@ -4291,7 +4291,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1ewcfeBzOjg",
+  "link": "https://youtu.be/1ewcfeBzOjg",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-12-04T18:00:00",
@@ -4302,7 +4302,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=C3-CvXiBXQs",
+  "link": "https://youtu.be/C3-CvXiBXQs",
   "category": "Media_Content",
   "member": "민니",
   "date": "2020-12-09T18:00:00",
@@ -4313,7 +4313,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mEEsqS-Bcro",
+  "link": "https://youtu.be/mEEsqS-Bcro",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-12-11T18:00:00",
@@ -4324,7 +4324,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mMg0PV3FAfE",
+  "link": "https://youtu.be/mMg0PV3FAfE",
   "category": "Media_Content",
   "member": "민니",
   "date": "2020-12-16T18:00:00",
@@ -4335,7 +4335,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RiyLDklncDw",
+  "link": "https://youtu.be/RiyLDklncDw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2020-12-18T18:00:00",
@@ -4346,7 +4346,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iQwndstgjQE",
+  "link": "https://youtu.be/iQwndstgjQE",
   "category": "Media_Content",
   "member": "소연",
   "date": "2020-12-20T18:00:00",
@@ -4357,7 +4357,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BJGfHWqge2g",
+  "link": "https://youtu.be/BJGfHWqge2g",
   "category": "Media_Content",
   "member": "민니",
   "date": "2020-12-23T18:00:00",
@@ -4368,7 +4368,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Qf5iY_w-f70",
+  "link": "https://youtu.be/Qf5iY_w-f70",
   "category": "Media_Content",
   "member": "우기",
   "date": "2020-12-25T18:00:00",
@@ -4379,7 +4379,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bUcBYabdmdM",
+  "link": "https://youtu.be/bUcBYabdmdM",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2020-12-26T18:00:00",
@@ -4390,7 +4390,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VGrg67fSaMM",
+  "link": "https://youtu.be/VGrg67fSaMM",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2020-12-26T18:00:00",
@@ -4401,7 +4401,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Q4Lym_jCbCI",
+  "link": "https://youtu.be/Q4Lym_jCbCI",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2020-12-26T18:00:00",
@@ -4412,7 +4412,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2r2pfvoJzKs",
+  "link": "https://youtu.be/2r2pfvoJzKs",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2020-12-26T18:00:00",
@@ -4423,7 +4423,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UWa8LpSJmXM",
+  "link": "https://youtu.be/UWa8LpSJmXM",
   "category": "Media_Content",
   "member": "민니",
   "date": "2020-12-30T18:00:00",
@@ -4434,7 +4434,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2g6c1j3HdZI",
+  "link": "https://youtu.be/2g6c1j3HdZI",
   "category": "Media_Content",
   "member": "미연",
   "date": "2020-12-31T18:00:00",
@@ -4445,7 +4445,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KAoEw9PFgGw",
+  "link": "https://youtu.be/KAoEw9PFgGw",
   "category": "Media_Content",
   "member": "민니",
   "date": "2021-01-06T18:00:00",
@@ -4456,7 +4456,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=u7XMXL88XaU",
+  "link": "https://youtu.be/u7XMXL88XaU",
   "category": "Media_Content",
   "member": "우기",
   "date": "2021-01-08T18:00:00",
@@ -4467,7 +4467,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LZopkL3xwxM",
+  "link": "https://youtu.be/LZopkL3xwxM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-12T18:00:00",
@@ -4478,7 +4478,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aaLbUIOiVF8",
+  "link": "https://youtu.be/aaLbUIOiVF8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-13T18:00:00",
@@ -4489,7 +4489,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8I4sIH7eLpM",
+  "link": "https://youtu.be/8I4sIH7eLpM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-13T18:00:00",
@@ -4500,7 +4500,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VPRYak-dfKo",
+  "link": "https://youtu.be/VPRYak-dfKo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-13T18:00:00",
@@ -4511,7 +4511,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=c9YA318wdq0",
+  "link": "https://youtu.be/c9YA318wdq0",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-13T18:00:00",
@@ -4522,7 +4522,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hoy-CWHW3jQ",
+  "link": "https://youtu.be/hoy-CWHW3jQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-13T18:00:00",
@@ -4533,7 +4533,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mokimpAlL3A",
+  "link": "https://youtu.be/mokimpAlL3A",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-13T18:00:00",
@@ -4544,7 +4544,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hEzb_FOmSiE",
+  "link": "https://youtu.be/hEzb_FOmSiE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-13T18:00:00",
@@ -4555,7 +4555,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=s0iOh4wh7DA",
+  "link": "https://youtu.be/s0iOh4wh7DA",
   "category": "Media_Content",
   "member": "민니",
   "date": "2021-01-13T18:00:00",
@@ -4566,7 +4566,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7h0TLEFR8uE",
+  "link": "https://youtu.be/7h0TLEFR8uE",
   "category": "Media_Content",
   "member": "민니",
   "date": "2021-01-13T18:00:00",
@@ -4577,7 +4577,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=31CxRZGiFuc",
+  "link": "https://youtu.be/31CxRZGiFuc",
   "category": "Media_Content",
   "member": "우기",
   "date": "2021-01-13T18:00:00",
@@ -4588,7 +4588,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zFxULkjVOEs",
+  "link": "https://youtu.be/zFxULkjVOEs",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-14T18:00:00",
@@ -4599,7 +4599,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pzKEYUDAZgk",
+  "link": "https://youtu.be/pzKEYUDAZgk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-14T18:00:00",
@@ -4610,7 +4610,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mBnoiKdnHjs",
+  "link": "https://youtu.be/mBnoiKdnHjs",
   "category": "Media_Content",
   "member": "우기",
   "date": "2021-01-15T18:00:00",
@@ -4621,7 +4621,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sGbYKS2YjCc",
+  "link": "https://youtu.be/sGbYKS2YjCc",
   "category": "Media_Content",
   "member": "우기",
   "date": "2021-01-16T18:00:00",
@@ -4632,7 +4632,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=stVV5UFAwaE",
+  "link": "https://youtu.be/stVV5UFAwaE",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-01-16T18:00:00",
@@ -4643,7 +4643,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qKadA2hr01Y",
+  "link": "https://youtu.be/qKadA2hr01Y",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-18T18:00:00",
@@ -4654,7 +4654,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_4HLX4HkjNA",
+  "link": "https://youtu.be/_4HLX4HkjNA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-01-19T18:00:00",
@@ -4665,7 +4665,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=INnu2QKwpyc",
+  "link": "https://youtu.be/INnu2QKwpyc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-20T18:00:00",
@@ -4676,7 +4676,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CHIJdaDKJOc",
+  "link": "https://youtu.be/CHIJdaDKJOc",
   "category": "Media_Content",
   "member": "민니",
   "date": "2021-01-20T18:00:00",
@@ -4687,7 +4687,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ur9AWpZlrro",
+  "link": "https://youtu.be/ur9AWpZlrro",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-01-20T18:00:00",
@@ -4698,7 +4698,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=llPSv2lQD2I",
+  "link": "https://youtu.be/llPSv2lQD2I",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-01-20T18:00:00",
@@ -4709,7 +4709,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jJ5ML_CQSFY",
+  "link": "https://youtu.be/jJ5ML_CQSFY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-20T18:00:00",
@@ -4720,7 +4720,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=K6lTRwB4w_4",
+  "link": "https://youtu.be/K6lTRwB4w_4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-21T18:00:00",
@@ -4731,7 +4731,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bBks-KJqVL8",
+  "link": "https://youtu.be/bBks-KJqVL8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-21T18:00:00",
@@ -4742,7 +4742,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nibhktktGJI",
+  "link": "https://youtu.be/nibhktktGJI",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-01-21T18:00:00",
@@ -4753,7 +4753,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=88urqMyQ93A",
+  "link": "https://youtu.be/88urqMyQ93A",
   "category": "Media_Content",
   "member": "우기",
   "date": "2021-01-22T18:00:00",
@@ -4764,7 +4764,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Fxp4_n1f-vg",
+  "link": "https://youtu.be/Fxp4_n1f-vg",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-01-26T18:00:00",
@@ -4775,7 +4775,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kJbbMBkbAgs",
+  "link": "https://youtu.be/kJbbMBkbAgs",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-26T18:00:00",
@@ -4786,7 +4786,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ldPkhD8WJU8",
+  "link": "https://youtu.be/ldPkhD8WJU8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-26T18:00:00",
@@ -4797,7 +4797,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IAVpVNEt9bs",
+  "link": "https://youtu.be/IAVpVNEt9bs",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-26T18:00:00",
@@ -4808,7 +4808,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tQarRFapPeA",
+  "link": "https://youtu.be/tQarRFapPeA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-26T18:00:00",
@@ -4819,7 +4819,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6yhOsRTmQYg",
+  "link": "https://youtu.be/6yhOsRTmQYg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-28T18:00:00",
@@ -4830,7 +4830,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xgAlOjrWHNg",
+  "link": "https://youtu.be/xgAlOjrWHNg",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2021-01-28T18:00:00",
@@ -4841,7 +4841,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rZeX2ua8eWU",
+  "link": "https://youtu.be/rZeX2ua8eWU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-28T18:00:00",
@@ -4852,7 +4852,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=D2yTEBnxSes",
+  "link": "https://youtu.be/D2yTEBnxSes",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-28T18:00:00",
@@ -4863,7 +4863,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Cs2vHXsTpQ0",
+  "link": "https://youtu.be/Cs2vHXsTpQ0",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-28T18:00:00",
@@ -4874,7 +4874,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cz_rM7pEttY",
+  "link": "https://youtu.be/cz_rM7pEttY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-01-29T18:00:00",
@@ -4885,7 +4885,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SwZXbGFjnQY",
+  "link": "https://youtu.be/SwZXbGFjnQY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-01-29T18:00:00",
@@ -4896,7 +4896,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JvsYmb8H9YQ",
+  "link": "https://youtu.be/JvsYmb8H9YQ",
   "category": "Media_Content",
   "member": "소연, 우기",
   "date": "2021-01-29T18:00:00",
@@ -4907,7 +4907,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cRjioUPK_vs",
+  "link": "https://youtu.be/cRjioUPK_vs",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-01-30T18:00:00",
@@ -4918,7 +4918,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=em0WtgMURSM",
+  "link": "https://youtu.be/em0WtgMURSM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-02-01T18:00:00",
@@ -4929,7 +4929,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_MeRd-fpmpE",
+  "link": "https://youtu.be/_MeRd-fpmpE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-02T18:00:00",
@@ -4940,7 +4940,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dGMQho6513E",
+  "link": "https://youtu.be/dGMQho6513E",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-03T18:00:00",
@@ -4951,7 +4951,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BWMWcWqY3z0",
+  "link": "https://youtu.be/BWMWcWqY3z0",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-02-03T18:00:00",
@@ -4962,7 +4962,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_V1nnemMHA8",
+  "link": "https://youtu.be/_V1nnemMHA8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-05T18:00:00",
@@ -4973,7 +4973,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ohlqmcesug4",
+  "link": "https://youtu.be/ohlqmcesug4",
   "category": "Media_Content",
   "member": "우기",
   "date": "2021-02-05T18:00:00",
@@ -4984,7 +4984,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GMUVwyWrWrA",
+  "link": "https://youtu.be/GMUVwyWrWrA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-02-05T18:00:00",
@@ -4995,7 +4995,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gEsRZ-GPTPU",
+  "link": "https://youtu.be/gEsRZ-GPTPU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-06T18:00:00",
@@ -5006,7 +5006,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GqE_YwhDcUk",
+  "link": "https://youtu.be/GqE_YwhDcUk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-02-06T18:00:00",
@@ -5017,7 +5017,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dy4F2QdzZ8o",
+  "link": "https://youtu.be/dy4F2QdzZ8o",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-02-06T18:00:00",
@@ -5028,7 +5028,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WVaD8GFb1Y4",
+  "link": "https://youtu.be/WVaD8GFb1Y4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-08T18:00:00",
@@ -5039,7 +5039,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FsMDy6TTkzk",
+  "link": "https://youtu.be/FsMDy6TTkzk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-09T18:00:00",
@@ -5050,7 +5050,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dYW48DdCfG4",
+  "link": "https://youtu.be/dYW48DdCfG4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-10T18:00:00",
@@ -5061,7 +5061,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FaRAJCckRuA",
+  "link": "https://youtu.be/FaRAJCckRuA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-12T18:00:00",
@@ -5072,7 +5072,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZABGvnTVZ6I",
+  "link": "https://youtu.be/ZABGvnTVZ6I",
   "category": "Media_Content",
   "member": "우기",
   "date": "2021-02-12T18:00:00",
@@ -5083,7 +5083,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZEo1zcwHqpU",
+  "link": "https://youtu.be/ZEo1zcwHqpU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-13T18:00:00",
@@ -5094,7 +5094,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=h8klXmKT6ms",
+  "link": "https://youtu.be/h8klXmKT6ms",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-15T18:00:00",
@@ -5105,7 +5105,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HwuGlO6X7I4",
+  "link": "https://youtu.be/HwuGlO6X7I4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-16T18:00:00",
@@ -5116,7 +5116,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CvjyPzcYl50",
+  "link": "https://youtu.be/CvjyPzcYl50",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-17T18:00:00",
@@ -5127,7 +5127,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iBYJqZdqWI0",
+  "link": "https://youtu.be/iBYJqZdqWI0",
   "category": "Media_Content",
   "member": "민니, 소연",
   "date": "2021-02-17T18:00:00",
@@ -5138,7 +5138,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UT28mAGBTrY",
+  "link": "https://youtu.be/UT28mAGBTrY",
   "category": "Media_Content",
   "member": "민니, 소연",
   "date": "2021-02-17T18:00:00",
@@ -5149,7 +5149,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=h8it_zBeoS4",
+  "link": "https://youtu.be/h8it_zBeoS4",
   "category": "Media_Content",
   "member": "민니, 소연",
   "date": "2021-02-18T18:00:00",
@@ -5160,7 +5160,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=H2YHkKQfkKM",
+  "link": "https://youtu.be/H2YHkKQfkKM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-19T18:00:00",
@@ -5171,7 +5171,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PVC08LXEC30",
+  "link": "https://youtu.be/PVC08LXEC30",
   "category": "Media_Content",
   "member": "미연, 우기",
   "date": "2021-02-19T18:00:00",
@@ -5182,7 +5182,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GZn5bjML7bE",
+  "link": "https://youtu.be/GZn5bjML7bE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-19T18:00:00",
@@ -5193,7 +5193,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=S4GvoOSNPo8",
+  "link": "https://youtu.be/S4GvoOSNPo8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-19T18:00:00",
@@ -5204,7 +5204,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GlObNuu5iKg",
+  "link": "https://youtu.be/GlObNuu5iKg",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-20T18:00:00",
@@ -5215,7 +5215,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=w6osFRgF9gg",
+  "link": "https://youtu.be/w6osFRgF9gg",
   "category": "Media_Content",
   "member": "민니",
   "date": "2021-02-21T18:00:00",
@@ -5226,7 +5226,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nI9f3p-B3JA",
+  "link": "https://youtu.be/nI9f3p-B3JA",
   "category": "Media_Content",
   "member": "민니",
   "date": "2021-02-21T18:00:00",
@@ -5237,7 +5237,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZNMJtm_LgTs",
+  "link": "https://youtu.be/ZNMJtm_LgTs",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-22T18:00:00",
@@ -5248,7 +5248,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sX2Z7Ck-aU8",
+  "link": "https://youtu.be/sX2Z7Ck-aU8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-23T18:00:00",
@@ -5259,7 +5259,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mGLQSc1cejQ",
+  "link": "https://youtu.be/mGLQSc1cejQ",
   "category": "Media_Content",
   "member": "민니, 소연",
   "date": "2021-02-24T18:00:00",
@@ -5270,7 +5270,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZAgPolxjwS8",
+  "link": "https://youtu.be/ZAgPolxjwS8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-26T18:00:00",
@@ -5281,7 +5281,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sXyiQy73MDM",
+  "link": "https://youtu.be/sXyiQy73MDM",
   "category": "Media_Content",
   "member": "우기",
   "date": "2021-02-26T18:00:00",
@@ -5292,7 +5292,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3Pa9LEJYjHU",
+  "link": "https://youtu.be/3Pa9LEJYjHU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-02-27T18:00:00",
@@ -5303,7 +5303,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bDOQCacpnug",
+  "link": "https://youtu.be/bDOQCacpnug",
   "category": "Media_Content",
   "member": "민니",
   "date": "2021-02-28T18:00:00",
@@ -5314,7 +5314,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uIDi4kk6CVY",
+  "link": "https://youtu.be/uIDi4kk6CVY",
   "category": "Media_Content",
   "member": "민니",
   "date": "2021-02-28T18:00:00",
@@ -5325,7 +5325,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QFwPd8fxJqw",
+  "link": "https://youtu.be/QFwPd8fxJqw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-03-02T18:00:00",
@@ -5336,7 +5336,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dwb33C0qqUc",
+  "link": "https://youtu.be/dwb33C0qqUc",
   "category": "Media_Content",
   "member": "우기",
   "date": "2021-03-05T18:00:00",
@@ -5347,7 +5347,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2dyp01uoz8I",
+  "link": "https://youtu.be/2dyp01uoz8I",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-03-09T18:00:00",
@@ -5358,7 +5358,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PUqbksseJXM",
+  "link": "https://youtu.be/PUqbksseJXM",
   "category": "Media_Content",
   "member": "우기",
   "date": "2021-03-12T18:00:00",
@@ -5369,7 +5369,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KUBVWpaspsY",
+  "link": "https://youtu.be/KUBVWpaspsY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-03-12T18:00:00",
@@ -5380,7 +5380,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=orYDE9RekYM",
+  "link": "https://youtu.be/orYDE9RekYM",
   "category": "Media_Content",
   "member": "우기",
   "date": "2021-03-19T18:00:00",
@@ -5391,7 +5391,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zQ7-Z1XOmSo",
+  "link": "https://youtu.be/zQ7-Z1XOmSo",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-03-22T18:00:00",
@@ -5402,7 +5402,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fAhk-jLKTHo",
+  "link": "https://youtu.be/fAhk-jLKTHo",
   "category": "Media_Content",
   "member": "우기",
   "date": "2021-03-26T18:00:00",
@@ -5413,7 +5413,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2q0g0Bqatt8",
+  "link": "https://youtu.be/2q0g0Bqatt8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-03-29T18:00:00",
@@ -5424,7 +5424,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Z9VSvA__GuY",
+  "link": "https://youtu.be/Z9VSvA__GuY",
   "category": "Media_Content",
   "member": "우기",
   "date": "2021-04-02T18:00:00",
@@ -5435,7 +5435,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CrHFyHYp8KI",
+  "link": "https://youtu.be/CrHFyHYp8KI",
   "category": "Media_Content",
   "member": "우기",
   "date": "2021-04-09T18:00:00",
@@ -5446,7 +5446,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vi8OQdCV3Jg",
+  "link": "https://youtu.be/vi8OQdCV3Jg",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-04-13T18:00:00",
@@ -5457,7 +5457,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6Shdxp0f5NE",
+  "link": "https://youtu.be/6Shdxp0f5NE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-04-16T18:00:00",
@@ -5468,7 +5468,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nHCE-8NnNbE",
+  "link": "https://youtu.be/nHCE-8NnNbE",
   "category": "Media_Content",
   "member": "우기",
   "date": "2021-04-23T18:00:00",
@@ -5479,7 +5479,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tuvMvLO3aJI",
+  "link": "https://youtu.be/tuvMvLO3aJI",
   "category": "Media_Content",
   "member": "우기",
   "date": "2021-04-30T18:00:00",
@@ -5490,7 +5490,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=exWD4Pf-N0w",
+  "link": "https://youtu.be/exWD4Pf-N0w",
   "category": "Media_Content",
   "member": "민니",
   "date": "2021-05-01T18:00:00",
@@ -5501,7 +5501,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zqb5gzZA01U",
+  "link": "https://youtu.be/zqb5gzZA01U",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-05-01T18:00:00",
@@ -5512,7 +5512,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qQvauroKlI8",
+  "link": "https://youtu.be/qQvauroKlI8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-05-01T18:00:00",
@@ -5523,7 +5523,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WkLneX_D7-8",
+  "link": "https://youtu.be/WkLneX_D7-8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-05-10T18:00:00",
@@ -5534,7 +5534,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=h0WFTsXuYhA",
+  "link": "https://youtu.be/h0WFTsXuYhA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-05-14T18:00:00",
@@ -5545,7 +5545,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=p6ibpJ6wKDA",
+  "link": "https://youtu.be/p6ibpJ6wKDA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-05-26T18:00:00",
@@ -5556,7 +5556,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=g6wWK_EdwFc",
+  "link": "https://youtu.be/g6wWK_EdwFc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-05-27T18:00:00",
@@ -5567,7 +5567,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7TJYLmdvsG0",
+  "link": "https://youtu.be/7TJYLmdvsG0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-05-28T18:00:00",
@@ -5578,7 +5578,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jESkr_TH2oU",
+  "link": "https://youtu.be/jESkr_TH2oU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-05-31T18:00:00",
@@ -5589,7 +5589,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=m1lltqmC3ao",
+  "link": "https://youtu.be/m1lltqmC3ao",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-06-02T18:00:00",
@@ -5600,7 +5600,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gVxd1eFCH4U",
+  "link": "https://youtu.be/gVxd1eFCH4U",
   "category": "Media_Content",
   "member": "민니",
   "date": "2021-06-03T18:00:00",
@@ -5611,7 +5611,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VMipbAS5764",
+  "link": "https://youtu.be/VMipbAS5764",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-06-04T18:00:00",
@@ -5622,7 +5622,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HThGznwjEig",
+  "link": "https://youtu.be/HThGznwjEig",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2021-06-07T18:00:00",
@@ -5633,7 +5633,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yJOdYmax32k",
+  "link": "https://youtu.be/yJOdYmax32k",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-06-07T18:00:00",
@@ -5644,7 +5644,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=whVaOdXqEIc",
+  "link": "https://youtu.be/whVaOdXqEIc",
   "category": "Media_Content",
   "member": "민니",
   "date": "2021-06-11T18:00:00",
@@ -5655,7 +5655,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AGIWf7LHHnQ",
+  "link": "https://youtu.be/AGIWf7LHHnQ",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2021-06-14T18:00:00",
@@ -5666,7 +5666,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=s6ZJKLoDKvU",
+  "link": "https://youtu.be/s6ZJKLoDKvU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-06-14T18:00:00",
@@ -5677,7 +5677,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8exr6DNw0_0",
+  "link": "https://youtu.be/8exr6DNw0_0",
   "category": "Media_Content",
   "member": "민니",
   "date": "2021-06-16T18:00:00",
@@ -5688,7 +5688,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4enZ9viSE0c",
+  "link": "https://youtu.be/4enZ9viSE0c",
   "category": "Media_Content",
   "member": "민니",
   "date": "2021-06-17T18:00:00",
@@ -5699,7 +5699,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JCyKhZaBSU4",
+  "link": "https://youtu.be/JCyKhZaBSU4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-06-23T18:00:00",
@@ -5710,7 +5710,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RggfbV5legQ",
+  "link": "https://youtu.be/RggfbV5legQ",
   "category": "Media_Content",
   "member": "미연, 우기",
   "date": "2021-06-25T18:00:00",
@@ -5721,7 +5721,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_4JZa2rwbSI",
+  "link": "https://youtu.be/_4JZa2rwbSI",
   "category": "Media_Content",
   "member": "민니",
   "date": "2021-06-26T18:00:00",
@@ -5732,7 +5732,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=M1zZUa_Y0I4",
+  "link": "https://youtu.be/M1zZUa_Y0I4",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-07-05T18:00:00",
@@ -5743,7 +5743,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ffVVKi1DMfU",
+  "link": "https://youtu.be/ffVVKi1DMfU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-07-05T18:00:00",
@@ -5754,7 +5754,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0WuYvCdcWiY",
+  "link": "https://youtu.be/0WuYvCdcWiY",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-07-08T18:00:00",
@@ -5765,7 +5765,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Pg0FB-Pfjzs",
+  "link": "https://youtu.be/Pg0FB-Pfjzs",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-07-08T18:00:00",
@@ -5776,7 +5776,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hc0S_B3m2P0",
+  "link": "https://youtu.be/hc0S_B3m2P0",
   "category": "Media_Content",
   "member": "민니",
   "date": "2021-07-11T18:00:00",
@@ -5787,7 +5787,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5Cve_AY1R3g",
+  "link": "https://youtu.be/5Cve_AY1R3g",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-07-13T18:00:00",
@@ -5798,7 +5798,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pt4psDKkryM",
+  "link": "https://youtu.be/pt4psDKkryM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-07-16T18:00:00",
@@ -5809,7 +5809,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qKb5UYHcdLg",
+  "link": "https://youtu.be/qKb5UYHcdLg",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-07-16T18:00:00",
@@ -5820,7 +5820,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2iT0sfJN1qg",
+  "link": "https://youtu.be/2iT0sfJN1qg",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-07-16T18:00:00",
@@ -5831,7 +5831,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4m1QS-TywCo",
+  "link": "https://youtu.be/4m1QS-TywCo",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-07-20T18:00:00",
@@ -5842,7 +5842,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kpwfbO5dqdU",
+  "link": "https://youtu.be/kpwfbO5dqdU",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-07-20T18:00:00",
@@ -5853,7 +5853,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ggMY9C1mrPQ",
+  "link": "https://youtu.be/ggMY9C1mrPQ",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-07-21T18:00:00",
@@ -5864,7 +5864,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Anhxm2MXILI",
+  "link": "https://youtu.be/Anhxm2MXILI",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-07-23T18:00:00",
@@ -5875,7 +5875,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lCQ47Tm30vA",
+  "link": "https://youtu.be/lCQ47Tm30vA",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-07-24T18:00:00",
@@ -5886,7 +5886,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2jSjfdnTxd0",
+  "link": "https://youtu.be/2jSjfdnTxd0",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-07-24T18:00:00",
@@ -5897,7 +5897,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mfXQVeOiUwU",
+  "link": "https://youtu.be/mfXQVeOiUwU",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-07-24T18:00:00",
@@ -5908,7 +5908,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VO3emDZQbPU",
+  "link": "https://youtu.be/VO3emDZQbPU",
   "category": "Media_Content",
   "member": "소연, 미연",
   "date": "2021-07-26T18:00:00",
@@ -5919,7 +5919,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=o8SwTZ_rIP4",
+  "link": "https://youtu.be/o8SwTZ_rIP4",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-07-30T18:00:00",
@@ -5930,7 +5930,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MNRVK03jb4s",
+  "link": "https://youtu.be/MNRVK03jb4s",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-07-31T18:00:00",
@@ -5941,7 +5941,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BOVn3btc3YA",
+  "link": "https://youtu.be/BOVn3btc3YA",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-08-02T18:00:00",
@@ -5952,7 +5952,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7Pfy2wOaOEA",
+  "link": "https://youtu.be/7Pfy2wOaOEA",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-08-05T18:00:00",
@@ -5963,7 +5963,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UZbojPqhIOg",
+  "link": "https://youtu.be/UZbojPqhIOg",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-08-05T18:00:00",
@@ -5974,7 +5974,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OXj6wgZHeRc",
+  "link": "https://youtu.be/OXj6wgZHeRc",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2021-09-27T18:00:00",
@@ -5985,7 +5985,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=a0TD8IZ08GY",
+  "link": "https://youtu.be/a0TD8IZ08GY",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2021-09-29T18:00:00",
@@ -5996,7 +5996,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eaDgVuSJSXc",
+  "link": "https://youtu.be/eaDgVuSJSXc",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2021-10-04T18:00:00",
@@ -6007,7 +6007,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JqHJWTiRiQg",
+  "link": "https://youtu.be/JqHJWTiRiQg",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2021-10-06T18:00:00",
@@ -6018,7 +6018,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=A9skYY-BLrQ",
+  "link": "https://youtu.be/A9skYY-BLrQ",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-10-17T18:00:00",
@@ -6029,7 +6029,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qlgYECNZID0",
+  "link": "https://youtu.be/qlgYECNZID0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-10-18T18:00:00",
@@ -6040,7 +6040,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_2oTziF5atw",
+  "link": "https://youtu.be/_2oTziF5atw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-10-20T18:00:00",
@@ -6051,7 +6051,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OVqnr2FYxII",
+  "link": "https://youtu.be/OVqnr2FYxII",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2021-11-01T18:00:00",
@@ -6062,7 +6062,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rHkbLVrNoFg",
+  "link": "https://youtu.be/rHkbLVrNoFg",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-02T18:00:00",
@@ -6073,7 +6073,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=af1I9LltXAI",
+  "link": "https://youtu.be/af1I9LltXAI",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-03T18:00:00",
@@ -6084,7 +6084,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jSl2ORt5fI4",
+  "link": "https://youtu.be/jSl2ORt5fI4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-03T18:00:00",
@@ -6095,7 +6095,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pj-XwhM8tz8",
+  "link": "https://youtu.be/pj-XwhM8tz8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-04T18:00:00",
@@ -6106,7 +6106,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pUJwuESTD5k",
+  "link": "https://youtu.be/pUJwuESTD5k",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-10T18:00:00",
@@ -6117,7 +6117,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KImxTpPzLnE",
+  "link": "https://youtu.be/KImxTpPzLnE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-10T18:00:00",
@@ -6128,7 +6128,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3E7Z6zps1bk",
+  "link": "https://youtu.be/3E7Z6zps1bk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-12T18:00:00",
@@ -6139,7 +6139,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dgiQtWkV3h4",
+  "link": "https://youtu.be/dgiQtWkV3h4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-12T18:00:00",
@@ -6150,7 +6150,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NsMafg7qtgU",
+  "link": "https://youtu.be/NsMafg7qtgU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-12T18:00:00",
@@ -6161,7 +6161,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uI8gxh-wJTk",
+  "link": "https://youtu.be/uI8gxh-wJTk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-12T18:00:00",
@@ -6172,7 +6172,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=t6rEcQRAndU",
+  "link": "https://youtu.be/t6rEcQRAndU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-12T18:00:00",
@@ -6183,7 +6183,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gnwpe8p0HgU",
+  "link": "https://youtu.be/gnwpe8p0HgU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-12T18:00:00",
@@ -6194,7 +6194,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VWEBaZVGkW0",
+  "link": "https://youtu.be/VWEBaZVGkW0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-12T18:00:00",
@@ -6205,7 +6205,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=34_CZlDiwUw",
+  "link": "https://youtu.be/34_CZlDiwUw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-12T18:00:00",
@@ -6216,7 +6216,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OS3SJXLTd7M",
+  "link": "https://youtu.be/OS3SJXLTd7M",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-17T18:00:00",
@@ -6227,7 +6227,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1Tx-aFOI1cc",
+  "link": "https://youtu.be/1Tx-aFOI1cc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-18T18:00:00",
@@ -6238,7 +6238,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FbYn7VzNTco",
+  "link": "https://youtu.be/FbYn7VzNTco",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-19T18:00:00",
@@ -6249,7 +6249,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=btGfUVgdOeI",
+  "link": "https://youtu.be/btGfUVgdOeI",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-19T18:00:00",
@@ -6260,7 +6260,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TiVySyoLNX8",
+  "link": "https://youtu.be/TiVySyoLNX8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-20T18:00:00",
@@ -6271,7 +6271,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cLkItgSD9ug",
+  "link": "https://youtu.be/cLkItgSD9ug",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-24T18:00:00",
@@ -6282,7 +6282,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=J-KTaJSuuks",
+  "link": "https://youtu.be/J-KTaJSuuks",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-24T18:00:00",
@@ -6293,7 +6293,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Jz1UWmkvyMI",
+  "link": "https://youtu.be/Jz1UWmkvyMI",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-25T18:00:00",
@@ -6304,7 +6304,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gjnKlQoynE8",
+  "link": "https://youtu.be/gjnKlQoynE8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-26T18:00:00",
@@ -6315,7 +6315,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OkTgbYvvIow",
+  "link": "https://youtu.be/OkTgbYvvIow",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-11-28T18:00:00",
@@ -6326,7 +6326,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5Pk8rV6GsfE",
+  "link": "https://youtu.be/5Pk8rV6GsfE",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-11-28T18:00:00",
@@ -6337,7 +6337,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gp2dlgl0JGc",
+  "link": "https://youtu.be/gp2dlgl0JGc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-11-29T18:00:00",
@@ -6348,7 +6348,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yKDlIYcZr0I",
+  "link": "https://youtu.be/yKDlIYcZr0I",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-12-01T18:00:00",
@@ -6359,7 +6359,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jdMWFVf0JXM",
+  "link": "https://youtu.be/jdMWFVf0JXM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-12-03T18:00:00",
@@ -6370,7 +6370,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tT0HkexQnvs",
+  "link": "https://youtu.be/tT0HkexQnvs",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-12-05T18:00:00",
@@ -6381,7 +6381,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PbQKHqjVBdM",
+  "link": "https://youtu.be/PbQKHqjVBdM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-12-08T18:00:00",
@@ -6392,7 +6392,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Bn552MbKmOA",
+  "link": "https://youtu.be/Bn552MbKmOA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-12-09T18:00:00",
@@ -6403,7 +6403,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2xjVYKIfxPU",
+  "link": "https://youtu.be/2xjVYKIfxPU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-12-10T18:00:00",
@@ -6414,7 +6414,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XsatFM0s7oI",
+  "link": "https://youtu.be/XsatFM0s7oI",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-12-11T18:00:00",
@@ -6425,7 +6425,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tyyQelVHxHk",
+  "link": "https://youtu.be/tyyQelVHxHk",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-12-13T18:00:00",
@@ -6436,7 +6436,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kE5eu6F1gJw",
+  "link": "https://youtu.be/kE5eu6F1gJw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-12-13T18:00:00",
@@ -6447,7 +6447,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yoxyKg8C6Ec",
+  "link": "https://youtu.be/yoxyKg8C6Ec",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-12-15T18:00:00",
@@ -6458,7 +6458,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nc03CNTJ7FY",
+  "link": "https://youtu.be/nc03CNTJ7FY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-12-17T18:00:00",
@@ -6469,7 +6469,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IqzQ6hS0WqQ",
+  "link": "https://youtu.be/IqzQ6hS0WqQ",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-12-19T18:00:00",
@@ -6480,7 +6480,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IqzQ6hS0WqQ",
+  "link": "https://youtu.be/IqzQ6hS0WqQ",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-12-19T18:00:00",
@@ -6491,7 +6491,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QIOM4aT1cAQ",
+  "link": "https://youtu.be/QIOM4aT1cAQ",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-12-20T18:00:00",
@@ -6502,7 +6502,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iEZPbD0ueSc",
+  "link": "https://youtu.be/iEZPbD0ueSc",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-12-20T18:00:00",
@@ -6513,7 +6513,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YNp9IR8EkTY",
+  "link": "https://youtu.be/YNp9IR8EkTY",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-12-22T18:00:00",
@@ -6524,7 +6524,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=im6Q-bVqJu4",
+  "link": "https://youtu.be/im6Q-bVqJu4",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-12-22T18:00:00",
@@ -6535,7 +6535,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8eECNbE9NIc",
+  "link": "https://youtu.be/8eECNbE9NIc",
   "category": "Media_Content",
   "member": "소연",
   "date": "2021-12-22T18:00:00",
@@ -6546,7 +6546,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=km75QNewZ2o",
+  "link": "https://youtu.be/km75QNewZ2o",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-12-26T18:00:00",
@@ -6557,7 +6557,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CBoiRlXzeOo",
+  "link": "https://youtu.be/CBoiRlXzeOo",
   "category": "Media_Content",
   "member": "미연, 민니",
   "date": "2021-12-28T18:00:00",
@@ -6568,7 +6568,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1ml6r9DSoZY",
+  "link": "https://youtu.be/1ml6r9DSoZY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2021-12-29T18:00:00",
@@ -6579,7 +6579,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Lsag_gPFXVg",
+  "link": "https://youtu.be/Lsag_gPFXVg",
   "category": "Media_Content",
   "member": "미연, 민니",
   "date": "2021-12-29T18:00:00",
@@ -6590,7 +6590,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=19Eg09QC97A",
+  "link": "https://youtu.be/19Eg09QC97A",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-01-03T18:00:00",
@@ -6601,7 +6601,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rYuymcaXPDQ",
+  "link": "https://youtu.be/rYuymcaXPDQ",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-01-10T18:00:00",
@@ -6612,7 +6612,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WzR2pxtX-xo",
+  "link": "https://youtu.be/WzR2pxtX-xo",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-01-11T18:00:00",
@@ -6623,7 +6623,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6pPMe0b2zN0",
+  "link": "https://youtu.be/6pPMe0b2zN0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-01-15T18:00:00",
@@ -6634,7 +6634,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wKrunM2zdGo",
+  "link": "https://youtu.be/wKrunM2zdGo",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-01-15T18:00:00",
@@ -6645,7 +6645,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uIY8giViMJ0",
+  "link": "https://youtu.be/uIY8giViMJ0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-01-15T18:00:00",
@@ -6656,7 +6656,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8LwVwIf6Czw",
+  "link": "https://youtu.be/8LwVwIf6Czw",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-01-18T18:00:00",
@@ -6667,7 +6667,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=goqX0p27O78",
+  "link": "https://youtu.be/goqX0p27O78",
   "category": "Media_Content",
   "member": "우기",
   "date": "2022-01-21T18:00:00",
@@ -6678,7 +6678,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_5wBuFcFuO4",
+  "link": "https://youtu.be/_5wBuFcFuO4",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-01-22T18:00:00",
@@ -6689,7 +6689,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=q1uqNRA9-3E",
+  "link": "https://youtu.be/q1uqNRA9-3E",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-01-25T18:00:00",
@@ -6700,7 +6700,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SjUxTj7yfUE",
+  "link": "https://youtu.be/SjUxTj7yfUE",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-02-12T18:00:00",
@@ -6711,7 +6711,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-efi4z6crnY",
+  "link": "https://youtu.be/-efi4z6crnY",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-02-12T18:00:00",
@@ -6722,7 +6722,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=w5uz2sHomtM",
+  "link": "https://youtu.be/w5uz2sHomtM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-02-18T18:00:00",
@@ -6733,7 +6733,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pO6_va6BHXc",
+  "link": "https://youtu.be/pO6_va6BHXc",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-02-20T18:00:00",
@@ -6744,7 +6744,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Q3Fjvq4IR7o",
+  "link": "https://youtu.be/Q3Fjvq4IR7o",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-02-23T18:00:00",
@@ -6755,7 +6755,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EQIvyhYxV6c",
+  "link": "https://youtu.be/EQIvyhYxV6c",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-02-24T18:00:00",
@@ -6766,7 +6766,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Hd8m6Ly7xFk",
+  "link": "https://youtu.be/Hd8m6Ly7xFk",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-02-24T18:00:00",
@@ -6777,7 +6777,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Yo_fY-ZB4-s",
+  "link": "https://youtu.be/Yo_fY-ZB4-s",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-03-02T18:00:00",
@@ -6788,7 +6788,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EikJ43Gxavw",
+  "link": "https://youtu.be/EikJ43Gxavw",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-03-02T18:00:00",
@@ -6799,7 +6799,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=to47w5tP2BY",
+  "link": "https://youtu.be/to47w5tP2BY",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-03-02T18:00:00",
@@ -6810,7 +6810,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dZsnDCHtvyQ",
+  "link": "https://youtu.be/dZsnDCHtvyQ",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-03-04T18:00:00",
@@ -6821,7 +6821,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UZDSpQBlSU8",
+  "link": "https://youtu.be/UZDSpQBlSU8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-03-15T18:00:00",
@@ -6832,7 +6832,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7UIZ1RnOZ_s",
+  "link": "https://youtu.be/7UIZ1RnOZ_s",
   "category": "Media_Content",
   "member": "미연, 슈화",
   "date": "2022-03-18T18:00:00",
@@ -6843,7 +6843,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=I6XlTOGYGTM",
+  "link": "https://youtu.be/I6XlTOGYGTM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-03-18T18:00:00",
@@ -6854,7 +6854,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KXYwuWsg_DU",
+  "link": "https://youtu.be/KXYwuWsg_DU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-03-18T18:00:00",
@@ -6865,7 +6865,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MSQRys5oDV8",
+  "link": "https://youtu.be/MSQRys5oDV8",
   "category": "Media_Content",
   "member": "우기",
   "date": "2022-03-21T18:00:00",
@@ -6876,7 +6876,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KlcS-kr_cIM",
+  "link": "https://youtu.be/KlcS-kr_cIM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-03-23T18:00:00",
@@ -6887,7 +6887,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dD2QdVz0RsQ",
+  "link": "https://youtu.be/dD2QdVz0RsQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-03-24T18:00:00",
@@ -6898,7 +6898,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_MAqNr9d-HM",
+  "link": "https://youtu.be/_MAqNr9d-HM",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-03-24T18:00:00",
@@ -6909,7 +6909,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VWf2QcvVxms",
+  "link": "https://youtu.be/VWf2QcvVxms",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-03-25T18:00:00",
@@ -6920,7 +6920,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bwiAoJCf9Sw",
+  "link": "https://youtu.be/bwiAoJCf9Sw",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-03-28T18:00:00",
@@ -6931,7 +6931,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SPgnFHmur9w",
+  "link": "https://youtu.be/SPgnFHmur9w",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-03-28T18:00:00",
@@ -6942,7 +6942,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ezQB9ycyvz8",
+  "link": "https://youtu.be/ezQB9ycyvz8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-03-31T18:00:00",
@@ -6953,7 +6953,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=K9Pt2WGVy24",
+  "link": "https://youtu.be/K9Pt2WGVy24",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-04-01T18:00:00",
@@ -6964,7 +6964,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SY_l41r8D28",
+  "link": "https://youtu.be/SY_l41r8D28",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-04-01T18:00:00",
@@ -6975,7 +6975,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=muttupBkGTg",
+  "link": "https://youtu.be/muttupBkGTg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-04-02T18:00:00",
@@ -6986,7 +6986,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qmYHgLtgRlg",
+  "link": "https://youtu.be/qmYHgLtgRlg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-04-02T18:00:00",
@@ -6997,7 +6997,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oyVgr7nf768",
+  "link": "https://youtu.be/oyVgr7nf768",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-04-03T18:00:00",
@@ -7008,7 +7008,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pu-9bzecBIg",
+  "link": "https://youtu.be/pu-9bzecBIg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-04-05T18:00:00",
@@ -7019,7 +7019,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pPIpa10iA9U",
+  "link": "https://youtu.be/pPIpa10iA9U",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-04-15T18:00:00",
@@ -7030,7 +7030,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=41cInEM1HbA",
+  "link": "https://youtu.be/41cInEM1HbA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-04-18T18:00:00",
@@ -7041,7 +7041,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=p2827vnIZAk",
+  "link": "https://youtu.be/p2827vnIZAk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-04-19T18:00:00",
@@ -7052,7 +7052,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=L6I-mYAVI_A",
+  "link": "https://youtu.be/L6I-mYAVI_A",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-04-22T18:00:00",
@@ -7063,7 +7063,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=abvf2XNKpOo",
+  "link": "https://youtu.be/abvf2XNKpOo",
   "category": "Media_Content",
   "member": "민니",
   "date": "2022-04-27T18:00:00",
@@ -7074,7 +7074,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UYOPrR7R1pc",
+  "link": "https://youtu.be/UYOPrR7R1pc",
   "category": "Media_Content",
   "member": "민니",
   "date": "2022-04-27T18:00:00",
@@ -7085,7 +7085,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0aTUIF-UMsI",
+  "link": "https://youtu.be/0aTUIF-UMsI",
   "category": "Media_Content",
   "member": "민니",
   "date": "2022-04-27T18:00:00",
@@ -7096,7 +7096,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KWfqwQpAYdA",
+  "link": "https://youtu.be/KWfqwQpAYdA",
   "category": "Media_Content",
   "member": "민니",
   "date": "2022-04-27T18:00:00",
@@ -7107,7 +7107,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2VYvLGNLWes",
+  "link": "https://youtu.be/2VYvLGNLWes",
   "category": "Media_Content",
   "member": "민니",
   "date": "2022-04-28T18:00:00",
@@ -7118,7 +7118,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oHS1LtikV0s",
+  "link": "https://youtu.be/oHS1LtikV0s",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-04-29T18:00:00",
@@ -7129,7 +7129,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Yml_jnMQui0",
+  "link": "https://youtu.be/Yml_jnMQui0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-04-29T18:00:00",
@@ -7140,7 +7140,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JBFkGVsX3es",
+  "link": "https://youtu.be/JBFkGVsX3es",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-04-29T18:00:00",
@@ -7151,7 +7151,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bsjj6WWtIgk",
+  "link": "https://youtu.be/bsjj6WWtIgk",
   "category": "Media_Content",
   "member": "미연, 민니, 슈화",
   "date": "2022-04-29T18:00:00",
@@ -7162,7 +7162,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yLKfgucdctY",
+  "link": "https://youtu.be/yLKfgucdctY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-04-29T18:00:00",
@@ -7173,7 +7173,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JX1MDOEYfMI",
+  "link": "https://youtu.be/JX1MDOEYfMI",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-04-30T18:00:00",
@@ -7184,7 +7184,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hhdm9fZZN4I",
+  "link": "https://youtu.be/hhdm9fZZN4I",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-04-30T18:00:00",
@@ -7195,7 +7195,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lyLNiiU-jLk",
+  "link": "https://youtu.be/lyLNiiU-jLk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-05-04T18:00:00",
@@ -7206,7 +7206,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YiaqjpIv_HM",
+  "link": "https://youtu.be/YiaqjpIv_HM",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-05-06T18:00:00",
@@ -7217,7 +7217,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Hx1CYhERG-I",
+  "link": "https://youtu.be/Hx1CYhERG-I",
   "category": "Media_Content",
   "member": "미연, 민니, 슈화",
   "date": "2022-05-06T18:00:00",
@@ -7228,7 +7228,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Og1n6hkf05Q",
+  "link": "https://youtu.be/Og1n6hkf05Q",
   "category": "Media_Content",
   "member": "미연, 우기",
   "date": "2022-05-06T18:00:00",
@@ -7239,7 +7239,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_zquu-8e_wA",
+  "link": "https://youtu.be/_zquu-8e_wA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-05-06T18:00:00",
@@ -7250,7 +7250,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kuylxZ9jqf8",
+  "link": "https://youtu.be/kuylxZ9jqf8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-05-06T18:00:00",
@@ -7261,7 +7261,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sbFnwvixOgY",
+  "link": "https://youtu.be/sbFnwvixOgY",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2022-05-09T18:00:00",
@@ -7272,7 +7272,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fpktP9ynLKk",
+  "link": "https://youtu.be/fpktP9ynLKk",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2022-05-12T18:00:00",
@@ -7283,7 +7283,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8-9adUyfnjg",
+  "link": "https://youtu.be/8-9adUyfnjg",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-05-12T18:00:00",
@@ -7294,7 +7294,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Sb41I2rrxd0",
+  "link": "https://youtu.be/Sb41I2rrxd0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-05-13T18:00:00",
@@ -7305,7 +7305,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZWEuXZUeitk",
+  "link": "https://youtu.be/ZWEuXZUeitk",
   "category": "Media_Content",
   "member": "미연, 민니, 슈화",
   "date": "2022-05-13T18:00:00",
@@ -7316,7 +7316,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VKQYN7cv5ZQ",
+  "link": "https://youtu.be/VKQYN7cv5ZQ",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-05-16T18:00:00",
@@ -7327,7 +7327,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=a7LKP4FlTFI",
+  "link": "https://youtu.be/a7LKP4FlTFI",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-05-17T18:00:00",
@@ -7338,7 +7338,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UlLGcDL5x7g",
+  "link": "https://youtu.be/UlLGcDL5x7g",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-05-17T18:00:00",
@@ -7349,7 +7349,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AoXLBKrnC2g",
+  "link": "https://youtu.be/AoXLBKrnC2g",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-05-18T18:00:00",
@@ -7360,7 +7360,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=c4Vo2Z37BpI",
+  "link": "https://youtu.be/c4Vo2Z37BpI",
   "category": "Media_Content",
   "member": "우기",
   "date": "2022-05-19T18:00:00",
@@ -7371,7 +7371,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sLQGNQsTBqo",
+  "link": "https://youtu.be/sLQGNQsTBqo",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-05-21T18:00:00",
@@ -7382,7 +7382,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MkPJ9pdZFPM",
+  "link": "https://youtu.be/MkPJ9pdZFPM",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2022-05-26T18:00:00",
@@ -7393,7 +7393,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xNaN0kT9EjE",
+  "link": "https://youtu.be/xNaN0kT9EjE",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2022-05-26T18:00:00",
@@ -7404,7 +7404,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uFyYLtP5gh4",
+  "link": "https://youtu.be/uFyYLtP5gh4",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2022-05-26T18:00:00",
@@ -7415,7 +7415,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TaXQRksP2Bs",
+  "link": "https://youtu.be/TaXQRksP2Bs",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2022-05-26T18:00:00",
@@ -7426,7 +7426,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jfOM5eJJ21M",
+  "link": "https://youtu.be/jfOM5eJJ21M",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2022-05-26T18:00:00",
@@ -7437,7 +7437,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Uqi0ZwRxZc8",
+  "link": "https://youtu.be/Uqi0ZwRxZc8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-05-27T18:00:00",
@@ -7448,7 +7448,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9PcWhAVq8-s",
+  "link": "https://youtu.be/9PcWhAVq8-s",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-05-27T18:00:00",
@@ -7459,7 +7459,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fD556Mt9RDw",
+  "link": "https://youtu.be/fD556Mt9RDw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-05-29T18:00:00",
@@ -7470,7 +7470,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=w3iVpRjSn1c",
+  "link": "https://youtu.be/w3iVpRjSn1c",
   "category": "Media_Content",
   "member": "미연, 우기",
   "date": "2022-05-29T18:00:00",
@@ -7481,7 +7481,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=K8pdrVJH9Lo",
+  "link": "https://youtu.be/K8pdrVJH9Lo",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-05-30T18:00:00",
@@ -7492,7 +7492,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=J5hBQOLD1l0",
+  "link": "https://youtu.be/J5hBQOLD1l0",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-05-31T18:00:00",
@@ -7503,7 +7503,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BYmgZkqpaYQ",
+  "link": "https://youtu.be/BYmgZkqpaYQ",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-05-31T18:00:00",
@@ -7514,7 +7514,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HpNjoR3baxk",
+  "link": "https://youtu.be/HpNjoR3baxk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-06-05T18:00:00",
@@ -7525,7 +7525,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UXd-vg5W_k4",
+  "link": "https://youtu.be/UXd-vg5W_k4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-06-10T18:00:00",
@@ -7536,7 +7536,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fvYXqr2J_TE",
+  "link": "https://youtu.be/fvYXqr2J_TE",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2022-06-21T18:00:00",
@@ -7547,7 +7547,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iuUqJBYESfo",
+  "link": "https://youtu.be/iuUqJBYESfo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-06-21T18:00:00",
@@ -7558,7 +7558,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=L6RZzy1L5l4",
+  "link": "https://youtu.be/L6RZzy1L5l4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-06-24T18:00:00",
@@ -7569,7 +7569,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yd3dytzI_-A",
+  "link": "https://youtu.be/yd3dytzI_-A",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2022-06-24T18:00:00",
@@ -7580,7 +7580,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=M2jk4pVrRNY",
+  "link": "https://youtu.be/M2jk4pVrRNY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-06-28T18:00:00",
@@ -7591,7 +7591,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=i7LOjCXRVyk",
+  "link": "https://youtu.be/i7LOjCXRVyk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-06-28T18:00:00",
@@ -7602,7 +7602,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NX_uDTRjfOk",
+  "link": "https://youtu.be/NX_uDTRjfOk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-06-29T18:00:00",
@@ -7613,7 +7613,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NMwNmT0Hfm8",
+  "link": "https://youtu.be/NMwNmT0Hfm8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-07-06T18:00:00",
@@ -7624,7 +7624,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4jdI-CVZ9nM",
+  "link": "https://youtu.be/4jdI-CVZ9nM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-07-08T18:00:00",
@@ -7635,7 +7635,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FqYq5YXF_40",
+  "link": "https://youtu.be/FqYq5YXF_40",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2022-07-14T18:00:00",
@@ -7646,7 +7646,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UEy9tdNYu7U",
+  "link": "https://youtu.be/UEy9tdNYu7U",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-07-20",
@@ -7657,7 +7657,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xve0tmSPjaY",
+  "link": "https://youtu.be/xve0tmSPjaY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-07-22T18:00:00",
@@ -7668,7 +7668,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Uzi6BSGUEg8",
+  "link": "https://youtu.be/Uzi6BSGUEg8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-07-27T18:00:00",
@@ -7679,7 +7679,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vZ3FjIUAO5k",
+  "link": "https://youtu.be/vZ3FjIUAO5k",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-07-28T18:00:00",
@@ -7690,7 +7690,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=S37FolF5cFw",
+  "link": "https://youtu.be/S37FolF5cFw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-08-03T18:00:00",
@@ -7701,7 +7701,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fMNU8sFfT18",
+  "link": "https://youtu.be/fMNU8sFfT18",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-08-10T18:00:00",
@@ -7712,7 +7712,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eiSSoSfDiH8",
+  "link": "https://youtu.be/eiSSoSfDiH8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-08-10T18:00:00",
@@ -7723,7 +7723,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ub8UOmq1VAs",
+  "link": "https://youtu.be/ub8UOmq1VAs",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-08-17T18:00:00",
@@ -7734,7 +7734,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9DvbgBy0Z64",
+  "link": "https://youtu.be/9DvbgBy0Z64",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-08-24T18:00:00",
@@ -7745,7 +7745,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=icodolkPNcY",
+  "link": "https://youtu.be/icodolkPNcY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-09-06T18:00:00",
@@ -7756,7 +7756,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=j2g_plNlJFI",
+  "link": "https://youtu.be/j2g_plNlJFI",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-09-07T18:00:00",
@@ -7767,7 +7767,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vPCLHG8jUuU",
+  "link": "https://youtu.be/vPCLHG8jUuU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-09-14T18:00:00",
@@ -7778,7 +7778,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rZKOHhF548c",
+  "link": "https://youtu.be/rZKOHhF548c",
   "category": "Media_Content",
   "member": "미연, 우기",
   "date": "2022-09-23T18:00:00",
@@ -7789,7 +7789,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TUeWhU9Rfeo",
+  "link": "https://youtu.be/TUeWhU9Rfeo",
   "category": "Media_Content",
   "member": "미연, 우기",
   "date": "2022-09-30T18:00:00",
@@ -7800,7 +7800,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5sndi-W6TX0",
+  "link": "https://youtu.be/5sndi-W6TX0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-10-07T18:00:00",
@@ -7811,7 +7811,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=haA57MIbnh0",
+  "link": "https://youtu.be/haA57MIbnh0",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-13T18:00:00",
@@ -7822,7 +7822,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1-91Dfmfa0g",
+  "link": "https://youtu.be/1-91Dfmfa0g",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-10-14T18:00:00",
@@ -7833,7 +7833,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XI4zvfwucfc",
+  "link": "https://youtu.be/XI4zvfwucfc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-20T18:00:00",
@@ -7844,7 +7844,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zxxb-A9zgGA",
+  "link": "https://youtu.be/zxxb-A9zgGA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-20T18:00:00",
@@ -7855,7 +7855,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8hBykAhXINc",
+  "link": "https://youtu.be/8hBykAhXINc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-21T18:00:00",
@@ -7866,7 +7866,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nb7uERuffAo",
+  "link": "https://youtu.be/nb7uERuffAo",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-10-21T18:00:00",
@@ -7877,7 +7877,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UcuKUSiPj2Y",
+  "link": "https://youtu.be/UcuKUSiPj2Y",
   "category": "Media_Content",
   "member": "소연, 우기, 슈화",
   "date": "2022-10-21T18:00:00",
@@ -7888,7 +7888,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZWYSXgY-RdQ",
+  "link": "https://youtu.be/ZWYSXgY-RdQ",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2022-10-22T18:00:00",
@@ -7899,7 +7899,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_FJqiferRkE",
+  "link": "https://youtu.be/_FJqiferRkE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-24T18:00:00",
@@ -7910,7 +7910,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=c3-t-j57VXE",
+  "link": "https://youtu.be/c3-t-j57VXE",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-10-25T18:00:00",
@@ -7921,7 +7921,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NnxIikbDhvQ",
+  "link": "https://youtu.be/NnxIikbDhvQ",
   "category": "Media_Content",
   "member": "미연, 민니",
   "date": "2022-10-26T18:00:00",
@@ -7932,7 +7932,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=283IMq_tkwo",
+  "link": "https://youtu.be/283IMq_tkwo",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-10-27T18:00:00",
@@ -7943,7 +7943,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1Xu2Ev5ZUfA",
+  "link": "https://youtu.be/1Xu2Ev5ZUfA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-27T18:00:00",
@@ -7954,7 +7954,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0HcLZuQmM8A",
+  "link": "https://youtu.be/0HcLZuQmM8A",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-10-28T18:00:00",
@@ -7965,7 +7965,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SPwFyc4xT6s",
+  "link": "https://youtu.be/SPwFyc4xT6s",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -7976,7 +7976,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wMceEnLvjqk",
+  "link": "https://youtu.be/wMceEnLvjqk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -7987,7 +7987,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=htAG8LrngpA",
+  "link": "https://youtu.be/htAG8LrngpA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -7998,7 +7998,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Be9khAA9YHU",
+  "link": "https://youtu.be/Be9khAA9YHU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8009,7 +8009,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RURhqGt8NbM",
+  "link": "https://youtu.be/RURhqGt8NbM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8020,7 +8020,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sWwHWK7OYJ8",
+  "link": "https://youtu.be/sWwHWK7OYJ8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8031,7 +8031,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=inwAM4-ZfRw",
+  "link": "https://youtu.be/inwAM4-ZfRw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8042,7 +8042,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3kOeugKk6yY",
+  "link": "https://youtu.be/3kOeugKk6yY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8053,7 +8053,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=A2qVg5ahySU",
+  "link": "https://youtu.be/A2qVg5ahySU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8064,7 +8064,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qIkWIwPCvhE",
+  "link": "https://youtu.be/qIkWIwPCvhE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8075,7 +8075,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bUJhKLv7Q-o",
+  "link": "https://youtu.be/bUJhKLv7Q-o",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8086,7 +8086,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ss-RNuXFqKU",
+  "link": "https://youtu.be/ss-RNuXFqKU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8097,7 +8097,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=l7I_PEr7hcY",
+  "link": "https://youtu.be/l7I_PEr7hcY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8108,7 +8108,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FOnBv-CKPHk",
+  "link": "https://youtu.be/FOnBv-CKPHk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8119,7 +8119,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SZ1lcZqXBX8",
+  "link": "https://youtu.be/SZ1lcZqXBX8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8130,7 +8130,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=q8dORvQQS9w",
+  "link": "https://youtu.be/q8dORvQQS9w",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8141,7 +8141,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Vn46IBdl5yk",
+  "link": "https://youtu.be/Vn46IBdl5yk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8152,7 +8152,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JT-gmMoyRAs",
+  "link": "https://youtu.be/JT-gmMoyRAs",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8163,7 +8163,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tYbXGBfeuQA",
+  "link": "https://youtu.be/tYbXGBfeuQA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8174,7 +8174,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sZeFuyK48Nw",
+  "link": "https://youtu.be/sZeFuyK48Nw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8185,7 +8185,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FvriXD54opU",
+  "link": "https://youtu.be/FvriXD54opU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8196,7 +8196,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=d6hHXx1U-_A",
+  "link": "https://youtu.be/d6hHXx1U-_A",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8207,7 +8207,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oBl2XmzLxbs",
+  "link": "https://youtu.be/oBl2XmzLxbs",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-10-29T18:00:00",
@@ -8218,7 +8218,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bc0uFY5LySk",
+  "link": "https://youtu.be/bc0uFY5LySk",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-10-29T18:00:00",
@@ -8229,7 +8229,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kuYPHEuxx0o",
+  "link": "https://youtu.be/kuYPHEuxx0o",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-11-04T18:00:00",
@@ -8240,7 +8240,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ury7kAczq20",
+  "link": "https://youtu.be/Ury7kAczq20",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-11-07T18:00:00",
@@ -8251,7 +8251,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7EWRm2GUpoA",
+  "link": "https://youtu.be/7EWRm2GUpoA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-11-08T18:00:00",
@@ -8262,7 +8262,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-1P80jG4_rQ",
+  "link": "https://youtu.be/-1P80jG4_rQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-11-12T18:00:00",
@@ -8273,7 +8273,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=f6abgJUSwQ0",
+  "link": "https://youtu.be/f6abgJUSwQ0",
   "category": "Media_Content",
   "member": "우기",
   "date": "2022-11-13T18:00:00",
@@ -8284,7 +8284,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZtJWPKTiLhg",
+  "link": "https://youtu.be/ZtJWPKTiLhg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-11-14T18:00:00",
@@ -8295,7 +8295,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SA8SGeDF9Ls",
+  "link": "https://youtu.be/SA8SGeDF9Ls",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-11-18T18:00:00",
@@ -8306,7 +8306,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Fndha4cwgjQ",
+  "link": "https://youtu.be/Fndha4cwgjQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-11-18T18:00:00",
@@ -8317,7 +8317,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eo8FBwE_uok",
+  "link": "https://youtu.be/eo8FBwE_uok",
   "category": "Media_Content",
   "member": "민니",
   "date": "2022-11-18T18:00:00",
@@ -8328,7 +8328,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PdJYRCpnuX8",
+  "link": "https://youtu.be/PdJYRCpnuX8",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-11-19T18:00:00",
@@ -8339,7 +8339,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=y8mrMkCVHpE",
+  "link": "https://youtu.be/y8mrMkCVHpE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-11-21T18:00:00",
@@ -8350,7 +8350,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sqaVw0bFbVk",
+  "link": "https://youtu.be/sqaVw0bFbVk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-11-23T18:00:00",
@@ -8361,7 +8361,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9tcWB-k72rQ",
+  "link": "https://youtu.be/9tcWB-k72rQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-11-24T18:00:00",
@@ -8372,7 +8372,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WBPkMg20ESs",
+  "link": "https://youtu.be/WBPkMg20ESs",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-11-24T18:00:00",
@@ -8383,7 +8383,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TLr8zmZDua8",
+  "link": "https://youtu.be/TLr8zmZDua8",
   "category": "Media_Content",
   "member": "민니",
   "date": "2022-11-30T18:00:00",
@@ -8394,7 +8394,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2fU2-eIdOuo",
+  "link": "https://youtu.be/2fU2-eIdOuo",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-12-02T18:00:00",
@@ -8405,7 +8405,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YVkA7KMwJYc",
+  "link": "https://youtu.be/YVkA7KMwJYc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-12-12T18:00:00",
@@ -8416,7 +8416,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=m3F4bcvXo5U",
+  "link": "https://youtu.be/m3F4bcvXo5U",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-12-16T18:00:00",
@@ -8427,7 +8427,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fdW4DFZTWm8",
+  "link": "https://youtu.be/fdW4DFZTWm8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-12-16T18:00:00",
@@ -8438,7 +8438,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Sk2XQvGQVFo",
+  "link": "https://youtu.be/Sk2XQvGQVFo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-12-17T18:00:00",
@@ -8449,7 +8449,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0lNIW_a4QP4",
+  "link": "https://youtu.be/0lNIW_a4QP4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-12-20T18:00:00",
@@ -8460,7 +8460,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lpWiDKZLsHc",
+  "link": "https://youtu.be/lpWiDKZLsHc",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-12-20T18:00:00",
@@ -8471,7 +8471,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=B5CHZK7_lbM",
+  "link": "https://youtu.be/B5CHZK7_lbM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2022-12-22T18:00:00",
@@ -8482,7 +8482,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KyP1gaUQueo",
+  "link": "https://youtu.be/KyP1gaUQueo",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2022-12-27",
@@ -8493,7 +8493,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Koyd1tQSZ_g",
+  "link": "https://youtu.be/Koyd1tQSZ_g",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2022-12-27",
@@ -8504,7 +8504,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SqUfKNf26ts",
+  "link": "https://youtu.be/SqUfKNf26ts",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2022-12-27",
@@ -8515,7 +8515,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=J8fBwQIAWcM",
+  "link": "https://youtu.be/J8fBwQIAWcM",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2022-12-27",
@@ -8526,7 +8526,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fEpi6TKbS5o",
+  "link": "https://youtu.be/fEpi6TKbS5o",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2022-12-27",
@@ -8537,7 +8537,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HVxmLzV50JE",
+  "link": "https://youtu.be/HVxmLzV50JE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-12-28T18:00:00",
@@ -8548,7 +8548,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lxitYFM7FFs",
+  "link": "https://youtu.be/lxitYFM7FFs",
   "category": "Media_Content",
   "member": "미연",
   "date": "2022-12-30T18:00:00",
@@ -8559,7 +8559,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mk_zgKyzEG0",
+  "link": "https://youtu.be/mk_zgKyzEG0",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-12-30T18:00:00",
@@ -8570,7 +8570,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=o0MEdSGP440",
+  "link": "https://youtu.be/o0MEdSGP440",
   "category": "Media_Content",
   "member": "소연",
   "date": "2022-12-30T18:00:00",
@@ -8581,7 +8581,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mR1-u97ZrQE",
+  "link": "https://youtu.be/mR1-u97ZrQE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-01-02T18:00:00",
@@ -8592,7 +8592,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Zbr8-UNgwM8",
+  "link": "https://youtu.be/Zbr8-UNgwM8",
   "category": "Media_Content",
   "member": "민니, 우기, 슈화",
   "date": "2023-01-02T18:00:00",
@@ -8603,7 +8603,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dHnncVs9ePs",
+  "link": "https://youtu.be/dHnncVs9ePs",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-01-06T18:00:00",
@@ -8614,7 +8614,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=21vEBIsrsTM",
+  "link": "https://youtu.be/21vEBIsrsTM",
   "category": "Media_Content",
   "member": "소연",
   "date": "2023-01-18T18:00:00",
@@ -8625,7 +8625,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=s0voUoQtsew",
+  "link": "https://youtu.be/s0voUoQtsew",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-01-20T18:00:00",
@@ -8636,7 +8636,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ChNYXVtUwjo",
+  "link": "https://youtu.be/ChNYXVtUwjo",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-01-20T18:00:00",
@@ -8647,7 +8647,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dz-D0mi_TzU",
+  "link": "https://youtu.be/dz-D0mi_TzU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-01-22T18:00:00",
@@ -8658,7 +8658,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eezUny53aS8",
+  "link": "https://youtu.be/eezUny53aS8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-01-22T18:00:00",
@@ -8669,7 +8669,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=B-SynolBfVs",
+  "link": "https://youtu.be/B-SynolBfVs",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-01-23T18:00:00",
@@ -8680,7 +8680,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rD5dwCd1be0",
+  "link": "https://youtu.be/rD5dwCd1be0",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-01-25T18:00:00",
@@ -8691,7 +8691,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=i590uREMrf8",
+  "link": "https://youtu.be/i590uREMrf8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-01-25T18:00:00",
@@ -8702,7 +8702,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VfYdvIpTP3g",
+  "link": "https://youtu.be/VfYdvIpTP3g",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-01-26T18:00:00",
@@ -8713,7 +8713,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FeNFC7pDFCE",
+  "link": "https://youtu.be/FeNFC7pDFCE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-02-28T18:00:00",
@@ -8724,7 +8724,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=v0vqrTzBQCw",
+  "link": "https://youtu.be/v0vqrTzBQCw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-02-28T18:00:00",
@@ -8735,7 +8735,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GuysSbpJcmk",
+  "link": "https://youtu.be/GuysSbpJcmk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-03-02T18:00:00",
@@ -8746,7 +8746,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1J5MFru6Gc8",
+  "link": "https://youtu.be/1J5MFru6Gc8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-03-15T18:00:00",
@@ -8757,7 +8757,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JcHVNZo9vOI",
+  "link": "https://youtu.be/JcHVNZo9vOI",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-03-15T18:00:00",
@@ -8768,7 +8768,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iuZJTnAhzbU",
+  "link": "https://youtu.be/iuZJTnAhzbU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-03-17T18:00:00",
@@ -8779,7 +8779,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-XuPizPLwe0",
+  "link": "https://youtu.be/-XuPizPLwe0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-03-20T18:00:00",
@@ -8790,7 +8790,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=thDFxMUsj4o",
+  "link": "https://youtu.be/thDFxMUsj4o",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-03-22T18:00:00",
@@ -8801,7 +8801,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VTEaXNYy0vA",
+  "link": "https://youtu.be/VTEaXNYy0vA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-03-22T18:00:00",
@@ -8812,7 +8812,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oB5Ao5IwJHc",
+  "link": "https://youtu.be/oB5Ao5IwJHc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-03-23T18:00:00",
@@ -8823,7 +8823,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LX4FyrMehtY",
+  "link": "https://youtu.be/LX4FyrMehtY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-03-27T18:00:00",
@@ -8834,7 +8834,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZuLbx9RcBV4",
+  "link": "https://youtu.be/ZuLbx9RcBV4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-03-27T18:00:00",
@@ -8845,7 +8845,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xSneOW-SGu0",
+  "link": "https://youtu.be/xSneOW-SGu0",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-03-28T18:00:00",
@@ -8856,7 +8856,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oC2eDcgMEwI",
+  "link": "https://youtu.be/oC2eDcgMEwI",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-03-29T18:00:00",
@@ -8867,7 +8867,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=c9bobxQaCLU",
+  "link": "https://youtu.be/c9bobxQaCLU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-03-29T18:00:00",
@@ -8878,7 +8878,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KkREDN0cg7U",
+  "link": "https://youtu.be/KkREDN0cg7U",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-03-29T18:00:00",
@@ -8889,7 +8889,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=um8hiCb6FuA",
+  "link": "https://youtu.be/um8hiCb6FuA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-03-29T18:00:00",
@@ -8900,7 +8900,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iVu6WqpZDUk",
+  "link": "https://youtu.be/iVu6WqpZDUk",
   "category": "Media_Content",
   "member": "소연",
   "date": "2023-03-31T18:00:00",
@@ -8911,7 +8911,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=us-Tl4WAIWM",
+  "link": "https://youtu.be/us-Tl4WAIWM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-04-03T18:00:00",
@@ -8922,7 +8922,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=crdlc2AfTgs",
+  "link": "https://youtu.be/crdlc2AfTgs",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-04-04T18:00:00",
@@ -8933,7 +8933,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TV30MhKsNNw",
+  "link": "https://youtu.be/TV30MhKsNNw",
   "category": "Media_Content",
   "member": "소연",
   "date": "2023-04-07T18:00:00",
@@ -8944,7 +8944,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2iY5PX5CCZk",
+  "link": "https://youtu.be/2iY5PX5CCZk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-04-17T18:00:00",
@@ -8955,7 +8955,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=buGB6_Z47-8",
+  "link": "https://youtu.be/buGB6_Z47-8",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-04-17T18:00:00",
@@ -8966,7 +8966,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oHJWrY6TR9s",
+  "link": "https://youtu.be/oHJWrY6TR9s",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-04-21T18:00:00",
@@ -8977,7 +8977,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7_yHAR1c0lQ",
+  "link": "https://youtu.be/7_yHAR1c0lQ",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-04-24T18:00:00",
@@ -8988,7 +8988,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=T0fBFbASjvc",
+  "link": "https://youtu.be/T0fBFbASjvc",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-04-26T18:00:00",
@@ -8999,7 +8999,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UbD4XJlW3iM",
+  "link": "https://youtu.be/UbD4XJlW3iM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-05-01T18:00:00",
@@ -9010,7 +9010,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nkUkDl3_su4",
+  "link": "https://youtu.be/nkUkDl3_su4",
   "category": "Media_Content",
   "member": "민니",
   "date": "2023-05-03T18:00:00",
@@ -9021,7 +9021,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7uau4tTuJp4",
+  "link": "https://youtu.be/7uau4tTuJp4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-05-04T18:00:00",
@@ -9032,7 +9032,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=u2DzxX8DVlQ",
+  "link": "https://youtu.be/u2DzxX8DVlQ",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-05-15T18:00:00",
@@ -9043,7 +9043,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_O1IaaTrz4s",
+  "link": "https://youtu.be/_O1IaaTrz4s",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-05-18T18:00:00",
@@ -9054,7 +9054,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YarPYSBT4w8",
+  "link": "https://youtu.be/YarPYSBT4w8",
   "category": "Media_Content",
   "member": "소연",
   "date": "2023-05-18T18:00:00",
@@ -9065,7 +9065,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UiO4Ksz7AtU",
+  "link": "https://youtu.be/UiO4Ksz7AtU",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-05-18T18:00:00",
@@ -9076,7 +9076,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Zyc1zfQf81U",
+  "link": "https://youtu.be/Zyc1zfQf81U",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-05-18T18:00:00",
@@ -9087,7 +9087,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Eb1Nh1tbjqY",
+  "link": "https://youtu.be/Eb1Nh1tbjqY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-05-19T18:00:00",
@@ -9098,7 +9098,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TWDK_4oij5I",
+  "link": "https://youtu.be/TWDK_4oij5I",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-05-19T18:00:00",
@@ -9109,7 +9109,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aF-dmrojCvg",
+  "link": "https://youtu.be/aF-dmrojCvg",
   "category": "Media_Content",
   "member": "민니",
   "date": "2023-05-19T18:00:00",
@@ -9120,7 +9120,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CbAVQGPqvtM",
+  "link": "https://youtu.be/CbAVQGPqvtM",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-05-19T18:00:00",
@@ -9131,7 +9131,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ugsDF39exeY",
+  "link": "https://youtu.be/ugsDF39exeY",
   "category": "Media_Content",
   "member": "소연",
   "date": "2023-05-20T18:00:00",
@@ -9142,7 +9142,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kXzdibrb5Sw",
+  "link": "https://youtu.be/kXzdibrb5Sw",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-05-21T18:00:00",
@@ -9153,7 +9153,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3c6WMB5qikY",
+  "link": "https://youtu.be/3c6WMB5qikY",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-05-22T18:00:00",
@@ -9164,7 +9164,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hZZkOzAgOBM",
+  "link": "https://youtu.be/hZZkOzAgOBM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-05-22T18:00:00",
@@ -9175,7 +9175,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6NWpalFqdvo",
+  "link": "https://youtu.be/6NWpalFqdvo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-05-23T18:00:00",
@@ -9186,7 +9186,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=13NG42eAaV4",
+  "link": "https://youtu.be/13NG42eAaV4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-05-24T18:00:00",
@@ -9197,7 +9197,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iE4pcQuvfWM",
+  "link": "https://youtu.be/iE4pcQuvfWM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-05-25T18:00:00",
@@ -9208,7 +9208,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lDh4X8mnuQQ",
+  "link": "https://youtu.be/lDh4X8mnuQQ",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-05-25T18:00:00",
@@ -9219,7 +9219,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qVQ9UMlU9IQ",
+  "link": "https://youtu.be/qVQ9UMlU9IQ",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-05-25T18:00:00",
@@ -9230,7 +9230,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zh-4Tef5YqE",
+  "link": "https://youtu.be/zh-4Tef5YqE",
   "category": "Media_Content",
   "member": "소연, 민니",
   "date": "2023-05-25T18:00:00",
@@ -9241,7 +9241,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=m_ZuuKj2a1Y",
+  "link": "https://youtu.be/m_ZuuKj2a1Y",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-05-25T18:00:00",
@@ -9252,7 +9252,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eql5fVKWiZw",
+  "link": "https://youtu.be/eql5fVKWiZw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-05-25T18:00:00",
@@ -9263,7 +9263,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_kUBP3G9gQg",
+  "link": "https://youtu.be/_kUBP3G9gQg",
   "category": "Media_Content",
   "member": "소연",
   "date": "2023-05-26T18:00:00",
@@ -9274,7 +9274,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WYmBh5tE6iU",
+  "link": "https://youtu.be/WYmBh5tE6iU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-05-26T18:00:00",
@@ -9285,7 +9285,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ca_vDKnMHaQ",
+  "link": "https://youtu.be/Ca_vDKnMHaQ",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2023-05-27T18:00:00",
@@ -9296,7 +9296,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vY8uxSlem3A",
+  "link": "https://youtu.be/vY8uxSlem3A",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2023-05-28T18:00:00",
@@ -9307,7 +9307,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tqoPFaEgZJk",
+  "link": "https://youtu.be/tqoPFaEgZJk",
   "category": "Media_Content",
   "member": "미연, 민니, 우기",
   "date": "2023-05-28T18:00:00",
@@ -9318,7 +9318,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hMAuo9KfgH0",
+  "link": "https://youtu.be/hMAuo9KfgH0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-05-29T18:00:00",
@@ -9329,7 +9329,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VQS73e0AE28",
+  "link": "https://youtu.be/VQS73e0AE28",
   "category": "Media_Content",
   "member": "소연",
   "date": "2023-05-30T18:00:00",
@@ -9340,7 +9340,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pTaKYCHPbis",
+  "link": "https://youtu.be/pTaKYCHPbis",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-05-30T18:00:00",
@@ -9351,7 +9351,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KmEbUQ6D_q8",
+  "link": "https://youtu.be/KmEbUQ6D_q8",
   "category": "Media_Content",
   "member": "민니",
   "date": "2023-05-30T18:00:00",
@@ -9362,7 +9362,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ixh2OyXsUwM",
+  "link": "https://youtu.be/Ixh2OyXsUwM",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-06-01T18:00:00",
@@ -9373,7 +9373,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oFBGOI_OGho",
+  "link": "https://youtu.be/oFBGOI_OGho",
   "category": "Media_Content",
   "member": "민니, 슈화",
   "date": "2023-06-02T18:00:00",
@@ -9384,7 +9384,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-_mBU0inx0g",
+  "link": "https://youtu.be/-_mBU0inx0g",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-06-02T18:00:00",
@@ -9395,7 +9395,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BUq0SOM90ls",
+  "link": "https://youtu.be/BUq0SOM90ls",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-06-03T18:00:00",
@@ -9406,7 +9406,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=R5G51JSjG5g",
+  "link": "https://youtu.be/R5G51JSjG5g",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-06-04T18:00:00",
@@ -9417,7 +9417,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SvNCqXY7w-M",
+  "link": "https://youtu.be/SvNCqXY7w-M",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-06-04T18:00:00",
@@ -9428,7 +9428,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=N-9T167CMQ4",
+  "link": "https://youtu.be/N-9T167CMQ4",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-06-08T18:00:00",
@@ -9439,7 +9439,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vS3ijM2tnZA",
+  "link": "https://youtu.be/vS3ijM2tnZA",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-06-09T18:00:00",
@@ -9450,7 +9450,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1jyJCP4325E",
+  "link": "https://youtu.be/1jyJCP4325E",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-06-10T18:00:00",
@@ -9461,7 +9461,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wcyYkKNEnGA",
+  "link": "https://youtu.be/wcyYkKNEnGA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-06-11T18:00:00",
@@ -9472,7 +9472,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lHOdneHI9n4",
+  "link": "https://youtu.be/lHOdneHI9n4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-06-11T18:00:00",
@@ -9483,7 +9483,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lBGUNro05Ik",
+  "link": "https://youtu.be/lBGUNro05Ik",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-06-12T18:00:00",
@@ -9494,7 +9494,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zgBL5SeqsV0",
+  "link": "https://youtu.be/zgBL5SeqsV0",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-06-15T18:00:00",
@@ -9505,7 +9505,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tpZWFgxTRaY",
+  "link": "https://youtu.be/tpZWFgxTRaY",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-06-16T18:00:00",
@@ -9516,7 +9516,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=U5D4nDHKGn4",
+  "link": "https://youtu.be/U5D4nDHKGn4",
   "category": "Media_Content",
   "member": "민니, 슈화",
   "date": "2023-06-22T18:00:00",
@@ -9527,7 +9527,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ANa_hp0A7pg",
+  "link": "https://youtu.be/ANa_hp0A7pg",
   "category": "Media_Content",
   "member": "소연, 미연, 우기",
   "date": "2023-06-27T18:00:00",
@@ -9538,7 +9538,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VRpdJprNTro",
+  "link": "https://youtu.be/VRpdJprNTro",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-06-29T18:00:00",
@@ -9549,7 +9549,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=K3jHdrfM6l4",
+  "link": "https://youtu.be/K3jHdrfM6l4",
   "category": "Media_Content",
   "member": "미연, 슈화",
   "date": "2023-07-06T18:00:00",
@@ -9560,7 +9560,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=chkzgW9aJrg",
+  "link": "https://youtu.be/chkzgW9aJrg",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-07-13T18:00:00",
@@ -9571,7 +9571,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WY2pw9uICzY",
+  "link": "https://youtu.be/WY2pw9uICzY",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2023-07-18T18:00:00",
@@ -9582,7 +9582,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WY2pw9uICzY",
+  "link": "https://youtu.be/WY2pw9uICzY",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2023-07-18T18:00:00",
@@ -9593,7 +9593,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=re7FjzbWfms",
+  "link": "https://youtu.be/re7FjzbWfms",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-07-20T18:00:00",
@@ -9604,7 +9604,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AVGQAleAIBQ",
+  "link": "https://youtu.be/AVGQAleAIBQ",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-07-24T18:00:00",
@@ -9615,7 +9615,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wmPmaBTj6-Q",
+  "link": "https://youtu.be/wmPmaBTj6-Q",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-07-26T18:00:00",
@@ -9626,7 +9626,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=e_YxEIZgRWg",
+  "link": "https://youtu.be/e_YxEIZgRWg",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-07-27T18:00:00",
@@ -9637,7 +9637,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oRUg6bJQ-Xk",
+  "link": "https://youtu.be/oRUg6bJQ-Xk",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2023-07-31T18:00:00",
@@ -9648,7 +9648,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=u7BoH2fchzs",
+  "link": "https://youtu.be/u7BoH2fchzs",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-08-03T18:00:00",
@@ -9659,7 +9659,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SWoauIkEOF8",
+  "link": "https://youtu.be/SWoauIkEOF8",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-08-10T18:00:00",
@@ -9670,7 +9670,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qaE6Tc6AlSw",
+  "link": "https://youtu.be/qaE6Tc6AlSw",
   "category": "Media_Content",
   "member": "미연, 슈화",
   "date": "2023-08-17T18:00:00",
@@ -9681,7 +9681,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1yi8o563V9g",
+  "link": "https://youtu.be/1yi8o563V9g",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-08-24T18:00:00",
@@ -9692,7 +9692,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gOyAE_tBhu8",
+  "link": "https://youtu.be/gOyAE_tBhu8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-08-24T18:00:00",
@@ -9703,7 +9703,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JC6E8cs6grc",
+  "link": "https://youtu.be/JC6E8cs6grc",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-08-24T18:00:00",
@@ -9714,7 +9714,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mDwBnEgjCyI",
+  "link": "https://youtu.be/mDwBnEgjCyI",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-08-24T18:00:00",
@@ -9725,7 +9725,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KUbS-sx-caY",
+  "link": "https://youtu.be/KUbS-sx-caY",
   "category": "Media_Content",
   "member": "소연",
   "date": "2023-08-31T18:00:00",
@@ -9736,7 +9736,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=u1spnGXvjsQ",
+  "link": "https://youtu.be/u1spnGXvjsQ",
   "category": "Media_Content",
   "member": "미연, 민니, 슈화",
   "date": "2023-08-31T18:00:00",
@@ -9747,7 +9747,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tdCqQnFPru4",
+  "link": "https://youtu.be/tdCqQnFPru4",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-09-26T18:00:00",
@@ -9758,7 +9758,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Kp1s62im8hE",
+  "link": "https://youtu.be/Kp1s62im8hE",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-09-27T18:00:00",
@@ -9769,7 +9769,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=om5ax9VuWP0",
+  "link": "https://youtu.be/om5ax9VuWP0",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-09-28T18:00:00",
@@ -9780,7 +9780,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MCczGUrEr9g",
+  "link": "https://youtu.be/MCczGUrEr9g",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-10-02T18:00:00",
@@ -9791,7 +9791,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1DJovyQx7Ac",
+  "link": "https://youtu.be/1DJovyQx7Ac",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-10-05T18:00:00",
@@ -9802,7 +9802,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uRdHqhQdP2k",
+  "link": "https://youtu.be/uRdHqhQdP2k",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-10-10T18:00:00",
@@ -9813,7 +9813,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8KtoKw5tW08",
+  "link": "https://youtu.be/8KtoKw5tW08",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-10-12T18:00:00",
@@ -9824,7 +9824,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-_-SlPJ4s0M",
+  "link": "https://youtu.be/-_-SlPJ4s0M",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-10-13T18:00:00",
@@ -9835,7 +9835,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9GSvEF_8YIo",
+  "link": "https://youtu.be/9GSvEF_8YIo",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-10-16T18:00:00",
@@ -9846,7 +9846,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=t5hJiuT31qU",
+  "link": "https://youtu.be/t5hJiuT31qU",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-10-20T18:00:00",
@@ -9857,7 +9857,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cMeFAw2eRe4",
+  "link": "https://youtu.be/cMeFAw2eRe4",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-10-23T18:00:00",
@@ -9868,7 +9868,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Y5rNy9gceHQ",
+  "link": "https://youtu.be/Y5rNy9gceHQ",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-10-26T18:00:00",
@@ -9879,7 +9879,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=L3C8Hm1P_78",
+  "link": "https://youtu.be/L3C8Hm1P_78",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-10-27T18:00:00",
@@ -9890,7 +9890,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DvY2gR_cTTw",
+  "link": "https://youtu.be/DvY2gR_cTTw",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-10-30T18:00:00",
@@ -9901,7 +9901,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pijYts6GYaM",
+  "link": "https://youtu.be/pijYts6GYaM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-10-31T18:00:00",
@@ -9912,7 +9912,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gKXUT9HVGyU",
+  "link": "https://youtu.be/gKXUT9HVGyU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-11-02T18:00:00",
@@ -9923,7 +9923,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ghoT4CfPHo0",
+  "link": "https://youtu.be/ghoT4CfPHo0",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-11-02T18:00:00",
@@ -9934,7 +9934,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WKIXF1cQsg4",
+  "link": "https://youtu.be/WKIXF1cQsg4",
   "category": "Media_Content",
   "member": "민니",
   "date": "2023-11-04T18:00:00",
@@ -9945,7 +9945,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ayYxinccxDI",
+  "link": "https://youtu.be/ayYxinccxDI",
   "category": "Media_Content",
   "member": "민니",
   "date": "2023-11-04T18:00:00",
@@ -9956,7 +9956,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=J_sPUO9W4Z8",
+  "link": "https://youtu.be/J_sPUO9W4Z8",
   "category": "Media_Content",
   "member": "민니",
   "date": "2023-11-04T18:00:00",
@@ -9967,7 +9967,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bgKMZDdbkOA",
+  "link": "https://youtu.be/bgKMZDdbkOA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-11-06T18:00:00",
@@ -9978,7 +9978,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=o6lmdLyH3E0",
+  "link": "https://youtu.be/o6lmdLyH3E0",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-11-06T18:00:00",
@@ -9989,7 +9989,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ADFIhh0F8hY",
+  "link": "https://youtu.be/ADFIhh0F8hY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-11-09T18:00:00",
@@ -10000,7 +10000,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_IxTnxyYTwo",
+  "link": "https://youtu.be/_IxTnxyYTwo",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-11-10T18:00:00",
@@ -10011,7 +10011,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kyJdFVzlYw0",
+  "link": "https://youtu.be/kyJdFVzlYw0",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-11-13T18:00:00",
@@ -10022,7 +10022,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xGfPcH3WT6A",
+  "link": "https://youtu.be/xGfPcH3WT6A",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-11-16T18:00:00",
@@ -10033,7 +10033,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MC7H93bedAE",
+  "link": "https://youtu.be/MC7H93bedAE",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-11-17T18:00:00",
@@ -10044,7 +10044,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NjJHUVAyUv4",
+  "link": "https://youtu.be/NjJHUVAyUv4",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-11-23T18:00:00",
@@ -10055,7 +10055,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=o-dOON8AvR4",
+  "link": "https://youtu.be/o-dOON8AvR4",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-11-24T18:00:00",
@@ -10066,7 +10066,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rM-ebS7aHZ0",
+  "link": "https://youtu.be/rM-ebS7aHZ0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-11-25T18:00:00",
@@ -10077,7 +10077,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YOzoLxWomMk",
+  "link": "https://youtu.be/YOzoLxWomMk",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-11-30T18:00:00",
@@ -10088,7 +10088,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nBQIItNaYUY",
+  "link": "https://youtu.be/nBQIItNaYUY",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-12-01T18:00:00",
@@ -10099,7 +10099,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pCu_iuaVcOM",
+  "link": "https://youtu.be/pCu_iuaVcOM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2023-12-04T18:00:00",
@@ -10110,7 +10110,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LmjoREi390I",
+  "link": "https://youtu.be/LmjoREi390I",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2023-12-07T18:00:00",
@@ -10121,7 +10121,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YVTm4W0zwpU",
+  "link": "https://youtu.be/YVTm4W0zwpU",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-12-08T18:00:00",
@@ -10132,7 +10132,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IBh1IEbqpjo",
+  "link": "https://youtu.be/IBh1IEbqpjo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2023-12-08T18:00:00",
@@ -10143,7 +10143,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rdayY7k8xsc",
+  "link": "https://youtu.be/rdayY7k8xsc",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-12-14T18:00:00",
@@ -10154,7 +10154,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_VdEyyDGgY8",
+  "link": "https://youtu.be/_VdEyyDGgY8",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-12-15T18:00:00",
@@ -10165,7 +10165,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Gdk-KV8uXvw",
+  "link": "https://youtu.be/Gdk-KV8uXvw",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2023-12-21T18:00:00",
@@ -10176,7 +10176,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=r75PEgOJ5aU",
+  "link": "https://youtu.be/r75PEgOJ5aU",
   "category": "Media_Content",
   "member": "우기",
   "date": "2023-12-24T18:00:00",
@@ -10187,7 +10187,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4q56QakVfjY",
+  "link": "https://youtu.be/4q56QakVfjY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-01-12T18:00:00",
@@ -10198,7 +10198,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=99KDAa0yvyY",
+  "link": "https://youtu.be/99KDAa0yvyY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-01-31T18:00:00",
@@ -10209,7 +10209,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EXkHLMzZLM0",
+  "link": "https://youtu.be/EXkHLMzZLM0",
   "category": "Media_Content",
   "member": "우기",
   "date": "2024-01-31T18:00:00",
@@ -10220,7 +10220,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Z7swxITmE_U",
+  "link": "https://youtu.be/Z7swxITmE_U",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-01T18:00:00",
@@ -10231,7 +10231,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NKEKkdgFP40",
+  "link": "https://youtu.be/NKEKkdgFP40",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-01T18:00:00",
@@ -10242,7 +10242,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=G7dySc4IN60",
+  "link": "https://youtu.be/G7dySc4IN60",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-01T18:00:00",
@@ -10253,7 +10253,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=N_1XDDzPjNE",
+  "link": "https://youtu.be/N_1XDDzPjNE",
   "category": "Media_Content",
   "member": "민니",
   "date": "2024-02-01T18:00:00",
@@ -10264,7 +10264,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=m8s6G5gU0gk",
+  "link": "https://youtu.be/m8s6G5gU0gk",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-02-01T18:00:00",
@@ -10275,7 +10275,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=grKFXFAEpLE",
+  "link": "https://youtu.be/grKFXFAEpLE",
   "category": "Media_Content",
   "member": "우기",
   "date": "2024-02-01T18:00:00",
@@ -10286,7 +10286,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7ZqERcFR4iA",
+  "link": "https://youtu.be/7ZqERcFR4iA",
   "category": "Media_Content",
   "member": "우기",
   "date": "2024-02-01T18:00:00",
@@ -10297,7 +10297,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lIiKTLz0igo",
+  "link": "https://youtu.be/lIiKTLz0igo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-01T18:00:00",
@@ -10308,7 +10308,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bAODB5c8Xz4",
+  "link": "https://youtu.be/bAODB5c8Xz4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-02-02T18:00:00",
@@ -10319,7 +10319,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Enwymqv8f98",
+  "link": "https://youtu.be/Enwymqv8f98",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-03T18:00:00",
@@ -10330,7 +10330,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=b2zoVwCWAQQ",
+  "link": "https://youtu.be/b2zoVwCWAQQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-03T18:00:00",
@@ -10341,7 +10341,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_wRd8_OnM9s",
+  "link": "https://youtu.be/_wRd8_OnM9s",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-03T18:00:00",
@@ -10352,7 +10352,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SsITRxMFZn8",
+  "link": "https://youtu.be/SsITRxMFZn8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-02-03T18:00:00",
@@ -10363,7 +10363,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TphgwyVkzts",
+  "link": "https://youtu.be/TphgwyVkzts",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-04T18:00:00",
@@ -10374,7 +10374,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=x5hZaMJDF_s",
+  "link": "https://youtu.be/x5hZaMJDF_s",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-04T18:00:00",
@@ -10385,7 +10385,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WVND7bVGjqc",
+  "link": "https://youtu.be/WVND7bVGjqc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-04T18:00:00",
@@ -10396,7 +10396,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DxZvYEayYrg",
+  "link": "https://youtu.be/DxZvYEayYrg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-04T18:00:00",
@@ -10407,7 +10407,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HaNKldW8Djc",
+  "link": "https://youtu.be/HaNKldW8Djc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-04T18:00:00",
@@ -10418,7 +10418,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jlXGDTP5_Z0",
+  "link": "https://youtu.be/jlXGDTP5_Z0",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-04T18:00:00",
@@ -10429,7 +10429,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9lkyCEJJTvo",
+  "link": "https://youtu.be/9lkyCEJJTvo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-04T18:00:00",
@@ -10440,7 +10440,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EXEae-eSdHk",
+  "link": "https://youtu.be/EXEae-eSdHk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-04T18:00:00",
@@ -10451,7 +10451,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5s_9mK33NCA",
+  "link": "https://youtu.be/5s_9mK33NCA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-04T18:00:00",
@@ -10462,7 +10462,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ByUzQAKl0Ok",
+  "link": "https://youtu.be/ByUzQAKl0Ok",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-04T18:00:00",
@@ -10473,7 +10473,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=075OWQXu_jk",
+  "link": "https://youtu.be/075OWQXu_jk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-04T18:00:00",
@@ -10484,7 +10484,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jPLm5rsqRAg",
+  "link": "https://youtu.be/jPLm5rsqRAg",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-04T18:00:00",
@@ -10495,7 +10495,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uEQXvSJek6Y",
+  "link": "https://youtu.be/uEQXvSJek6Y",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-04T18:00:00",
@@ -10506,7 +10506,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=k8But4uOCDI",
+  "link": "https://youtu.be/k8But4uOCDI",
   "category": "Media_Content",
   "member": "우기, 슈화",
   "date": "2024-02-09T18:00:00",
@@ -10517,7 +10517,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ToQCwFFNEtw",
+  "link": "https://youtu.be/ToQCwFFNEtw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-02-14T18:00:00",
@@ -10528,7 +10528,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PTWyWh1Oeow",
+  "link": "https://youtu.be/PTWyWh1Oeow",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2024-02-17T18:00:00",
@@ -10539,7 +10539,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-qiAmSozQTA",
+  "link": "https://youtu.be/-qiAmSozQTA",
   "category": "Media_Content",
   "member": "민니",
   "date": "2024-02-18T18:00:00",
@@ -10550,7 +10550,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bcWum5CT1U8",
+  "link": "https://youtu.be/bcWum5CT1U8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-03-05T18:00:00",
@@ -10561,7 +10561,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6CPOm8MlNfk",
+  "link": "https://youtu.be/6CPOm8MlNfk",
   "category": "Media_Content",
   "member": "민니",
   "date": "2024-03-12T18:00:00",
@@ -10572,7 +10572,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Wff4Ip_SHBw",
+  "link": "https://youtu.be/Wff4Ip_SHBw",
   "category": "Media_Content",
   "member": "민니",
   "date": "2024-03-19T18:00:00",
@@ -10583,7 +10583,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gh5aq4Tqq9A",
+  "link": "https://youtu.be/gh5aq4Tqq9A",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-03-21T18:00:00",
@@ -10594,7 +10594,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vX6s3Nkb9WM",
+  "link": "https://youtu.be/vX6s3Nkb9WM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-03-22T18:00:00",
@@ -10605,7 +10605,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=i3edDXjiv7U",
+  "link": "https://youtu.be/i3edDXjiv7U",
   "category": "Media_Content",
   "member": "민니",
   "date": "2024-03-25T18:00:00",
@@ -10616,7 +10616,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6mtKI_b_DgY",
+  "link": "https://youtu.be/6mtKI_b_DgY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-03-28T18:00:00",
@@ -10627,7 +10627,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=E0kuxie_ZNs",
+  "link": "https://youtu.be/E0kuxie_ZNs",
   "category": "Media_Content",
   "member": "민니",
   "date": "2024-03-29T18:00:00",
@@ -10638,7 +10638,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=H3pkJHnPtNA",
+  "link": "https://youtu.be/H3pkJHnPtNA",
   "category": "Media_Content",
   "member": "민니",
   "date": "2024-03-29T18:00:00",
@@ -10649,7 +10649,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cFH_iap4pDc",
+  "link": "https://youtu.be/cFH_iap4pDc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-04-01T18:00:00",
@@ -10660,7 +10660,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KkBWQTt4B6g",
+  "link": "https://youtu.be/KkBWQTt4B6g",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-04-09T18:00:00",
@@ -10671,7 +10671,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Avr80KQT530",
+  "link": "https://youtu.be/Avr80KQT530",
   "category": "Media_Content",
   "member": "우기",
   "date": "2024-04-09T18:00:00",
@@ -10682,7 +10682,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dhH9LVytAhY",
+  "link": "https://youtu.be/dhH9LVytAhY",
   "category": "Media_Content",
   "member": "민니",
   "date": "2024-04-12T18:00:00",
@@ -10693,7 +10693,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qllUq84v2ZA",
+  "link": "https://youtu.be/qllUq84v2ZA",
   "category": "Media_Content",
   "member": "민니",
   "date": "2024-04-18T18:00:00",
@@ -10704,7 +10704,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VVhmUgFtEAA",
+  "link": "https://youtu.be/VVhmUgFtEAA",
   "category": "Media_Content",
   "member": "우기",
   "date": "2024-04-23T18:00:00",
@@ -10715,7 +10715,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9lsvBVtG1X8",
+  "link": "https://youtu.be/9lsvBVtG1X8",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-04-24T18:00:00",
@@ -10726,7 +10726,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=drfCoH6pVvs",
+  "link": "https://youtu.be/drfCoH6pVvs",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2024-04-26T18:00:00",
@@ -10737,7 +10737,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EZW70Fq5v78",
+  "link": "https://youtu.be/EZW70Fq5v78",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-05-03T18:00:00",
@@ -10748,7 +10748,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3c3hU4qtiRM",
+  "link": "https://youtu.be/3c3hU4qtiRM",
   "category": "Media_Content",
   "member": "우기",
   "date": "2024-05-03T18:00:00",
@@ -10759,7 +10759,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=b327aGnSV4s",
+  "link": "https://youtu.be/b327aGnSV4s",
   "category": "Media_Content",
   "member": "미연, 민니",
   "date": "2024-05-04T18:00:00",
@@ -10770,7 +10770,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=C_3wc2k8ENA",
+  "link": "https://youtu.be/C_3wc2k8ENA",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-05-08T18:00:00",
@@ -10781,7 +10781,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5Xlmmq_PA8w",
+  "link": "https://youtu.be/5Xlmmq_PA8w",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-05-15T18:00:00",
@@ -10792,7 +10792,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=J-6OGwnSX5E",
+  "link": "https://youtu.be/J-6OGwnSX5E",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-05-22T18:00:00",
@@ -10803,7 +10803,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WEKTIvHDWN4",
+  "link": "https://youtu.be/WEKTIvHDWN4",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-05-29T18:00:00",
@@ -10814,7 +10814,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OB6uWq8DK0k",
+  "link": "https://youtu.be/OB6uWq8DK0k",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-06-05T18:00:00",
@@ -10825,7 +10825,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5NH75fbpIwU",
+  "link": "https://youtu.be/5NH75fbpIwU",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-06-12T18:00:00",
@@ -10836,7 +10836,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=klDyLicaaqE",
+  "link": "https://youtu.be/klDyLicaaqE",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-06-19T18:00:00",
@@ -10847,7 +10847,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EQfwcrdHHKA",
+  "link": "https://youtu.be/EQfwcrdHHKA",
   "category": "Media_Content",
   "member": "미연, 슈화",
   "date": "2024-06-19T18:00:00",
@@ -10858,7 +10858,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oH9esVebrEc",
+  "link": "https://youtu.be/oH9esVebrEc",
   "category": "Media_Content",
   "member": "미연, 슈화",
   "date": "2024-06-26T18:00:00",
@@ -10869,7 +10869,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HD1hisCITN4",
+  "link": "https://youtu.be/HD1hisCITN4",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-07-03T18:00:00",
@@ -10880,7 +10880,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YRcHfWAfRis",
+  "link": "https://youtu.be/YRcHfWAfRis",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-07-04T18:00:00",
@@ -10891,7 +10891,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TdSE-HDQ4BU",
+  "link": "https://youtu.be/TdSE-HDQ4BU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-07-08T18:00:00",
@@ -10902,7 +10902,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8XSgO4JNhi4",
+  "link": "https://youtu.be/8XSgO4JNhi4",
   "category": "Media_Content",
   "member": "미연, 소연",
   "date": "2024-07-09T18:00:00",
@@ -10913,7 +10913,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uE7hBc9aEzg",
+  "link": "https://youtu.be/uE7hBc9aEzg",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-07-10T18:00:00",
@@ -10924,7 +10924,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oU4U39WSbVA",
+  "link": "https://youtu.be/oU4U39WSbVA",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-07-10T18:00:00",
@@ -10935,7 +10935,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Jcv9THBalhM",
+  "link": "https://youtu.be/Jcv9THBalhM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-07-11T18:00:00",
@@ -10946,7 +10946,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WFfXRmlhgDQ",
+  "link": "https://youtu.be/WFfXRmlhgDQ",
   "category": "Media_Content",
   "member": "민니",
   "date": "2024-07-11T18:00:00",
@@ -10957,7 +10957,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZHc5r2udNC8",
+  "link": "https://youtu.be/ZHc5r2udNC8",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2024-07-11T18:00:00",
@@ -10968,7 +10968,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=k426nSKvkuc",
+  "link": "https://youtu.be/k426nSKvkuc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-07-11T18:00:00",
@@ -10979,7 +10979,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=THeZo_llTA8",
+  "link": "https://youtu.be/THeZo_llTA8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-07-12T18:00:00",
@@ -10990,7 +10990,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OsYO6tj89vA",
+  "link": "https://youtu.be/OsYO6tj89vA",
   "category": "Media_Content",
   "member": "우기",
   "date": "2024-07-12T18:00:00",
@@ -11001,7 +11001,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bm1dFHxZ-Kk",
+  "link": "https://youtu.be/bm1dFHxZ-Kk",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-07-13T18:00:00",
@@ -11012,7 +11012,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EvviDzgLwA4",
+  "link": "https://youtu.be/EvviDzgLwA4",
   "category": "Media_Content",
   "member": "미연, 민니",
   "date": "2024-07-13T18:00:00",
@@ -11023,7 +11023,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=40uWYloF7Js",
+  "link": "https://youtu.be/40uWYloF7Js",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-07-14T18:00:00",
@@ -11034,7 +11034,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LboMzlpKcxY",
+  "link": "https://youtu.be/LboMzlpKcxY",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-07-16T18:00:00",
@@ -11045,7 +11045,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ByfTTLhXPIs",
+  "link": "https://youtu.be/ByfTTLhXPIs",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-07-17T18:00:00",
@@ -11056,7 +11056,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VvNbMvVRYcs",
+  "link": "https://youtu.be/VvNbMvVRYcs",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2024-07-17T18:00:00",
@@ -11067,7 +11067,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YLqRfopWLaA",
+  "link": "https://youtu.be/YLqRfopWLaA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-07-23T18:00:00",
@@ -11078,7 +11078,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RT8ZqskIuVE",
+  "link": "https://youtu.be/RT8ZqskIuVE",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-07-24T18:00:00",
@@ -11089,7 +11089,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nVLBGtnC2B8",
+  "link": "https://youtu.be/nVLBGtnC2B8",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-07-24T18:00:00",
@@ -11100,7 +11100,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1Ccx4kjPz_M",
+  "link": "https://youtu.be/1Ccx4kjPz_M",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-07-26T18:00:00",
@@ -11111,7 +11111,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QcUm1Q2W3O0",
+  "link": "https://youtu.be/QcUm1Q2W3O0",
   "category": "Media_Content",
   "member": "미연, 우기",
   "date": "2024-07-27T18:00:00",
@@ -11122,7 +11122,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BMVgIcIEiJQ",
+  "link": "https://youtu.be/BMVgIcIEiJQ",
   "category": "Media_Content",
   "member": "미연, 우기",
   "date": "2024-07-28T18:00:00",
@@ -11133,7 +11133,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=x1EpdKKy4vk",
+  "link": "https://youtu.be/x1EpdKKy4vk",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-08-01T18:00:00",
@@ -11144,7 +11144,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5EMm1jbieaU",
+  "link": "https://youtu.be/5EMm1jbieaU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-08-09T18:00:00",
@@ -11155,7 +11155,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uhUANPfnSEk",
+  "link": "https://youtu.be/uhUANPfnSEk",
   "category": "Media_Content",
   "member": "우기",
   "date": "2024-08-09T18:00:00",
@@ -11166,7 +11166,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gV92lk--HI4",
+  "link": "https://youtu.be/gV92lk--HI4",
   "category": "Media_Content",
   "member": "미연, 우기, 슈화",
   "date": "2024-08-10T18:00:00",
@@ -11177,7 +11177,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=83SW5et3ruI",
+  "link": "https://youtu.be/83SW5et3ruI",
   "category": "Media_Content",
   "member": "미연, 우기, 슈화",
   "date": "2024-08-13T18:00:00",
@@ -11188,7 +11188,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jnEMXPVIQQs",
+  "link": "https://youtu.be/jnEMXPVIQQs",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-09-08T18:00:00",
@@ -11199,7 +11199,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KGc4boeRMJI",
+  "link": "https://youtu.be/KGc4boeRMJI",
   "category": "Media_Content",
   "member": "민니",
   "date": "2024-10-07T18:00:00",
@@ -11210,7 +11210,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=w8YHWdYdeQk",
+  "link": "https://youtu.be/w8YHWdYdeQk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-10-08T18:00:00",
@@ -11221,7 +11221,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=v-ktLgn4tkk",
+  "link": "https://youtu.be/v-ktLgn4tkk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-10-09T18:00:00",
@@ -11232,7 +11232,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=je19F-V_WPg",
+  "link": "https://youtu.be/je19F-V_WPg",
   "category": "Media_Content",
   "member": "민니",
   "date": "2024-10-09T18:00:00",
@@ -11243,7 +11243,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6yHb9LqZ77Y",
+  "link": "https://youtu.be/6yHb9LqZ77Y",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-10-12T18:00:00",
@@ -11254,7 +11254,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=npr7MDAUAoU",
+  "link": "https://youtu.be/npr7MDAUAoU",
   "category": "Media_Content",
   "member": "민니",
   "date": "2024-10-16T18:00:00",
@@ -11265,7 +11265,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0jAUa7APMX4",
+  "link": "https://youtu.be/0jAUa7APMX4",
   "category": "Media_Content",
   "member": "민니",
   "date": "2024-10-17T18:00:00",
@@ -11276,7 +11276,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=K1pNJbqu9_c",
+  "link": "https://youtu.be/K1pNJbqu9_c",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-10-17T18:00:00",
@@ -11287,7 +11287,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sh_FEpfNfuE",
+  "link": "https://youtu.be/sh_FEpfNfuE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-10-29T18:00:00",
@@ -11298,7 +11298,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=V1l1MMVmrjM",
+  "link": "https://youtu.be/V1l1MMVmrjM",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-11-16T18:00:00",
@@ -11309,7 +11309,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=033Oui9XhQw",
+  "link": "https://youtu.be/033Oui9XhQw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-11-18T18:00:00",
@@ -11320,7 +11320,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MWUZKMcm79M",
+  "link": "https://youtu.be/MWUZKMcm79M",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2024-11-23T18:00:00",
@@ -11331,7 +11331,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MzsynRmwonQ",
+  "link": "https://youtu.be/MzsynRmwonQ",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2024-11-24T18:00:00",
@@ -11342,7 +11342,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MhHPhF2rbs8",
+  "link": "https://youtu.be/MhHPhF2rbs8",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-11-27T18:00:00",
@@ -11353,7 +11353,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FLrVXhlm4HA",
+  "link": "https://youtu.be/FLrVXhlm4HA",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2024-11-30T18:00:00",
@@ -11364,7 +11364,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XuFRgZ03gLQ",
+  "link": "https://youtu.be/XuFRgZ03gLQ",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2024-11-30T18:00:00",
@@ -11375,7 +11375,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Z19Pn8s7xxw",
+  "link": "https://youtu.be/Z19Pn8s7xxw",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2024-12-01T18:00:00",
@@ -11386,7 +11386,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ibqajt3xEAk",
+  "link": "https://youtu.be/Ibqajt3xEAk",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2024-12-07T18:00:00",
@@ -11397,7 +11397,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=t8xcFqD6m40",
+  "link": "https://youtu.be/t8xcFqD6m40",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-12-11T18:00:00",
@@ -11408,7 +11408,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6xE82Cnv8pI",
+  "link": "https://youtu.be/6xE82Cnv8pI",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2024-12-16T18:00:00",
@@ -11419,7 +11419,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=w8mg1A9A2XI",
+  "link": "https://youtu.be/w8mg1A9A2XI",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-12-18T18:00:00",
@@ -11430,7 +11430,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5fQO82DLpJQ",
+  "link": "https://youtu.be/5fQO82DLpJQ",
   "category": "Media_Content",
   "member": "소연",
   "date": "2024-12-18T18:00:00",
@@ -11441,7 +11441,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yE2ThvejFI4",
+  "link": "https://youtu.be/yE2ThvejFI4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-12-20T18:00:00",
@@ -11452,7 +11452,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zGbaSYgujT8",
+  "link": "https://youtu.be/zGbaSYgujT8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-12-25T18:00:00",
@@ -11463,7 +11463,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2I32Za7vcPs",
+  "link": "https://youtu.be/2I32Za7vcPs",
   "category": "Media_Content",
   "member": "미연",
   "date": "2024-12-27T18:00:00",
@@ -11474,7 +11474,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GxL3PZar-hA",
+  "link": "https://youtu.be/GxL3PZar-hA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-01-06T18:00:00",
@@ -11485,7 +11485,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tub_r3VZs-o",
+  "link": "https://youtu.be/tub_r3VZs-o",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-01-08T18:00:00",
@@ -11496,7 +11496,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SizLXLWEpNY",
+  "link": "https://youtu.be/SizLXLWEpNY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-01-08T18:00:00",
@@ -11507,7 +11507,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0kSsoUhTvno",
+  "link": "https://youtu.be/0kSsoUhTvno",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-01-08T18:00:00",
@@ -11518,7 +11518,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EimmgOYd9Mc",
+  "link": "https://youtu.be/EimmgOYd9Mc",
   "category": "Media_Content",
   "member": "우기",
   "date": "2025-01-09T18:00:00",
@@ -11529,7 +11529,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9SXW-JbwJiA",
+  "link": "https://youtu.be/9SXW-JbwJiA",
   "category": "Media_Content",
   "member": "소연",
   "date": "2025-01-10T18:00:00",
@@ -11540,7 +11540,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Una9yqNRPqM",
+  "link": "https://youtu.be/Una9yqNRPqM",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-01-14T18:00:00",
@@ -11551,7 +11551,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sertOkopizs",
+  "link": "https://youtu.be/sertOkopizs",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-01-15T18:00:00",
@@ -11562,7 +11562,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dzVFwrkA1VM",
+  "link": "https://youtu.be/dzVFwrkA1VM",
   "category": "Media_Content",
   "member": "소연",
   "date": "2025-01-15T18:00:00",
@@ -11573,7 +11573,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=a6L3uQf1LGU",
+  "link": "https://youtu.be/a6L3uQf1LGU",
   "category": "Media_Content",
   "member": "우기",
   "date": "2025-01-15T18:00:00",
@@ -11584,7 +11584,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7RgJEqWIgiI",
+  "link": "https://youtu.be/7RgJEqWIgiI",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-01-16T18:00:00",
@@ -11595,7 +11595,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Qa2Ngo9NlN0",
+  "link": "https://youtu.be/Qa2Ngo9NlN0",
   "category": "Media_Content",
   "member": "미연, 민니",
   "date": "2025-01-20T18:00:00",
@@ -11606,7 +11606,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vX-3tyPuMPU",
+  "link": "https://youtu.be/vX-3tyPuMPU",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-01-21T18:00:00",
@@ -11617,7 +11617,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KFK7DwAum8E",
+  "link": "https://youtu.be/KFK7DwAum8E",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-01-22T18:00:00",
@@ -11628,7 +11628,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Qzg92GvSQgU",
+  "link": "https://youtu.be/Qzg92GvSQgU",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-01-22T18:00:00",
@@ -11639,7 +11639,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VjbVRXpSYJs",
+  "link": "https://youtu.be/VjbVRXpSYJs",
   "category": "Media_Content",
   "member": "소연, 우기",
   "date": "2025-01-22T18:00:00",
@@ -11650,7 +11650,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VaFj0Aam9yY",
+  "link": "https://youtu.be/VaFj0Aam9yY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-01-23T18:00:00",
@@ -11661,7 +11661,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=p9DQKwXS2Go",
+  "link": "https://youtu.be/p9DQKwXS2Go",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-01-23T18:00:00",
@@ -11672,7 +11672,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hcJG25ZFqDA",
+  "link": "https://youtu.be/hcJG25ZFqDA",
   "category": "Media_Content",
   "member": "소연",
   "date": "2025-01-23T18:00:00",
@@ -11683,7 +11683,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Y-sN-d3IDmw",
+  "link": "https://youtu.be/Y-sN-d3IDmw",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-01-24T18:00:00",
@@ -11694,7 +11694,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5WzdUtlEVFc",
+  "link": "https://youtu.be/5WzdUtlEVFc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-01-24T18:00:00",
@@ -11705,7 +11705,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=77t83VBay4M",
+  "link": "https://youtu.be/77t83VBay4M",
   "category": "Media_Content",
   "member": "미연, 민니",
   "date": "2025-01-27T18:00:00",
@@ -11716,7 +11716,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=c5hEAM8FHeY",
+  "link": "https://youtu.be/c5hEAM8FHeY",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-01-27T18:00:00",
@@ -11727,7 +11727,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BkDW8RmTK4A",
+  "link": "https://youtu.be/BkDW8RmTK4A",
   "category": "Media_Content",
   "member": "우기",
   "date": "2025-01-28T18:00:00",
@@ -11738,7 +11738,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xPFYztEnBDc",
+  "link": "https://youtu.be/xPFYztEnBDc",
   "category": "Media_Content",
   "member": "소연",
   "date": "2025-01-29T18:00:00",
@@ -11749,7 +11749,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CHUYm9B9uJM",
+  "link": "https://youtu.be/CHUYm9B9uJM",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-01-30T18:00:00",
@@ -11760,7 +11760,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qoTMoFhKIRA",
+  "link": "https://youtu.be/qoTMoFhKIRA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-01-31T18:00:00",
@@ -11771,7 +11771,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MyOT2TX9znI",
+  "link": "https://youtu.be/MyOT2TX9znI",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-02-01T18:00:00",
@@ -11782,7 +11782,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1HZ18SkxesM",
+  "link": "https://youtu.be/1HZ18SkxesM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-02-05T18:00:00",
@@ -11793,7 +11793,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=i8Lxlr_7uO4",
+  "link": "https://youtu.be/i8Lxlr_7uO4",
   "category": "Media_Content",
   "member": "소연",
   "date": "2025-02-05T18:00:00",
@@ -11804,7 +11804,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=btkzg2Rl0XA",
+  "link": "https://youtu.be/btkzg2Rl0XA",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-02-06T18:00:00",
@@ -11815,7 +11815,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=icleqYi-gvc",
+  "link": "https://youtu.be/icleqYi-gvc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-02-07T18:00:00",
@@ -11826,7 +11826,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=suH9D6zt_Jk",
+  "link": "https://youtu.be/suH9D6zt_Jk",
   "category": "Media_Content",
   "member": "소연",
   "date": "2025-02-12T18:00:00",
@@ -11837,7 +11837,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=S1Pjl5zUBjg",
+  "link": "https://youtu.be/S1Pjl5zUBjg",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-02-12T18:00:00",
@@ -11848,7 +11848,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XpuofebTpSs",
+  "link": "https://youtu.be/XpuofebTpSs",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-02-12T18:00:00",
@@ -11859,7 +11859,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Jj6Yjf0zH1Y",
+  "link": "https://youtu.be/Jj6Yjf0zH1Y",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-02-12T18:00:00",
@@ -11870,7 +11870,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=T_pIL2pWm1c",
+  "link": "https://youtu.be/T_pIL2pWm1c",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-02-14T18:00:00",
@@ -11881,7 +11881,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CibZxv0MSHo",
+  "link": "https://youtu.be/CibZxv0MSHo",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-02-17T18:00:00",
@@ -11892,7 +11892,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=u_8Av_bDP3U",
+  "link": "https://youtu.be/u_8Av_bDP3U",
   "category": "Media_Content",
   "member": "소연",
   "date": "2025-02-19T18:00:00",
@@ -11903,7 +11903,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Pz7mbZ6YaKc",
+  "link": "https://youtu.be/Pz7mbZ6YaKc",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-02-19T18:00:00",
@@ -11914,7 +11914,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dG3IwsTSAbM",
+  "link": "https://youtu.be/dG3IwsTSAbM",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-02-19T18:00:00",
@@ -11925,7 +11925,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lKk1OA5A9YU",
+  "link": "https://youtu.be/lKk1OA5A9YU",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-02-19T18:00:00",
@@ -11936,7 +11936,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6sLTPEy6LP8",
+  "link": "https://youtu.be/6sLTPEy6LP8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-02-21T18:00:00",
@@ -11947,7 +11947,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=y8kU_KpRMRc",
+  "link": "https://youtu.be/y8kU_KpRMRc",
   "category": "Media_Content",
   "member": "소연",
   "date": "2025-02-26T18:00:00",
@@ -11958,7 +11958,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oQ5yXGJ-qbA",
+  "link": "https://youtu.be/oQ5yXGJ-qbA",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2025-02-26T18:00:00",
@@ -11969,7 +11969,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_7yo-RkiNaU",
+  "link": "https://youtu.be/_7yo-RkiNaU",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2025-02-26T18:00:00",
@@ -11980,7 +11980,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=G5RYvU5q32c",
+  "link": "https://youtu.be/G5RYvU5q32c",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2025-02-26T18:00:00",
@@ -11991,7 +11991,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_yqffQmMuoU",
+  "link": "https://youtu.be/_yqffQmMuoU",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2025-02-27T18:00:00",
@@ -12002,7 +12002,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Py8G02mTzTY",
+  "link": "https://youtu.be/Py8G02mTzTY",
   "category": "Media_Content",
   "member": "미연, 우기",
   "date": "2025-02-28T18:00:00",
@@ -12013,7 +12013,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=m8hR8X3whAY",
+  "link": "https://youtu.be/m8hR8X3whAY",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-03-02T18:00:00",
@@ -12024,7 +12024,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=be5wzLS4W74",
+  "link": "https://youtu.be/be5wzLS4W74",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-03-05T18:00:00",
@@ -12035,7 +12035,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QHAjGcMQ5mw",
+  "link": "https://youtu.be/QHAjGcMQ5mw",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-03-05T18:00:00",
@@ -12046,7 +12046,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hFq0rjTRMjs",
+  "link": "https://youtu.be/hFq0rjTRMjs",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-03-05T18:00:00",
@@ -12057,7 +12057,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DJK_Q_HsKBw",
+  "link": "https://youtu.be/DJK_Q_HsKBw",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-03-05T18:00:00",
@@ -12068,7 +12068,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Gb0aae7-wnc",
+  "link": "https://youtu.be/Gb0aae7-wnc",
   "category": "Media_Content",
   "member": "미연, 슈화",
   "date": "2025-03-06T18:00:00",
@@ -12079,7 +12079,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZDO4SUTB7xk",
+  "link": "https://youtu.be/ZDO4SUTB7xk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-03-07T18:00:00",
@@ -12090,7 +12090,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JELC-WaLVWI",
+  "link": "https://youtu.be/JELC-WaLVWI",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-03-08T18:00:00",
@@ -12101,7 +12101,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=omxkdqMRvcw",
+  "link": "https://youtu.be/omxkdqMRvcw",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-03-11T18:00:00",
@@ -12112,7 +12112,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mwqtrEqqpAI",
+  "link": "https://youtu.be/mwqtrEqqpAI",
   "category": "Media_Content",
   "member": "소연",
   "date": "2025-03-12T18:00:00",
@@ -12123,7 +12123,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SerhmD4RHu4",
+  "link": "https://youtu.be/SerhmD4RHu4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-03-14T18:00:00",
@@ -12134,7 +12134,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=p772IsM34Rg",
+  "link": "https://youtu.be/p772IsM34Rg",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-03-15T18:00:00",
@@ -12145,7 +12145,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=R2-aO_hZ1Vg",
+  "link": "https://youtu.be/R2-aO_hZ1Vg",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-03-21T18:00:00",
@@ -12156,7 +12156,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=maBftz9T4Eo",
+  "link": "https://youtu.be/maBftz9T4Eo",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-03-22T18:00:00",
@@ -12167,7 +12167,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4w7O2GWkEvs",
+  "link": "https://youtu.be/4w7O2GWkEvs",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-03-23T18:00:00",
@@ -12178,7 +12178,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=d25Nce6afsE",
+  "link": "https://youtu.be/d25Nce6afsE",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-03-23T18:00:00",
@@ -12189,7 +12189,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KugGeYNllXI",
+  "link": "https://youtu.be/KugGeYNllXI",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-03-24T18:00:00",
@@ -12200,7 +12200,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DFpCGKxWwn0",
+  "link": "https://youtu.be/DFpCGKxWwn0",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-03-27T18:00:00",
@@ -12211,7 +12211,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-wnsyluYz78",
+  "link": "https://youtu.be/-wnsyluYz78",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-04-02T18:00:00",
@@ -12222,7 +12222,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=f3NqJxo5E04",
+  "link": "https://youtu.be/f3NqJxo5E04",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-04-16T18:00:00",
@@ -12233,7 +12233,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WABHf5fkRIo",
+  "link": "https://youtu.be/WABHf5fkRIo",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-04-17T18:00:00",
@@ -12244,7 +12244,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ckgldy2tL2Q",
+  "link": "https://youtu.be/Ckgldy2tL2Q",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-04-20T18:00:00",
@@ -12255,7 +12255,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=e6Za00BpQzA",
+  "link": "https://youtu.be/e6Za00BpQzA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-04-24T18:00:00",
@@ -12266,7 +12266,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=f5ngEX_sS78",
+  "link": "https://youtu.be/f5ngEX_sS78",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-04-27T18:00:00",
@@ -12277,7 +12277,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=o1Em0fnedx8",
+  "link": "https://youtu.be/o1Em0fnedx8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-04-27T18:00:00",
@@ -12288,7 +12288,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YpOcuuprObI",
+  "link": "https://youtu.be/YpOcuuprObI",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-04-30T18:00:00",
@@ -12299,7 +12299,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=24unNzNBJlc",
+  "link": "https://youtu.be/24unNzNBJlc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-03T18:00:00",
@@ -12310,7 +12310,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kOJU1Vh8yxg",
+  "link": "https://youtu.be/kOJU1Vh8yxg",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-04T18:00:00",
@@ -12321,7 +12321,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ym0-gb1Q8qE",
+  "link": "https://youtu.be/ym0-gb1Q8qE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-07T18:00:00",
@@ -12332,7 +12332,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Je7og0s_WtQ",
+  "link": "https://youtu.be/Je7og0s_WtQ",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-08T18:00:00",
@@ -12343,7 +12343,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jm1_GPGrbts",
+  "link": "https://youtu.be/jm1_GPGrbts",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-10T18:00:00",
@@ -12354,7 +12354,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dNJq9sNvXD0",
+  "link": "https://youtu.be/dNJq9sNvXD0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-10T18:00:00",
@@ -12365,7 +12365,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ps8W1dIoIsc",
+  "link": "https://youtu.be/Ps8W1dIoIsc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-10T18:00:00",
@@ -12376,7 +12376,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AsArDqgP664",
+  "link": "https://youtu.be/AsArDqgP664",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-10T18:00:00",
@@ -12387,7 +12387,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-oNgPyVNhaI",
+  "link": "https://youtu.be/-oNgPyVNhaI",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-10T18:00:00",
@@ -12398,7 +12398,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DGS7Ya2agO4",
+  "link": "https://youtu.be/DGS7Ya2agO4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-10T18:00:00",
@@ -12409,7 +12409,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZqYQWLRjInw",
+  "link": "https://youtu.be/ZqYQWLRjInw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-10T18:00:00",
@@ -12420,7 +12420,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZpzNso5Y3Eo",
+  "link": "https://youtu.be/ZpzNso5Y3Eo",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-10T18:00:00",
@@ -12431,7 +12431,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6hrgoV0Pdvw",
+  "link": "https://youtu.be/6hrgoV0Pdvw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-10T18:00:00",
@@ -12442,7 +12442,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7MVujRhIMso",
+  "link": "https://youtu.be/7MVujRhIMso",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-10T18:00:00",
@@ -12453,7 +12453,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=p1VIULMnww0",
+  "link": "https://youtu.be/p1VIULMnww0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-10T18:00:00",
@@ -12464,7 +12464,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aqkp-hUy23Q",
+  "link": "https://youtu.be/aqkp-hUy23Q",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-10T18:00:00",
@@ -12475,7 +12475,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XlMP4ER7OTo",
+  "link": "https://youtu.be/XlMP4ER7OTo",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-10T18:00:00",
@@ -12486,7 +12486,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AQJh-psjcrY",
+  "link": "https://youtu.be/AQJh-psjcrY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-11T18:00:00",
@@ -12497,7 +12497,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=at8vzw8HcCM",
+  "link": "https://youtu.be/at8vzw8HcCM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-11T18:00:00",
@@ -12508,7 +12508,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eh170Gs1qTc",
+  "link": "https://youtu.be/eh170Gs1qTc",
   "category": "Media_Content",
   "member": "민니, 우기",
   "date": "2025-05-13T18:00:00",
@@ -12519,7 +12519,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=s0wUW8hc4co",
+  "link": "https://youtu.be/s0wUW8hc4co",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-14T18:00:00",
@@ -12530,7 +12530,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VkvfbDw22iU",
+  "link": "https://youtu.be/VkvfbDw22iU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-15T18:00:00",
@@ -12541,7 +12541,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cJkmXQTa_1s",
+  "link": "https://youtu.be/cJkmXQTa_1s",
   "category": "Media_Content",
   "member": "우기",
   "date": "2025-05-17T18:00:00",
@@ -12552,7 +12552,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9GrlLLePUZo",
+  "link": "https://youtu.be/9GrlLLePUZo",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-17T18:00:00",
@@ -12563,7 +12563,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rkHTjxgWQH8",
+  "link": "https://youtu.be/rkHTjxgWQH8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-17T18:00:00",
@@ -12574,7 +12574,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1Dzamz-nOIk",
+  "link": "https://youtu.be/1Dzamz-nOIk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-17T18:00:00",
@@ -12585,7 +12585,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kaSOljmmOP8",
+  "link": "https://youtu.be/kaSOljmmOP8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-17T18:00:00",
@@ -12596,7 +12596,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=c1dZnZiYfrY",
+  "link": "https://youtu.be/c1dZnZiYfrY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-17T18:00:00",
@@ -12607,7 +12607,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kEKltJzmOig",
+  "link": "https://youtu.be/kEKltJzmOig",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-17T18:00:00",
@@ -12618,7 +12618,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zXXPYZAS7vw",
+  "link": "https://youtu.be/zXXPYZAS7vw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-17T18:00:00",
@@ -12629,7 +12629,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=vwowdzSUJYc",
+  "link": "https://youtu.be/vwowdzSUJYc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-17T18:00:00",
@@ -12640,7 +12640,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Z2oi8ts3HMk",
+  "link": "https://youtu.be/Z2oi8ts3HMk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-17T18:00:00",
@@ -12651,7 +12651,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TgvalhlblJo",
+  "link": "https://youtu.be/TgvalhlblJo",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-17T18:00:00",
@@ -12662,7 +12662,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Mm5JoAF6wTw",
+  "link": "https://youtu.be/Mm5JoAF6wTw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-18T18:00:00",
@@ -12673,7 +12673,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=q0zMusGlbVE",
+  "link": "https://youtu.be/q0zMusGlbVE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-18T18:00:00",
@@ -12684,7 +12684,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=khZTXMEu-A0",
+  "link": "https://youtu.be/khZTXMEu-A0",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-18T18:00:00",
@@ -12695,7 +12695,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RugCavy2gXM",
+  "link": "https://youtu.be/RugCavy2gXM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-18T18:00:00",
@@ -12706,7 +12706,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NS5YovKgcco",
+  "link": "https://youtu.be/NS5YovKgcco",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-18T18:00:00",
@@ -12717,7 +12717,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MTllcSxjwtk",
+  "link": "https://youtu.be/MTllcSxjwtk",
   "category": "Media_Content",
   "member": "미연, 우기",
   "date": "2025-05-18T18:00:00",
@@ -12728,7 +12728,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lJAZStJcBzw",
+  "link": "https://youtu.be/lJAZStJcBzw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-18T18:00:00",
@@ -12739,7 +12739,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dVkhHSIbc08",
+  "link": "https://youtu.be/dVkhHSIbc08",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-19T18:00:00",
@@ -12750,7 +12750,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=unBP1SynDcA",
+  "link": "https://youtu.be/unBP1SynDcA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-20T18:00:00",
@@ -12761,7 +12761,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-YXnmXHdzzk",
+  "link": "https://youtu.be/-YXnmXHdzzk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-21T18:00:00",
@@ -12772,7 +12772,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OutLlnsvnk8",
+  "link": "https://youtu.be/OutLlnsvnk8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-21T18:00:00",
@@ -12783,7 +12783,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iJkVKzTeVZA",
+  "link": "https://youtu.be/iJkVKzTeVZA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-21T18:00:00",
@@ -12794,7 +12794,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6AnMTINzL4g",
+  "link": "https://youtu.be/6AnMTINzL4g",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-05-21T18:00:00",
@@ -12805,7 +12805,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WE4LU1ks8u4",
+  "link": "https://youtu.be/WE4LU1ks8u4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-22T18:00:00",
@@ -12816,7 +12816,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AyfSEQTaxz4",
+  "link": "https://youtu.be/AyfSEQTaxz4",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-22T18:00:00",
@@ -12827,7 +12827,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=37Bf68jEZew",
+  "link": "https://youtu.be/37Bf68jEZew",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-22T18:00:00",
@@ -12838,7 +12838,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=a4kO0Mk8BkI",
+  "link": "https://youtu.be/a4kO0Mk8BkI",
   "category": "Media_Content",
   "member": "우기",
   "date": "2025-05-22T18:00:00",
@@ -12849,7 +12849,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IHgVv65TPuA",
+  "link": "https://youtu.be/IHgVv65TPuA",
   "category": "Media_Content",
   "member": "우기",
   "date": "2025-05-22T18:00:00",
@@ -12860,7 +12860,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iXgtOKjLPEE",
+  "link": "https://youtu.be/iXgtOKjLPEE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-22T18:00:00",
@@ -12871,7 +12871,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TLOxJsRB0s8",
+  "link": "https://youtu.be/TLOxJsRB0s8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-23T18:00:00",
@@ -12882,7 +12882,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EDDO1Ip_Glw",
+  "link": "https://youtu.be/EDDO1Ip_Glw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-23T18:00:00",
@@ -12893,7 +12893,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gecnUpw9sAk",
+  "link": "https://youtu.be/gecnUpw9sAk",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-23T18:00:00",
@@ -12904,7 +12904,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ly7KTHjeEzc",
+  "link": "https://youtu.be/ly7KTHjeEzc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-23T18:00:00",
@@ -12915,7 +12915,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cXmG6eKtP_4",
+  "link": "https://youtu.be/cXmG6eKtP_4",
   "category": "Media_Content",
   "member": "미연, 우기",
   "date": "2025-05-23T18:00:00",
@@ -12926,7 +12926,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-1e656YkJwU",
+  "link": "https://youtu.be/-1e656YkJwU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-24T18:00:00",
@@ -12937,7 +12937,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2POHov-gnQE",
+  "link": "https://youtu.be/2POHov-gnQE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-24T18:00:00",
@@ -12948,7 +12948,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dAIZ3VpUwqQ",
+  "link": "https://youtu.be/dAIZ3VpUwqQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-24T18:00:00",
@@ -12959,7 +12959,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jiVAX9Pvolw",
+  "link": "https://youtu.be/jiVAX9Pvolw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-24T18:00:00",
@@ -12970,7 +12970,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=s07Y8m1FaKY",
+  "link": "https://youtu.be/s07Y8m1FaKY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-24T18:00:00",
@@ -12981,7 +12981,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=a-K4lVD_7wc",
+  "link": "https://youtu.be/a-K4lVD_7wc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-24T18:00:00",
@@ -12992,7 +12992,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qjMoSAsaYWI",
+  "link": "https://youtu.be/qjMoSAsaYWI",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-24T18:00:00",
@@ -13003,7 +13003,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ebtcai23ffo",
+  "link": "https://youtu.be/Ebtcai23ffo",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-24T18:00:00",
@@ -13014,7 +13014,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OMXKQ2ZTtlE",
+  "link": "https://youtu.be/OMXKQ2ZTtlE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-24T18:00:00",
@@ -13025,7 +13025,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Wi5yn7mMSW0",
+  "link": "https://youtu.be/Wi5yn7mMSW0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-24T18:00:00",
@@ -13036,7 +13036,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=soD86a0gYHQ",
+  "link": "https://youtu.be/soD86a0gYHQ",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-24T18:00:00",
@@ -13047,7 +13047,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RJyvyTnmubc",
+  "link": "https://youtu.be/RJyvyTnmubc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-24T18:00:00",
@@ -13058,7 +13058,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=V-j2b4vA1bk",
+  "link": "https://youtu.be/V-j2b4vA1bk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-24T18:00:00",
@@ -13069,7 +13069,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=inn0dOlz9PU",
+  "link": "https://youtu.be/inn0dOlz9PU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-24T18:00:00",
@@ -13080,7 +13080,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3po5N8EHSVc",
+  "link": "https://youtu.be/3po5N8EHSVc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-25T18:00:00",
@@ -13091,7 +13091,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gyy645RzBBA",
+  "link": "https://youtu.be/gyy645RzBBA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-25T18:00:00",
@@ -13102,7 +13102,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dK7lLKYtDEE",
+  "link": "https://youtu.be/dK7lLKYtDEE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-25T18:00:00",
@@ -13113,7 +13113,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gyy645RzBBA",
+  "link": "https://youtu.be/gyy645RzBBA",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-25T18:00:00",
@@ -13124,7 +13124,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Fvs2lzqV0_w",
+  "link": "https://youtu.be/Fvs2lzqV0_w",
   "category": "Media_Content",
   "member": "미연, 소연",
   "date": "2025-05-26T18:00:00",
@@ -13135,7 +13135,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mPUtbO58feM",
+  "link": "https://youtu.be/mPUtbO58feM",
   "category": "Media_Content",
   "member": "미연, 소연",
   "date": "2025-05-26T18:00:00",
@@ -13146,7 +13146,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YouyFmKwGz8",
+  "link": "https://youtu.be/YouyFmKwGz8",
   "category": "Media_Content",
   "member": "우기",
   "date": "2025-05-26T18:00:00",
@@ -13157,7 +13157,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=141b1bB22h8",
+  "link": "https://youtu.be/141b1bB22h8",
   "category": "Media_Content",
   "member": "미연, 소연",
   "date": "2025-05-26T18:00:00",
@@ -13168,7 +13168,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1QwRnpTX5vo",
+  "link": "https://youtu.be/1QwRnpTX5vo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-27T18:00:00",
@@ -13179,7 +13179,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ubky3JIlraw",
+  "link": "https://youtu.be/ubky3JIlraw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-28T18:00:00",
@@ -13190,7 +13190,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gb3rafrIKTQ",
+  "link": "https://youtu.be/gb3rafrIKTQ",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-28T18:00:00",
@@ -13201,7 +13201,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3SS8xwX3FHI",
+  "link": "https://youtu.be/3SS8xwX3FHI",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-05-28T18:00:00",
@@ -13212,7 +13212,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sJFegjopCRA",
+  "link": "https://youtu.be/sJFegjopCRA",
   "category": "Media_Content",
   "member": "미연, 우기",
   "date": "2025-05-29T18:00:00",
@@ -13223,7 +13223,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QHFE7VoGSSw",
+  "link": "https://youtu.be/QHFE7VoGSSw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-29T18:00:00",
@@ -13234,7 +13234,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=45b8uFJund4",
+  "link": "https://youtu.be/45b8uFJund4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-29T18:00:00",
@@ -13245,7 +13245,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=h9BFryAQvuo",
+  "link": "https://youtu.be/h9BFryAQvuo",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-31T18:00:00",
@@ -13256,7 +13256,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=du28NxB0SGo",
+  "link": "https://youtu.be/du28NxB0SGo",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-05-31T18:00:00",
@@ -13267,7 +13267,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kA560q2KJsA",
+  "link": "https://youtu.be/kA560q2KJsA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-31T18:00:00",
@@ -13278,7 +13278,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JrnhHUdEYtU",
+  "link": "https://youtu.be/JrnhHUdEYtU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-31T18:00:00",
@@ -13289,7 +13289,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bRcBUTfCXLQ",
+  "link": "https://youtu.be/bRcBUTfCXLQ",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-31T18:00:00",
@@ -13300,7 +13300,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Cu7UKur6uV4",
+  "link": "https://youtu.be/Cu7UKur6uV4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-31T18:00:00",
@@ -13311,7 +13311,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iy7cvYeS_lE",
+  "link": "https://youtu.be/iy7cvYeS_lE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-31T18:00:00",
@@ -13322,7 +13322,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7zzyOHzcS5A",
+  "link": "https://youtu.be/7zzyOHzcS5A",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-31T18:00:00",
@@ -13333,7 +13333,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HO17iHZAY04",
+  "link": "https://youtu.be/HO17iHZAY04",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-31T18:00:00",
@@ -13344,7 +13344,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kYJqeRXIKYc",
+  "link": "https://youtu.be/kYJqeRXIKYc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-31T18:00:00",
@@ -13355,7 +13355,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DR0tm4p9WmM",
+  "link": "https://youtu.be/DR0tm4p9WmM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-31T18:00:00",
@@ -13366,7 +13366,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=M8YYA5DzLjU",
+  "link": "https://youtu.be/M8YYA5DzLjU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-05-31T18:00:00",
@@ -13377,7 +13377,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BVbKS6fJQOU",
+  "link": "https://youtu.be/BVbKS6fJQOU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-01T18:00:00",
@@ -13388,7 +13388,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZWiX7ljJ4mc",
+  "link": "https://youtu.be/ZWiX7ljJ4mc",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-06-04T18:00:00",
@@ -13399,7 +13399,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IG2Ne-GLiMQ",
+  "link": "https://youtu.be/IG2Ne-GLiMQ",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-06-04T18:00:00",
@@ -13410,7 +13410,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ob2iB3H53nY",
+  "link": "https://youtu.be/ob2iB3H53nY",
   "category": "Media_Content",
   "member": "우기",
   "date": "2025-06-04T18:00:00",
@@ -13421,7 +13421,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oc0M_14mLek",
+  "link": "https://youtu.be/oc0M_14mLek",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-05T18:00:00",
@@ -13432,7 +13432,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZtCU5g6in14",
+  "link": "https://youtu.be/ZtCU5g6in14",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-07T18:00:00",
@@ -13443,7 +13443,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7pDdL7RTDhE",
+  "link": "https://youtu.be/7pDdL7RTDhE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-07T18:00:00",
@@ -13454,7 +13454,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uOqZuMTvnSw",
+  "link": "https://youtu.be/uOqZuMTvnSw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-07T18:00:00",
@@ -13465,7 +13465,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZWlVxstd60o",
+  "link": "https://youtu.be/ZWlVxstd60o",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-07T18:00:00",
@@ -13476,7 +13476,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YYO8_cnwb1c",
+  "link": "https://youtu.be/YYO8_cnwb1c",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-07T18:00:00",
@@ -13487,7 +13487,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kkSZ2ztRKBg",
+  "link": "https://youtu.be/kkSZ2ztRKBg",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-07T18:00:00",
@@ -13498,7 +13498,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1poPryHdCHk",
+  "link": "https://youtu.be/1poPryHdCHk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-07T18:00:00",
@@ -13509,7 +13509,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kBQ4IYL1-wE",
+  "link": "https://youtu.be/kBQ4IYL1-wE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-07T18:00:00",
@@ -13520,7 +13520,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HoHOT-wTaU0",
+  "link": "https://youtu.be/HoHOT-wTaU0",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-07T18:00:00",
@@ -13531,7 +13531,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6cPJIEuCyEc",
+  "link": "https://youtu.be/6cPJIEuCyEc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-07T18:00:00",
@@ -13542,7 +13542,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aDA6JvCj-Zw",
+  "link": "https://youtu.be/aDA6JvCj-Zw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-07T18:00:00",
@@ -13553,7 +13553,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Fq8O_EJfxfE",
+  "link": "https://youtu.be/Fq8O_EJfxfE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-06-07T18:00:00",
@@ -13564,7 +13564,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8T293iPV_-8",
+  "link": "https://youtu.be/8T293iPV_-8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-08T18:00:00",
@@ -13575,7 +13575,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Xsdfgg8aEQQ",
+  "link": "https://youtu.be/Xsdfgg8aEQQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-06-08T18:00:00",
@@ -13586,7 +13586,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ceGlUVZZC2E",
+  "link": "https://youtu.be/ceGlUVZZC2E",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-06-10T18:00:00",
@@ -13597,7 +13597,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2ip1QWTozwY",
+  "link": "https://youtu.be/2ip1QWTozwY",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-06-11T18:00:00",
@@ -13608,7 +13608,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uo4z6kohbe4",
+  "link": "https://youtu.be/uo4z6kohbe4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-11T18:00:00",
@@ -13619,7 +13619,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=92qcgLgYUQM",
+  "link": "https://youtu.be/92qcgLgYUQM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-12T18:00:00",
@@ -13630,7 +13630,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZiyuaJ2zPCs",
+  "link": "https://youtu.be/ZiyuaJ2zPCs",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-14T18:00:00",
@@ -13641,7 +13641,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nksj6IR_q14",
+  "link": "https://youtu.be/nksj6IR_q14",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-14T18:00:00",
@@ -13652,7 +13652,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cCNx618W_U4",
+  "link": "https://youtu.be/cCNx618W_U4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-14T18:00:00",
@@ -13663,7 +13663,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GDmnWG3_vBk",
+  "link": "https://youtu.be/GDmnWG3_vBk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-14T18:00:00",
@@ -13674,7 +13674,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=P-4gcV3ijAY",
+  "link": "https://youtu.be/P-4gcV3ijAY",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-14T18:00:00",
@@ -13685,7 +13685,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZRC2_4NOQSI",
+  "link": "https://youtu.be/ZRC2_4NOQSI",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-14T18:00:00",
@@ -13696,7 +13696,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_AEOFZ7Hs8Q",
+  "link": "https://youtu.be/_AEOFZ7Hs8Q",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-14T18:00:00",
@@ -13707,7 +13707,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0Bsz4KIlWkE",
+  "link": "https://youtu.be/0Bsz4KIlWkE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-14T18:00:00",
@@ -13718,7 +13718,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WQYUImEaaHw",
+  "link": "https://youtu.be/WQYUImEaaHw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-14T18:00:00",
@@ -13729,7 +13729,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=g_ubroVl1Us",
+  "link": "https://youtu.be/g_ubroVl1Us",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-14T18:00:00",
@@ -13740,7 +13740,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fNzRGDlmO6Q",
+  "link": "https://youtu.be/fNzRGDlmO6Q",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-14T18:00:00",
@@ -13751,7 +13751,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ik_G8zF9mRA",
+  "link": "https://youtu.be/Ik_G8zF9mRA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-14T18:00:00",
@@ -13762,7 +13762,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=brSMUqo05f4",
+  "link": "https://youtu.be/brSMUqo05f4",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-15T18:00:00",
@@ -13773,7 +13773,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QWpnWIrSko8",
+  "link": "https://youtu.be/QWpnWIrSko8",
   "category": "Media_Content",
   "member": "미연, 민니",
   "date": "2025-06-16T18:00:00",
@@ -13784,7 +13784,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=75_XXHiAG4U",
+  "link": "https://youtu.be/75_XXHiAG4U",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-18T18:00:00",
@@ -13795,7 +13795,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IzoXYqn-hls",
+  "link": "https://youtu.be/IzoXYqn-hls",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-06-19T18:00:00",
@@ -13806,7 +13806,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=c3WiETLbcXE",
+  "link": "https://youtu.be/c3WiETLbcXE",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-06-19T18:00:00",
@@ -13817,7 +13817,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=H7HhwK_hfEM",
+  "link": "https://youtu.be/H7HhwK_hfEM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-06-19T18:00:00",
@@ -13828,7 +13828,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pjsMdmsB9JQ",
+  "link": "https://youtu.be/pjsMdmsB9JQ",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-06-19T18:00:00",
@@ -13839,7 +13839,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rCGKSAAIzGc",
+  "link": "https://youtu.be/rCGKSAAIzGc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-19T18:00:00",
@@ -13850,7 +13850,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=76y9xI0z0K0",
+  "link": "https://youtu.be/76y9xI0z0K0",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-06-19T18:00:00",
@@ -13861,7 +13861,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nwWRFgLpRHw",
+  "link": "https://youtu.be/nwWRFgLpRHw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-06-19T18:00:00",
@@ -13872,7 +13872,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HIbzB4OI-As",
+  "link": "https://youtu.be/HIbzB4OI-As",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-06-19T18:00:00",
@@ -13883,7 +13883,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NJkNzpI7UaU",
+  "link": "https://youtu.be/NJkNzpI7UaU",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-06-19T18:00:00",
@@ -13894,7 +13894,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qwrmX4xKIrs",
+  "link": "https://youtu.be/qwrmX4xKIrs",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-06-19T18:00:00",
@@ -13905,7 +13905,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=v5te6UYk2rM",
+  "link": "https://youtu.be/v5te6UYk2rM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-06-19T18:00:00",
@@ -13916,7 +13916,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_Im0pI0HL9M",
+  "link": "https://youtu.be/_Im0pI0HL9M",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-19T18:00:00",
@@ -13927,7 +13927,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2M5yKtKHYKo",
+  "link": "https://youtu.be/2M5yKtKHYKo",
   "category": "Media_Content",
   "member": "소연",
   "date": "2025-06-21T18:00:00",
@@ -13938,7 +13938,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=28D494ar__0",
+  "link": "https://youtu.be/28D494ar__0",
   "category": "Media_Content",
   "member": "소연",
   "date": "2025-06-21T18:00:00",
@@ -13949,7 +13949,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Wn2MJ7yNKks",
+  "link": "https://youtu.be/Wn2MJ7yNKks",
   "category": "Media_Content",
   "member": "소연, 우기",
   "date": "2025-06-21T18:00:00",
@@ -13960,7 +13960,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Xno8z6HV6mE",
+  "link": "https://youtu.be/Xno8z6HV6mE",
   "category": "Media_Content",
   "member": "소연",
   "date": "2025-06-21T18:00:00",
@@ -13971,7 +13971,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UaHq2ZoNhXM",
+  "link": "https://youtu.be/UaHq2ZoNhXM",
   "category": "Media_Content",
   "member": "미연, 소연, 우기, 슈화",
   "date": "2025-06-21T18:00:00",
@@ -13982,7 +13982,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RbgBOALgo14",
+  "link": "https://youtu.be/RbgBOALgo14",
   "category": "Media_Content",
   "member": "소연",
   "date": "2025-06-21T18:00:00",
@@ -13993,7 +13993,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JbS4Jdn9WPM",
+  "link": "https://youtu.be/JbS4Jdn9WPM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-21T18:00:00",
@@ -14004,7 +14004,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=c5UvSjRCHmI",
+  "link": "https://youtu.be/c5UvSjRCHmI",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-21T18:00:00",
@@ -14015,7 +14015,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ibreHDk5G4I",
+  "link": "https://youtu.be/ibreHDk5G4I",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-21T18:00:00",
@@ -14026,7 +14026,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Hm38MX9XuOc",
+  "link": "https://youtu.be/Hm38MX9XuOc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-21T18:00:00",
@@ -14037,7 +14037,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=blc54jn70vc",
+  "link": "https://youtu.be/blc54jn70vc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-21T18:00:00",
@@ -14048,7 +14048,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TCSsTbdqPYQ",
+  "link": "https://youtu.be/TCSsTbdqPYQ",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-21T18:00:00",
@@ -14059,7 +14059,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8GRI9c6V1Tc",
+  "link": "https://youtu.be/8GRI9c6V1Tc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-21T18:00:00",
@@ -14070,7 +14070,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1qMmhUhVRas",
+  "link": "https://youtu.be/1qMmhUhVRas",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-21T18:00:00",
@@ -14081,7 +14081,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zuDpBYvANJ8",
+  "link": "https://youtu.be/zuDpBYvANJ8",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-21T18:00:00",
@@ -14092,7 +14092,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=b8mJNn-0jAE",
+  "link": "https://youtu.be/b8mJNn-0jAE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-21T18:00:00",
@@ -14103,7 +14103,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NWzBeuth5DM",
+  "link": "https://youtu.be/NWzBeuth5DM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-06-25T18:00:00",
@@ -14114,7 +14114,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1_R01UNr9i8",
+  "link": "https://youtu.be/1_R01UNr9i8",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-06-25T18:00:00",
@@ -14125,7 +14125,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xJUHVWplCgk",
+  "link": "https://youtu.be/xJUHVWplCgk",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-26T18:00:00",
@@ -14136,7 +14136,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6_hit9-j5aE",
+  "link": "https://youtu.be/6_hit9-j5aE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-26T18:00:00",
@@ -14147,7 +14147,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=b0KpttfcRGo",
+  "link": "https://youtu.be/b0KpttfcRGo",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-06-27T18:00:00",
@@ -14158,7 +14158,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7N2L81kwCyo",
+  "link": "https://youtu.be/7N2L81kwCyo",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-06-27T18:00:00",
@@ -14169,7 +14169,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=amhPkN3nlj8",
+  "link": "https://youtu.be/amhPkN3nlj8",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-06-27T18:00:00",
@@ -14180,7 +14180,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mkdsk6d4s1M",
+  "link": "https://youtu.be/mkdsk6d4s1M",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-06-27T18:00:00",
@@ -14191,7 +14191,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZcYOzlYhe7I",
+  "link": "https://youtu.be/ZcYOzlYhe7I",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-28T18:00:00",
@@ -14202,7 +14202,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uhyEpFCsghE",
+  "link": "https://youtu.be/uhyEpFCsghE",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-28T18:00:00",
@@ -14213,7 +14213,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fpUcVyQSpZc",
+  "link": "https://youtu.be/fpUcVyQSpZc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-28T18:00:00",
@@ -14224,7 +14224,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dcyYo6jWKXU",
+  "link": "https://youtu.be/dcyYo6jWKXU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-28T18:00:00",
@@ -14235,7 +14235,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zGriPqCOXqs",
+  "link": "https://youtu.be/zGriPqCOXqs",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-28T18:00:00",
@@ -14246,7 +14246,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7FXEblU8jes",
+  "link": "https://youtu.be/7FXEblU8jes",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-28T18:00:00",
@@ -14257,7 +14257,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LB8iH-Jvz0Y",
+  "link": "https://youtu.be/LB8iH-Jvz0Y",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-28T18:00:00",
@@ -14268,7 +14268,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=NUepsnVLTyU",
+  "link": "https://youtu.be/NUepsnVLTyU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-28T18:00:00",
@@ -14279,7 +14279,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kb88uvqbgfM",
+  "link": "https://youtu.be/kb88uvqbgfM",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-06-28T18:00:00",
@@ -14290,7 +14290,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JVBS0hfq7JA",
+  "link": "https://youtu.be/JVBS0hfq7JA",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-07-01T18:00:00",
@@ -14301,7 +14301,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=r8uZHp5U6Q8",
+  "link": "https://youtu.be/r8uZHp5U6Q8",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-07-03T18:00:00",
@@ -14312,7 +14312,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3GrytcbL-po",
+  "link": "https://youtu.be/3GrytcbL-po",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-07-08T18:00:00",
@@ -14323,7 +14323,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=x4DgmecydGY",
+  "link": "https://youtu.be/x4DgmecydGY",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-07-10T18:00:00",
@@ -14334,7 +14334,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aMnfInBcqkU",
+  "link": "https://youtu.be/aMnfInBcqkU",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-07-12T18:00:00",
@@ -14345,7 +14345,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CtvPRlUR40g",
+  "link": "https://youtu.be/CtvPRlUR40g",
   "category": "Media_Performance",
   "member": "우기",
   "date": "2025-07-13T18:00:00",
@@ -14356,7 +14356,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bZoTveReZM8",
+  "link": "https://youtu.be/bZoTveReZM8",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-07-17T18:00:00",
@@ -14367,7 +14367,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8lobndCP1xw",
+  "link": "https://youtu.be/8lobndCP1xw",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-07-26T18:00:00",
@@ -14378,7 +14378,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5AnJobc-0ys",
+  "link": "https://youtu.be/5AnJobc-0ys",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-07-29T18:00:00",
@@ -14389,7 +14389,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Tos-cfVq4to",
+  "link": "https://youtu.be/Tos-cfVq4to",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-07-29T18:00:00",
@@ -14400,7 +14400,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mbJ53bNZuNI",
+  "link": "https://youtu.be/mbJ53bNZuNI",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-08-02T18:00:00",
@@ -14411,7 +14411,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LWdIpkcsIQo",
+  "link": "https://youtu.be/LWdIpkcsIQo",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-08-04T18:00:00",
@@ -14422,7 +14422,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aENbce0tRQM",
+  "link": "https://youtu.be/aENbce0tRQM",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-08-12T18:00:00",
@@ -14433,7 +14433,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0TQrxXFLe20",
+  "link": "https://youtu.be/0TQrxXFLe20",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-08-12T18:00:00",
@@ -14444,7 +14444,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tboMXNav340",
+  "link": "https://youtu.be/tboMXNav340",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-08-19T18:00:00",
@@ -14455,7 +14455,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=thu0E63ttmI",
+  "link": "https://youtu.be/thu0E63ttmI",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-08-19T18:00:00",
@@ -14466,7 +14466,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uILFHn6rfSk",
+  "link": "https://youtu.be/uILFHn6rfSk",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-08-19T18:00:00",
@@ -14477,7 +14477,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lB1L-x15zkM",
+  "link": "https://youtu.be/lB1L-x15zkM",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-08-21T18:00:00",
@@ -14488,7 +14488,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Qk2Ap54uWTc",
+  "link": "https://youtu.be/Qk2Ap54uWTc",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-08-21T18:00:00",
@@ -14499,7 +14499,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VvSDq_VagNw",
+  "link": "https://youtu.be/VvSDq_VagNw",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-08-26T18:00:00",
@@ -14510,7 +14510,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Bq9MDmeQQgs",
+  "link": "https://youtu.be/Bq9MDmeQQgs",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-08-26T18:00:00",
@@ -14521,7 +14521,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-GO2y_0NWxQ",
+  "link": "https://youtu.be/-GO2y_0NWxQ",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-08-26T18:00:00",
@@ -14532,7 +14532,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=G1h2hXoqDXE",
+  "link": "https://youtu.be/G1h2hXoqDXE",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-08-27T18:00:00",
@@ -14543,7 +14543,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=z9P6Px9w9r0",
+  "link": "https://youtu.be/z9P6Px9w9r0",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-08-28T18:00:00",
@@ -14554,7 +14554,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1zPNcsgeMe8",
+  "link": "https://youtu.be/1zPNcsgeMe8",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-09-02T18:00:00",
@@ -14565,7 +14565,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ox8ySB9RCo0",
+  "link": "https://youtu.be/ox8ySB9RCo0",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-09-02T18:00:00",
@@ -14576,7 +14576,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=14tddQQod-M",
+  "link": "https://youtu.be/14tddQQod-M",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-09-06T18:00:00",
@@ -14587,7 +14587,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Zf4XQb0Cuc0",
+  "link": "https://youtu.be/Zf4XQb0Cuc0",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-09-07T18:00:00",
@@ -14598,7 +14598,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5Kb4iS0NZ68",
+  "link": "https://youtu.be/5Kb4iS0NZ68",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-09-08T18:00:00",
@@ -14609,7 +14609,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1jY6SxMNTqw",
+  "link": "https://youtu.be/1jY6SxMNTqw",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-09-09T18:00:00",
@@ -14620,7 +14620,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DQtMkwkAK6Q",
+  "link": "https://youtu.be/DQtMkwkAK6Q",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-09-09T18:00:00",
@@ -14631,7 +14631,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=M8TveLXOkHg",
+  "link": "https://youtu.be/M8TveLXOkHg",
   "category": "Media_Content",
   "member": "우기",
   "date": "2025-09-12T18:00:00",
@@ -14642,7 +14642,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_uOLRgz7gIs",
+  "link": "https://youtu.be/_uOLRgz7gIs",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-09-12T18:00:00",
@@ -14653,7 +14653,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_8HwU09O6ys",
+  "link": "https://youtu.be/_8HwU09O6ys",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-09-12T18:00:00",
@@ -14664,7 +14664,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ds-QYCwGmPU",
+  "link": "https://youtu.be/ds-QYCwGmPU",
   "category": "Media_Content",
   "member": "미연, 우기",
   "date": "2025-09-16T18:00:00",
@@ -14675,7 +14675,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kdvoFX1mG8w",
+  "link": "https://youtu.be/kdvoFX1mG8w",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-09-16T18:00:00",
@@ -14686,7 +14686,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ns6v4DDkD34",
+  "link": "https://youtu.be/ns6v4DDkD34",
   "category": "Media_Content",
   "member": "우기",
   "date": "2025-09-17T18:00:00",
@@ -14697,7 +14697,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aQYE-S71DX4",
+  "link": "https://youtu.be/aQYE-S71DX4",
   "category": "Media_Content",
   "member": "우기",
   "date": "2025-09-19T18:00:00",
@@ -14708,7 +14708,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CEsOPtH1uFw",
+  "link": "https://youtu.be/CEsOPtH1uFw",
   "category": "Media_Content",
   "member": "우기",
   "date": "2025-09-19T18:00:00",
@@ -14719,7 +14719,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8-UhcE4YCiQ",
+  "link": "https://youtu.be/8-UhcE4YCiQ",
   "category": "Media_Content",
   "member": "우기",
   "date": "2025-09-21T18:00:00",
@@ -14730,7 +14730,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5ZPbsPJakd8",
+  "link": "https://youtu.be/5ZPbsPJakd8",
   "category": "Media_Content",
   "member": "우기",
   "date": "2025-09-21T18:00:00",
@@ -14741,7 +14741,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gn-lq4o_pKk",
+  "link": "https://youtu.be/gn-lq4o_pKk",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-09-23T18:00:00",
@@ -14752,7 +14752,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fYgrwYfN_XA",
+  "link": "https://youtu.be/fYgrwYfN_XA",
   "category": "Media_Content",
   "member": "민니, 슈화",
   "date": "2025-09-27T18:00:00",
@@ -14763,7 +14763,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=CyZL2KvNl2E",
+  "link": "https://youtu.be/CyZL2KvNl2E",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-09-30T18:00:00",
@@ -14774,7 +14774,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Gqk3Ve1Tk3o",
+  "link": "https://youtu.be/Gqk3Ve1Tk3o",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-09-30T18:00:00",
@@ -14785,7 +14785,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tRpLxLe4Ynw",
+  "link": "https://youtu.be/tRpLxLe4Ynw",
   "category": "Media_Content",
   "member": "소연",
   "date": "2025-09-30T18:00:00",
@@ -14796,7 +14796,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=P_0J47IbrAE",
+  "link": "https://youtu.be/P_0J47IbrAE",
   "category": "Media_Content",
   "member": "민니",
   "date": "2025-10-01T18:00:00",
@@ -14807,7 +14807,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-Lk2slQGgsc",
+  "link": "https://youtu.be/-Lk2slQGgsc",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-10-06T18:00:00",
@@ -14818,7 +14818,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yKGJ4skMico",
+  "link": "https://youtu.be/yKGJ4skMico",
   "category": "Media_Content",
   "member": "아이들",
   "date": "2025-10-06T18:00:00",
@@ -14829,7 +14829,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Yz4x0EqnKNs",
+  "link": "https://youtu.be/Yz4x0EqnKNs",
   "category": "Media_Content",
   "member": "미연",
   "date": "2025-10-07T18:00:01",
@@ -14840,7 +14840,7 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Wwvk3BCbgeU",
+  "link": "https://youtu.be/Wwvk3BCbgeU",
   "category": "Media_Content",
   "member": "슈화",
   "date": "2025-10-07T18:00:02",
@@ -14850,6 +14850,6 @@ const mediaContentCards = [
   "title": "[SUB] 范少勳, 本來是為了宣傳才來的.. 結果卻公開告白了💝 | 鑑定師 Global EP.5 | i-dle 舒華 #감별사"
 }
 
-];
 
+];
 window.mediaContentCards = mediaContentCards;

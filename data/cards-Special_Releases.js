@@ -1,7 +1,6 @@
 const specialReleasesCards = [
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/Q8ERCF_AgIo",
   "category": "Special_Releases",
   "member": "소연",
@@ -13,7 +12,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/F4K1mMDlsj0",
   "category": "Special_Releases",
   "member": "슈화",
@@ -25,7 +23,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/LFpGpuKZ3_A",
   "category": "Special_Releases",
   "member": "소연",
@@ -37,7 +34,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/2SO-qLst3po",
   "category": "Special_Releases",
   "member": "소연",
@@ -49,7 +45,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/AGa2wCSK45Y",
   "category": "Special_Releases",
   "member": "소연",
@@ -61,7 +56,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/KR5CtMLuiqQ",
   "category": "Special_Releases",
   "member": "소연",
@@ -73,7 +67,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/UOxkGD8qRB4",
   "category": "Special_Releases",
   "member": "미연, 소연",
@@ -85,7 +78,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/ifh4n6eRAXU",
   "category": "Special_Releases",
   "member": "소연",
@@ -97,7 +89,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/ZvhpjERxJlQ",
   "category": "Special_Releases",
   "member": "소연",
@@ -109,7 +100,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/_E5JtAcc3cY",
   "category": "Special_Releases",
   "member": "소연",
@@ -121,7 +111,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/AkcCCaDUyaU",
   "category": "Special_Releases",
   "member": "아이들",
@@ -133,7 +122,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/0Hk8qGSoHnA",
   "category": "Special_Releases",
   "member": "소연",
@@ -145,7 +133,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/fkfeTUGFq6E",
   "category": "Special_Releases",
   "member": "미연",
@@ -157,7 +144,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/bju1EGowkKo",
   "category": "Media_Performance",
   "member": "아이들",
@@ -169,7 +155,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/-kVhMnKuk_A",
   "category": "Special_Releases",
   "member": "민니",
@@ -181,7 +166,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/sVZpHFXcFJw",
   "category": "Special_Releases",
   "member": "소연",
@@ -193,7 +177,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/4VmLuWDkHYQ",
   "category": "Special_Releases",
   "member": "소연",
@@ -205,7 +188,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/en4BDQgflG0",
   "category": "Special_Releases",
   "member": "소연",
@@ -217,7 +199,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/LV36habZYuE",
   "category": "Special_Releases",
   "member": "민니",
@@ -229,7 +210,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/YVjugI2zlk4",
   "category": "Special_Releases",
   "member": "민니",
@@ -241,7 +221,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/602Esq9_2G0",
   "category": "Special_Releases",
   "member": "미연, 민니",
@@ -253,7 +232,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/3VTkBuxU4yk",
   "category": "Special_Releases",
   "member": "미연, 소연",
@@ -265,7 +243,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/KmPX5XwV9lk",
   "category": "Special_Releases",
   "member": "미연",
@@ -277,7 +254,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/4On_fj1ccks",
   "category": "Special_Releases",
   "member": "소연",
@@ -289,7 +265,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/X1hkKjV_e90",
   "category": "Special_Releases",
   "member": "미연",
@@ -301,7 +276,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/8JFGldmdZKA",
   "category": "Special_Releases",
   "member": "미연",
@@ -313,7 +287,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/Lx4ka2qBY_A",
   "category": "Special_Releases",
   "member": "민니",
@@ -325,7 +298,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/gpzGUTDe-CE",
   "category": "Special_Releases",
   "member": "미연",
@@ -337,7 +309,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/l3pXHJTmpqU",
   "category": "Special_Releases",
   "member": "미연",
@@ -349,7 +320,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/aE2ABxHsfnw",
   "category": "Special_Releases",
   "member": "소연",
@@ -361,7 +331,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/eA2QBBM8s8s",
   "category": "Special_Releases",
   "member": "미연",
@@ -373,7 +342,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/qIyXFwnGy_I",
   "category": "Special_Releases",
   "member": "소연",
@@ -385,7 +353,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/KeMq2QKhcTE",
   "category": "Special_Releases",
   "member": "소연",
@@ -397,7 +364,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/AHYOjs5uex0",
   "category": "Special_Releases",
   "member": "소연",
@@ -409,7 +375,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/UUh3rlx3lSw",
   "category": "Special_Releases",
   "member": "미연",
@@ -421,7 +386,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/FXAhl0kgBkA",
   "category": "Special_Releases",
   "member": "미연",
@@ -433,7 +397,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/bVSXyG4okIo",
   "category": "Special_Releases",
   "member": "소연",
@@ -445,7 +408,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/LBlI7Q7c43Y",
   "category": "Special_Releases",
   "member": "소연",
@@ -457,7 +419,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/q5EcE3zTmJc",
   "category": "Special_Releases",
   "member": "소연",
@@ -469,7 +430,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/rsgyQYs4C8A",
   "category": "Special_Releases",
   "member": "민니",
@@ -481,7 +441,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/TJCo8mtDoWo",
   "category": "Special_Releases",
   "member": "소연",
@@ -493,7 +452,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/xAAH-fnVW_Q",
   "category": "Special_Releases",
   "member": "소연",
@@ -505,7 +463,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/pPLX4Y37dD0",
   "category": "Special_Releases",
   "member": "민니",
@@ -517,7 +474,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/FaSYRHyd-2E",
   "category": "Special_Releases",
   "member": "미연",
@@ -529,7 +485,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/9p51YpIa0Ss",
   "category": "Special_Releases",
   "member": "미연, 우기",
@@ -541,7 +496,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/YlEahTLcL_Y",
   "category": "Special_Releases",
   "member": "우기",
@@ -553,7 +507,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/jrt4iWhofPA",
   "category": "Special_Releases",
   "member": "민니",
@@ -565,7 +518,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/sgWMWOAEkuM",
   "category": "Special_Releases",
   "member": "아이들",
@@ -577,7 +529,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/vJ_prp7S-sA",
   "category": "Special_Releases",
   "member": "미연",
@@ -589,7 +540,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/dy3GaMa-j_c",
   "category": "Special_Releases",
   "member": "민니",
@@ -601,7 +551,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/4xycl7eFNmE",
   "category": "Special_Releases",
   "member": "민니",
@@ -613,7 +562,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/1XIi9ofX2kE",
   "category": "Special_Releases",
   "member": "우기",
@@ -625,7 +573,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/O2sNRgiTidc",
   "category": "Special_Releases",
   "member": "미연",
@@ -637,7 +584,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/bKLTsAy9ig4",
   "category": "Special_Releases",
   "member": "소연",
@@ -649,7 +595,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/PIbrgUPHJus",
   "category": "Special_Releases",
   "member": "미연, 우기",
@@ -661,7 +606,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/FB2KQampTG4",
   "category": "Special_Releases",
   "member": "미연, 우기",
@@ -673,7 +617,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/NL-uanxNldk",
   "category": "Special_Releases",
   "member": "민니",
@@ -685,7 +628,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/Wfe-31zw4Ls",
   "category": "Special_Releases",
   "member": "민니",
@@ -697,7 +639,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/C5VwU4rdeHU",
   "category": "Special_Releases",
   "member": "민니",
@@ -709,7 +650,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/N68rwFjyinI",
   "category": "Special_Releases",
   "member": "소연",
@@ -721,7 +661,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/WF4YckoL5Qg",
   "category": "Special_Releases",
   "member": "우기",
@@ -733,7 +672,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/U4AefkQrpnA",
   "category": "Special_Releases",
   "member": "미연",
@@ -745,7 +683,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/rO1ANdXvdTg",
   "category": "Special_Releases",
   "member": "우기",
@@ -757,7 +694,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/lZ2R-LKOevo",
   "category": "Special_Releases",
   "member": "민니",
@@ -769,7 +705,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/O_B-0iPCbaU",
   "category": "Special_Releases",
   "member": "소연",
@@ -781,7 +716,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/8yM26c7RpB4",
   "category": "Special_Releases",
   "member": "우기",
@@ -793,7 +727,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/wFikxHi9WO0",
   "category": "Special_Releases",
   "member": "미연",
@@ -805,7 +738,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/_lQxaYmt0DQ",
   "category": "Special_Releases",
   "member": "민니",
@@ -817,7 +749,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/KsEywqDtVZw",
   "category": "Special_Releases",
   "member": "우기",
@@ -829,7 +760,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/8OfUx3yY_B8",
   "category": "Special_Releases",
   "member": "미연",
@@ -841,7 +771,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/AlirzLFEHUI",
   "category": "Special_Releases",
   "member": "소연",
@@ -853,7 +782,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/QvqNH5c4B0g",
   "category": "Special_Releases",
   "member": "미연",
@@ -865,7 +793,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/dr1w5rju6uM",
   "category": "Special_Releases",
   "member": "미연",
@@ -877,7 +804,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/Dpopp6cgN58",
   "category": "Special_Releases",
   "member": "우기",
@@ -889,7 +815,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/3Ccu3CjsPZo",
   "category": "Special_Releases",
   "member": "미연",
@@ -901,7 +826,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/6gT2qzFLWnk",
   "category": "Special_Releases",
   "member": "미연",
@@ -913,7 +837,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/ZlpxcCiCCP4",
   "category": "Special_Releases",
   "member": "슈화",
@@ -925,7 +848,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/3J_Ev390Q9Q",
   "category": "Special_Releases",
   "member": "민니",
@@ -937,7 +859,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/8V2SpdoRxTk",
   "category": "Special_Releases",
   "member": "미연",
@@ -949,7 +870,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/OAISVzre8QQ",
   "category": "Special_Releases",
   "member": "민니",
@@ -961,7 +881,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/_UwS-Iox8gw",
   "category": "Special_Releases",
   "member": "우기",
@@ -973,7 +892,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/HxROxHdBQ2g",
   "category": "Special_Releases",
   "member": "미연",
@@ -985,7 +903,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/wcXVSOIDF4k",
   "category": "Special_Releases",
   "member": "민니",
@@ -997,7 +914,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/eOFfOLZOp0M",
   "category": "Special_Releases",
   "member": "민니",
@@ -1009,7 +925,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/fnwrXSoMWQY",
   "category": "Special_Releases",
   "member": "우기",
@@ -1021,7 +936,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/uWT79Qq52sU",
   "category": "Special_Releases",
   "member": "소연",
@@ -1033,7 +947,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/nqBnrY6GrtY",
   "category": "Special_Releases",
   "member": "우기",
@@ -1045,7 +958,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/KEUlytSqlsU",
   "category": "Special_Releases",
   "member": "소연",
@@ -1057,7 +969,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/wQ8oMfw2Ntc",
   "category": "Special_Releases",
   "member": "우기",
@@ -1069,7 +980,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/nG5USDluWxA",
   "category": "Special_Releases",
   "member": "아이들",
@@ -1081,7 +991,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/hdLI_UzpMgw",
   "category": "Special_Releases",
   "member": "미연",
@@ -1093,7 +1002,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/OEtzJSwJNvE",
   "category": "Special_Releases",
   "member": "우기",
@@ -1105,7 +1013,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/ZWM6YDl77QA",
   "category": "Special_Releases",
   "member": "소연",
@@ -1117,7 +1024,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/wMuDsubGMXE",
   "category": "Special_Releases",
   "member": "미연",
@@ -1129,7 +1035,6 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/pGy-nfZyQnU",
   "category": "Special_Releases",
   "member": "아이들",
@@ -1141,8 +1046,7 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "youtube",
-  "link": "https://www.youtube.com/watch?v=npndTWCUXSA",
+  "link": "https://youtu.be/npndTWCUXSA",
   "category": "Special_Releases",
   "member": "아이들",
   "date": "2025-10-03T18:00:00",
@@ -1153,8 +1057,7 @@ const specialReleasesCards = [
 },
 
 {
-  "platform": "youtube",
-  "link": "https://www.youtube.com/watch?v=pcsLPm0ootg",
+  "link": "https://youtu.be/pcsLPm0ootg",
   "category": "Special_Releases",
   "member": "소연, 우기",
   "date": "2025-10-03T18:00:00",
@@ -1163,7 +1066,6 @@ const specialReleasesCards = [
   "alt": "[소연, 우기] Genie, Make a Wish OST (다 이루어질지니) - GAME",
   "title": "[소연, 우기] Genie, Make a Wish OST (다 이루어질지니) - GAME"
 }
-
 
   ];
 window.specialReleasesCards = specialReleasesCards;

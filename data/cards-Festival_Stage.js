@@ -1,7 +1,7 @@
 const festivalStageCards = [
 
 {
-  "link": "https://www.youtube.com/watch?v=6kcFXF5VQPY",
+  "link": "https://youtu.be/6kcFXF5VQPY",
   "category": "Festival_Stage",
   "member": "민니, 소연",
   "date": "2016-11-08T18:00:00",
@@ -12,7 +12,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9ssS4ubfeOE",
+  "link": "https://youtu.be/9ssS4ubfeOE",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-06-09T18:00:00",
@@ -23,7 +23,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aj1WQSNfwL0",
+  "link": "https://youtu.be/aj1WQSNfwL0",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-06-19T18:00:00",
@@ -34,7 +34,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dU4JD7bYVyg",
+  "link": "https://youtu.be/dU4JD7bYVyg",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-09-02T18:00:00",
@@ -45,7 +45,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iyaMD5t2TdQ",
+  "link": "https://youtu.be/iyaMD5t2TdQ",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-09-08T18:00:00",
@@ -56,7 +56,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=B_cTe3pLM0E",
+  "link": "https://youtu.be/B_cTe3pLM0E",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-09-08T18:00:00",
@@ -67,7 +67,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EQ3c6jYcMz0",
+  "link": "https://youtu.be/EQ3c6jYcMz0",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-09-15T18:00:00",
@@ -78,7 +78,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=It7RdfjKofM",
+  "link": "https://youtu.be/It7RdfjKofM",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-09-15T18:00:00",
@@ -89,7 +89,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fUtQJ0Kk2qQ",
+  "link": "https://youtu.be/fUtQJ0Kk2qQ",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-09-15T18:00:00",
@@ -100,7 +100,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=l8yLUY4C4vc",
+  "link": "https://youtu.be/l8yLUY4C4vc",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-09-15T18:00:00",
@@ -111,7 +111,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RX6r7MDAnfU",
+  "link": "https://youtu.be/RX6r7MDAnfU",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-03T18:00:00",
@@ -122,7 +122,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nuYPCVCGgfA",
+  "link": "https://youtu.be/nuYPCVCGgfA",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-03T18:00:00",
@@ -133,7 +133,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZxKaTuoxxWk",
+  "link": "https://youtu.be/ZxKaTuoxxWk",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-03T18:00:00",
@@ -144,7 +144,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tIVWDu2_C-8",
+  "link": "https://youtu.be/tIVWDu2_C-8",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-03T18:00:00",
@@ -155,7 +155,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5iW7_krya9c",
+  "link": "https://youtu.be/5iW7_krya9c",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-03T18:00:00",
@@ -166,7 +166,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ebSB8F_GFh4",
+  "link": "https://youtu.be/ebSB8F_GFh4",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-03T18:00:00",
@@ -177,7 +177,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lKnPrWy8X4E",
+  "link": "https://youtu.be/lKnPrWy8X4E",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-03T18:00:00",
@@ -188,7 +188,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=b1MENuubAqI",
+  "link": "https://youtu.be/b1MENuubAqI",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-03T18:00:00",
@@ -199,7 +199,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kRlDzBqFWpE",
+  "link": "https://youtu.be/kRlDzBqFWpE",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-06T18:00:00",
@@ -210,7 +210,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rw-Xf2wjhaQ",
+  "link": "https://youtu.be/rw-Xf2wjhaQ",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-06T18:00:00",
@@ -221,7 +221,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Uvz9X0tlK6U",
+  "link": "https://youtu.be/Uvz9X0tlK6U",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-06T18:00:00",
@@ -232,7 +232,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1cLfhypo7xU",
+  "link": "https://youtu.be/1cLfhypo7xU",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-06T18:00:00",
@@ -243,7 +243,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9mSiSmIczWA",
+  "link": "https://youtu.be/9mSiSmIczWA",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-06T18:00:00",
@@ -254,7 +254,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=X8BHzcPbWK4",
+  "link": "https://youtu.be/X8BHzcPbWK4",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-06T18:00:00",
@@ -265,7 +265,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kRlDzBqFWpE",
+  "link": "https://youtu.be/kRlDzBqFWpE",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-06T18:00:00",
@@ -276,7 +276,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rw-Xf2wjhaQ",
+  "link": "https://youtu.be/rw-Xf2wjhaQ",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-06T18:00:00",
@@ -287,7 +287,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Uvz9X0tlK6U",
+  "link": "https://youtu.be/Uvz9X0tlK6U",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-06T18:00:00",
@@ -298,7 +298,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1cLfhypo7xU",
+  "link": "https://youtu.be/1cLfhypo7xU",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-06T18:00:00",
@@ -309,7 +309,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9mSiSmIczWA",
+  "link": "https://youtu.be/9mSiSmIczWA",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-06T18:00:00",
@@ -320,7 +320,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=X8BHzcPbWK4",
+  "link": "https://youtu.be/X8BHzcPbWK4",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-06T18:00:00",
@@ -331,7 +331,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IY1Rhl2Rvsg",
+  "link": "https://youtu.be/IY1Rhl2Rvsg",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-07T18:00:00",
@@ -342,7 +342,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=D6hiNwSRZcs",
+  "link": "https://youtu.be/D6hiNwSRZcs",
   "category": "Festival_Stage",
   "member": "우기",
   "date": "2018-10-07T18:00:00",
@@ -353,7 +353,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=D2p2htqV5EE",
+  "link": "https://youtu.be/D2p2htqV5EE",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-10-16T18:00:00",
@@ -364,7 +364,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=L1X1IcFtdyg",
+  "link": "https://youtu.be/L1X1IcFtdyg",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-11-26T18:00:00",
@@ -375,7 +375,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jq2B4wS6ZOQ",
+  "link": "https://youtu.be/jq2B4wS6ZOQ",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2018-12-04T18:00:00",
@@ -386,7 +386,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fuwPJ9AhRBU",
+  "link": "https://youtu.be/fuwPJ9AhRBU",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-02-20T18:00:00",
@@ -397,7 +397,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dRYkKNmAsRI",
+  "link": "https://youtu.be/dRYkKNmAsRI",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-03-03T18:00:00",
@@ -408,7 +408,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hT-Vr2kq-W4",
+  "link": "https://youtu.be/hT-Vr2kq-W4",
   "category": "Festival_Stage",
   "member": "소연",
   "date": "2019-04-05T18:00:00",
@@ -419,7 +419,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lIqd9jNVqUk",
+  "link": "https://youtu.be/lIqd9jNVqUk",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-04-20T18:00:00",
@@ -430,7 +430,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lVMrzeONk-s",
+  "link": "https://youtu.be/lVMrzeONk-s",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-04-22T18:00:00",
@@ -441,7 +441,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AXcpPS71f5Y",
+  "link": "https://youtu.be/AXcpPS71f5Y",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-05-06T18:00:00",
@@ -452,7 +452,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Lxwx2IwW0Kg",
+  "link": "https://youtu.be/Lxwx2IwW0Kg",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-05-06T18:00:00",
@@ -463,7 +463,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=o0pL9ae-3dU",
+  "link": "https://youtu.be/o0pL9ae-3dU",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-05-12T18:00:00",
@@ -474,7 +474,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PtvZH0Zu35Y",
+  "link": "https://youtu.be/PtvZH0Zu35Y",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-05-13T18:00:00",
@@ -485,7 +485,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IWmbpekrdgM",
+  "link": "https://youtu.be/IWmbpekrdgM",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-05-15T18:00:00",
@@ -496,7 +496,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=79gTEE8sSyU",
+  "link": "https://youtu.be/79gTEE8sSyU",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-05-16T18:00:00",
@@ -507,7 +507,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=T4vay2dAbyA",
+  "link": "https://youtu.be/T4vay2dAbyA",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-05-18T18:00:00",
@@ -518,7 +518,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9rA5tqTSyEA",
+  "link": "https://youtu.be/9rA5tqTSyEA",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-05-18T18:00:00",
@@ -529,7 +529,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-DfTpsPXGLk",
+  "link": "https://youtu.be/-DfTpsPXGLk",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-05-18T18:00:00",
@@ -540,7 +540,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ytDSAIyn6WY",
+  "link": "https://youtu.be/ytDSAIyn6WY",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-05-18T18:00:00",
@@ -551,7 +551,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yXYlv6UJrHs",
+  "link": "https://youtu.be/yXYlv6UJrHs",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-05-18T18:00:00",
@@ -562,7 +562,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KLfU9Wdwobc",
+  "link": "https://youtu.be/KLfU9Wdwobc",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-05-18T18:00:00",
@@ -573,7 +573,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KL_mKVw2uHY",
+  "link": "https://youtu.be/KL_mKVw2uHY",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-05-21T18:00:00",
@@ -584,7 +584,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=K9FLUx3LtVQ",
+  "link": "https://youtu.be/K9FLUx3LtVQ",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-05-23T18:00:00",
@@ -595,7 +595,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=G7sK-WzaVZw",
+  "link": "https://youtu.be/G7sK-WzaVZw",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-05-24T18:00:00",
@@ -606,7 +606,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Gxg2o5UBVbQ",
+  "link": "https://youtu.be/Gxg2o5UBVbQ",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-06-11T18:00:00",
@@ -617,7 +617,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=VVT1b1eWCxo",
+  "link": "https://youtu.be/VVT1b1eWCxo",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-06-11T18:00:00",
@@ -628,7 +628,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=oRglnJaBBwI",
+  "link": "https://youtu.be/oRglnJaBBwI",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-06-11T18:00:00",
@@ -639,7 +639,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AhZZnxnArsU",
+  "link": "https://youtu.be/AhZZnxnArsU",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-06-11T18:00:00",
@@ -650,7 +650,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MJLaQ_IPbXc",
+  "link": "https://youtu.be/MJLaQ_IPbXc",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-06-16T18:00:00",
@@ -661,7 +661,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AMZ7nED8iyE",
+  "link": "https://youtu.be/AMZ7nED8iyE",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-06-16T18:00:00",
@@ -672,7 +672,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=trvLZSystqc",
+  "link": "https://youtu.be/trvLZSystqc",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-06-16T18:00:00",
@@ -683,7 +683,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UaT269sT63k",
+  "link": "https://youtu.be/UaT269sT63k",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-06-16T18:00:00",
@@ -694,7 +694,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TTmZyc0TPbc",
+  "link": "https://youtu.be/TTmZyc0TPbc",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-06-16T18:00:00",
@@ -705,7 +705,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ttUZqyG-REM",
+  "link": "https://youtu.be/ttUZqyG-REM",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-06-16T18:00:00",
@@ -716,7 +716,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XvJybJDQnTY",
+  "link": "https://youtu.be/XvJybJDQnTY",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-06-16T18:00:00",
@@ -727,7 +727,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KbBdb9bEx_Q",
+  "link": "https://youtu.be/KbBdb9bEx_Q",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-06-16T18:00:00",
@@ -738,7 +738,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-oSAz0n1CeQ",
+  "link": "https://youtu.be/-oSAz0n1CeQ",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-08-23T18:00:00",
@@ -749,7 +749,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Kylswv4pCBY",
+  "link": "https://youtu.be/Kylswv4pCBY",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-08-23T18:00:00",
@@ -760,7 +760,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mlGm4mwzA3w",
+  "link": "https://youtu.be/mlGm4mwzA3w",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-09-20T18:00:00",
@@ -771,7 +771,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xH-CxDZ9fuo",
+  "link": "https://youtu.be/xH-CxDZ9fuo",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-09-20T18:00:00",
@@ -782,7 +782,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FEKVN8nM8_E",
+  "link": "https://youtu.be/FEKVN8nM8_E",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-09-20T18:00:00",
@@ -793,7 +793,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-O2C2voZr4E",
+  "link": "https://youtu.be/-O2C2voZr4E",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-09-20T18:00:00",
@@ -804,7 +804,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7p2Jxw1Qngw",
+  "link": "https://youtu.be/7p2Jxw1Qngw",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-09-20T18:00:00",
@@ -815,7 +815,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kTx6pL09Ugs",
+  "link": "https://youtu.be/kTx6pL09Ugs",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-09-20T18:00:00",
@@ -826,7 +826,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SvPFq7HZiXM",
+  "link": "https://youtu.be/SvPFq7HZiXM",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-09-20T18:00:00",
@@ -837,7 +837,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=B2_Gz_7KKDc",
+  "link": "https://youtu.be/B2_Gz_7KKDc",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-09-20T18:00:00",
@@ -848,7 +848,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zLc-IhXa8Mo",
+  "link": "https://youtu.be/zLc-IhXa8Mo",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-09-20T18:00:00",
@@ -859,7 +859,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pdvIU0jKAaM",
+  "link": "https://youtu.be/pdvIU0jKAaM",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-09-21T18:00:00",
@@ -870,7 +870,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=V7TLsMTGtiI",
+  "link": "https://youtu.be/V7TLsMTGtiI",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-09-26T18:00:00",
@@ -881,7 +881,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uvIu-MMtRYg",
+  "link": "https://youtu.be/uvIu-MMtRYg",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-09-27T18:00:00",
@@ -892,7 +892,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aSUhlqYsDFg",
+  "link": "https://youtu.be/aSUhlqYsDFg",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-10-08T18:00:00",
@@ -903,7 +903,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=B9-wi_CP7gA",
+  "link": "https://youtu.be/B9-wi_CP7gA",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-10-09T18:00:00",
@@ -914,7 +914,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0A3d78AQV5o",
+  "link": "https://youtu.be/0A3d78AQV5o",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-10-09T18:00:00",
@@ -925,7 +925,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=J0z4IcK6zyQ",
+  "link": "https://youtu.be/J0z4IcK6zyQ",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-10-09T18:00:00",
@@ -936,7 +936,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZoElkZRlxr4",
+  "link": "https://youtu.be/ZoElkZRlxr4",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-10-09T18:00:00",
@@ -947,7 +947,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BWpVY1QkBNs",
+  "link": "https://youtu.be/BWpVY1QkBNs",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-10-09T18:00:00",
@@ -958,7 +958,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-IZShLfC8bY",
+  "link": "https://youtu.be/-IZShLfC8bY",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-10-09T18:00:00",
@@ -969,7 +969,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WFkZjTCxVPc",
+  "link": "https://youtu.be/WFkZjTCxVPc",
   "category": "Festival_Stage",
   "member": "소연",
   "date": "2019-11-11T18:00:00",
@@ -980,7 +980,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QrPojXXuYlY",
+  "link": "https://youtu.be/QrPojXXuYlY",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-12-11T18:00:00",
@@ -991,7 +991,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ee1PWWxZH6M",
+  "link": "https://youtu.be/Ee1PWWxZH6M",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2019-12-24T18:00:00",
@@ -1002,7 +1002,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=N1YSkN7BQcM",
+  "link": "https://youtu.be/N1YSkN7BQcM",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-01-08T18:00:00",
@@ -1013,7 +1013,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=X_xvS7usduo",
+  "link": "https://youtu.be/X_xvS7usduo",
   "category": "Festival_Stage",
   "member": "우기, 슈화",
   "date": "2020-01-08T18:00:00",
@@ -1024,7 +1024,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=etXuuyLj0Jc",
+  "link": "https://youtu.be/etXuuyLj0Jc",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-01-10T18:00:00",
@@ -1035,7 +1035,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LmZ-HuMaqOY",
+  "link": "https://youtu.be/LmZ-HuMaqOY",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-04-08T18:00:00",
@@ -1046,7 +1046,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tbjI8gGpej4",
+  "link": "https://youtu.be/tbjI8gGpej4",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-04-08T18:00:00",
@@ -1057,7 +1057,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=joOtTtxO6IY",
+  "link": "https://youtu.be/joOtTtxO6IY",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-04-08T18:00:00",
@@ -1068,7 +1068,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eKa-0pOmVdw",
+  "link": "https://youtu.be/eKa-0pOmVdw",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-05-05T18:00:00",
@@ -1079,7 +1079,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Gm7u_pzxUOw",
+  "link": "https://youtu.be/Gm7u_pzxUOw",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-05-05T18:00:00",
@@ -1090,7 +1090,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_QOhZBcDpRU",
+  "link": "https://youtu.be/_QOhZBcDpRU",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-05-05T18:00:00",
@@ -1101,7 +1101,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_XeFWQ8X5YE",
+  "link": "https://youtu.be/_XeFWQ8X5YE",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-05-06T18:00:00",
@@ -1112,7 +1112,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cfCfLBlRn-M",
+  "link": "https://youtu.be/cfCfLBlRn-M",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-05-06T18:00:00",
@@ -1123,7 +1123,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wFEzKwYq2ag",
+  "link": "https://youtu.be/wFEzKwYq2ag",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-05-06T18:00:00",
@@ -1134,7 +1134,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=r6Qs3okZbus",
+  "link": "https://youtu.be/r6Qs3okZbus",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-05-23T18:00:00",
@@ -1145,7 +1145,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GoRZX2NAuaY",
+  "link": "https://youtu.be/GoRZX2NAuaY",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-06-14T18:00:00",
@@ -1156,7 +1156,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Z_PTvR25eUE",
+  "link": "https://youtu.be/Z_PTvR25eUE",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-11-24T18:00:00",
@@ -1167,7 +1167,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=w2zRsjU2R70",
+  "link": "https://youtu.be/w2zRsjU2R70",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-12-04T18:00:00",
@@ -1178,7 +1178,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fhgIbuy_OQQ",
+  "link": "https://youtu.be/fhgIbuy_OQQ",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-12-04T18:00:00",
@@ -1189,7 +1189,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DiLEn-hRb5E",
+  "link": "https://youtu.be/DiLEn-hRb5E",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-12-14T18:00:00",
@@ -1200,7 +1200,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=P5EvTUZCDzw",
+  "link": "https://youtu.be/P5EvTUZCDzw",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-12-14T18:00:00",
@@ -1211,7 +1211,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BclGBsi4R3s",
+  "link": "https://youtu.be/BclGBsi4R3s",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2020-12-14T18:00:00",
@@ -1222,7 +1222,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9WcaA4JeziQ",
+  "link": "https://youtu.be/9WcaA4JeziQ",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2022-01-17T18:00:00",
@@ -1233,7 +1233,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JBlGL3KkUAM",
+  "link": "https://youtu.be/JBlGL3KkUAM",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2022-05-11T18:00:00",
@@ -1244,7 +1244,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=e77gOLv-FKE",
+  "link": "https://youtu.be/e77gOLv-FKE",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2022-05-18T18:00:00",
@@ -1255,7 +1255,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8XeKU7074UA",
+  "link": "https://youtu.be/8XeKU7074UA",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2022-05-20T18:00:00",
@@ -1266,7 +1266,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=T5RcbiWkWGc",
+  "link": "https://youtu.be/T5RcbiWkWGc",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2022-05-26T18:00:00",
@@ -1277,7 +1277,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=X47sO3ZXgVg",
+  "link": "https://youtu.be/X47sO3ZXgVg",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2022-05-28T18:00:00",
@@ -1288,7 +1288,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-cwl7DyF1Yg",
+  "link": "https://youtu.be/-cwl7DyF1Yg",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2022-07-17T18:00:00",
@@ -1299,7 +1299,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=S8xqr3eT3p4",
+  "link": "https://youtu.be/S8xqr3eT3p4",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2022-07-17T18:00:00",
@@ -1310,7 +1310,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=O64n5sI5sYY",
+  "link": "https://youtu.be/O64n5sI5sYY",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2022-07-19T18:00:00",
@@ -1321,7 +1321,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MGWTHGz2osY",
+  "link": "https://youtu.be/MGWTHGz2osY",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2022-07-19T18:00:00",
@@ -1332,7 +1332,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IJUwlZiybJI",
+  "link": "https://youtu.be/IJUwlZiybJI",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2022-07-19T18:00:00",
@@ -1343,7 +1343,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qPNKaK4_9oc",
+  "link": "https://youtu.be/qPNKaK4_9oc",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2022-07-26T18:00:00",
@@ -1354,7 +1354,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=BNwOea2PiPc",
+  "link": "https://youtu.be/BNwOea2PiPc",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2022-10-06T18:00:00",
@@ -1365,7 +1365,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=65GIz-j-W-4",
+  "link": "https://youtu.be/65GIz-j-W-4",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2022-10-09T18:00:00",
@@ -1376,7 +1376,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mgCBoa_P2vM",
+  "link": "https://youtu.be/mgCBoa_P2vM",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2022-10-22T18:00:00",
@@ -1387,7 +1387,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=s66atCzyeEc",
+  "link": "https://youtu.be/s66atCzyeEc",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2022-10-28T18:00:00",
@@ -1398,7 +1398,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7OT2AthqsQE",
+  "link": "https://youtu.be/7OT2AthqsQE",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-01-27T18:00:00",
@@ -1409,7 +1409,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=E9OiyABNmKo",
+  "link": "https://youtu.be/E9OiyABNmKo",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-04-30T18:00:00",
@@ -1420,7 +1420,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=h08lzfOb3PA",
+  "link": "https://youtu.be/h08lzfOb3PA",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-05-10T18:00:00",
@@ -1431,7 +1431,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=i5qaHBWjA6E",
+  "link": "https://youtu.be/i5qaHBWjA6E",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-05-20T18:00:00",
@@ -1442,7 +1442,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mr8AizeR3rM",
+  "link": "https://youtu.be/mr8AizeR3rM",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-05-26T18:00:00",
@@ -1453,7 +1453,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TvW-6b_0RqU",
+  "link": "https://youtu.be/TvW-6b_0RqU",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-05-26T18:00:00",
@@ -1464,7 +1464,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tdGzeMjYupk",
+  "link": "https://youtu.be/tdGzeMjYupk",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-05-27T18:00:00",
@@ -1475,7 +1475,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Q6Qd-Qleq3Q",
+  "link": "https://youtu.be/Q6Qd-Qleq3Q",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-06-02T18:00:00",
@@ -1486,7 +1486,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LSkTWquAS1k",
+  "link": "https://youtu.be/LSkTWquAS1k",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-06-02T18:00:00",
@@ -1497,7 +1497,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=F1dTAe_8Ttw",
+  "link": "https://youtu.be/F1dTAe_8Ttw",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-06-24T18:00:00",
@@ -1508,7 +1508,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FYU-KWvjsdM",
+  "link": "https://youtu.be/FYU-KWvjsdM",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-07-02T18:00:00",
@@ -1519,7 +1519,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YwEYOXd_f-E",
+  "link": "https://youtu.be/YwEYOXd_f-E",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-07-16T18:00:00",
@@ -1530,7 +1530,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jAsz1JNFS3s",
+  "link": "https://youtu.be/jAsz1JNFS3s",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-07-23T18:00:00",
@@ -1541,7 +1541,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dmltDd4Fj18",
+  "link": "https://youtu.be/dmltDd4Fj18",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-07-23T18:00:00",
@@ -1552,7 +1552,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pGoMB9Yd_aY",
+  "link": "https://youtu.be/pGoMB9Yd_aY",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-08-21T18:00:00",
@@ -1563,7 +1563,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6L_cDjIcHVA",
+  "link": "https://youtu.be/6L_cDjIcHVA",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-08-22T18:00:00",
@@ -1574,7 +1574,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=msWd93pwdOA",
+  "link": "https://youtu.be/msWd93pwdOA",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-08-22T18:00:00",
@@ -1585,7 +1585,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_wnNlWZFIhs",
+  "link": "https://youtu.be/_wnNlWZFIhs",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-10-14T18:00:00",
@@ -1596,7 +1596,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aRUb-zKJ4rg",
+  "link": "https://youtu.be/aRUb-zKJ4rg",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-10-16T18:00:00",
@@ -1607,7 +1607,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PzCTp-dQ05c",
+  "link": "https://youtu.be/PzCTp-dQ05c",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-12-02T18:00:00",
@@ -1618,7 +1618,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XIq-wdlUrKM",
+  "link": "https://youtu.be/XIq-wdlUrKM",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-12-12T18:00:00",
@@ -1629,7 +1629,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kdvFCt44Iiw",
+  "link": "https://youtu.be/kdvFCt44Iiw",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-12-12T18:00:00",
@@ -1640,7 +1640,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=lk8KVxvTYiU",
+  "link": "https://youtu.be/lk8KVxvTYiU",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-12-12T18:00:00",
@@ -1651,7 +1651,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AA_3z-hf830",
+  "link": "https://youtu.be/AA_3z-hf830",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-12-12T18:00:00",
@@ -1662,7 +1662,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iLiqQ3fD6J0",
+  "link": "https://youtu.be/iLiqQ3fD6J0",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-12-13T18:00:00",
@@ -1673,7 +1673,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=F_bWcI8SIvw",
+  "link": "https://youtu.be/F_bWcI8SIvw",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-12-14T18:00:00",
@@ -1684,7 +1684,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=LQpH9ndMex4",
+  "link": "https://youtu.be/LQpH9ndMex4",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2023-12-25T18:00:00",
@@ -1695,7 +1695,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=cUQgZ9VY90k",
+  "link": "https://youtu.be/cUQgZ9VY90k",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-02-04T18:00:00",
@@ -1706,7 +1706,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ahBrgga6Hng",
+  "link": "https://youtu.be/ahBrgga6Hng",
   "category": "Festival_Stage",
   "member": "소연",
   "date": "2024-02-18T18:00:00",
@@ -1717,7 +1717,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=phM_u4aPL1A",
+  "link": "https://youtu.be/phM_u4aPL1A",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-03-06T18:00:00",
@@ -1728,7 +1728,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=C68FMAczsqA",
+  "link": "https://youtu.be/C68FMAczsqA",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-03-06T18:00:00",
@@ -1739,7 +1739,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=McvYnsrbyhk",
+  "link": "https://youtu.be/McvYnsrbyhk",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-03-06T18:00:00",
@@ -1750,7 +1750,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zCTSn-cwPzo",
+  "link": "https://youtu.be/zCTSn-cwPzo",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-03-06T18:00:00",
@@ -1761,7 +1761,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WVHOvxvCu7s",
+  "link": "https://youtu.be/WVHOvxvCu7s",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-03-06T18:00:00",
@@ -1772,7 +1772,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HhB_ggdb_JA",
+  "link": "https://youtu.be/HhB_ggdb_JA",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-05-12T18:00:00",
@@ -1783,7 +1783,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=B7tgQ5ooti0",
+  "link": "https://youtu.be/B7tgQ5ooti0",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-05-23T18:00:00",
@@ -1794,7 +1794,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uUH9qpcujNI",
+  "link": "https://youtu.be/uUH9qpcujNI",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-05-30T18:00:00",
@@ -1805,7 +1805,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=haV9i4JwkB0",
+  "link": "https://youtu.be/haV9i4JwkB0",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-05-30T18:00:00",
@@ -1816,7 +1816,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pRocyJyLEK0",
+  "link": "https://youtu.be/pRocyJyLEK0",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-05-31T18:00:00",
@@ -1827,7 +1827,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ByC-2k9G4Ak",
+  "link": "https://youtu.be/ByC-2k9G4Ak",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-06-12T18:00:00",
@@ -1838,7 +1838,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XsZjPlEjTOg",
+  "link": "https://youtu.be/XsZjPlEjTOg",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-08-24T18:00:00",
@@ -1849,7 +1849,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gdTq48dIBF8",
+  "link": "https://youtu.be/gdTq48dIBF8",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-09-04T18:00:00",
@@ -1860,7 +1860,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Sx8Ua_SPwLA",
+  "link": "https://youtu.be/Sx8Ua_SPwLA",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-10-05T18:00:00",
@@ -1871,7 +1871,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AGLeEentGr8",
+  "link": "https://youtu.be/AGLeEentGr8",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-10-20T18:00:00",
@@ -1882,7 +1882,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2VSgOtADl3A",
+  "link": "https://youtu.be/2VSgOtADl3A",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2024-10-27T18:00:00",
@@ -1893,7 +1893,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qOLG1zTQjeo",
+  "link": "https://youtu.be/qOLG1zTQjeo",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2025-05-23T18:00:00",
@@ -1904,7 +1904,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=G_3kBo6W3I4",
+  "link": "https://youtu.be/G_3kBo6W3I4",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2025-05-24T18:00:00",
@@ -1915,7 +1915,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=__tJvVTt6U8",
+  "link": "https://youtu.be/__tJvVTt6U8",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2025-05-26T18:00:00",
@@ -1926,7 +1926,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=P7vUYeSpDuw",
+  "link": "https://youtu.be/P7vUYeSpDuw",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2025-05-26T18:00:00",
@@ -1937,7 +1937,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8b2PkRYDUMc",
+  "link": "https://youtu.be/8b2PkRYDUMc",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2025-05-27T18:00:00",
@@ -1948,7 +1948,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DE1-XC0CWKA",
+  "link": "https://youtu.be/DE1-XC0CWKA",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2025-05-27T18:00:00",
@@ -1959,7 +1959,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZJEVy7UjFE0",
+  "link": "https://youtu.be/ZJEVy7UjFE0",
   "category": "Festival_Stage",
   "member": "아이들",
   "date": "2025-05-27T18:00:00",
@@ -1970,7 +1970,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UjAkAAgo6l4",
+  "link": "https://youtu.be/UjAkAAgo6l4",
   "category": "Festival_Stage",
   "member": "소연",
   "date": "2025-07-13T18:00:00",
@@ -1981,7 +1981,7 @@ const festivalStageCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TEA_EjGHH-w",
+  "link": "https://youtu.be/TEA_EjGHH-w",
   "category": "Festival_Stage",
   "member": "우기",
   "date": "2025-08-11T18:00:00",
@@ -1992,5 +1992,4 @@ const festivalStageCards = [
 }
 
 ];
-
 window.festivalStageCards = festivalStageCards;

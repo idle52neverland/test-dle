@@ -1,7 +1,7 @@
 const releasesCards = [
 
 {
-  "link": "https://www.youtube.com/watch?v=FJ8kJdTYj1o",
+  "link": "https://youtu.be/FJ8kJdTYj1o",
   "category": "Releases",
   "member": "소연",
   "date": "2017-11-05T18:00:00",
@@ -13,7 +13,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=b01dBTBzyz0",
+  "link": "https://youtu.be/b01dBTBzyz0",
   "category": "Releases",
   "member": "소연",
   "date": "2018-02-28T18:00:00",
@@ -25,7 +25,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=p4RIhcY7V3c",
+  "link": "https://youtu.be/p4RIhcY7V3c",
   "category": "Releases",
   "member": "아이들",
   "date": "2018-05-02T18:00:00",
@@ -37,7 +37,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sTnQ24z9hIw",
+  "link": "https://youtu.be/sTnQ24z9hIw",
   "category": "Releases",
   "member": "아이들",
   "date": "2018-05-02T18:00:00",
@@ -49,7 +49,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=klKKrmRY2R8",
+  "link": "https://youtu.be/klKKrmRY2R8",
   "category": "Releases",
   "member": "아이들",
   "date": "2018-05-02T18:00:00",
@@ -61,7 +61,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9qXLfXLluQI",
+  "link": "https://youtu.be/9qXLfXLluQI",
   "category": "Releases",
   "member": "아이들",
   "date": "2018-05-02T18:00:00",
@@ -73,7 +73,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ehXwFRCvTa8",
+  "link": "https://youtu.be/ehXwFRCvTa8",
   "category": "Releases",
   "member": "아이들",
   "date": "2018-05-02T18:00:00",
@@ -85,7 +85,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OVivuUWG9Qs",
+  "link": "https://youtu.be/OVivuUWG9Qs",
   "category": "Releases",
   "member": "아이들",
   "date": "2018-05-02T18:00:00",
@@ -97,7 +97,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OKNXn2qCEws",
+  "link": "https://youtu.be/OKNXn2qCEws",
   "category": "Releases",
   "member": "아이들",
   "date": "2018-08-14T18:00:00",
@@ -109,7 +109,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=08ATpBqlAIk",
+  "link": "https://youtu.be/08ATpBqlAIk",
   "category": "Releases",
   "member": "아이들",
   "date": "2019-02-19T18:00:00",
@@ -121,7 +121,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2cevbhEqQF4",
+  "link": "https://youtu.be/2cevbhEqQF4",
   "category": "Releases",
   "member": "아이들",
   "date": "2019-02-26T18:00:00",
@@ -133,7 +133,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=v8zTRXCgF1Y",
+  "link": "https://youtu.be/v8zTRXCgF1Y",
   "category": "Releases",
   "member": "아이들",
   "date": "2019-02-27T18:00:00",
@@ -145,7 +145,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MIAtuJ31l98",
+  "link": "https://youtu.be/MIAtuJ31l98",
   "category": "Releases",
   "member": "아이들",
   "date": "2019-02-27T18:00:00",
@@ -157,7 +157,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HmUlhIjkPYE",
+  "link": "https://youtu.be/HmUlhIjkPYE",
   "category": "Releases",
   "member": "아이들",
   "date": "2019-02-27T18:00:00",
@@ -169,7 +169,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=I66oFXdf0KU",
+  "link": "https://youtu.be/I66oFXdf0KU",
   "category": "Releases",
   "member": "아이들",
   "date": "2019-06-26T18:00:00",
@@ -181,7 +181,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ypNJMDlJvY4",
+  "link": "https://youtu.be/ypNJMDlJvY4",
   "category": "Releases",
   "member": "아이들",
   "date": "2019-07-12T18:00:00",
@@ -193,7 +193,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6oanIo_2Z4Q",
+  "link": "https://youtu.be/6oanIo_2Z4Q",
   "category": "Releases",
   "member": "아이들",
   "date": "2019-11-04T18:00:00",
@@ -205,7 +205,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=om3n2ni8luE",
+  "link": "https://youtu.be/om3n2ni8luE",
   "category": "Releases",
   "member": "아이들",
   "date": "2020-04-06T18:00:00",
@@ -217,7 +217,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MYVB3IlTIFs",
+  "link": "https://youtu.be/MYVB3IlTIFs",
   "category": "Releases",
   "member": "아이들",
   "date": "2020-07-03T18:00:00",
@@ -229,7 +229,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=k8pEDdNUvzI",
+  "link": "https://youtu.be/k8pEDdNUvzI",
   "category": "Releases",
   "member": "아이들",
   "date": "2020-07-03T18:00:00",
@@ -241,7 +241,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AdSQi7-xT8Y",
+  "link": "https://youtu.be/AdSQi7-xT8Y",
   "category": "Releases",
   "member": "아이들",
   "date": "2020-07-03T18:00:00",
@@ -253,7 +253,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZlKoeJ3xlx4",
+  "link": "https://youtu.be/ZlKoeJ3xlx4",
   "category": "Releases",
   "member": "아이들",
   "date": "2020-07-07T18:00:00",
@@ -265,7 +265,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HPQ5mqovXHo",
+  "link": "https://youtu.be/HPQ5mqovXHo",
   "category": "Releases",
   "member": "아이들",
   "date": "2020-08-03T18:00:00",
@@ -277,7 +277,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=u7wSlAgEcvg",
+  "link": "https://youtu.be/u7wSlAgEcvg",
   "category": "Releases",
   "member": "아이들",
   "date": "2020-08-19T18:00:00",
@@ -289,7 +289,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=z3szNvgQxHo",
+  "link": "https://youtu.be/z3szNvgQxHo",
   "category": "Releases",
   "member": "아이들",
   "date": "2021-01-11T18:00:00",
@@ -301,7 +301,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wxDHQT0iBKM",
+  "link": "https://youtu.be/wxDHQT0iBKM",
   "category": "Releases",
   "member": "우기",
   "date": "2021-05-13T18:00:00",
@@ -313,7 +313,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AE8yKldv_oo",
+  "link": "https://youtu.be/AE8yKldv_oo",
   "category": "Releases",
   "member": "우기",
   "date": "2021-05-21T18:00:00",
@@ -325,7 +325,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=MqzX9JAZ08U",
+  "link": "https://youtu.be/MqzX9JAZ08U",
   "category": "Releases",
   "member": "소연",
   "date": "2021-07-05T18:00:00",
@@ -337,7 +337,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZLzBd1NDGXk",
+  "link": "https://youtu.be/ZLzBd1NDGXk",
   "category": "Releases",
   "member": "아이들",
   "date": "2021-07-29T18:00:00",
@@ -349,7 +349,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hpQeQaI26zg",
+  "link": "https://youtu.be/hpQeQaI26zg",
   "category": "Releases",
   "member": "아이들",
   "date": "2021-07-29T18:00:00",
@@ -361,7 +361,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=A2LLCUegVhs",
+  "link": "https://youtu.be/A2LLCUegVhs",
   "category": "Releases",
   "member": "아이들",
   "date": "2021-07-29T18:00:00",
@@ -373,7 +373,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Jh4QFaPmdss",
+  "link": "https://youtu.be/Jh4QFaPmdss",
   "category": "Releases",
   "member": "아이들",
   "date": "2022-03-14T18:00:00",
@@ -385,7 +385,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Si5pQHRRH5w",
+  "link": "https://youtu.be/Si5pQHRRH5w",
   "category": "Releases",
   "member": "아이들",
   "date": "2022-03-28T18:00:00",
@@ -397,7 +397,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=SuMnpTc8zoU",
+  "link": "https://youtu.be/SuMnpTc8zoU",
   "category": "Releases",
   "member": "아이들",
   "date": "2022-04-07T18:00:00",
@@ -409,7 +409,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=35lirBqwgTs",
+  "link": "https://youtu.be/35lirBqwgTs",
   "category": "Releases",
   "member": "미연",
   "date": "2022-04-27T18:00:00",
@@ -421,7 +421,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KIQncyxUwnQ",
+  "link": "https://youtu.be/KIQncyxUwnQ",
   "category": "Releases",
   "member": "미연",
   "date": "2022-04-27T18:00:00",
@@ -433,7 +433,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0shLjBvY3pI",
+  "link": "https://youtu.be/0shLjBvY3pI",
   "category": "Releases",
   "member": "미연",
   "date": "2022-04-27T18:00:00",
@@ -445,7 +445,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=V1nPukaqpi0",
+  "link": "https://youtu.be/V1nPukaqpi0",
   "category": "Releases",
   "member": "미연",
   "date": "2022-04-27T18:00:00",
@@ -457,7 +457,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8hw1n-sM_4s",
+  "link": "https://youtu.be/8hw1n-sM_4s",
   "category": "Releases",
   "member": "미연",
   "date": "2022-04-27T18:00:00",
@@ -469,7 +469,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9gQodxTRl2k",
+  "link": "https://youtu.be/9gQodxTRl2k",
   "category": "Releases",
   "member": "미연",
   "date": "2022-04-27T18:00:00",
@@ -481,7 +481,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=T91NIKVhn_4",
+  "link": "https://youtu.be/T91NIKVhn_4",
   "category": "Releases",
   "member": "아이들",
   "date": "2022-10-12T18:00:00",
@@ -493,7 +493,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=fCO7f0SmrDc",
+  "link": "https://youtu.be/fCO7f0SmrDc",
   "category": "Releases",
   "member": "아이들",
   "date": "2022-10-17T18:00:00",
@@ -505,7 +505,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=a6Y1GX7wDnA",
+  "link": "https://youtu.be/a6Y1GX7wDnA",
   "category": "Releases",
   "member": "아이들",
   "date": "2022-11-06T18:00:00",
@@ -517,7 +517,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bjFMG8BT144",
+  "link": "https://youtu.be/bjFMG8BT144",
   "category": "Releases",
   "member": "아이들",
   "date": "2022-11-11T18:00:00",
@@ -529,7 +529,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XZaBkbvteBc",
+  "link": "https://youtu.be/XZaBkbvteBc",
   "category": "Releases",
   "member": "아이들",
   "date": "2023-05-10T18:00:00",
@@ -541,7 +541,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7HDeem-JaSY",
+  "link": "https://youtu.be/7HDeem-JaSY",
   "category": "Releases",
   "member": "아이들",
   "date": "2023-05-15T18:00:00",
@@ -553,7 +553,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Bd5950W2b5E",
+  "link": "https://youtu.be/Bd5950W2b5E",
   "category": "Releases",
   "member": "아이들",
   "date": "2023-05-15T18:00:00",
@@ -565,7 +565,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iOoeLYqx3yI",
+  "link": "https://youtu.be/iOoeLYqx3yI",
   "category": "Releases",
   "member": "아이들",
   "date": "2023-05-15T18:00:00",
@@ -577,7 +577,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PCbx5U-S5ec",
+  "link": "https://youtu.be/PCbx5U-S5ec",
   "category": "Releases",
   "member": "아이들",
   "date": "2023-05-15T18:00:00",
@@ -589,7 +589,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ypsaGJzyAjg",
+  "link": "https://youtu.be/ypsaGJzyAjg",
   "category": "Releases",
   "member": "아이들",
   "date": "2023-05-15T18:00:00",
@@ -601,7 +601,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PITjb4VZHpQ",
+  "link": "https://youtu.be/PITjb4VZHpQ",
   "category": "Releases",
   "member": "아이들",
   "date": "2023-05-29T18:00:00",
@@ -613,7 +613,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pCh3Kp6qxo8",
+  "link": "https://youtu.be/pCh3Kp6qxo8",
   "category": "Releases",
   "member": "아이들",
   "date": "2023-07-14T18:00:00",
@@ -625,7 +625,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=U6DG3TBcV6s",
+  "link": "https://youtu.be/U6DG3TBcV6s",
   "category": "Releases",
   "member": "아이들",
   "date": "2023-09-01T18:00:00",
@@ -637,7 +637,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Iewisp9KYRw",
+  "link": "https://youtu.be/Iewisp9KYRw",
   "category": "Releases",
   "member": "아이들",
   "date": "2023-10-06T18:00:00",
@@ -649,7 +649,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=baaNwRAhHBo",
+  "link": "https://youtu.be/baaNwRAhHBo",
   "category": "Releases",
   "member": "아이들",
   "date": "2024-01-22T18:00:00",
@@ -661,7 +661,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6f3RzjXPQwA",
+  "link": "https://youtu.be/6f3RzjXPQwA",
   "category": "Releases",
   "member": "아이들",
   "date": "2024-01-29T18:00:00",
@@ -673,7 +673,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=aa-970O1GEc",
+  "link": "https://youtu.be/aa-970O1GEc",
   "category": "Releases",
   "member": "아이들",
   "date": "2024-01-29T18:00:00",
@@ -685,7 +685,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zMQ9Mufkwb0",
+  "link": "https://youtu.be/zMQ9Mufkwb0",
   "category": "Releases",
   "member": "아이들",
   "date": "2024-01-29T18:00:00",
@@ -697,7 +697,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=xk9-O-NmIJo",
+  "link": "https://youtu.be/xk9-O-NmIJo",
   "category": "Releases",
   "member": "아이들",
   "date": "2024-01-29T18:00:00",
@@ -709,7 +709,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TBrlE7qFx2o",
+  "link": "https://youtu.be/TBrlE7qFx2o",
   "category": "Releases",
   "member": "아이들",
   "date": "2024-01-29T18:00:00",
@@ -721,7 +721,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KAymeaEyPr8",
+  "link": "https://youtu.be/KAymeaEyPr8",
   "category": "Releases",
   "member": "아이들",
   "date": "2024-02-16T18:00:00",
@@ -733,7 +733,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ATK7gAaZTOM",
+  "link": "https://youtu.be/ATK7gAaZTOM",
   "category": "Releases",
   "member": "아이들",
   "date": "2024-03-13T18:00:00",
@@ -745,7 +745,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZqU4oTDy3XE",
+  "link": "https://youtu.be/ZqU4oTDy3XE",
   "category": "Releases",
   "member": "우기",
   "date": "2024-04-05T18:00:00",
@@ -757,7 +757,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UqJIBItJeyg",
+  "link": "https://youtu.be/UqJIBItJeyg",
   "category": "Releases",
   "member": "우기",
   "date": "2024-04-23T18:00:00",
@@ -769,7 +769,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Wj0tWyLROoo",
+  "link": "https://youtu.be/Wj0tWyLROoo",
   "category": "Releases",
   "member": "우기",
   "date": "2024-04-23T18:00:00",
@@ -781,7 +781,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=EXUPDbFpx8c",
+  "link": "https://youtu.be/EXUPDbFpx8c",
   "category": "Releases",
   "member": "우기",
   "date": "2024-04-23T18:00:00",
@@ -793,7 +793,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=6FvfiaskXbQ",
+  "link": "https://youtu.be/6FvfiaskXbQ",
   "category": "Releases",
   "member": "우기",
   "date": "2024-04-30T18:00:00",
@@ -805,7 +805,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=i_r3Ni7jdNw",
+  "link": "https://youtu.be/i_r3Ni7jdNw",
   "category": "Releases",
   "member": "우기",
   "date": "2024-05-03T18:00:00",
@@ -817,7 +817,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uSddv1T7Byg",
+  "link": "https://youtu.be/uSddv1T7Byg",
   "category": "Releases",
   "member": "민니, 우기",
   "date": "2024-05-08T18:00:00",
@@ -829,7 +829,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rTKqSmX9XhQ",
+  "link": "https://youtu.be/rTKqSmX9XhQ",
   "category": "Releases",
   "member": "아이들",
   "date": "2024-07-08T18:00:00",
@@ -841,7 +841,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nlkPoTADrdM",
+  "link": "https://youtu.be/nlkPoTADrdM",
   "category": "Releases",
   "member": "아이들",
   "date": "2024-07-29T18:00:00",
@@ -853,7 +853,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Zf3nEwaWLpA",
+  "link": "https://youtu.be/Zf3nEwaWLpA",
   "category": "Releases",
   "member": "아이들",
   "date": "2024-08-05T18:00:00",
@@ -865,7 +865,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_s4PlNvJnDQ",
+  "link": "https://youtu.be/_s4PlNvJnDQ",
   "category": "Releases",
   "member": "아이들",
   "date": "2024-08-11T18:00:00",
@@ -877,7 +877,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Y8j-t_Hdrv4",
+  "link": "https://youtu.be/Y8j-t_Hdrv4",
   "category": "Releases",
   "member": "아이들",
   "date": "2024-09-22T18:00:00",
@@ -889,7 +889,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mXVOZjZXNfw",
+  "link": "https://youtu.be/mXVOZjZXNfw",
   "category": "Releases",
   "member": "아이들",
   "date": "2024-09-22T18:00:00",
@@ -901,7 +901,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=0eJJhGTPLP8",
+  "link": "https://youtu.be/0eJJhGTPLP8",
   "category": "Releases",
   "member": "아이들",
   "date": "2024-09-22T18:00:00",
@@ -913,7 +913,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Ubz6C2t_FFM",
+  "link": "https://youtu.be/Ubz6C2t_FFM",
   "category": "Releases",
   "member": "우기",
   "date": "2024-09-23T18:00:00",
@@ -925,7 +925,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zkR3SAMLGno",
+  "link": "https://youtu.be/zkR3SAMLGno",
   "category": "Releases",
   "member": "미연",
   "date": "2024-12-19T18:00:00",
@@ -937,7 +937,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8KpvPHcXr1c",
+  "link": "https://youtu.be/8KpvPHcXr1c",
   "category": "Releases",
   "member": "민니",
   "date": "2025-01-07T18:00:00",
@@ -949,7 +949,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=UTHqh7Vpa64",
+  "link": "https://youtu.be/UTHqh7Vpa64",
   "category": "Releases",
   "member": "민니",
   "date": "2025-01-21T18:00:00",
@@ -961,7 +961,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hjox2LOILR4",
+  "link": "https://youtu.be/hjox2LOILR4",
   "category": "Releases",
   "member": "민니, 우기",
   "date": "2025-01-21T18:00:00",
@@ -973,7 +973,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1XD2RrFVSfY",
+  "link": "https://youtu.be/1XD2RrFVSfY",
   "category": "Releases",
   "member": "민니",
   "date": "2025-01-21T18:00:00",
@@ -985,7 +985,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-pKYsndlSXE",
+  "link": "https://youtu.be/-pKYsndlSXE",
   "category": "Releases",
   "member": "민니",
   "date": "2025-01-28T18:00:00",
@@ -997,7 +997,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jRkUik5EJwU",
+  "link": "https://youtu.be/jRkUik5EJwU",
   "category": "Releases",
   "member": "민니",
   "date": "2025-02-03T18:00:00",
@@ -1009,7 +1009,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FyuPYjmPjrE",
+  "link": "https://youtu.be/FyuPYjmPjrE",
   "category": "Releases",
   "member": "민니",
   "date": "2025-02-14T18:00:00",
@@ -1021,7 +1021,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ts2qPO-vPMs",
+  "link": "https://youtu.be/ts2qPO-vPMs",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1033,7 +1033,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=YrtTT5HQaRg",
+  "link": "https://youtu.be/YrtTT5HQaRg",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1045,7 +1045,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eylnMfEQ8js",
+  "link": "https://youtu.be/eylnMfEQ8js",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1057,7 +1057,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=kv68inxiVxI",
+  "link": "https://youtu.be/kv68inxiVxI",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1069,7 +1069,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=j8wmfKVktGI",
+  "link": "https://youtu.be/j8wmfKVktGI",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1081,7 +1081,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=u1xIMjFCCQs",
+  "link": "https://youtu.be/u1xIMjFCCQs",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1093,7 +1093,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ROZ5JPAjvhk",
+  "link": "https://youtu.be/ROZ5JPAjvhk",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1105,7 +1105,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KFiBb_janY8",
+  "link": "https://youtu.be/KFiBb_janY8",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1117,7 +1117,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=T3cVg1FSnwQ",
+  "link": "https://youtu.be/T3cVg1FSnwQ",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1129,7 +1129,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=A-XitqQAkrk",
+  "link": "https://youtu.be/A-XitqQAkrk",
   "category": "Releases",
   "member": "소연",
   "date": "2025-04-03T18:00:00",
@@ -1141,7 +1141,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=2tfiWI2wnZ8",
+  "link": "https://youtu.be/2tfiWI2wnZ8",
   "category": "Releases",
   "member": "소연",
   "date": "2025-04-03T18:00:00",
@@ -1153,7 +1153,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8rhJY5B13qM",
+  "link": "https://youtu.be/8rhJY5B13qM",
   "category": "Releases",
   "member": "소연",
   "date": "2025-04-03T18:00:00",
@@ -1165,7 +1165,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ujjFBtrVGPQ",
+  "link": "https://youtu.be/ujjFBtrVGPQ",
   "category": "Releases",
   "member": "소연",
   "date": "2025-04-03T18:00:00",
@@ -1177,7 +1177,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=8OTuIGtNacg",
+  "link": "https://youtu.be/8OTuIGtNacg",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1189,7 +1189,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uUu7FmjqO1E",
+  "link": "https://youtu.be/uUu7FmjqO1E",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1201,7 +1201,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=dJdemmguASc",
+  "link": "https://youtu.be/dJdemmguASc",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1213,7 +1213,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tbehg21dZAA",
+  "link": "https://youtu.be/tbehg21dZAA",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1225,7 +1225,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=FrTVbpNi76E",
+  "link": "https://youtu.be/FrTVbpNi76E",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1237,7 +1237,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-XITgCvjNcs",
+  "link": "https://youtu.be/-XITgCvjNcs",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1249,7 +1249,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=j63pm9UlLyo",
+  "link": "https://youtu.be/j63pm9UlLyo",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1261,7 +1261,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=W-ed1dZT0NU",
+  "link": "https://youtu.be/W-ed1dZT0NU",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-04-03T18:00:00",
@@ -1273,7 +1273,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gVMx_g2EZBM",
+  "link": "https://youtu.be/gVMx_g2EZBM",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-05-02T18:00:00",
@@ -1285,7 +1285,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9BtAwTlIZrI",
+  "link": "https://youtu.be/9BtAwTlIZrI",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-05-02T18:00:00",
@@ -1297,7 +1297,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KQZlCpsRG5Y",
+  "link": "https://youtu.be/KQZlCpsRG5Y",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-05-02T18:00:00",
@@ -1309,7 +1309,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=agS7Ys9WR9M",
+  "link": "https://youtu.be/agS7Ys9WR9M",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-05-02T18:00:00",
@@ -1321,7 +1321,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jp7CnpbB-rQ",
+  "link": "https://youtu.be/jp7CnpbB-rQ",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-05-02T18:00:00",
@@ -1333,7 +1333,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ZJJCum3klMQ",
+  "link": "https://youtu.be/ZJJCum3klMQ",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-05-02T18:00:00",
@@ -1345,7 +1345,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=WKc3BGQ7FjI",
+  "link": "https://youtu.be/WKc3BGQ7FjI",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-05-02T18:00:00",
@@ -1357,7 +1357,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DQOSZMlu620",
+  "link": "https://youtu.be/DQOSZMlu620",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-05-02T18:00:00",
@@ -1369,7 +1369,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zKfs2EM8LQ4",
+  "link": "https://youtu.be/zKfs2EM8LQ4",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-05-09T18:00:00",
@@ -1381,7 +1381,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=wxmuTI96h68",
+  "link": "https://youtu.be/wxmuTI96h68",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-05-19T18:00:00",
@@ -1393,7 +1393,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Y9T7Rm9dXxc",
+  "link": "https://youtu.be/Y9T7Rm9dXxc",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-05-19T18:00:00",
@@ -1405,7 +1405,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=tG8-iN9WC4c",
+  "link": "https://youtu.be/tG8-iN9WC4c",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-05-19T18:00:00",
@@ -1417,7 +1417,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=chjPWMknHgU",
+  "link": "https://youtu.be/chjPWMknHgU",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-05-19T18:00:00",
@@ -1429,7 +1429,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hAONx6nuEgI",
+  "link": "https://youtu.be/hAONx6nuEgI",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-05-19T18:00:00",
@@ -1441,7 +1441,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=hqWxxcs_MXE",
+  "link": "https://youtu.be/hqWxxcs_MXE",
   "category": "Releases",
   "member": "소연",
   "date": "2025-06-30T18:00:00",
@@ -1453,7 +1453,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Cq-1jynbcVg",
+  "link": "https://youtu.be/Cq-1jynbcVg",
   "category": "Releases",
   "member": "미연",
   "date": "2025-08-28T18:00:00",
@@ -1465,7 +1465,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=yfn7EG7tQpg",
+  "link": "https://youtu.be/yfn7EG7tQpg",
   "category": "Releases",
   "member": "우기",
   "date": "2025-09-10T18:00:00",
@@ -1477,7 +1477,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=nZFH-gZa9R4",
+  "link": "https://youtu.be/nZFH-gZa9R4",
   "category": "Releases",
   "member": "우기",
   "date": "2025-09-16T18:00:00",
@@ -1489,7 +1489,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=iGNd-8gkB5E",
+  "link": "https://youtu.be/iGNd-8gkB5E",
   "category": "Releases",
   "member": "우기",
   "date": "2025-09-23T18:00:00",
@@ -1501,7 +1501,7 @@ const releasesCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DcxiggTs_q4",
+  "link": "https://youtu.be/DcxiggTs_q4",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-10-03T18:00:00",
@@ -1510,7 +1510,6 @@ const releasesCards = [
   "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V",
   "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V"
 }
-
 
 ];
 window.releasesCards = releasesCards;

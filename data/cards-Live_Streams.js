@@ -1,7 +1,6 @@
 const liveStreamsCards = [
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111438956",
   "category": "Live_Streams",
   "member": "아이들",
@@ -13,7 +12,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421914",
   "category": "Live_Streams",
   "member": "아이들",
@@ -25,7 +23,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663449",
   "category": "Live_Streams",
   "member": "아이들",
@@ -37,7 +34,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666523",
   "category": "Live_Streams",
   "member": "아이들",
@@ -49,7 +45,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431859",
   "category": "Live_Streams",
   "member": "아이들",
@@ -61,7 +56,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666525",
   "category": "Live_Streams",
   "member": "아이들",
@@ -73,7 +67,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111438958",
   "category": "Live_Streams",
   "member": "아이들",
@@ -85,7 +78,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431860",
   "category": "Live_Streams",
   "member": "민니",
@@ -97,7 +89,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431861",
   "category": "Live_Streams",
   "member": "아이들",
@@ -109,7 +100,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111438960",
   "category": "Live_Streams",
   "member": "아이들",
@@ -121,7 +111,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666527",
   "category": "Live_Streams",
   "member": "슈화",
@@ -133,7 +122,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663453",
   "category": "Live_Streams",
   "member": "아이들",
@@ -145,7 +133,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421922",
   "category": "Live_Streams",
   "member": "민니, 우기",
@@ -157,7 +144,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666534",
   "category": "Live_Streams",
   "member": "민니, 우기",
@@ -169,7 +155,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111438966",
   "category": "Live_Streams",
   "member": "아이들",
@@ -181,7 +166,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663456",
   "category": "Live_Streams",
   "member": "미연, 소연",
@@ -193,7 +177,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663457",
   "category": "Live_Streams",
   "member": "아이들",
@@ -205,7 +188,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421924",
   "category": "Live_Streams",
   "member": "민니",
@@ -217,7 +199,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663458",
   "category": "Live_Streams",
   "member": "아이들",
@@ -229,7 +210,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431867",
   "category": "Live_Streams",
   "member": "우기",
@@ -241,7 +221,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421925",
   "category": "Live_Streams",
   "member": "아이들",
@@ -253,7 +232,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111438969",
   "category": "Live_Streams",
   "member": "아이들",
@@ -265,7 +243,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421928",
   "category": "Live_Streams",
   "member": "아이들",
@@ -277,7 +254,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666538",
   "category": "Live_Streams",
   "member": "아이들",
@@ -289,7 +265,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663460",
   "category": "Live_Streams",
   "member": "민니, 슈화",
@@ -301,7 +276,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431870",
   "category": "Live_Streams",
   "member": "미연",
@@ -313,7 +287,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663462",
   "category": "Live_Streams",
   "member": "미연",
@@ -325,7 +298,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421933",
   "category": "Live_Streams",
   "member": "아이들",
@@ -337,7 +309,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/Dmgh5W1r52U",
   "category": "Live_Streams",
   "member": "아이들",
@@ -349,7 +320,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431878",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -361,7 +331,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111438979",
   "category": "Live_Streams",
   "member": "슈화",
@@ -373,7 +342,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666545",
   "category": "Live_Streams",
   "member": "미연, 민니, 슈화",
@@ -385,7 +353,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431879",
   "category": "Live_Streams",
   "member": "슈화",
@@ -397,7 +364,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421935",
   "category": "Live_Streams",
   "member": "슈화",
@@ -409,7 +375,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421936",
   "category": "Live_Streams",
   "member": "우기, 슈화",
@@ -421,7 +386,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666546",
   "category": "Live_Streams",
   "member": "아이들",
@@ -433,7 +397,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663469",
   "category": "Live_Streams",
   "member": "소연",
@@ -445,7 +408,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421940",
   "category": "Live_Streams",
   "member": "아이들",
@@ -457,7 +419,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431889",
   "category": "Live_Streams",
   "member": "아이들",
@@ -469,7 +430,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421942",
   "category": "Live_Streams",
   "member": "아이들",
@@ -481,7 +441,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663472",
   "category": "Live_Streams",
   "member": "소연",
@@ -493,7 +452,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421944",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -505,7 +463,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666551",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -517,7 +474,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663473",
   "category": "Live_Streams",
   "member": "소연, 우기, 슈화",
@@ -529,7 +485,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666552",
   "category": "Live_Streams",
   "member": "아이들",
@@ -541,7 +496,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111438985",
   "category": "Live_Streams",
   "member": "미연",
@@ -553,7 +507,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663474",
   "category": "Live_Streams",
   "member": "민니",
@@ -565,7 +518,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421945",
   "category": "Live_Streams",
   "member": "우기",
@@ -577,7 +529,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666553",
   "category": "Live_Streams",
   "member": "슈화",
@@ -589,7 +540,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666554",
   "category": "Live_Streams",
   "member": "슈화",
@@ -601,7 +551,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663475",
   "category": "Live_Streams",
   "member": "슈화",
@@ -613,7 +562,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431892",
   "category": "Live_Streams",
   "member": "우기",
@@ -625,7 +573,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421946",
   "category": "Live_Streams",
   "member": "민니",
@@ -637,7 +584,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666555",
   "category": "Live_Streams",
   "member": "",
@@ -649,7 +595,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111438989",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -661,7 +606,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666556",
   "category": "Live_Streams",
   "member": "아이들",
@@ -673,7 +617,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666557",
   "category": "Live_Streams",
   "member": "우기",
@@ -685,7 +628,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111438990",
   "category": "Live_Streams",
   "member": "민니",
@@ -697,7 +639,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421950",
   "category": "Live_Streams",
   "member": "미연, 슈화",
@@ -709,7 +650,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663479",
   "category": "Live_Streams",
   "member": "슈화",
@@ -721,7 +661,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663480",
   "category": "Live_Streams",
   "member": "슈화",
@@ -733,7 +672,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421952",
   "category": "Live_Streams",
   "member": "민니",
@@ -745,7 +683,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421953",
   "category": "Live_Streams",
   "member": "소연",
@@ -757,7 +694,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111438994",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -769,7 +705,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663481",
   "category": "Live_Streams",
   "member": "슈화",
@@ -781,7 +716,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431896",
   "category": "Live_Streams",
   "member": "아이들",
@@ -793,7 +727,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663483",
   "category": "Live_Streams",
   "member": "아이들",
@@ -805,7 +738,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/a7ixQNDbsNA",
   "category": "Live_Streams",
   "member": "아이들",
@@ -817,7 +749,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439002",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -829,7 +760,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439003",
   "category": "Live_Streams",
   "member": "",
@@ -841,7 +771,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431902",
   "category": "Live_Streams",
   "member": "",
@@ -853,7 +782,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663485",
   "category": "Live_Streams",
   "member": "아이들",
@@ -865,7 +793,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439004",
   "category": "Live_Streams",
   "member": "슈화",
@@ -877,7 +804,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439005",
   "category": "Live_Streams",
   "member": "아이들",
@@ -889,7 +815,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421959",
   "category": "Live_Streams",
   "member": "아이들",
@@ -901,7 +826,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421960",
   "category": "Live_Streams",
   "member": "미연",
@@ -913,7 +837,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663491",
   "category": "Live_Streams",
   "member": "미연",
@@ -925,7 +848,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439007",
   "category": "Live_Streams",
   "member": "민니, 우기",
@@ -937,7 +859,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663492",
   "category": "Live_Streams",
   "member": "우기",
@@ -949,7 +870,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663493",
   "category": "Live_Streams",
   "member": "미연, 민니, 슈화",
@@ -961,7 +881,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666567",
   "category": "Live_Streams",
   "member": "미연, 우기",
@@ -973,7 +892,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431912",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -985,7 +903,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663497",
   "category": "Live_Streams",
   "member": "슈화",
@@ -997,7 +914,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439011",
   "category": "Live_Streams",
   "member": "미연",
@@ -1009,7 +925,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663499",
   "category": "Live_Streams",
   "member": "아이들",
@@ -1021,7 +936,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666569",
   "category": "Live_Streams",
   "member": "",
@@ -1033,7 +947,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439012",
   "category": "Live_Streams",
   "member": "미연",
@@ -1045,7 +958,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666570",
   "category": "Live_Streams",
   "member": "민니, 슈화",
@@ -1057,7 +969,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/sPz8C3MSdVs",
   "category": "Live_Streams",
   "member": "아이들",
@@ -1069,7 +980,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439014",
   "category": "Live_Streams",
   "member": "미연",
@@ -1081,7 +991,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431915",
   "category": "Live_Streams",
   "member": "미연",
@@ -1093,7 +1002,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431916",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -1105,7 +1013,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421965",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -1117,7 +1024,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666571",
   "category": "Live_Streams",
   "member": "",
@@ -1129,7 +1035,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439015",
   "category": "Live_Streams",
   "member": "우기",
@@ -1141,7 +1046,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431917",
   "category": "Live_Streams",
   "member": "미연",
@@ -1153,7 +1057,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666572",
   "category": "Live_Streams",
   "member": "슈화, 미연",
@@ -1165,7 +1068,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439016",
   "category": "Live_Streams",
   "member": "우기, 슈화",
@@ -1177,7 +1079,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421967",
   "category": "Live_Streams",
   "member": "민니",
@@ -1189,7 +1090,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431918",
   "category": "Live_Streams",
   "member": "미연, 민니, 우기, 슈화",
@@ -1201,7 +1101,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/HeHnq1tgFyg",
   "category": "Live_Streams",
   "member": "소연",
@@ -1213,7 +1112,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/T8_fTZl1TkA",
   "category": "Live_Streams",
   "member": "소연",
@@ -1225,7 +1123,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666574",
   "category": "Live_Streams",
   "member": "미연, 우기, 슈화",
@@ -1237,7 +1134,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666575",
   "category": "Live_Streams",
   "member": "슈화",
@@ -1249,7 +1145,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431920",
   "category": "Live_Streams",
   "member": "미연, 우기",
@@ -1261,7 +1156,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431921",
   "category": "Live_Streams",
   "member": "미연, 민니, 슈화",
@@ -1273,7 +1167,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421973",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -1285,7 +1178,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663509",
   "category": "Live_Streams",
   "member": "",
@@ -1297,7 +1189,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421973",
   "category": "Live_Streams",
   "member": "",
@@ -1309,7 +1200,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439024",
   "category": "Live_Streams",
   "member": "미연, 슈화",
@@ -1321,7 +1211,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439025",
   "category": "Live_Streams",
   "member": "미연",
@@ -1333,7 +1222,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431924",
   "category": "Live_Streams",
   "member": "우기",
@@ -1345,7 +1233,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666582",
   "category": "Live_Streams",
   "member": "민니",
@@ -1357,7 +1244,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663511",
   "category": "Live_Streams",
   "member": "우기",
@@ -1369,7 +1255,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/M0mFoGBRu14",
   "category": "Live_Streams",
   "member": "아이들",
@@ -1381,7 +1266,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666583",
   "category": "Live_Streams",
   "member": "미연",
@@ -1393,7 +1277,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421977",
   "category": "Live_Streams",
   "member": "미연, 슈화",
@@ -1405,7 +1288,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439027",
   "category": "Live_Streams",
   "member": "우기",
@@ -1417,7 +1299,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421979",
   "category": "Live_Streams",
   "member": "미연",
@@ -1429,7 +1310,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439028",
   "category": "Live_Streams",
   "member": "민니",
@@ -1441,7 +1321,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663512",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -1453,7 +1332,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421980",
   "category": "Live_Streams",
   "member": "우기",
@@ -1465,7 +1343,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431926",
   "category": "Live_Streams",
   "member": "미연",
@@ -1477,7 +1354,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663513",
   "category": "Live_Streams",
   "member": "슈화",
@@ -1489,7 +1365,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421981",
   "category": "Live_Streams",
   "member": "슈화",
@@ -1501,7 +1376,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421982",
   "category": "Live_Streams",
   "member": "민니, 슈화",
@@ -1513,7 +1387,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663514",
   "category": "Live_Streams",
   "member": "소연",
@@ -1525,7 +1398,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663515",
   "category": "Live_Streams",
   "member": "우기",
@@ -1537,7 +1409,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666587",
   "category": "Live_Streams",
   "member": "미연, 우기",
@@ -1549,7 +1420,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421984",
   "category": "Live_Streams",
   "member": "민니",
@@ -1561,7 +1431,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431927",
   "category": "Live_Streams",
   "member": "우기",
@@ -1573,7 +1442,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663517",
   "category": "Live_Streams",
   "member": "슈화",
@@ -1585,7 +1453,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666588",
   "category": "Live_Streams",
   "member": "미연",
@@ -1597,7 +1464,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/media/1-111439030",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -1609,7 +1475,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663518",
   "category": "Live_Streams",
   "member": "슈화",
@@ -1621,7 +1486,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666589",
   "category": "Live_Streams",
   "member": "",
@@ -1633,7 +1497,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439032",
   "category": "Live_Streams",
   "member": "우기, 민니",
@@ -1645,7 +1508,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663521",
   "category": "Live_Streams",
   "member": "우기, 슈화",
@@ -1657,7 +1519,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431930",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -1669,7 +1530,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663522",
   "category": "Live_Streams",
   "member": "미연",
@@ -1681,7 +1541,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431931",
   "category": "Live_Streams",
   "member": "슈화",
@@ -1693,7 +1552,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421989",
   "category": "Live_Streams",
   "member": "미연",
@@ -1705,7 +1563,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431932",
   "category": "Live_Streams",
   "member": "미연",
@@ -1717,7 +1574,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663524",
   "category": "Live_Streams",
   "member": "우기, 슈화",
@@ -1729,7 +1585,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431933",
   "category": "Live_Streams",
   "member": "미연",
@@ -1741,7 +1596,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666593",
   "category": "Live_Streams",
   "member": "미연",
@@ -1753,7 +1607,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421993",
   "category": "Live_Streams",
   "member": "",
@@ -1765,7 +1618,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663529",
   "category": "Live_Streams",
   "member": "슈화",
@@ -1777,7 +1629,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431936",
   "category": "Live_Streams",
   "member": "슈화",
@@ -1789,7 +1640,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663531",
   "category": "Live_Streams",
   "member": "미연, 우기",
@@ -1801,7 +1651,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111421996",
   "category": "Live_Streams",
   "member": "미연",
@@ -1813,7 +1662,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663534",
   "category": "Live_Streams",
   "member": "소연",
@@ -1825,7 +1673,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431941",
   "category": "Live_Streams",
   "member": "미연, 민니, 우기",
@@ -1837,7 +1684,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431942",
   "category": "Live_Streams",
   "member": "미연, 민니, 우기",
@@ -1849,7 +1695,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431944",
   "category": "Live_Streams",
   "member": "소연, 슈화",
@@ -1861,7 +1706,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439041",
   "category": "Live_Streams",
   "member": "미연",
@@ -1873,7 +1717,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431945",
   "category": "Live_Streams",
   "member": "우기",
@@ -1885,7 +1728,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422000",
   "category": "Live_Streams",
   "member": "미연, 민니, 소연",
@@ -1897,7 +1739,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431946",
   "category": "Live_Streams",
   "member": "아이들",
@@ -1909,7 +1750,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663537",
   "category": "Live_Streams",
   "member": "소연",
@@ -1921,7 +1761,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422001",
   "category": "Live_Streams",
   "member": "소연",
@@ -1933,7 +1772,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666600",
   "category": "Live_Streams",
   "member": "민니",
@@ -1945,7 +1783,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431947",
   "category": "Live_Streams",
   "member": "미연, 우기",
@@ -1957,7 +1794,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431949",
   "category": "Live_Streams",
   "member": "소연",
@@ -1969,7 +1805,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431950",
   "category": "Live_Streams",
   "member": "소연",
@@ -1981,7 +1816,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439043",
   "category": "Live_Streams",
   "member": "민니, 미연",
@@ -1993,7 +1827,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666604",
   "category": "Live_Streams",
   "member": "미연",
@@ -2005,7 +1838,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666605",
   "category": "Live_Streams",
   "member": "미연",
@@ -2017,7 +1849,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663538",
   "category": "Live_Streams",
   "member": "우기",
@@ -2029,7 +1860,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431952",
   "category": "Live_Streams",
   "member": "미연, 민니, 우기",
@@ -2041,7 +1871,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663539",
   "category": "Live_Streams",
   "member": "",
@@ -2053,7 +1882,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666608",
   "category": "Live_Streams",
   "member": "민니",
@@ -2065,7 +1893,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666609",
   "category": "Live_Streams",
   "member": "미연",
@@ -2077,7 +1904,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422003",
   "category": "Live_Streams",
   "member": "미연",
@@ -2089,7 +1915,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422004",
   "category": "Live_Streams",
   "member": "미연",
@@ -2101,7 +1926,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439048",
   "category": "Live_Streams",
   "member": "소연",
@@ -2113,7 +1937,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666610",
   "category": "Live_Streams",
   "member": "미연, 슈화",
@@ -2125,7 +1948,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666611",
   "category": "Live_Streams",
   "member": "미연, 우기, 슈화",
@@ -2137,7 +1959,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422005",
   "category": "Live_Streams",
   "member": "슈화",
@@ -2149,7 +1970,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666612",
   "category": "Live_Streams",
   "member": "아이들",
@@ -2161,7 +1981,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431955",
   "category": "Live_Streams",
   "member": "미연, 슈화",
@@ -2173,7 +1992,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431956",
   "category": "Live_Streams",
   "member": "미연, 슈화",
@@ -2185,7 +2003,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666613",
   "category": "Live_Streams",
   "member": "슈화",
@@ -2197,7 +2014,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422006",
   "category": "Live_Streams",
   "member": "슈화",
@@ -2209,7 +2025,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/qTdMKpWxYeE",
   "category": "Live_Streams",
   "member": "소연",
@@ -2221,7 +2036,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666614",
   "category": "Live_Streams",
   "member": "우기, 슈화",
@@ -2233,7 +2047,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439051",
   "category": "Live_Streams",
   "member": "미연",
@@ -2245,7 +2058,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439053",
   "category": "Live_Streams",
   "member": "민니",
@@ -2257,7 +2069,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422009",
   "category": "Live_Streams",
   "member": "",
@@ -2269,7 +2080,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439054",
   "category": "Live_Streams",
   "member": "미연, 슈화",
@@ -2281,7 +2091,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663544",
   "category": "Live_Streams",
   "member": "슈화",
@@ -2293,7 +2102,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666616",
   "category": "Live_Streams",
   "member": "미연",
@@ -2305,7 +2113,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431957",
   "category": "Live_Streams",
   "member": "미연",
@@ -2317,7 +2124,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431959",
   "category": "Live_Streams",
   "member": "미연",
@@ -2329,7 +2135,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431960",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -2341,7 +2146,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422012",
   "category": "Live_Streams",
   "member": "슈화",
@@ -2353,7 +2157,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431961",
   "category": "Live_Streams",
   "member": "슈화",
@@ -2365,7 +2168,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663545",
   "category": "Live_Streams",
   "member": "우기",
@@ -2377,7 +2179,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663546",
   "category": "Live_Streams",
   "member": "미연, 우기, 슈화",
@@ -2389,7 +2190,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663547",
   "category": "Live_Streams",
   "member": "미연",
@@ -2401,7 +2201,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439056",
   "category": "Live_Streams",
   "member": "",
@@ -2413,7 +2212,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666617",
   "category": "Live_Streams",
   "member": "슈화",
@@ -2425,7 +2223,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422014",
   "category": "Live_Streams",
   "member": "슈화",
@@ -2437,7 +2234,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663548",
   "category": "Live_Streams",
   "member": "우기",
@@ -2449,7 +2245,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663549",
   "category": "Live_Streams",
   "member": "우기",
@@ -2461,7 +2256,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663550",
   "category": "Live_Streams",
   "member": "미연",
@@ -2473,7 +2267,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439059",
   "category": "Live_Streams",
   "member": "미연",
@@ -2485,7 +2278,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666618",
   "category": "Live_Streams",
   "member": "미연",
@@ -2497,7 +2289,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663551",
   "category": "Live_Streams",
   "member": "민니",
@@ -2509,7 +2300,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431964",
   "category": "Live_Streams",
   "member": "슈화",
@@ -2521,7 +2311,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422017",
   "category": "Live_Streams",
   "member": "미연",
@@ -2533,7 +2322,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666620",
   "category": "Live_Streams",
   "member": "슈화",
@@ -2545,7 +2333,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666621",
   "category": "Live_Streams",
   "member": "미연",
@@ -2557,7 +2344,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439062",
   "category": "Live_Streams",
   "member": "미연, 소연",
@@ -2569,7 +2355,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422018",
   "category": "Live_Streams",
   "member": "미연, 슈화",
@@ -2581,7 +2366,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666622",
   "category": "Live_Streams",
   "member": "우기",
@@ -2593,7 +2377,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666624",
   "category": "Live_Streams",
   "member": "미연, 민니, 우기, 슈화",
@@ -2605,7 +2388,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439065",
   "category": "Live_Streams",
   "member": "아이들",
@@ -2617,7 +2399,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/FBJ_STMLvS8",
   "category": "Live_Streams",
   "member": "소연",
@@ -2629,7 +2410,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431973",
   "category": "Live_Streams",
   "member": "소연",
@@ -2641,7 +2421,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431975",
   "category": "Live_Streams",
   "member": "미연",
@@ -2653,7 +2432,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422020",
   "category": "Live_Streams",
   "member": "소연",
@@ -2665,7 +2443,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439071",
   "category": "Live_Streams",
   "member": "미연, 우기",
@@ -2677,7 +2454,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431977",
   "category": "Live_Streams",
   "member": "민니, 우기, 슈화",
@@ -2689,7 +2465,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422022",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -2701,7 +2476,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431980",
   "category": "Live_Streams",
   "member": "미연",
@@ -2713,7 +2487,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431981",
   "category": "Live_Streams",
   "member": "",
@@ -2725,7 +2498,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439072",
   "category": "Live_Streams",
   "member": "슈화",
@@ -2737,7 +2509,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439073",
   "category": "Live_Streams",
   "member": "민니",
@@ -2749,7 +2520,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431987",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -2761,7 +2531,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439074",
   "category": "Live_Streams",
   "member": "슈화",
@@ -2773,7 +2542,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666630",
   "category": "Live_Streams",
   "member": "미연",
@@ -2785,7 +2553,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439076",
   "category": "Live_Streams",
   "member": "소연",
@@ -2797,7 +2564,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422023",
   "category": "Live_Streams",
   "member": "미연",
@@ -2809,7 +2575,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666632",
   "category": "Live_Streams",
   "member": "미연",
@@ -2821,7 +2586,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663568",
   "category": "Live_Streams",
   "member": "미연",
@@ -2833,7 +2597,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422024",
   "category": "Live_Streams",
   "member": "미연",
@@ -2845,7 +2608,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666636",
   "category": "Live_Streams",
   "member": "미연",
@@ -2857,7 +2619,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663570",
   "category": "Live_Streams",
   "member": "미연",
@@ -2869,7 +2630,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422025",
   "category": "Live_Streams",
   "member": "미연",
@@ -2881,7 +2641,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439079",
   "category": "Live_Streams",
   "member": "미연",
@@ -2893,7 +2652,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663574",
   "category": "Live_Streams",
   "member": "미연",
@@ -2905,7 +2663,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439080",
   "category": "Live_Streams",
   "member": "미연",
@@ -2917,7 +2674,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422031",
   "category": "Live_Streams",
   "member": "소연",
@@ -2929,7 +2685,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/m8rHmMDTRRE",
   "category": "Live_Streams",
   "member": "소연",
@@ -2941,7 +2696,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666638",
   "category": "Live_Streams",
   "member": "소연",
@@ -2953,7 +2707,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431995",
   "category": "Live_Streams",
   "member": "소연",
@@ -2965,7 +2718,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663576",
   "category": "Live_Streams",
   "member": "소연",
@@ -2977,7 +2729,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422032",
   "category": "Live_Streams",
   "member": "미연",
@@ -2989,7 +2740,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666640",
   "category": "Live_Streams",
   "member": "소연",
@@ -3001,7 +2751,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439085",
   "category": "Live_Streams",
   "member": "미연, 소연",
@@ -3013,7 +2762,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422033",
   "category": "Live_Streams",
   "member": "미연",
@@ -3025,7 +2773,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111431998",
   "category": "Live_Streams",
   "member": "소연",
@@ -3037,7 +2784,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422034",
   "category": "Live_Streams",
   "member": "소연",
@@ -3049,7 +2795,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663581",
   "category": "Live_Streams",
   "member": "미연",
@@ -3061,7 +2806,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666644",
   "category": "Live_Streams",
   "member": "미연, 소연",
@@ -3073,7 +2817,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422035",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3085,7 +2828,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666646",
   "category": "Live_Streams",
   "member": "소연",
@@ -3097,7 +2839,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439088",
   "category": "Live_Streams",
   "member": "소연",
@@ -3109,7 +2850,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663583",
   "category": "Live_Streams",
   "member": "소연",
@@ -3121,7 +2861,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663584",
   "category": "Live_Streams",
   "member": "미연",
@@ -3133,7 +2872,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666647",
   "category": "Live_Streams",
   "member": "미연",
@@ -3145,7 +2883,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663585",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3157,7 +2894,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663586",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3169,7 +2905,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111432001",
   "category": "Live_Streams",
   "member": "미연",
@@ -3181,7 +2916,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111432002",
   "category": "Live_Streams",
   "member": "미연",
@@ -3193,7 +2927,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111432004",
   "category": "Live_Streams",
   "member": "민니",
@@ -3205,7 +2938,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111432005",
   "category": "Live_Streams",
   "member": "미연",
@@ -3217,7 +2949,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111432006",
   "category": "Live_Streams",
   "member": "미연",
@@ -3229,7 +2960,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666648",
   "category": "Live_Streams",
   "member": "미연",
@@ -3241,7 +2971,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666649",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3253,7 +2982,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663588",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3265,7 +2993,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666650",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3277,7 +3004,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666651",
   "category": "Live_Streams",
   "member": "우기",
@@ -3289,7 +3015,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439094",
   "category": "Live_Streams",
   "member": "우기",
@@ -3301,7 +3026,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111432009",
   "category": "Live_Streams",
   "member": "소연",
@@ -3313,7 +3037,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663589",
   "category": "Live_Streams",
   "member": "우기",
@@ -3325,7 +3048,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666652",
   "category": "Live_Streams",
   "member": "민니",
@@ -3337,7 +3059,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666653",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3349,7 +3070,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666654",
   "category": "Live_Streams",
   "member": "미연",
@@ -3361,7 +3081,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439095",
   "category": "Live_Streams",
   "member": "민니, 슈화",
@@ -3373,7 +3092,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111432010",
   "category": "Live_Streams",
   "member": "미연",
@@ -3385,7 +3103,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663590",
   "category": "Live_Streams",
   "member": "미연",
@@ -3397,7 +3114,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663591",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3409,7 +3125,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111432011",
   "category": "Live_Streams",
   "member": "미연, 민니, 슈화",
@@ -3421,7 +3136,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666656",
   "category": "Live_Streams",
   "member": "아이들",
@@ -3433,7 +3147,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666657",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3445,7 +3158,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663592",
   "category": "Live_Streams",
   "member": "우기",
@@ -3457,7 +3169,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663593",
   "category": "Live_Streams",
   "member": "미연, 우기",
@@ -3469,7 +3180,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666658",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3481,7 +3191,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439096",
   "category": "Live_Streams",
   "member": "미연",
@@ -3493,7 +3202,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666659",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -3505,7 +3213,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666661",
   "category": "Live_Streams",
   "member": "민니",
@@ -3517,7 +3224,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663594",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3529,7 +3235,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439098",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3541,7 +3246,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663595",
   "category": "Live_Streams",
   "member": "아이들",
@@ -3553,7 +3257,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422047",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -3565,7 +3268,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663598",
   "category": "Live_Streams",
   "member": "아이들",
@@ -3577,7 +3279,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666667",
   "category": "Live_Streams",
   "member": "아이들",
@@ -3589,7 +3290,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111432020",
   "category": "Live_Streams",
   "member": "소연",
@@ -3601,7 +3301,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663599",
   "category": "Live_Streams",
   "member": "미연",
@@ -3613,7 +3312,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111432023",
   "category": "Live_Streams",
   "member": "민니",
@@ -3625,7 +3323,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666669",
   "category": "Live_Streams",
   "member": "우기",
@@ -3637,7 +3334,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422049",
   "category": "Live_Streams",
   "member": "우기",
@@ -3649,7 +3345,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666671",
   "category": "Live_Streams",
   "member": "민니",
@@ -3661,7 +3356,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666672",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3673,7 +3367,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://https://weverse.io/i-dle/live/2-111432024",
   "category": "Live_Streams",
   "member": "미연",
@@ -3685,7 +3378,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439108",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3697,7 +3389,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663602",
   "category": "Live_Streams",
   "member": "민니, 우기, 슈화",
@@ -3709,7 +3400,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/ka1uS3ORmxk",
   "category": "Live_Streams",
   "member": "아이들",
@@ -3721,7 +3411,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111432027",
   "category": "Live_Streams",
   "member": "미연",
@@ -3733,7 +3422,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422055",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3745,7 +3433,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111432029",
   "category": "Live_Streams",
   "member": "아이들",
@@ -3757,7 +3444,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663604",
   "category": "Live_Streams",
   "member": "아이들",
@@ -3769,7 +3455,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439115",
   "category": "Live_Streams",
   "member": "우기",
@@ -3781,7 +3466,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111432033",
   "category": "Live_Streams",
   "member": "미연, 민니, 슈화",
@@ -3793,7 +3477,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663606",
   "category": "Live_Streams",
   "member": "미연, 민니, 우기, 슈화",
@@ -3805,7 +3488,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663607",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3817,7 +3499,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666680",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3829,7 +3510,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422061",
   "category": "Live_Streams",
   "member": "미연",
@@ -3841,7 +3521,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422062",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3853,7 +3532,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439119",
   "category": "Live_Streams",
   "member": "아이들",
@@ -3865,7 +3543,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439120",
   "category": "Live_Streams",
   "member": "아이들",
@@ -3877,7 +3554,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663608",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3889,7 +3565,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666681",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3901,7 +3576,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666682",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3913,7 +3587,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111432037",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3925,7 +3598,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422065",
   "category": "Live_Streams",
   "member": "미연, 슈화",
@@ -3937,7 +3609,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666684",
   "category": "Live_Streams",
   "member": "미연, 슈화",
@@ -3949,7 +3620,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422066",
   "category": "Live_Streams",
   "member": "민니, 슈화",
@@ -3961,7 +3631,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111432038",
   "category": "Live_Streams",
   "member": "우기",
@@ -3973,7 +3642,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439122",
   "category": "Live_Streams",
   "member": "슈화",
@@ -3985,7 +3653,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663609",
   "category": "Live_Streams",
   "member": "미연",
@@ -3997,7 +3664,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663612",
   "category": "Live_Streams",
   "member": "미연",
@@ -4009,7 +3675,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439126",
   "category": "Live_Streams",
   "member": "우기",
@@ -4021,7 +3686,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439127",
   "category": "Live_Streams",
   "member": "미연, 우기",
@@ -4033,7 +3697,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/bsXWkiZN1rk",
   "category": "Live_Streams",
   "member": "미연, 슈화",
@@ -4045,7 +3708,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439136",
   "category": "Live_Streams",
   "member": "미연",
@@ -4057,7 +3719,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-111439138",
   "category": "Live_Streams",
   "member": "우기",
@@ -4069,7 +3730,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-111422075",
   "category": "Live_Streams",
   "member": "우기",
@@ -4081,7 +3741,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-110663616",
   "category": "Live_Streams",
   "member": "슈화",
@@ -4093,7 +3752,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-111432045",
   "category": "Live_Streams",
   "member": "민니",
@@ -4105,7 +3763,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-110666698",
   "category": "Live_Streams",
   "member": "미연, 우기",
@@ -4117,7 +3774,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/x3vs_eA3jZA",
   "category": "Live_Streams",
   "member": "아이들",
@@ -4129,7 +3785,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-120635488",
   "category": "Live_Streams",
   "member": "미연, 슈화",
@@ -4141,7 +3796,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-120636873",
   "category": "Live_Streams",
   "member": "슈화",
@@ -4153,7 +3807,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-120808486",
   "category": "Live_Streams",
   "member": "우기",
@@ -4165,7 +3818,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-120806021",
   "category": "Live_Streams",
   "member": "우기",
@@ -4177,7 +3829,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-121166249",
   "category": "Live_Streams",
   "member": "민니",
@@ -4189,7 +3840,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-128968604",
   "category": "Live_Streams",
   "member": "슈화",
@@ -4201,7 +3851,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-128968644",
   "category": "Live_Streams",
   "member": "슈화",
@@ -4213,7 +3862,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-128979362",
   "category": "Live_Streams",
   "member": "미연",
@@ -4225,7 +3873,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-124221272",
   "category": "Live_Streams",
   "member": "민니",
@@ -4237,7 +3884,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-129107079",
   "category": "Live_Streams",
   "member": "미연, 민니, 우기",
@@ -4249,7 +3895,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-124300762",
   "category": "Live_Streams",
   "member": "슈화",
@@ -4261,7 +3906,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-129269260",
   "category": "Live_Streams",
   "member": "슈화",
@@ -4273,7 +3917,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-129272321",
   "category": "Live_Streams",
   "member": "슈화",
@@ -4285,7 +3928,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-124571698",
   "category": "Live_Streams",
   "member": "미연",
@@ -4297,7 +3939,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-132196824",
   "category": "Live_Streams",
   "member": "우기",
@@ -4309,7 +3950,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-132272490",
   "category": "Live_Streams",
   "member": "슈화",
@@ -4321,7 +3961,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-127318122",
   "category": "Live_Streams",
   "member": "슈화",
@@ -4333,7 +3972,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-127318264",
   "category": "Live_Streams",
   "member": "슈화",
@@ -4345,7 +3983,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-127842695",
   "category": "Live_Streams",
   "member": "슈화",
@@ -4357,7 +3994,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-127934088",
   "category": "Live_Streams",
   "member": "미연",
@@ -4369,7 +4005,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-137698511",
   "category": "Live_Streams",
   "member": "민니",
@@ -4381,7 +4016,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-137706593",
   "category": "Live_Streams",
   "member": "민니, 우기",
@@ -4393,7 +4027,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-137699796",
   "category": "Live_Streams",
   "member": "민니, 우기",
@@ -4405,7 +4038,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-129725783",
   "category": "Live_Streams",
   "member": "미연",
@@ -4417,7 +4049,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-141211035",
   "category": "Live_Streams",
   "member": "미연",
@@ -4429,7 +4060,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-142144195",
   "category": "Live_Streams",
   "member": "민니, 우기, 슈화",
@@ -4441,7 +4071,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-142596874",
   "category": "Live_Streams",
   "member": "미연",
@@ -4453,7 +4082,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-134993050",
   "category": "Live_Streams",
   "member": "우기",
@@ -4465,7 +4093,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-135736272",
   "category": "Live_Streams",
   "member": "우기",
@@ -4477,7 +4104,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-135747336",
   "category": "Live_Streams",
   "member": "민니",
@@ -4489,7 +4115,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-139350142",
   "category": "Live_Streams",
   "member": "미연",
@@ -4501,7 +4126,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-159392585",
   "category": "Live_Streams",
   "member": "미연",
@@ -4513,7 +4137,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-160326205",
   "category": "Live_Streams",
   "member": "우기",
@@ -4525,7 +4148,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-161551503",
   "category": "Live_Streams",
   "member": "슈화",
@@ -4537,7 +4159,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/DbuBqLl1IyQ",
   "category": "Live_Streams",
   "member": "아이들",
@@ -4549,7 +4170,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-140810995",
   "category": "Live_Streams",
   "member": "미연",
@@ -4561,7 +4181,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-162431029",
   "category": "Live_Streams",
   "member": "민니",
@@ -4573,7 +4192,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-141382636",
   "category": "Live_Streams",
   "member": "우기, 슈화",
@@ -4585,7 +4203,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-165825101",
   "category": "Live_Streams",
   "member": "미연, 민니, 우기",
@@ -4597,7 +4214,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/f2fzjhyCOcM",
   "category": "Live_Streams",
   "member": "아이들",
@@ -4609,7 +4225,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-170501948",
   "category": "Live_Streams",
   "member": "민니",
@@ -4621,7 +4236,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-146234851",
   "category": "Live_Streams",
   "member": "미연",
@@ -4633,7 +4247,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-147362190",
   "category": "Live_Streams",
   "member": "미연",
@@ -4645,7 +4258,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-176157298",
   "category": "Live_Streams",
   "member": "미연",
@@ -4657,7 +4269,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-178956195",
   "category": "Live_Streams",
   "member": "민니, 우기, 슈화",
@@ -4669,7 +4280,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-149295368",
   "category": "Live_Streams",
   "member": "미연",
@@ -4681,7 +4291,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/QidnyVMJsxg",
   "category": "Live_Streams",
   "member": "우기",
@@ -4693,7 +4302,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-181007898",
   "category": "Live_Streams",
   "member": "민니",
@@ -4705,7 +4313,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-182657872",
   "category": "Live_Streams",
   "member": "미연",
@@ -4717,7 +4324,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-182660949",
   "category": "Live_Streams",
   "member": "미연",
@@ -4729,7 +4335,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-151000005",
   "category": "Live_Streams",
   "member": "미연",
@@ -4741,7 +4346,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-151778724",
   "category": "Live_Streams",
   "member": "우기",
@@ -4753,7 +4357,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-152344830",
   "category": "Live_Streams",
   "member": "민니",
@@ -4765,7 +4368,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-152382898",
   "category": "Live_Streams",
   "member": "우기",
@@ -4777,7 +4379,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-185845351",
   "category": "Live_Streams",
   "member": "미연",
@@ -4789,7 +4390,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-152935072",
   "category": "Live_Streams",
   "member": "아이들",
@@ -4801,7 +4401,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-153490661",
   "category": "Live_Streams",
   "member": "민니",
@@ -4813,7 +4412,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-153512913",
   "category": "Live_Streams",
   "member": "우기",
@@ -4825,7 +4423,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-154311094",
   "category": "Live_Streams",
   "member": "민니",
@@ -4837,7 +4434,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/GRfahi0102k",
   "category": "Live_Streams",
   "member": "민니",
@@ -4849,7 +4445,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-155368579",
   "category": "Live_Streams",
   "member": "민니",
@@ -4861,7 +4456,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/0-155917873",
   "category": "Live_Streams",
   "member": "미연, 민니",
@@ -4873,7 +4467,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-196642717",
   "category": "Live_Streams",
   "member": "우기",
@@ -4885,7 +4478,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-197430071",
   "category": "Live_Streams",
   "member": "미연, 우기",
@@ -4897,7 +4489,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/2-158379411",
   "category": "Live_Streams",
   "member": "미연, 우기",
@@ -4909,7 +4500,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/aBg10lRqyRA",
   "category": "Live_Streams",
   "member": "아이들",
@@ -4921,7 +4511,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/XW1Dd4Uh2-k",
   "category": "Live_Streams",
   "member": "아이들",
@@ -4933,7 +4522,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/oMmJRKj4jhU",
   "category": "Live_Streams",
   "member": "아이들",
@@ -4945,7 +4533,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-203467331",
   "category": "Live_Streams",
   "member": "우기",
@@ -4957,7 +4544,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/1-161400746",
   "category": "Live_Streams",
   "member": "우기",
@@ -4969,7 +4555,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/3-203468363",
   "category": "Live_Streams",
   "member": "우기",
@@ -4981,7 +4566,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://weverse.io/i-dle/live/4-204110525",
   "category": "Live_Streams",
   "member": "아이들",
@@ -4993,7 +4577,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/-vL2WMSJD9Y",
   "category": "Live_Streams",
   "member": "미연",
@@ -5005,7 +4588,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/jPKT9lzK89k",
   "category": "Live_Streams",
   "member": "미연",
@@ -5017,7 +4599,6 @@ const liveStreamsCards = [
 },
 
 {
-  "platform": "etc",
   "link": "https://youtu.be/Ep-NIFx5WMo",
   "category": "Live_Streams",
   "member": "우기",

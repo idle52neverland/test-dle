@@ -1,7 +1,7 @@
 const radioPodcastCards = [
 
 {
-  "link": "https://www.youtube.com/watch?v=YpIzTYXcza8",
+  "link": "https://youtu.be/YpIzTYXcza8",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2018-05-31T18:00:00",
@@ -12,7 +12,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Yszu-1Gs3Mg",
+  "link": "https://youtu.be/Yszu-1Gs3Mg",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2018-06-20T18:00:00",
@@ -23,7 +23,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bOUHhPXjZyY",
+  "link": "https://youtu.be/bOUHhPXjZyY",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2018-09-05T18:00:00",
@@ -45,7 +45,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rclhcbOIcHc",
+  "link": "https://youtu.be/rclhcbOIcHc",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2020-04-15T18:00:00",
@@ -56,7 +56,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=_n7d83zyV4Y",
+  "link": "https://youtu.be/_n7d83zyV4Y",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2020-04-21T18:00:00",
@@ -67,7 +67,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=zEmJahH-WRw",
+  "link": "https://youtu.be/zEmJahH-WRw",
   "category": "Radio_Podcast",
   "member": "소연",
   "date": "2020-04-25T18:00:00",
@@ -78,7 +78,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=GPMvdjNSO-c",
+  "link": "https://youtu.be/GPMvdjNSO-c",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2020-08-10T18:00:00",
@@ -89,7 +89,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7l2FpaYWP4Q",
+  "link": "https://youtu.be/7l2FpaYWP4Q",
   "category": "Radio_Podcast",
   "member": "소연, 우기",
   "date": "2020-08-15T18:00:00",
@@ -100,7 +100,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=-nuwY7zCK-k",
+  "link": "https://youtu.be/-nuwY7zCK-k",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2020-08-22T18:00:00",
@@ -111,7 +111,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4bP4RZhTCq8",
+  "link": "https://youtu.be/4bP4RZhTCq8",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2021-01-05",
@@ -122,7 +122,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=uqB-O6fMx3g",
+  "link": "https://youtu.be/uqB-O6fMx3g",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2021-01-12",
@@ -133,7 +133,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=eFe6ocZWY5E",
+  "link": "https://youtu.be/eFe6ocZWY5E",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2021-01-14T18:00:00",
@@ -155,7 +155,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JMz1m-6WVmc",
+  "link": "https://youtu.be/JMz1m-6WVmc",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2021-01-19",
@@ -166,7 +166,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jwWoos-T5aE",
+  "link": "https://youtu.be/jwWoos-T5aE",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2021-01-25T18:00:00",
@@ -177,7 +177,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=3tVxtSw1Juk",
+  "link": "https://youtu.be/3tVxtSw1Juk",
   "category": "Radio_Podcast",
   "member": "미연, 민니",
   "date": "2021-02-06T18:00:00",
@@ -441,7 +441,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IGr-H7l8jcQ",
+  "link": "https://youtu.be/IGr-H7l8jcQ",
   "category": "Radio_Podcast",
   "member": "소연",
   "date": "2021-07-12T18:00:00",
@@ -452,7 +452,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1s7_BcNNO2c",
+  "link": "https://youtu.be/1s7_BcNNO2c",
   "category": "Radio_Podcast",
   "member": "소연",
   "date": "2021-07-12T18:00:00",
@@ -485,7 +485,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=R1PJt5KQak8",
+  "link": "https://youtu.be/R1PJt5KQak8",
   "category": "Radio_Podcast",
   "member": "소연",
   "date": "2021-07-21T18:00:00",
@@ -496,7 +496,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=i9KRRIoonBM",
+  "link": "https://youtu.be/i9KRRIoonBM",
   "category": "Radio_Podcast",
   "member": "소연",
   "date": "2021-07-22T18:00:00",
@@ -672,7 +672,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=JCILU1qBUW4",
+  "link": "https://youtu.be/JCILU1qBUW4",
   "category": "Radio_Podcast",
   "member": "미연",
   "date": "2021-11-04T18:00:00",
@@ -892,7 +892,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=chMiGr_W8Zo",
+  "link": "https://youtu.be/chMiGr_W8Zo",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2022-03-18T18:00:00",
@@ -903,7 +903,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7GTS5dp2qXQ",
+  "link": "https://youtu.be/7GTS5dp2qXQ",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2022-03-18T18:00:00",
@@ -914,7 +914,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=gUSubxDc5vE",
+  "link": "https://youtu.be/gUSubxDc5vE",
   "category": "Radio_Podcast",
   "member": "민니, 우기, 슈화",
   "date": "2022-03-20T18:00:00",
@@ -936,7 +936,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=RwKaWHCHOkc",
+  "link": "https://youtu.be/RwKaWHCHOkc",
   "category": "Radio_Podcast",
   "member": "미연, 민니, 우기",
   "date": "2022-03-26T18:00:00",
@@ -1002,7 +1002,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=qdYeb4z_F-Y",
+  "link": "https://youtu.be/qdYeb4z_F-Y",
   "category": "Radio_Podcast",
   "member": "민니, 우기",
   "date": "2022-04-19T18:00:00",
@@ -1024,7 +1024,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=loGopFmdBD0",
+  "link": "https://youtu.be/loGopFmdBD0",
   "category": "Radio_Podcast",
   "member": "미연",
   "date": "2022-04-27T18:00:00",
@@ -1035,7 +1035,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=9CxGXexDWgU",
+  "link": "https://youtu.be/9CxGXexDWgU",
   "category": "Radio_Podcast",
   "member": "미연",
   "date": "2022-04-28T18:00:00",
@@ -1046,7 +1046,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4vRInPn_uwI",
+  "link": "https://youtu.be/4vRInPn_uwI",
   "category": "Radio_Podcast",
   "member": "미연, 민니",
   "date": "2022-04-28T18:00:00",
@@ -1057,7 +1057,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bK2XXvw6UUE",
+  "link": "https://youtu.be/bK2XXvw6UUE",
   "category": "Radio_Podcast",
   "member": "미연",
   "date": "2022-04-28T18:00:00",
@@ -1068,7 +1068,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4bBSXpXw-nE",
+  "link": "https://youtu.be/4bBSXpXw-nE",
   "category": "Radio_Podcast",
   "member": "미연",
   "date": "2022-04-30T18:00:00",
@@ -1079,7 +1079,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=rylW3vpKSfk",
+  "link": "https://youtu.be/rylW3vpKSfk",
   "category": "Radio_Podcast",
   "member": "미연",
   "date": "2022-05-01T18:00:00",
@@ -1090,7 +1090,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ojYeaY5D8lk",
+  "link": "https://youtu.be/ojYeaY5D8lk",
   "category": "Radio_Podcast",
   "member": "미연",
   "date": "2022-05-03T18:00:00",
@@ -1189,7 +1189,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=mAJhaehrF_0",
+  "link": "https://youtu.be/mAJhaehrF_0",
   "category": "Radio_Podcast",
   "member": "민니",
   "date": "2022-06-25T18:00:00",
@@ -1255,7 +1255,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=sRguxMpZMB0",
+  "link": "https://youtu.be/sRguxMpZMB0",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2022-10-20T18:00:00",
@@ -1266,7 +1266,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Avq13ocXYz8",
+  "link": "https://youtu.be/Avq13ocXYz8",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2022-10-20T18:00:00",
@@ -1277,7 +1277,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AgXZkCieP50",
+  "link": "https://youtu.be/AgXZkCieP50",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2022-10-25T18:00:00",
@@ -1299,7 +1299,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=7uAq3vuboEI",
+  "link": "https://youtu.be/7uAq3vuboEI",
   "category": "Radio_Podcast",
   "member": "미연, 민니, 슈화",
   "date": "2022-10-25T18:00:00",
@@ -1310,7 +1310,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PznjpktXayI",
+  "link": "https://youtu.be/PznjpktXayI",
   "category": "Radio_Podcast",
   "member": "미연, 민니, 슈화",
   "date": "2022-10-26T18:00:00",
@@ -1332,7 +1332,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=S0YWmCh3CvM",
+  "link": "https://youtu.be/S0YWmCh3CvM",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2022-11-12T18:00:00",
@@ -1343,7 +1343,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=pg0wx6nAGdQ",
+  "link": "https://youtu.be/pg0wx6nAGdQ",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2022-11-14T18:00:00",
@@ -1453,7 +1453,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=h4kcfz8Uea4",
+  "link": "https://youtu.be/h4kcfz8Uea4",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2023-05-17T18:00:00",
@@ -1464,7 +1464,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=v2Sb7KtK_tY",
+  "link": "https://youtu.be/v2Sb7KtK_tY",
   "category": "Radio_Podcast",
   "member": "소연, 미연, 민니",
   "date": "2023-05-17T18:00:00",
@@ -1475,7 +1475,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=bRsmqbo5UOc",
+  "link": "https://youtu.be/bRsmqbo5UOc",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2023-05-22T18:00:00",
@@ -1486,7 +1486,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=IU7MAHrW7Hg",
+  "link": "https://youtu.be/IU7MAHrW7Hg",
   "category": "Radio_Podcast",
   "member": "소연, 미연, 우기",
   "date": "2023-05-31T18:00:00",
@@ -1497,7 +1497,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jhJSaQxl1zY",
+  "link": "https://youtu.be/jhJSaQxl1zY",
   "category": "Radio_Podcast",
   "member": "민니, 우기",
   "date": "2023-06-22T18:00:00",
@@ -1508,7 +1508,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Z7akYetUqcI",
+  "link": "https://youtu.be/Z7akYetUqcI",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2023-08-09T18:00:00",
@@ -1519,7 +1519,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PryFedOdq9s",
+  "link": "https://youtu.be/PryFedOdq9s",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2023-08-09T18:00:00",
@@ -1530,7 +1530,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=TLO_rkq7gBc",
+  "link": "https://youtu.be/TLO_rkq7gBc",
   "category": "Radio_Podcast",
   "member": "소연",
   "date": "2024-02-14T18:00:00",
@@ -1541,7 +1541,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=XhO80sPC0u8",
+  "link": "https://youtu.be/XhO80sPC0u8",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2024-07-09T18:00:00",
@@ -1552,7 +1552,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=DV3CyZJWSTo",
+  "link": "https://youtu.be/DV3CyZJWSTo",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2024-07-09T18:00:00",
@@ -1563,7 +1563,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=Xsu0iUK_W8A",
+  "link": "https://youtu.be/Xsu0iUK_W8A",
   "category": "Radio_Podcast",
   "member": "미연, 우기",
   "date": "2024-07-19T18:00:00",
@@ -1574,7 +1574,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=HFYobCvufa8",
+  "link": "https://youtu.be/HFYobCvufa8",
   "category": "Radio_Podcast",
   "member": "소연",
   "date": "2024-07-22T18:00:00",
@@ -1585,7 +1585,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=x8BwPfJdncw",
+  "link": "https://youtu.be/x8BwPfJdncw",
   "category": "Radio_Podcast",
   "member": "민니",
   "date": "2025-01-22T18:00:00",
@@ -1596,7 +1596,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=OorZpjSm7QE",
+  "link": "https://youtu.be/OorZpjSm7QE",
   "category": "Radio_Podcast",
   "member": "민니",
   "date": "2025-01-24T18:00:00",
@@ -1607,7 +1607,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=5rLPgvdUnJ4",
+  "link": "https://youtu.be/5rLPgvdUnJ4",
   "category": "Radio_Podcast",
   "member": "민니",
   "date": "2025-01-26T18:00:00",
@@ -1618,7 +1618,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=jsr9XqQh-C8",
+  "link": "https://youtu.be/jsr9XqQh-C8",
   "category": "Radio_Podcast",
   "member": "민니",
   "date": "2025-01-28T18:00:00",
@@ -1629,7 +1629,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AKbHvJDWLC8",
+  "link": "https://youtu.be/AKbHvJDWLC8",
   "category": "Radio_Podcast",
   "member": "민니",
   "date": "2025-01-30T18:00:00",
@@ -1640,7 +1640,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=QieM1oxUFUI",
+  "link": "https://youtu.be/QieM1oxUFUI",
   "category": "Radio_Podcast",
   "member": "미연",
   "date": "2025-02-19T18:00:00",
@@ -1651,7 +1651,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ISsi7sLXI8g",
+  "link": "https://youtu.be/ISsi7sLXI8g",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2025-05-20T18:00:00",
@@ -1662,7 +1662,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=4-hj0AyLz3k",
+  "link": "https://youtu.be/4-hj0AyLz3k",
   "category": "Radio_Podcast",
   "member": "미연, 우기",
   "date": "2025-05-21T18:00:00",
@@ -1673,7 +1673,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=inaLcT_gOS8",
+  "link": "https://youtu.be/inaLcT_gOS8",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2025-05-27T18:00:00",
@@ -1684,7 +1684,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=KXDUSvFO23Y",
+  "link": "https://youtu.be/KXDUSvFO23Y",
   "category": "Radio_Podcast",
   "member": "아이들",
   "date": "2025-05-30T18:00:00",
@@ -1695,7 +1695,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=AsjBiO1gsJs",
+  "link": "https://youtu.be/AsjBiO1gsJs",
   "category": "Radio_Podcast",
   "member": "미연, 민니",
   "date": "2025-06-01T18:00:00",
@@ -1706,7 +1706,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=X8PZ43mALf8",
+  "link": "https://youtu.be/X8PZ43mALf8",
   "category": "Radio_Podcast",
   "member": "소연",
   "date": "2025-06-09T18:00:00",
@@ -1717,7 +1717,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=PIEIaBctxlg",
+  "link": "https://youtu.be/PIEIaBctxlg",
   "category": "Radio_Podcast",
   "member": "소연",
   "date": "2025-06-27T18:00:00",
@@ -1728,7 +1728,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=1S1jqjFiHoE",
+  "link": "https://youtu.be/1S1jqjFiHoE",
   "category": "Radio_Podcast",
   "member": "우기",
   "date": "2025-09-17T18:00:00",
@@ -1739,7 +1739,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=666A_VtHz_0",
+  "link": "https://youtu.be/666A_VtHz_0",
   "category": "Radio_Podcast",
   "member": "우기",
   "date": "2025-09-18T18:00:00",
@@ -1750,7 +1750,7 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://www.youtube.com/watch?v=ODLKMLGMpJ0",
+  "link": "https://youtu.be/ODLKMLGMpJ0",
   "category": "Radio_Podcast",
   "member": "우기",
   "date": "2025-09-23T18:00:00",
@@ -1759,7 +1759,6 @@ const radioPodcastCards = [
   "alt": "[FULL] 장르 불문 올라운더들의 만남! 김희재(Kim Hee Jae), 우기(YUQI) 보는 라디오 | 두시탈출 컬투쇼 | 250923",
   "title": "[FULL] 장르 불문 올라운더들의 만남! 김희재(Kim Hee Jae), 우기(YUQI) 보는 라디오 | 두시탈출 컬투쇼 | 250923"
 }
-
 
   ];
 window.radioPodcastCards = radioPodcastCards;
