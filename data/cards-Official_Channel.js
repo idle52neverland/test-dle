@@ -1057,6 +1057,18 @@ const officialChannelCards = [
 },
 
 {
+  "link": "https://youtu.be/g5KNuqSw8qY",
+  "category": "Official_Channel",
+  "member": "소연",
+  "date": "2019-06-18T18:00:00",
+  "duration": "00:15:24",
+  "thumbnail": "https://i.ytimg.com/vi/g5KNuqSw8qY/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기",
+  "title": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기",
+  "subtag": "스페셜컨텐츠 | Special Content"
+},
+
+{
   "link": "https://youtu.be/6oZ80LMxsuE",
   "category": "Official_Channel",
   "member": "미연",
@@ -9682,18 +9694,6 @@ const officialChannelCards = [
   "alt": "소연의 '내 이름 맑음' LIVE CLIP 촬영 비하인드 [i-talk] #206 | i-dle (아이들)ㅣSUB",
   "title": "소연의 '내 이름 맑음' LIVE CLIP 촬영 비하인드 [i-talk] #206 | i-dle (아이들)ㅣSUB",
   "subtag": "아이톡 | I-TALK"
-},
-
-{
-  "link": "https://youtu.be/g5KNuqSw8qY",
-  "category": "Official_Channel",
-  "member": "소연",
-  "date": "2025-07-09T18:00:00",
-  "duration": "00:15:24",
-  "thumbnail": "https://i.ytimg.com/vi/g5KNuqSw8qY/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기",
-  "title": "(여자)아이들((G)I-DLE) - 소확행 #2  소연이의 '애정결핍' 드로잉 비디오 제작기",
-  "subtag": "스페셜컨텐츠 | Special Content"
 },
 
 {
