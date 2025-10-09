@@ -14870,7 +14870,7 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/90gAQLTa4Cg/maxresdefault.jpg",
   "alt": "[WHAT A TRIP EP.9] bossbaby 不想走了！什麼都不怕！i-dle Shuhua 舒華 愛上紐西蘭 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液",
   "title": "[WHAT A TRIP EP.9] bossbaby 不想走了！什麼都不怕！i-dle Shuhua 舒華 愛上紐西蘭 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液"
-}
+},
 
 {
   "link": "https://youtu.be/-Lk2slQGgsc",
@@ -14927,4 +14927,5 @@ const mediaContentCards = [
 }
 
 ];
+
 window.mediaContentCards = mediaContentCards;
