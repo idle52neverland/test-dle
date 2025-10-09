@@ -3183,7 +3183,7 @@ const mediaPerformanceCards = [
   "link": "https://youtu.be/lO5VDK-SqN0",
   "category": "Media_Performance",
   "member": "우기",
-  "date": "2025-09-20T18:00:00",
+  "date": "2025-09-19T18:00:00",
   "duration": "00:03:22",
   "thumbnail": "https://i.ytimg.com/vi/lO5VDK-SqN0/maxresdefault.jpg",
   "alt": "[세로] 우기 (YUQI) - Always Remember Us This Way (영화〈스타 이즈 본〉OST) [더 시즌즈-10CM의 쓰담쓰담]",

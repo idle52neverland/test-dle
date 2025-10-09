@@ -10198,7 +10198,20 @@ const officialChannelCards = [
   "alt": "2025 큐브 엔터테인먼트 추석 인사 영상",
   "title": "2025 큐브 엔터테인먼트 추석 인사 영상",
   "subtag": "기타 | Etc"
+},
+
+{
+  "link": "https://youtu.be/KLxtOB-T-qI",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-10-07T18:00:00",
+  "duration": "00:04:21",
+  "thumbnail": "https://i.ytimg.com/vi/KLxtOB-T-qI/maxresdefault.jpg",
+  "alt": "i-dle 'どうしよっかな (Where Do We Go)' @ [ 逢い-dle ]",
+  "title": "i-dle 'どうしよっかな (Where Do We Go)' @ [ 逢い-dle ]",
+  "subtag": "퍼포먼스 | Performance"
 }
+
 
 
 ];

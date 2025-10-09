@@ -529,6 +529,17 @@ const etcCards = [
 },
 
 {
+  "link": "https://youtu.be/8BhmyaGS168",
+  "category": "Etc",
+  "member": "소연",
+  "date": "2025-08-01T18:00:00",
+  "duration": "00:24:05",
+  "thumbnail": "https://i.ytimg.com/vi/8BhmyaGS168/maxresdefault.jpg",
+  "alt": "[20:03~20:12] [SUB] 전소연 엄지윤 이사배 킹키 총출동✨ 다비드 쇼케이스의 결말 | 사내수공업 가수 - 다비드 봉",
+  "title": "[20:03~20:12] [SUB] 전소연 엄지윤 이사배 킹키 총출동✨ 다비드 쇼케이스의 결말 | 사내수공업 가수 - 다비드 봉"
+},
+
+{
   "link": "https://youtu.be/JQ-SKTKAjVw",
   "category": "Etc",
   "member": "소연",
@@ -570,6 +581,17 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/nKnhXULqIoI/maxresdefault.jpg",
   "alt": "슈화 SKECHERS 팝업스토어 - 舒華帶逛SKECHERS快閃店 親授「舒式穿搭秘訣」",
   "title": "슈화 SKECHERS 팝업스토어 - 舒華帶逛SKECHERS快閃店 親授「舒式穿搭秘訣」"
+},
+
+{
+  "link": "https://youtu.be/rU0L3GOYHlQ",
+  "category": "Etc",
+  "member": "아이들",
+  "date": "2025-09-06T18:00:00",
+  "duration": "00:18:34",
+  "thumbnail": "https://i.ytimg.com/vi/rU0L3GOYHlQ/maxresdefault.jpg",
+  "alt": "[09:36~11:07] ALL THE K-POP STAGE IN MACAU 비하인드 [REC NOW] Take #73 | NOWZ (나우즈)ㅣSUB",
+  "title": "[09:36~11:07] ALL THE K-POP STAGE IN MACAU 비하인드 [REC NOW] Take #73 | NOWZ (나우즈)ㅣSUB"
 },
 
 {

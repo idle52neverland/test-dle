@@ -3477,6 +3477,17 @@ const mediaContentCards = [
 },
 
 {
+  "link": "https://youtu.be/6T7U8PfSi8o",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2020-08-22T18:00:00",
+  "duration": "00:11:56",
+  "thumbnail": "https://i.ytimg.com/vi/6T7U8PfSi8o/maxresdefault.jpg",
+  "alt": "[미연.ZIP] 이름이 면이라 면 좋아해요 ^ㅂ^ 언어유희 탑재한 면프로디테 / (G)I-DLE MIYEON.ZIP | #네가참좋아 #놀라운토요일",
+  "title": "[미연.ZIP] 이름이 면이라 면 좋아해요 ^ㅂ^ 언어유희 탑재한 면프로디테 / (G)I-DLE MIYEON.ZIP | #네가참좋아 #놀라운토요일"
+},
+
+{
   "link": "https://youtu.be/etIHDEtaT6Y",
   "category": "Media_Content",
   "member": "미연",
@@ -7756,6 +7767,17 @@ const mediaContentCards = [
 },
 
 {
+  "link": "https://youtu.be/c3GGavSSU9o",
+  "category": "Media_Content",
+  "member": "우기",
+  "date": "2022-09-06T18:00:00",
+  "duration": "00:07:53",
+  "thumbnail": "https://i.ytimg.com/vi/c3GGavSSU9o/maxresdefault.jpg",
+  "alt": "우기 두바이 브이로그 번역 2022第一个 Dubai Vlog",
+  "title": "우기 두바이 브이로그 번역 2022第一个 Dubai Vlog"
+},
+
+{
   "link": "https://youtu.be/j2g_plNlJFI",
   "category": "Media_Content",
   "member": "미연",
@@ -10336,8 +10358,8 @@ const mediaContentCards = [
   "date": "2024-02-03T18:00:00",
   "duration": "00:41:10",
   "thumbnail": "https://i.ytimg.com/vi/b2zoVwCWAQQ/hqdefault.jpg",
-  "alt": "[아형✪하이라이트] (여자)아이들 민니x우기를 두고 양다리 걸쳤던 큐브 연습생🔥?! 그 사실을 알게 된 후 어색해진 두 사람.. | 아는 형님",
-  "title": "[아형✪하이라이트] (여자)아이들 민니x우기를 두고 양다리 걸쳤던 큐브 연습생🔥?! 그 사실을 알게 된 후 어색해진 두 사람.. | 아는 형님"
+  "alt": "[아형✪하이라이트] (여자)아이들 민니x우기를 두고 양다리 걸쳤던 큐브 연습생🔥?! 그 사실을 알게 된 후 어색해진 두 사람.. | 아는 형님 419회",
+  "title": "[아형✪하이라이트] (여자)아이들 민니x우기를 두고 양다리 걸쳤던 큐브 연습생🔥?! 그 사실을 알게 된 후 어색해진 두 사람.. | 아는 형님 419회"
 },
 
 {
@@ -10347,8 +10369,8 @@ const mediaContentCards = [
   "date": "2024-02-03T18:00:00",
   "duration": "00:08:06",
   "thumbnail": "https://i.ytimg.com/vi/_wRd8_OnM9s/hqdefault.jpg",
-  "alt": "[아형✪하이라이트] 〈Super Lady〉로 돌아온 5명의 디바! (여자)아이들의 신곡부터 히트곡까지🎵 | 아는 형님",
-  "title": "[아형✪하이라이트] 〈Super Lady〉로 돌아온 5명의 디바! (여자)아이들의 신곡부터 히트곡까지🎵 | 아는 형님"
+  "alt": "[아형✪하이라이트] 〈Super Lady〉로 돌아온 5명의 디바! (여자)아이들의 신곡부터 히트곡까지🎵 | 아는 형님 419회",
+  "title": "[아형✪하이라이트] 〈Super Lady〉로 돌아온 5명의 디바! (여자)아이들의 신곡부터 히트곡까지🎵 | 아는 형님 419회"
 },
 
 {
@@ -10358,8 +10380,8 @@ const mediaContentCards = [
   "date": "2024-02-03T18:00:00",
   "duration": "00:29:24",
   "thumbnail": "https://i.ytimg.com/vi/SsITRxMFZn8/sddefault.jpg",
-  "alt": "[ENG][아형✪하이라이트] ＂넌 3개월 용이야＂ '면프로디테' 미연의 자존심을 상하게 한 나쁜 남자 이진호의 충격 발언😱 | 아는 형님 | JTBC",
-  "title": "[ENG][아형✪하이라이트] ＂넌 3개월 용이야＂ '면프로디테' 미연의 자존심을 상하게 한 나쁜 남자 이진호의 충격 발언😱 | 아는 형님 | JTBC"
+  "alt": "[ENG][아형✪하이라이트] ＂넌 3개월 용이야＂ '면프로디테' 미연의 자존심을 상하게 한 나쁜 남자 이진호의 충격 발언😱 | 아는 형님 419회",
+  "title": "[ENG][아형✪하이라이트] ＂넌 3개월 용이야＂ '면프로디테' 미연의 자존심을 상하게 한 나쁜 남자 이진호의 충격 발언😱 | 아는 형님 419회"
 },
 
 {
@@ -12723,8 +12745,19 @@ const mediaContentCards = [
   "date": "2025-05-18T18:00:00",
   "duration": "00:03:42",
   "thumbnail": "https://i.ytimg.com/vi/MTllcSxjwtk/sddefault.jpg",
-  "alt": "[전지적 참견 시점] 시끌벅적 아이들 메이크업 현장💄 어쩔 수 없이(?) 자꾸 붙게 되는 미연X우기",
-  "title": "[전지적 참견 시점] 시끌벅적 아이들 메이크업 현장💄 어쩔 수 없이(?) 자꾸 붙게 되는 미연X우기"
+  "alt": "[전참시] 아이들 메이크업 현장💄 어쩔 수 없이(?) 자꾸 붙게 되는 미연X우기 [전지적 참견 시점]",
+  "title": "[전참시] 시끌벅적 아이들 메이크업 현장💄 어쩔 수 없이(?) 자꾸 붙게 되는 미연X우기 [전지적 참견 시점]"
+},
+
+{
+  "link": "https://youtu.be/Zeqd12As-xo",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2025-05-18T18:00:00",
+  "duration": "00:17:34",
+  "thumbnail": "https://i.ytimg.com/vi/Zeqd12As-xo/maxresdefault.jpg",
+  "alt": "[전참시][ENG/CHN] i-dle’s Lively Drive to Work: 5 Members, 5 Vibes #MIYEON #MINNIE #SOYEON #YUQI #SHUHUA",
+  "title": "[전참시][ENG/CHN] i-dle’s Lively Drive to Work: 5 Members, 5 Vibes #MIYEON #MINNIE #SOYEON #YUQI #SHUHUA"
 },
 
 {
@@ -12734,7 +12767,7 @@ const mediaContentCards = [
   "date": "2025-05-18T18:00:00",
   "duration": "00:14:57",
   "thumbnail": "https://i.ytimg.com/vi/lJAZStJcBzw/maxresdefault.jpg",
-  "alt": "효소 찜질로 붓기 빼고 만취로 리셋?! 😵‍💫 | 컴백 루틴, 술 먹방, 안주 3종 세트",
+  "alt": "[미연.zip📁] 효소 찜질로 붓기 빼고 만취로 리셋?! 😵‍💫 | 컴백 루틴, 술 먹방, 안주 3종 세트",
   "title": "[미연.zip📁] 효소 찜질로 붓기 빼고 만취로 리셋?! 😵‍💫 | 컴백 루틴, 술 먹방, 안주 3종 세트"
 },
 
@@ -12943,8 +12976,8 @@ const mediaContentCards = [
   "date": "2025-05-24T18:00:00",
   "duration": "00:33:25",
   "thumbnail": "https://i.ytimg.com/vi/2POHov-gnQE/sddefault.jpg",
-  "alt": "[아형✪하이라이트] 아이돌 해 주셔서 감사합니다..😍 믿고 듣는 아이들(i-dle) 신곡 Good Thing부터 히트곡까지♬ | 아는 형님 |",
-  "title": "[아형✪하이라이트] 아이돌 해 주셔서 감사합니다..😍 믿고 듣는 아이들(i-dle) 신곡 Good Thing부터 히트곡까지♬ | 아는 형님 | JTBC"
+  "alt": "[아형✪하이라이트] 아이돌 해 주셔서 감사합니다..😍 믿고 듣는 아이들(i-dle) 신곡 Good Thing부터 히트곡까지♬ | 아는 형님 483회",
+  "title": "[아형✪하이라이트] 아이돌 해 주셔서 감사합니다..😍 믿고 듣는 아이들(i-dle) 신곡 Good Thing부터 히트곡까지♬ | 아는 형님 483회"
 },
 
 {
@@ -12954,8 +12987,19 @@ const mediaContentCards = [
   "date": "2025-05-24T18:00:00",
   "duration": "00:25:47",
   "thumbnail": "https://i.ytimg.com/vi/dAIZ3VpUwqQ/sddefault.jpg",
-  "alt": "[ENG][아형✪하이라이트] 나가려고 한 거야? 네. 아이들(i-dle)이 직접 말하는 ((솔직 200%)) 재계약 전원 성공 비화💥 | 아는 형님 |",
-  "title": "[ENG][아형✪하이라이트] 나가려고 한 거야? 네. 아이들(i-dle)이 직접 말하는 ((솔직 200%)) 재계약 전원 성공 비화💥 | 아는 형님 |"
+  "alt": "[ENG][아형✪하이라이트] 나가려고 한 거야? 네. 아이들(i-dle)이 직접 말하는 ((솔직 200%)) 재계약 전원 성공 비화💥 | 아는 형님 483회",
+  "title": "[ENG][아형✪하이라이트] 나가려고 한 거야? 네. 아이들(i-dle)이 직접 말하는 ((솔직 200%)) 재계약 전원 성공 비화💥 | 아는 형님 483회"
+},
+
+{
+  "link": "https://youtu.be/7VgniEkc8kY",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2025-05-24T18:00:00",
+  "duration": "00:20:11",
+  "thumbnail": "https://i.ytimg.com/vi/7VgniEkc8kY/maxresdefault.jpg",
+  "alt": "🔥수록곡인데 음원 1위까지🔥 오타쿠(?)스럽다고 생각했는데 의외로 대박난 아이들의 ＜아딱질＞| 아는 형님 483회",
+  "title": "🔥수록곡인데 음원 1위까지🔥 오타쿠(?)스럽다고 생각했는데 의외로 대박난 아이들의 ＜아딱질＞｜아는 형님 483회"
 },
 
 {
@@ -14576,39 +14620,6 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://youtu.be/14tddQQod-M",
-  "category": "Media_Content",
-  "member": "슈화",
-  "date": "2025-09-06T18:00:00",
-  "duration": "00:02:44",
-  "thumbnail": "https://i.ytimg.com/vi/14tddQQod-M/maxresdefault.jpg",
-  "alt": "i-dle Shuhua 舒華的冷知識 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液",
-  "title": "i-dle Shuhua 舒華的冷知識 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液"
-},
-
-{
-  "link": "https://youtu.be/Zf4XQb0Cuc0",
-  "category": "Media_Content",
-  "member": "슈화",
-  "date": "2025-09-07T18:00:00",
-  "duration": "00:04:31",
-  "thumbnail": "https://i.ytimg.com/vi/Zf4XQb0Cuc0/maxresdefault.jpg",
-  "alt": "i-dle Shuhua 辣妹舒華激不得！#WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液",
-  "title": "i-dle Shuhua 辣妹舒華激不得！#WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液"
-},
-
-{
-  "link": "https://youtu.be/5Kb4iS0NZ68",
-  "category": "Media_Content",
-  "member": "슈화",
-  "date": "2025-09-08T18:00:00",
-  "duration": "00:04:39",
-  "thumbnail": "https://i.ytimg.com/vi/5Kb4iS0NZ68/maxresdefault.jpg",
-  "alt": "i-dle Shuhua 紐西蘭極限體驗 舒華玩瘋了 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液",
-  "title": "i-dle Shuhua 紐西蘭極限體驗 舒華玩瘋了 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液"
-},
-
-{
   "link": "https://youtu.be/1jY6SxMNTqw",
   "category": "Media_Content",
   "member": "미연",
@@ -14637,8 +14648,8 @@ const mediaContentCards = [
   "date": "2025-09-12T18:00:00",
   "duration": "00:39:47",
   "thumbnail": "https://i.ytimg.com/vi/M8TveLXOkHg/maxresdefault.jpg",
-  "alt": "i-dle YUQI is back with full BYOB energy! | Joon & Brian BYOB #Idle",
-  "title": "i-dle YUQI is back with full BYOB energy! | Joon & Brian BYOB #Idle"
+  "alt": "개강? 출근? 무슨 소리야, 우기랑 닭 볶으러 안 갈거야?🍗 i-dle (아이들) 우기(YUQI) | 박준형 & 브라이언 BYOB",
+  "title": "개강? 출근? 무슨 소리야, 우기랑 닭 볶으러 안 갈거야?🍗 i-dle (아이들) 우기(YUQI) | 박준형 & 브라이언 BYOB"
 },
 
 {
@@ -14659,8 +14670,8 @@ const mediaContentCards = [
   "date": "2025-09-12T18:00:00",
   "duration": "00:48:01",
   "thumbnail": "https://i.ytimg.com/vi/_8HwU09O6ys/maxresdefault.jpg",
-  "alt": "WHAT A TRIP EP6 陳柏霖 黃宣 真的不會尋寶 女神 i-dle Shuhua 舒華降臨紐西蘭 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液",
-  "title": "WHAT A TRIP EP6 陳柏霖 黃宣 真的不會尋寶 女神 i-dle Shuhua 舒華降臨紐西蘭 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液"
+  "alt": "[WHAT A TRIP EP.6] 陳柏霖 黃宣 真的不會尋寶 女神 i-dle Shuhua 舒華降臨紐西蘭 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液",
+  "title": "[WHAT A TRIP EP.6] 陳柏霖 黃宣 真的不會尋寶 女神 i-dle Shuhua 舒華降臨紐西蘭 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液"
 },
 
 {
@@ -14719,6 +14730,17 @@ const mediaContentCards = [
 },
 
 {
+  "link": "https://youtu.be/dOO_Gehs7oQ",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-09-20T18:00:00",
+  "duration": "00:48:01",
+  "thumbnail": "https://i.ytimg.com/vi/dOO_Gehs7oQ/maxresdefault.jpg",
+  "alt": "[WHAT A TRIP EP.7] i-dle Shuhua 葉大膽不是叫假的 黃宣 陳柏霖 跟不上女神 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液",
+  "title": "[WHAT A TRIP EP.7] i-dle Shuhua 葉大膽不是叫假的 黃宣 陳柏霖 跟不上女神 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液"
+},
+
+{
   "link": "https://youtu.be/8-UhcE4YCiQ",
   "category": "Media_Content",
   "member": "우기",
@@ -14733,11 +14755,33 @@ const mediaContentCards = [
   "link": "https://youtu.be/5ZPbsPJakd8",
   "category": "Media_Content",
   "member": "우기",
-  "date": "2025-09-21T18:00:00",
+  "date": "2025-09-19T18:00:00",
   "duration": "00:14:48",
   "thumbnail": "https://i.ytimg.com/vi/5ZPbsPJakd8/maxresdefault.jpg",
-  "alt": "더시즌즈 - 아이들 ‘귀여움’ 담당 우기가 힙합 여전사 되어 돌아왔다🤟🏻 우기의 첫 솔로앨범#YUQI #M.O.",
-  "title": "더시즌즈 - 아이들 ‘귀여움’ 담당 우기가 힙합 여전사 되어 돌아왔다🤟🏻 우기의 첫 솔로앨범#YUQI #M.O."
+  "alt": "아이들 ‘귀여움’ 담당 우기가 힙합 여전사 되어 돌아왔다🤟🏻 우기의 첫 솔로앨범#YUQI #M.O. ㅣ KBS 더시즌즈 - 10CM의 쓰담쓰담",
+  "title": "아이들 ‘귀여움’ 담당 우기가 힙합 여전사 되어 돌아왔다🤟🏻 우기의 첫 솔로앨범#YUQI #M.O. ㅣ KBS 더시즌즈 - 10CM의 쓰담쓰담"
+},
+
+{
+  "link": "https://youtu.be/qDnkb5FpHh0",
+  "category": "Media_Content",
+  "member": "우기",
+  "date": "2025-09-19T18:00:00",
+  "duration": "00:18:00",
+  "thumbnail": "https://i.ytimg.com/vi/qDnkb5FpHh0/maxresdefault.jpg",
+  "alt": "[ENG] YUQI TALK & STAGE (The Seasons/더시즌즈 - 10CM의 쓰담쓰담)",
+  "title": "[ENG] YUQI TALK & STAGE (The Seasons/더시즌즈 - 10CM의 쓰담쓰담)"
+},
+
+{
+  "link": "https://youtu.be/WPwwmjTm9nk",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2025-09-19T18:00:00",
+  "duration": "00:30:04",
+  "thumbnail": "https://i.ytimg.com/vi/WPwwmjTm9nk/maxresdefault.jpg",
+  "alt": "[FULL SUB] 「歌謡大典が終わったら売店歌謡」 인기가요 끝나면 매점가요 | 2025 SBS 가요대전 Summer",
+  "title": "[FULL SUB] 「歌謡大典が終わったら売店歌謡」 인기가요 끝나면 매점가요 | 2025 SBS 가요대전 Summer"
 },
 
 {
@@ -14760,6 +14804,17 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/fYgrwYfN_XA/maxresdefault.jpg",
   "alt": "《回魂計》The Resurrected | i-dle宣傳曲訪談 Promotional Song Interview | Netflix",
   "title": "《回魂計》The Resurrected | i-dle宣傳曲訪談 Promotional Song Interview | Netflix"
+},
+
+{
+  "link": "https://youtu.be/aoKi1EgFNKg",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-09-27T18:00:00",
+  "duration": "00:48:01",
+  "thumbnail": "https://i.ytimg.com/vi/aoKi1EgFNKg/maxresdefault.jpg",
+  "alt": "[WHAT A TRIP EP.8] i-dle Shuhua 舒華不演了 找不到寶藏急下班  #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液",
+  "title": "[WHAT A TRIP EP.8] i-dle Shuhua 舒華不演了 找不到寶藏急下班  #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液"
 },
 
 {
@@ -14807,6 +14862,17 @@ const mediaContentCards = [
 },
 
 {
+  "link": "https://youtu.be/90gAQLTa4Cg",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-10-04T18:00:00",
+  "duration": "00:48:01",
+  "thumbnail": "https://i.ytimg.com/vi/90gAQLTa4Cg/maxresdefault.jpg",
+  "alt": "[WHAT A TRIP EP.9] bossbaby 不想走了！什麼都不怕！i-dle Shuhua 舒華 愛上紐西蘭 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液",
+  "title": "[WHAT A TRIP EP.9] bossbaby 不想走了！什麼都不怕！i-dle Shuhua 舒華 愛上紐西蘭 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液"
+}
+
+{
   "link": "https://youtu.be/-Lk2slQGgsc",
   "category": "Media_Content",
   "member": "미연",
@@ -14848,8 +14914,17 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/Wwvk3BCbgeU/maxresdefault.jpg",
   "alt": "[SUB] 范少勳, 本來是為了宣傳才來的.. 結果卻公開告白了💝 | 鑑定師 Global EP.5 | i-dle 舒華 #감별사",
   "title": "[SUB] 范少勳, 本來是為了宣傳才來的.. 結果卻公開告白了💝 | 鑑定師 Global EP.5 | i-dle 舒華 #감별사"
+},
+{
+  "link": "https://youtu.be/Edy5jyFuB1E",
+  "category": "Media_Content",
+  "member": "우기",
+  "date": "2025-10-09T18:00:00",
+  "duration": "00:21:41",
+  "thumbnail": "https://i.ytimg.com/vi/Edy5jyFuB1E/hqdefault.jpg",
+  "alt": "추석특집으로 낋여 온 조간산책 미공개 대방출",
+  "title": "추석특집으로 낋여 온 조간산책 미공개 대방출"
 }
-
 
 ];
 window.mediaContentCards = mediaContentCards;

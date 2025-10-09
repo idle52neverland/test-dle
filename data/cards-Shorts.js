@@ -9450,6 +9450,17 @@ const shortsCards = [
 },
 
 {
+  "link": "https://youtu.be/_FCt-UIWx-0",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2024-07-22T18:00:00",
+  "duration": "00:00:33",
+  "thumbnail": "https://i.ytimg.com/vi/_FCt-UIWx-0/maxresdefault.jpg",
+  "alt": "MC 미연 에피소드 정국 트로피 사건🏆 | 대친소 EP.853 | Mnet Plus",
+  "title": "MC 미연 에피소드 정국 트로피 사건🏆 | 대친소 EP.853 | Mnet Plus"
+},
+
+{
   "link": "https://youtu.be/_9w36NGJEW0",
   "category": "Shorts",
   "member": "소연",
@@ -15365,6 +15376,27 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/rspRGf3jxFY/sddefault.jpg",
   "alt": "지갑이 어딨지.. どうしよっかな..😂",
   "title": "지갑이 어딨지.. どうしよっかな..😂"
+},
+
+{
+  "link": "https://youtu.be/3OzlNuM1doo",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-10-08T18:00:00",
+  "duration": "00:00:32",
+  "thumbnail": "https://i.ytimg.com/vi/3OzlNuM1doo/maxresdefault.jpg",
+  "alt": "☁︎ 夢があったのよ青い世界 ☁︎",
+  "title": "☁︎ 夢があったのよ青い世界 ☁︎"
+},
+{
+  "link": "https://youtu.be/Nk-8Oq_TBI4",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-10-09T18:00:00",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/Nk-8Oq_TBI4/maxresdefault.jpg",
+  "alt": "Sugar on my 😜👅",
+  "title": "Sugar on my 😜👅"
 }
 
   ];

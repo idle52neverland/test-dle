@@ -9782,16 +9782,6 @@ const broadcastStageCards = [
     "title": "i-dle Solo.zip 📂 Show! Music Core i-dle Solo Stages Compilation"
   },
   {
-    "link": "https://youtu.be/YWLaTjsAraQ",
-    "category": "Broadcast_Stage",
-    "member": "아이들",
-    "date": "2025-09-24T18:00:00",
-    "duration": "00:15:08",
-    "thumbnail": "https://i.ytimg.com/vi/YWLaTjsAraQ/maxresdefault.jpg",
-    "alt": "i-dle Solo.zip 📂 Show! Music Core i-dle Solo Stages Compilation",
-    "title": "i-dle Solo.zip 📂 Show! Music Core i-dle Solo Stages Compilation"
-  },
-  {
     "link": "https://youtu.be/L-X2UkOWzUM",
     "category": "Broadcast_Stage",
     "member": "우기",

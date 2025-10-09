@@ -2020,8 +2020,8 @@ const interviewsCards = [
   "date": "2025-09-11T18:00:00",
   "duration": "00:08:34",
   "thumbnail": "https://i.ytimg.com/vi/WXyVf150quQ/maxresdefault.jpg",
-  "alt": "[ENG/THAI] 민니의 애장품을 보는 순간 지갑 털림⚠️  라부부&크라이베이비 풀소유 민니! 권력있다❤️ by W Korea",
-  "title": "[ENG/THAI] 민니의 애장품을 보는 순간 지갑 털림⚠️  라부부&크라이베이비 풀소유 민니! 권력있다❤️ by W Korea"
+  "alt": "[ENG/THAI] 민니가 태국가면 꼭 사오는 00베어? 라부부&크라이베이비 풀소유 민니의 권력있는 아이러브잇❤️ by W Korea",
+  "title": "[ENG/THAI] 민니가 태국가면 꼭 사오는 00베어? 라부부&크라이베이비 풀소유 민니의 권력있는 아이러브잇❤️ by W Korea"
 },
 
 {

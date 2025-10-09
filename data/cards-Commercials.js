@@ -1178,6 +1178,17 @@ const commercialsCards = [
 },
 
 {
+  "link": "https://youtu.be/3fm1Yfony8c",
+  "category": "Commercials",
+  "member": "소연",
+  "date": "2025-09-05T18:00:00",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/3fm1Yfony8c/maxresdefault.jpg",
+  "alt": "Coach Fall 2025 | Carry All Your Expressions | SOYEON | #CourageToBeReal",
+  "title": "Coach Fall 2025 | Carry All Your Expressions | SOYEON | #CourageToBeReal"
+},
+
+{
   "link": "https://youtu.be/SnQ6GcKn__8",
   "category": "Commercials",
   "member": "슈화",
