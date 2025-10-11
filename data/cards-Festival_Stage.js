@@ -1,6 +1,17 @@
 const festivalStageCards = [
 
 {
+  "link": "https://youtu.be/sHQNmyB4Cfc",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2016-10-08T18:00:00",
+  "duration": "00:22:20",
+  "thumbnail": "https://i.ytimg.com/vi/sHQNmyB4Cfc/maxresdefault.jpg",
+  "alt": "(09:28~16:20) [2016 MU:CON] 임슬옹 with 조미연 - 시작이 좋아 + 틀린그림찾기 @뮤콘쇼케이스",
+  "title": "(09:28~16:20) [2016 MU:CON] 임슬옹 with 조미연 - 시작이 좋아 + 틀린그림찾기 @뮤콘쇼케이스"
+},
+
+{
   "link": "https://youtu.be/6kcFXF5VQPY",
   "category": "Festival_Stage",
   "member": "민니, 소연",
@@ -1990,6 +2001,7 @@ const festivalStageCards = [
   "alt": "CFM : CrossFire Mobile x Song Yuqi (I-dle) | COPDD (Live Stage)",
   "title": "CFM : CrossFire Mobile x Song Yuqi (I-dle) | COPDD (Live Stage)"
 }
+
 
 ];
 window.festivalStageCards = festivalStageCards;

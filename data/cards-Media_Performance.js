@@ -89,6 +89,17 @@ const mediaPerformanceCards = [
 },
 
 {
+  "link": "https://youtu.be/Vyq3NXX7a8A",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2017-07-05T18:00:00",
+  "duration": "00:01:46",
+  "thumbnail": "https://i.ytimg.com/vi/Vyq3NXX7a8A/hqdefault.jpg",
+  "alt": "[일소라] 존예이신 일반인이 부르는 ‘너야’ (임슬옹) cover",
+  "title": "[일소라] 존예이신 일반인이 부르는 ‘너야’ (임슬옹) cover"
+},
+
+{
   "link": "https://youtu.be/r0rDWEw5wOU",
   "category": "Media_Performance",
   "member": "미연, 민니",
@@ -2924,6 +2935,17 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/4xRQo_5n0YI/sddefault.jpg",
   "alt": "i-dle (아이들) - Good Thing｜i-dle_Good Thing｜야외녹음실｜Beyond the Studio｜LIVE",
   "title": "i-dle (아이들) - Good Thing｜i-dle_Good Thing｜야외녹음실｜Beyond the Studio｜LIVE"
+},
+
+{
+  "link": "https://youtu.be/0W9typBAv0s",
+  "category": "Media_Performance",
+  "member": "아이들",
+  "date": "2025-05-22T18:00:00",
+  "duration": "00:03:10",
+  "thumbnail": "https://i.ytimg.com/vi/0W9typBAv0s/maxresdefault.jpg",
+  "alt": "i-dle (아이들) - Coin (코인) | 아이유의 팔레트🎨",
+  "title": "i-dle (아이들) - Coin (코인) | 아이유의 팔레트🎨"
 },
 
 {

@@ -1,5 +1,6 @@
 const officialChannelCards = [
 
+
 {
   "link": "https://youtu.be/Skz2kUcS5Jc",
   "category": "Official_Channel",
@@ -10210,6 +10211,18 @@ const officialChannelCards = [
   "alt": "i-dle 'どうしよっかな (Where Do We Go)' @ [ 逢い-dle ]",
   "title": "i-dle 'どうしよっかな (Where Do We Go)' @ [ 逢い-dle ]",
   "subtag": "퍼포먼스 | Performance"
+},
+
+{
+  "link": "https://youtu.be/EmjbF-ufBLM",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-10-11T18:00:00",
+  "duration": "00:14:01",
+  "thumbnail": "https://i.ytimg.com/vi/EmjbF-ufBLM/maxresdefault.jpg",
+  "alt": "i-dle JAPAN 1st EP『i-dle』 재킷 촬영 비하인드 [i-talk] #224 | i-dle (아이들)ㅣSUB",
+  "title": "i-dle JAPAN 1st EP『i-dle』 재킷 촬영 비하인드 [i-talk] #224 | i-dle (아이들)ㅣSUB",
+  "subtag": "아이톡 | I-TALK"
 }
 
 

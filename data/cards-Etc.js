@@ -1,5 +1,6 @@
 const etcCards = [
 
+
 {
   "link": "https://youtu.be/SkyM0aRrBvw",
   "category": "Etc",
@@ -97,6 +98,226 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/43pmkDu6CRs/sddefault.jpg",
   "alt": "[놀토- Uh-Oh 출제] (여자)아이들((G)-IDLE) - Uh-Oh 놀토 받아쓰기♬ with AOA 설현(Seol Hyun), 지민(Ji Min) | #놀라운토요일 |",
   "title": "[놀토- Uh-Oh 출제] (여자)아이들((G)-IDLE) - Uh-Oh 놀토 받아쓰기♬ with AOA 설현(Seol Hyun), 지민(Ji Min) | #놀라운토요일 |"
+},
+
+{
+  "link": "https://youtu.be/kwJLge3ALWM",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:02:47",
+  "thumbnail": "https://i.ytimg.com/vi/kwJLge3ALWM/mqdefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] 김종국(Kim Jong kook)의 최애 고르기💕 '차태현 VS 양세찬 VS 김정남' 히든싱어6(hiddensinger6) 8회 | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] 김종국(Kim Jong kook)의 최애 고르기💕 '차태현 VS 양세찬 VS 김정남' 히든싱어6(hiddensinger6) 8회 | JTBC"
+},
+
+{
+  "link": "https://youtu.be/QdJPD6Mjlzw",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:01:27",
+  "thumbnail": "https://i.ytimg.com/vi/QdJPD6Mjlzw/mqdefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] 김종국(Kim Jong kook)을 위한 레떼아모르의 노래 선물! 터보(Turbo)의 명곡 〈회상〉♪ 히든싱어6(hiddensinger6) 8회 | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] 김종국(Kim Jong kook)을 위한 레떼아모르의 노래 선물! 터보(Turbo)의 명곡 〈회상〉♪ 히든싱어6(hiddensinger6) 8회 | JTBC"
+},
+
+{
+  "link": "https://youtu.be/2klT62iu3pU",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:02:17",
+  "thumbnail": "https://i.ytimg.com/vi/2klT62iu3pU/mqdefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] [김종국(Kim Jong kook) 1R] '터보(Turbo)' 엔진을 처음 가동한 격렬한 비트의 데뷔곡 '나 어릴적 꿈' ♬ | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] [김종국(Kim Jong kook) 1R] '터보(Turbo)' 엔진을 처음 가동한 격렬한 비트의 데뷔곡 '나 어릴적 꿈' ♬ | JTBC"
+},
+
+{
+  "link": "https://youtu.be/AJ05hZ1kej8",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:02:52",
+  "thumbnail": "https://i.ytimg.com/vi/AJ05hZ1kej8/hqdefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ]＂야 웃기지 마!＂ 자기 합리화하는 김종국(Kim Jong kook) 충고하는 차태현 ꉂꉂ(ᵔᗜᵔ*) 히든싱어6(hiddensinger6) 8회 | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ]＂야 웃기지 마!＂ 자기 합리화하는 김종국(Kim Jong kook) 충고하는 차태현 ꉂꉂ(ᵔᗜᵔ*) 히든싱어6(hiddensinger6) 8회 | JTBC"
+},
+
+{
+  "link": "https://youtu.be/lJRp6i8JX9A",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:03:38",
+  "thumbnail": "https://i.ytimg.com/vi/lJRp6i8JX9A/sddefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] [김종국(Kim Jong kook) 1R 공개] ♨양심 고백♨ 큰소리치고 불안했던 김종국 💦 히든싱어6(hiddensinger6) 8회 | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] [김종국(Kim Jong kook) 1R 공개] ♨양심 고백♨ 큰소리치고 불안했던 김종국 💦 히든싱어6(hiddensinger6) 8회 | JTBC"
+},
+
+{
+  "link": "https://youtu.be/bqueA4tsx8I",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:02:00",
+  "thumbnail": "https://i.ytimg.com/vi/bqueA4tsx8I/hqdefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] [김종국(Kim Jong kook) 2R] 터보를 대한민국 최고의 남성 듀오로 만든 'Twist King' ♬ | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] [김종국(Kim Jong kook) 2R] 터보를 대한민국 최고의 남성 듀오로 만든 'Twist King' ♬ | JTBC"
+},
+
+{
+  "link": "https://youtu.be/5mtPyNFuCKQ",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:02:23",
+  "thumbnail": "https://i.ytimg.com/vi/5mtPyNFuCKQ/sddefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] 김종국(Kim Jong kook) 목소리는 마음에 꽂히는 김정남(Kim Jung Nam) (ft. 눈물 젖은 빵😭)| JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] 김종국(Kim Jong kook) 목소리는 마음에 꽂히는 김정남(Kim Jung Nam) (ft. 눈물 젖은 빵😭)| JTBC"
+},
+
+{
+  "link": "https://youtu.be/VzVJKqXv_TY",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:02:30",
+  "thumbnail": "https://i.ytimg.com/vi/VzVJKqXv_TY/maxresdefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] [김종국(Kim Jong kook) 2R 공개] 의견 대립이 팽팽했던 혼란의 2라운드, 결과는? 히든싱어6(hiddensinger6) 8회 | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] [김종국(Kim Jong kook) 2R 공개] 의견 대립이 팽팽했던 혼란의 2라운드, 결과는? 히든싱어6(hiddensinger6) 8회 | JTBC"
+},
+
+{
+  "link": "https://youtu.be/_QCvM9V5ebI",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:02:02",
+  "thumbnail": "https://i.ytimg.com/vi/_QCvM9V5ebI/sddefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ]＂저거 오늘..!🔥＂ 본인 못 찾는 절친들에 단단히 화난 김종국(Kim Jong kook) 히든싱어6(hiddensinger6) 8회 | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ]＂저거 오늘..!🔥＂ 본인 못 찾는 절친들에 단단히 화난 김종국(Kim Jong kook) 히든싱어6(hiddensinger6) 8회 | JTBC"
+},
+
+{
+  "link": "https://youtu.be/1Qot8k8HEQc",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:03:31",
+  "thumbnail": "https://i.ytimg.com/vi/1Qot8k8HEQc/hqdefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] [김종국(Kim Jong kook) 3R] 온 국민의 사랑을 받은 노래 '검은 고양이 네로' ♬ 히든싱어6(hiddensinger6) 8회 | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] [김종국(Kim Jong kook) 3R] 온 국민의 사랑을 받은 노래 '검은 고양이 네로' ♬ 히든싱어6(hiddensinger6) 8회 | JTBC"
+},
+
+{
+  "link": "https://youtu.be/8OZrdHo6Vws",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:03:23",
+  "thumbnail": "https://i.ytimg.com/vi/8OZrdHo6Vws/mqdefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] 찐팬과 김종국(Kim Jong kook)이 함께하는 '터보 노래 1초 듣고 맞히기' 게임 👻 히든싱어6(hiddensinger6) 8회 | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] 찐팬과 김종국(Kim Jong kook)이 함께하는 '터보 노래 1초 듣고 맞히기' 게임 👻 히든싱어6(hiddensinger6) 8회 | JTBC"
+},
+
+{
+  "link": "https://youtu.be/lP4XyjOFkiM",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:01:14",
+  "thumbnail": "https://i.ytimg.com/vi/lP4XyjOFkiM/mqdefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] 두 눈에 김종국(Kim Jong kook) 담고 싶다는 개미지옥 팬과의 30초 눈 맞춤👀✨ 히든싱어6(hiddensinger6) 8회 | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] 두 눈에 김종국(Kim Jong kook) 담고 싶다는 개미지옥 팬과의 30초 눈 맞춤👀✨ 히든싱어6(hiddensinger6) 8회 | JTBC"
+},
+
+{
+  "link": "https://youtu.be/Egal3Ugjwo4",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:02:16",
+  "thumbnail": "https://i.ytimg.com/vi/Egal3Ugjwo4/hqdefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] 김종국(Kim Jong kook)도 비슷하다고 생각했던 ＜미스터 주＞ 영화 속 김종국 목소리 대역📣 히든싱어6(hiddensinger6) 8회 | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] 김종국(Kim Jong kook)도 비슷하다고 생각했던 ＜미스터 주＞ 영화 속 김종국 목소리 대역📣 히든싱어6(hiddensinger6) 8회 | JTBC"
+},
+
+{
+  "link": "https://youtu.be/hl5yWvpLTdk",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:02:38",
+  "thumbnail": "https://i.ytimg.com/vi/hl5yWvpLTdk/hqdefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] [김종국(Kim Jong kook) 3R 공개] 숨 막히는 긴장감 속 3라운드 탈락자는?😲 히든싱어6(hiddensinger6) 8회 | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] [김종국(Kim Jong kook) 3R 공개] 숨 막히는 긴장감 속 3라운드 탈락자는?😲 히든싱어6(hiddensinger6) 8회 | JTBC"
+},
+
+{
+  "link": "https://youtu.be/qYvnMdL90Hg",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:04:08",
+  "thumbnail": "https://i.ytimg.com/vi/qYvnMdL90Hg/hqdefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] [김종국(Kim Jong kook) 4R] 난도가 진짜 높은 애절한 발라드 '어느 째즈바...'♪ (ft. 김정남의 댄스) | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] [김종국(Kim Jong kook) 4R] 난도가 진짜 높은 애절한 발라드 '어느 째즈바...'♪ (ft. 김정남의 댄스) | JTBC"
+},
+
+{
+  "link": "https://youtu.be/nB0JZLYchPE",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:02:11",
+  "thumbnail": "https://i.ytimg.com/vi/nB0JZLYchPE/sddefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] [김종국(Kim Jong kook) 4R 공개] 예측불가💥 리매치 터보 김종국 편 최종 우승자는? 히든싱어6(hiddensinger6) 8회 | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] [김종국(Kim Jong kook) 4R 공개] 예측불가💥 리매치 터보 김종국 편 최종 우승자는? 히든싱어6(hiddensinger6) 8회 | JTBC"
+},
+
+{
+  "link": "https://youtu.be/WyiRw4es7Tk",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:01:41",
+  "thumbnail": "https://i.ytimg.com/vi/WyiRw4es7Tk/mqdefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] [미공개] ＂저.. 채연(Chae Yeon) 누나랑 댄스 배틀하고 싶어요＂ 급 성사된 댄스 배틀💃🏻 히든싱어6(hiddensinger6) 8회 | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] [미공개] ＂저.. 채연(Chae Yeon) 누나랑 댄스 배틀하고 싶어요＂ 급 성사된 댄스 배틀💃🏻 히든싱어6(hiddensinger6) 8회 | JTBC"
+},
+
+{
+  "link": "https://youtu.be/LGrliLCKqb4",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:01:28",
+  "thumbnail": "https://i.ytimg.com/vi/LGrliLCKqb4/sddefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] [미공개] 김종국(Kim Jong kook)을 위한 달달한 화음♡ 레떼아모르의 응원송 '회상'♪ (Full.ver) | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] [미공개] 김종국(Kim Jong kook)을 위한 달달한 화음♡ 레떼아모르의 응원송 '회상'♪ (Full.ver) | JTBC"
+},
+
+{
+  "link": "https://youtu.be/S9xXFGoDem8",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:02:10",
+  "thumbnail": "https://i.ytimg.com/vi/S9xXFGoDem8/sddefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] [미공개] ☆앵콜 무대★ 팬들과 함께하는 김종국(Kim Jong kook)의 'White Love🤍' ♪ 히든싱어6(hiddensinger6) 8회 | JTBC",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] [미공개] ☆앵콜 무대★ 팬들과 함께하는 김종국(Kim Jong kook)의 'White Love🤍' ♪ 히든싱어6(hiddensinger6) 8회 | JTBC"
+},
+
+{
+  "link": "https://youtu.be/UDmYb5T-FjE",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-09-25T18:00:00",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/UDmYb5T-FjE/mqdefault.jpg",
+  "alt": "[ 패널출연-미연,민니,소연,우기 ] 히든싱어6(hiddensinger6) 9회 예고편",
+  "title": "[ 패널출연-미연,민니,소연,우기 ] 히든싱어6(hiddensinger6) 9회 예고편"
 },
 
 {
@@ -284,17 +505,6 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/SxeFz-reaBY/maxresdefault.jpg",
   "alt": "Charades with Minnie (G)I-DLE in ภาษาไทย 💕 (Part 2)",
   "title": "Charades with Minnie (G)I-DLE in ภาษาไทย 💕 (Part 2)"
-},
-
-{
-  "link": "https://youtu.be/jBl15ho7JOg",
-  "category": "Etc",
-  "member": "소연",
-  "date": "2022-04-09T18:00:00",
-  "duration": "00:11:40",
-  "thumbnail": "https://i.ytimg.com/vi/jBl15ho7JOg/sddefault.jpg",
-  "alt": "전소연이 멤버들을 자랑하는 방법 / 아이들(G)I-DLE 마이백(MY BAG) 가사",
-  "title": "전소연이 멤버들을 자랑하는 방법 / 아이들(G)I-DLE 마이백(MY BAG) 가사"
 },
 
 {

@@ -2509,6 +2509,17 @@ const shortsCards = [
 },
 
 {
+  "link": "https://youtu.be/aDrFdA-uQYw",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2022-11-22T18:00:00",
+  "duration": "00:00:54",
+  "thumbnail": "https://i.ytimg.com/vi/aDrFdA-uQYw/maxresdefault.jpg",
+  "alt": "[D-5 | #MMA2022] #여자아이들 로부터 도착한 인사👋💕",
+  "title": "[D-5 | #MMA2022] #여자아이들 로부터 도착한 인사👋💕"
+},
+
+{
   "link": "https://youtu.be/kLCo8hbrcMc",
   "category": "Shorts",
   "member": "슈화",
@@ -11342,6 +11353,17 @@ const shortsCards = [
 },
 
 {
+  "link": "https://youtu.be/Wq8ZZFjOT74",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2024-12-14T18:00:00",
+  "duration": "00:00:59",
+  "thumbnail": "https://i.ytimg.com/vi/Wq8ZZFjOT74/maxresdefault.jpg",
+  "alt": "[멜뮤네컷] 아이들 포토부스에 오디오가 안 비어요🔊 #MMA2024 #멜론뮤직어워드",
+  "title": "[멜뮤네컷] 아이들 포토부스에 오디오가 안 비어요🔊 #MMA2024 #멜론뮤직어워드"
+},
+
+{
   "link": "https://youtu.be/LnBLn9vySO0",
   "category": "Shorts",
   "member": "아이들",
@@ -15388,6 +15410,7 @@ const shortsCards = [
   "alt": "☁︎ 夢があったのよ青い世界 ☁︎",
   "title": "☁︎ 夢があったのよ青い世界 ☁︎"
 },
+
 {
   "link": "https://youtu.be/Nk-8Oq_TBI4",
   "category": "Shorts",
@@ -15398,6 +15421,7 @@ const shortsCards = [
   "alt": "Sugar on my 😜👅",
   "title": "Sugar on my 😜👅"
 }
+
 
   ];
 window.shortsCards = shortsCards;

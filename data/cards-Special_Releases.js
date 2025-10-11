@@ -1063,8 +1063,18 @@ const specialReleasesCards = [
   "date": "2025-10-03T18:00:00",
   "duration": "00:03:33",
   "thumbnail": "https://i.ytimg.com/vi/pcsLPm0ootg/maxresdefault.jpg",
-  "alt": "[소연, 우기] Genie, Make a Wish OST (다 이루어질지니) - GAME",
-  "title": "[소연, 우기] Genie, Make a Wish OST (다 이루어질지니) - GAME"
+  "alt": "SOYEON, YUQI 〈Genie, Make a Wish OST (다 이루어질지니) - GAME〉",
+  "title": "SOYEON, YUQI 〈Genie, Make a Wish OST (다 이루어질지니) - GAME〉"
+},
+{
+  "link": "https://youtu.be/qm9C5GTB5VA",
+  "category": "Special_Releases",
+  "member": "민니, 슈화",
+  "date": "2025-10-10T18:00:00",
+  "duration": "00:03:41",
+  "thumbnail": "https://i.ytimg.com/vi/qm9C5GTB5VA/maxresdefault.jpg",
+  "alt": "《回魂計》 | 宣傳曲：i-dle MINNIE/SHUHUA〈Burn Me Into The Light〉 | 音樂錄影帶 | Netflix",
+  "title": "《回魂計》 | 宣傳曲：i-dle MINNIE/SHUHUA〈Burn Me Into The Light〉 | 音樂錄影帶 | Netflix"
 }
 
   ];

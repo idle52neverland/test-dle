@@ -1464,6 +1464,17 @@ const interviewsCards = [
 },
 
 {
+  "link": "https://youtu.be/w6GZbbR_dtY",
+  "category": "Interviews",
+  "member": "아이들",
+  "date": "2023-05-16T18:00:00",
+  "duration": "00:05:52",
+  "thumbnail": "https://i.ytimg.com/vi/w6GZbbR_dtY/maxresdefault.jpg",
+  "alt": "(여자)아이들 [I feel] 발매 기념 무물보 공개 👑 #여자아이들 #멜론스포트라이트 #멜론",
+  "title": "(여자)아이들 [I feel] 발매 기념 무물보 공개 👑 #여자아이들 #멜론스포트라이트 #멜론"
+},
+
+{
   "link": "https://youtu.be/a3R3KPgP5u4",
   "category": "Interviews",
   "member": "아이들",
@@ -1747,6 +1758,17 @@ const interviewsCards = [
   "thumbnail": "https://i.ytimg.com/vi/sk60HEx2BBg/sddefault.jpg",
   "alt": "[ENG]한때 서커스 단원을 꿈꿨던 (여자)아이들 전소연과 태양의서커스가 만났을 때! #툭툭인터뷰",
   "title": "[ENG]한때 서커스 단원을 꿈꿨던 (여자)아이들 전소연과 태양의서커스가 만났을 때! #툭툭인터뷰"
+},
+
+{
+  "link": "https://youtu.be/Dc_d92n9hwU",
+  "category": "Interviews",
+  "member": "아이들",
+  "date": "2024-01-30T18:00:00",
+  "duration": "00:07:49",
+  "thumbnail": "https://i.ytimg.com/vi/Dc_d92n9hwU/maxresdefault.jpg",
+  "alt": "(여자)아이들 [2] 발매 기념 무물보 공개🫡 #GIDLE #멜론 #멜론스포트라이트",
+  "title": "(여자)아이들 [2] 발매 기념 무물보 공개🫡 #GIDLE #멜론 #멜론스포트라이트"
 },
 
 {
@@ -2045,6 +2067,7 @@ const interviewsCards = [
   "alt": "I-dle on Singapore, learning Japanese and their solo work | E-Junkies",
   "title": "I-dle on Singapore, learning Japanese and their solo work | E-Junkies"
 }
+
 
 ];
 window.interviewsCards = interviewsCards;

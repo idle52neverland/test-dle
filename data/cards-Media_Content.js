@@ -2,7 +2,7 @@ const mediaContentCards = [
 
 {
   "link": "https://youtu.be/sb6swBDIyes",
-  "category": "MEDIA_CONTENTS",
+  "category": "Media_Content",
   "member": "소연",
   "date": "2016-12-13T18:00:00",
   "duration": "00:04:02",
@@ -3664,226 +3664,6 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://youtu.be/kwJLge3ALWM",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:02:47",
-  "thumbnail": "https://i.ytimg.com/vi/kwJLge3ALWM/mqdefault.jpg",
-  "alt": "김종국(Kim Jong kook)의 최애 고르기💕 '차태현 VS 양세찬 VS 김정남' 히든싱어6(hiddensinger6) 8회 | JTBC",
-  "title": "<패널-미연,민니,소연,우기> 김종국(Kim Jong kook)의 최애 고르기💕 '차태현 VS 양세찬 VS 김정남' 히든싱어6(hiddensinger6) 8회 | JTBC"
-},
-
-{
-  "link": "https://youtu.be/QdJPD6Mjlzw",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:01:27",
-  "thumbnail": "https://i.ytimg.com/vi/QdJPD6Mjlzw/mqdefault.jpg",
-  "alt": "김종국(Kim Jong kook)을 위한 레떼아모르의 노래 선물! 터보(Turbo)의 명곡 〈회상〉♪ 히든싱어6(hiddensinger6) 8회 | JTBC",
-  "title": "<패널-미연,민니,소연,우기> 김종국(Kim Jong kook)을 위한 레떼아모르의 노래 선물! 터보(Turbo)의 명곡 〈회상〉♪ 히든싱어6(hiddensinger6) 8회 | JTBC"
-},
-
-{
-  "link": "https://youtu.be/2klT62iu3pU",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:02:17",
-  "thumbnail": "https://i.ytimg.com/vi/2klT62iu3pU/mqdefault.jpg",
-  "alt": "[김종국(Kim Jong kook) 1R] '터보(Turbo)' 엔진을 처음 가동한 격렬한 비트의 데뷔곡 '나 어릴적 꿈' ♬ | JTBC",
-  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 1R] '터보(Turbo)' 엔진을 처음 가동한 격렬한 비트의 데뷔곡 '나 어릴적 꿈' ♬ | JTBC"
-},
-
-{
-  "link": "https://youtu.be/AJ05hZ1kej8",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:02:52",
-  "thumbnail": "https://i.ytimg.com/vi/AJ05hZ1kej8/hqdefault.jpg",
-  "alt": "＂야 웃기지 마!＂ 자기 합리화하는 김종국(Kim Jong kook) 충고하는 차태현 ꉂꉂ(ᵔᗜᵔ*) 히든싱어6(hiddensinger6) 8회 | JTBC",
-  "title": "＂<패널-미연,민니,소연,우기> 야 웃기지 마!＂ 자기 합리화하는 김종국(Kim Jong kook) 충고하는 차태현 ꉂꉂ(ᵔᗜᵔ*) 히든싱어6(hiddensinger6) 8회 | JTBC"
-},
-
-{
-  "link": "https://youtu.be/lJRp6i8JX9A",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:03:38",
-  "thumbnail": "https://i.ytimg.com/vi/lJRp6i8JX9A/sddefault.jpg",
-  "alt": "[김종국(Kim Jong kook) 1R 공개] ♨양심 고백♨ 큰소리치고 불안했던 김종국 💦 히든싱어6(hiddensinger6) 8회 | JTBC",
-  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 1R 공개] ♨양심 고백♨ 큰소리치고 불안했던 김종국 💦 히든싱어6(hiddensinger6) 8회 | JTBC"
-},
-
-{
-  "link": "https://youtu.be/bqueA4tsx8I",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:02:00",
-  "thumbnail": "https://i.ytimg.com/vi/bqueA4tsx8I/hqdefault.jpg",
-  "alt": "[김종국(Kim Jong kook) 2R] 터보를 대한민국 최고의 남성 듀오로 만든 'Twist King' ♬ | JTBC",
-  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 2R] 터보를 대한민국 최고의 남성 듀오로 만든 'Twist King' ♬ | JTBC"
-},
-
-{
-  "link": "https://youtu.be/5mtPyNFuCKQ",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:02:23",
-  "thumbnail": "https://i.ytimg.com/vi/5mtPyNFuCKQ/sddefault.jpg",
-  "alt": "김종국(Kim Jong kook) 목소리는 마음에 꽂히는 김정남(Kim Jung Nam) (ft. 눈물 젖은 빵😭)| JTBC",
-  "title": "<패널-미연,민니,소연,우기> 김종국(Kim Jong kook) 목소리는 마음에 꽂히는 김정남(Kim Jung Nam) (ft. 눈물 젖은 빵😭)| JTBC"
-},
-
-{
-  "link": "https://youtu.be/VzVJKqXv_TY",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:02:30",
-  "thumbnail": "https://i.ytimg.com/vi/VzVJKqXv_TY/maxresdefault.jpg",
-  "alt": "[김종국(Kim Jong kook) 2R 공개] 의견 대립이 팽팽했던 혼란의 2라운드, 결과는? 히든싱어6(hiddensinger6) 8회 | JTBC",
-  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 2R 공개] 의견 대립이 팽팽했던 혼란의 2라운드, 결과는? 히든싱어6(hiddensinger6) 8회 | JTBC"
-},
-
-{
-  "link": "https://youtu.be/_QCvM9V5ebI",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:02:02",
-  "thumbnail": "https://i.ytimg.com/vi/_QCvM9V5ebI/sddefault.jpg",
-  "alt": "＂저거 오늘..!🔥＂ 본인 못 찾는 절친들에 단단히 화난 김종국(Kim Jong kook) 히든싱어6(hiddensinger6) 8회 | JTBC",
-  "title": "＂<패널-미연,민니,소연,우기> 저거 오늘..!🔥＂ 본인 못 찾는 절친들에 단단히 화난 김종국(Kim Jong kook) 히든싱어6(hiddensinger6) 8회 | JTBC"
-},
-
-{
-  "link": "https://youtu.be/1Qot8k8HEQc",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:03:31",
-  "thumbnail": "https://i.ytimg.com/vi/1Qot8k8HEQc/hqdefault.jpg",
-  "alt": "[김종국(Kim Jong kook) 3R] 온 국민의 사랑을 받은 노래 '검은 고양이 네로' ♬ 히든싱어6(hiddensinger6) 8회 | JTBC",
-  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 3R] 온 국민의 사랑을 받은 노래 '검은 고양이 네로' ♬ 히든싱어6(hiddensinger6) 8회 | JTBC"
-},
-
-{
-  "link": "https://youtu.be/8OZrdHo6Vws",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:03:23",
-  "thumbnail": "https://i.ytimg.com/vi/8OZrdHo6Vws/mqdefault.jpg",
-  "alt": "찐팬과 김종국(Kim Jong kook)이 함께하는 '터보 노래 1초 듣고 맞히기' 게임 👻 히든싱어6(hiddensinger6) 8회 | JTBC",
-  "title": "<패널-미연,민니,소연,우기> 찐팬과 김종국(Kim Jong kook)이 함께하는 '터보 노래 1초 듣고 맞히기' 게임 👻 히든싱어6(hiddensinger6) 8회 | JTBC"
-},
-
-{
-  "link": "https://youtu.be/lP4XyjOFkiM",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:01:14",
-  "thumbnail": "https://i.ytimg.com/vi/lP4XyjOFkiM/mqdefault.jpg",
-  "alt": "두 눈에 김종국(Kim Jong kook) 담고 싶다는 개미지옥 팬과의 30초 눈 맞춤👀✨ 히든싱어6(hiddensinger6) 8회 | JTBC",
-  "title": "<패널-미연,민니,소연,우기> 두 눈에 김종국(Kim Jong kook) 담고 싶다는 개미지옥 팬과의 30초 눈 맞춤👀✨ 히든싱어6(hiddensinger6) 8회 | JTBC"
-},
-
-{
-  "link": "https://youtu.be/Egal3Ugjwo4",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:02:16",
-  "thumbnail": "https://i.ytimg.com/vi/Egal3Ugjwo4/hqdefault.jpg",
-  "alt": "김종국(Kim Jong kook)도 비슷하다고 생각했던 ＜미스터 주＞ 영화 속 김종국 목소리 대역📣 히든싱어6(hiddensinger6) 8회 | JTBC",
-  "title": "<패널-미연,민니,소연,우기> 김종국(Kim Jong kook)도 비슷하다고 생각했던 ＜미스터 주＞ 영화 속 김종국 목소리 대역📣 히든싱어6(hiddensinger6) 8회 | JTBC"
-},
-
-{
-  "link": "https://youtu.be/hl5yWvpLTdk",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:02:38",
-  "thumbnail": "https://i.ytimg.com/vi/hl5yWvpLTdk/hqdefault.jpg",
-  "alt": "[김종국(Kim Jong kook) 3R 공개] 숨 막히는 긴장감 속 3라운드 탈락자는?😲 히든싱어6(hiddensinger6) 8회 | JTBC",
-  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 3R 공개] 숨 막히는 긴장감 속 3라운드 탈락자는?😲 히든싱어6(hiddensinger6) 8회 | JTBC"
-},
-
-{
-  "link": "https://youtu.be/qYvnMdL90Hg",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:04:08",
-  "thumbnail": "https://i.ytimg.com/vi/qYvnMdL90Hg/hqdefault.jpg",
-  "alt": "[김종국(Kim Jong kook) 4R] 난도가 진짜 높은 애절한 발라드 '어느 째즈바...'♪ (ft. 김정남의 댄스) | JTBC",
-  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 4R] 난도가 진짜 높은 애절한 발라드 '어느 째즈바...'♪ (ft. 김정남의 댄스) | JTBC"
-},
-
-{
-  "link": "https://youtu.be/nB0JZLYchPE",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:02:11",
-  "thumbnail": "https://i.ytimg.com/vi/nB0JZLYchPE/sddefault.jpg",
-  "alt": "[김종국(Kim Jong kook) 4R 공개] 예측불가💥 리매치 터보 김종국 편 최종 우승자는? 히든싱어6(hiddensinger6) 8회 | JTBC",
-  "title": "<패널-미연,민니,소연,우기> [김종국(Kim Jong kook) 4R 공개] 예측불가💥 리매치 터보 김종국 편 최종 우승자는? 히든싱어6(hiddensinger6) 8회 | JTBC"
-},
-
-{
-  "link": "https://youtu.be/WyiRw4es7Tk",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:01:41",
-  "thumbnail": "https://i.ytimg.com/vi/WyiRw4es7Tk/mqdefault.jpg",
-  "alt": "[미공개] ＂저.. 채연(Chae Yeon) 누나랑 댄스 배틀하고 싶어요＂ 급 성사된 댄스 배틀💃🏻 히든싱어6(hiddensinger6) 8회 | JTBC",
-  "title": "<패널-미연,민니,소연,우기> [미공개] ＂저.. 채연(Chae Yeon) 누나랑 댄스 배틀하고 싶어요＂ 급 성사된 댄스 배틀💃🏻 히든싱어6(hiddensinger6) 8회 | JTBC"
-},
-
-{
-  "link": "https://youtu.be/LGrliLCKqb4",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:01:28",
-  "thumbnail": "https://i.ytimg.com/vi/LGrliLCKqb4/sddefault.jpg",
-  "alt": "[미공개] 김종국(Kim Jong kook)을 위한 달달한 화음♡ 레떼아모르의 응원송 '회상'♪ (Full.ver) | JTBC",
-  "title": "<패널-미연,민니,소연,우기> [미공개] 김종국(Kim Jong kook)을 위한 달달한 화음♡ 레떼아모르의 응원송 '회상'♪ (Full.ver) | JTBC"
-},
-
-{
-  "link": "https://youtu.be/S9xXFGoDem8",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:02:10",
-  "thumbnail": "https://i.ytimg.com/vi/S9xXFGoDem8/sddefault.jpg",
-  "alt": "[미공개] ☆앵콜 무대★ 팬들과 함께하는 김종국(Kim Jong kook)의 'White Love🤍' ♪ 히든싱어6(hiddensinger6) 8회 | JTBC",
-  "title": "<패널-미연,민니,소연,우기> [미공개] ☆앵콜 무대★ 팬들과 함께하는 김종국(Kim Jong kook)의 'White Love🤍' ♪ 히든싱어6(hiddensinger6) 8회 | JTBC"
-},
-
-{
-  "link": "https://youtu.be/UDmYb5T-FjE",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2020-09-25T18:00:00",
-  "duration": "00:01:00",
-  "thumbnail": "https://i.ytimg.com/vi/UDmYb5T-FjE/mqdefault.jpg",
-  "alt": "히든싱어6(hiddensinger6) 9회 예고편",
-  "title": "<패널-미연,민니,소연,우기> 히든싱어6(hiddensinger6) 9회 예고편"
-},
-
-{
   "link": "https://youtu.be/tPoUPnMBFHI",
   "category": "Media_Content",
   "member": "우기",
@@ -4632,6 +4412,17 @@ const mediaContentCards = [
 },
 
 {
+  "link": "https://youtu.be/CBA3kZiWCdQ",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2021-01-15T18:00:00",
+  "duration": "00:07:11",
+  "thumbnail": "https://i.ytimg.com/vi/CBA3kZiWCdQ/maxresdefault.jpg",
+  "alt": "(여자)아이들만의 뜨겁고 시원한 밤! 열대야를 물리치는 노래 #아뭘듣 #멜론",
+  "title": "(여자)아이들만의 뜨겁고 시원한 밤! 열대야를 물리치는 노래 #아뭘듣 #멜론"
+},
+
+{
   "link": "https://youtu.be/sGbYKS2YjCc",
   "category": "Media_Content",
   "member": "우기",
@@ -4918,6 +4709,39 @@ const mediaContentCards = [
 },
 
 {
+  "link": "https://youtu.be/em0WtgMURSM",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2021-01-29T18:00:00",
+  "duration": "00:02:31",
+  "thumbnail": "https://i.ytimg.com/vi/em0WtgMURSM/sddefault.jpg",
+  "alt": "❤️💜(여자)아이들 좋아해송❤️💜 아이들 애교에 나 부끄❤️ [아이돌리그 미방영분]",
+  "title": "❤️💜(여자)아이들 좋아해송❤️💜 아이들 애교에 나 부끄❤️ [아이돌리그 미방영분]"
+},
+
+{
+  "link": "https://youtu.be/BWMWcWqY3z0",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2021-01-29T18:00:00",
+  "duration": "00:07:43",
+  "thumbnail": "https://i.ytimg.com/vi/BWMWcWqY3z0/sddefault.jpg",
+  "alt": "(여자)아이들 내 치열(,,,❓)한 순위 싸움 결과 💥서열 1위💥를 발표합니다❤️💜 두구두구두구 [아이돌리그 미방영분]",
+  "title": "(여자)아이들 내 치열(,,,❓)한 순위 싸움 결과 💥서열 1위💥를 발표합니다❤️💜 두구두구두구 [아이돌리그 미방영분]"
+},
+
+{
+  "link": "https://youtu.be/VvSDq_VagNw",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2021-01-29T18:00:00",
+  "duration": "00:48:05",
+  "thumbnail": "https://i.ytimg.com/vi/VvSDq_VagNw/maxresdefault.jpg",
+  "alt": "[ENG] [아이돌리그 IDOL LEAGUE S3] (여자)아이들 (i-dle)",
+  "title": "[ENG] [아이돌리그 IDOL LEAGUE S3] (여자)아이들 (i-dle)"
+},
+
+{
   "link": "https://youtu.be/cRjioUPK_vs",
   "category": "Media_Content",
   "member": "미연",
@@ -4926,17 +4750,6 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/cRjioUPK_vs/sddefault.jpg",
   "alt": "(ENG) 연성고에 놀러오세요 ~ | 웹드라마 '리플레이 : 다시 시작되는 순간' 1화 & 2화 비하인드",
   "title": "(ENG) 연성고에 놀러오세요 ~ | 웹드라마 '리플레이 : 다시 시작되는 순간' 1화 & 2화 비하인드"
-},
-
-{
-  "link": "https://youtu.be/em0WtgMURSM",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2021-02-01T18:00:00",
-  "duration": "00:02:31",
-  "thumbnail": "https://i.ytimg.com/vi/em0WtgMURSM/sddefault.jpg",
-  "alt": "❤️💜(여자)아이들 좋아해송❤️💜 아이들 애교에 나 부끄❤️ [아이돌리그 미방영분]",
-  "title": "❤️💜(여자)아이들 좋아해송❤️💜 아이들 애교에 나 부끄❤️ [아이돌리그 미방영분]"
 },
 
 {
@@ -4959,17 +4772,6 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/dGMQho6513E/sddefault.jpg",
   "alt": "(ENG) 유하이 브이로그 | 연성고 밴드부 보컬 일상 | 녹음실 | 네온파프리카 | 아이들 사랑해 💜 || U HI 유하이",
   "title": "(ENG) 유하이 브이로그 | 연성고 밴드부 보컬 일상 | 녹음실 | 네온파프리카 | 아이들 사랑해 💜 || U HI 유하이"
-},
-
-{
-  "link": "https://youtu.be/BWMWcWqY3z0",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2021-02-03T18:00:00",
-  "duration": "00:07:43",
-  "thumbnail": "https://i.ytimg.com/vi/BWMWcWqY3z0/sddefault.jpg",
-  "alt": "(여자)아이들 내 치열(,,,❓)한 순위 싸움 결과 💥서열 1위💥를 발표합니다❤️💜 두구두구두구 [아이돌리그 미방영분]",
-  "title": "(여자)아이들 내 치열(,,,❓)한 순위 싸움 결과 💥서열 1위💥를 발표합니다❤️💜 두구두구두구 [아이돌리그 미방영분]"
 },
 
 {
@@ -6986,6 +6788,17 @@ const mediaContentCards = [
 },
 
 {
+  "link": "https://youtu.be/fLpeynhjyWI",
+  "category": "Media_Content",
+  "member": "민니",
+  "date": "2022-04-01T18:00:00",
+  "duration": "01:05:38",
+  "thumbnail": "https://i.ytimg.com/vi/fLpeynhjyWI/maxresdefault.jpg",
+  "alt": "[마인드셋] MINNIE x Mindset Ep.0-8 Full ver.",
+  "title": "[마인드셋] MINNIE x Mindset Ep.0-8 Full ver."
+},
+
+{
   "link": "https://youtu.be/muttupBkGTg",
   "category": "Media_Content",
   "member": "아이들",
@@ -7698,6 +7511,17 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/vZ3FjIUAO5k/mqdefault.jpg",
   "alt": "여자 아이들 감정표현 모음집 l 서든어택",
   "title": "여자 아이들 감정표현 모음집 l 서든어택"
+},
+
+{
+  "link": "https://youtu.be/T6cEScV0z-Q",
+  "category": "Media_Content",
+  "member": "소연",
+  "date": "2022-07-29T18:00:00",
+  "duration": "01:26:36",
+  "thumbnail": "https://i.ytimg.com/vi/T6cEScV0z-Q/maxresdefault.jpg",
+  "alt": "[마인드셋] SOYEON x Mindset Ep.0-8 Full ver.",
+  "title": "[마인드셋] SOYEON x Mindset Ep.0-8 Full ver."
 },
 
 {
@@ -8966,6 +8790,17 @@ const mediaContentCards = [
 },
 
 {
+  "link": "https://youtu.be/vg2xNxje4C0",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2023-04-14T18:00:00",
+  "duration": "00:42:51",
+  "thumbnail": "https://i.ytimg.com/vi/vg2xNxje4C0/maxresdefault.jpg",
+  "alt": "[마인드셋] SHUHUA x Mindset Ep.0-6 Full ver.",
+  "title": "[마인드셋] SHUHUA x Mindset Ep.0-6 Full ver."
+},
+
+{
   "link": "https://youtu.be/2iY5PX5CCZk",
   "category": "Media_Content",
   "member": "미연",
@@ -10220,6 +10055,17 @@ const mediaContentCards = [
 },
 
 {
+  "link": "https://youtu.be/EamWkFcq0lc",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2024-01-30T18:00:00",
+  "duration": "00:02:24",
+  "thumbnail": "https://i.ytimg.com/vi/EamWkFcq0lc/maxresdefault.jpg",
+  "alt": "Super Lady: 가수가 됐으면 노래방에서 발라드 불러야지!! 🎤 #멜론 #멜런스게임 #GIDLE",
+  "title": "Super Lady: 가수가 됐으면 노래방에서 발라드 불러야지!! 🎤 #멜론 #멜런스게임 #GIDLE"
+},
+
+{
   "link": "https://youtu.be/99KDAa0yvyY",
   "category": "Media_Content",
   "member": "미연",
@@ -10591,6 +10437,17 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/6CPOm8MlNfk/sddefault.jpg",
   "alt": "“มินนี่ - พีพี” ไม่ได้เป็นคนเซ็กซี่ ความจริงเรียบร้อย พูดน้อย น่ารัก? | วอดอวอแว EP.10",
   "title": "“มินนี่ - พีพี” ไม่ได้เป็นคนเซ็กซี่ ความจริงเรียบร้อย พูดน้อย น่ารัก? | วอดอวอแว EP.10"
+},
+
+{
+  "link": "https://youtu.be/Z0MJKiXBujE",
+  "category": "Media_Content",
+  "member": "우기",
+  "date": "2024-03-15T18:00:00",
+  "duration": "01:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/Z0MJKiXBujE/sddefault.jpg",
+  "alt": "[마인드셋] YUQI x Mindset Ep. 0-6 Full ver.",
+  "title": "[마인드셋] YUQI x Mindset Ep. 0-6 Full ver."
 },
 
 {
@@ -11207,6 +11064,17 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/83SW5et3ruI/sddefault.jpg",
   "alt": "[#놀라운토요일] 역대급 무대 나왔다!!🔥 놀토.ver 키 X (여자) 아이들 〈클락션(Klaxon)〉♬ 제2의 멤버 인정입니다. | #번개클립",
   "title": "[#놀라운토요일] 역대급 무대 나왔다!!🔥 놀토.ver 키 X (여자) 아이들 〈클락션(Klaxon)〉♬ 제2의 멤버 인정입니다. | #번개클립"
+},
+
+{
+  "link": "https://youtu.be/l2s7HlW-q50",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2024-09-02T18:00:00",
+  "duration": "00:53:10",
+  "thumbnail": "https://i.ytimg.com/vi/l2s7HlW-q50/maxresdefault.jpg",
+  "alt": "[마인드셋] MIYEON x Mindset Ep. 0-6 Full ver.",
+  "title": "[마인드셋] MIYEON x Mindset Ep. 0-6 Full ver."
 },
 
 {
@@ -13267,17 +13135,6 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://youtu.be/QHFE7VoGSSw",
-  "category": "Media_Content",
-  "member": "미연",
-  "date": "2025-05-29T18:00:00",
-  "duration": "00:03:03",
-  "thumbnail": "https://i.ytimg.com/vi/QHFE7VoGSSw/maxresdefault.jpg",
-  "alt": "아이들-Unstoppable🎧 l 미연 자작곡, 아이들 완전체 단독 라이브",
-  "title": "[미연.zip📁] 아이들-Unstoppable🎧 l 미연 자작곡, 아이들 완전체 단독 라이브"
-},
-
-{
   "link": "https://youtu.be/45b8uFJund4",
   "category": "Media_Content",
   "member": "미연",
@@ -14543,17 +14400,6 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://youtu.be/VvSDq_VagNw",
-  "category": "Media_Content",
-  "member": "아이들",
-  "date": "2025-08-26T18:00:00",
-  "duration": "00:48:05",
-  "thumbnail": "https://i.ytimg.com/vi/VvSDq_VagNw/maxresdefault.jpg",
-  "alt": "[ENG] [아이돌리그 IDOL LEAGUE S3] (여자)아이들 (i-dle)",
-  "title": "[ENG] [아이돌리그 IDOL LEAGUE S3] (여자)아이들 (i-dle)"
-},
-
-{
   "link": "https://youtu.be/Bq9MDmeQQgs",
   "category": "Media_Content",
   "member": "미연",
@@ -14730,28 +14576,6 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://youtu.be/dOO_Gehs7oQ",
-  "category": "Media_Content",
-  "member": "슈화",
-  "date": "2025-09-20T18:00:00",
-  "duration": "00:48:01",
-  "thumbnail": "https://i.ytimg.com/vi/dOO_Gehs7oQ/maxresdefault.jpg",
-  "alt": "[WHAT A TRIP EP.7] i-dle Shuhua 葉大膽不是叫假的 黃宣 陳柏霖 跟不上女神 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液",
-  "title": "[WHAT A TRIP EP.7] i-dle Shuhua 葉大膽不是叫假的 黃宣 陳柏霖 跟不上女神 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液"
-},
-
-{
-  "link": "https://youtu.be/8-UhcE4YCiQ",
-  "category": "Media_Content",
-  "member": "우기",
-  "date": "2025-09-21T18:00:00",
-  "duration": "00:29:47",
-  "thumbnail": "https://i.ytimg.com/vi/8-UhcE4YCiQ/maxresdefault.jpg",
-  "alt": "i-dle 우기 '우 귀인 납시오' #순간뽀짝세상에이런아이돌이",
-  "title": "i-dle 우기 '우 귀인 납시오' #순간뽀짝세상에이런아이돌이"
-},
-
-{
   "link": "https://youtu.be/5ZPbsPJakd8",
   "category": "Media_Content",
   "member": "우기",
@@ -14782,6 +14606,28 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/WPwwmjTm9nk/maxresdefault.jpg",
   "alt": "[FULL SUB] 「歌謡大典が終わったら売店歌謡」 인기가요 끝나면 매점가요 | 2025 SBS 가요대전 Summer",
   "title": "[FULL SUB] 「歌謡大典が終わったら売店歌謡」 인기가요 끝나면 매점가요 | 2025 SBS 가요대전 Summer"
+},
+
+{
+  "link": "https://youtu.be/dOO_Gehs7oQ",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-09-20T18:00:00",
+  "duration": "00:48:01",
+  "thumbnail": "https://i.ytimg.com/vi/dOO_Gehs7oQ/maxresdefault.jpg",
+  "alt": "[WHAT A TRIP EP.7] i-dle Shuhua 葉大膽不是叫假的 黃宣 陳柏霖 跟不上女神 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液",
+  "title": "[WHAT A TRIP EP.7] i-dle Shuhua 葉大膽不是叫假的 黃宣 陳柏霖 跟不上女神 #WHATATRIP #灰魚影像 #瑞斌12小時長效防蚊液"
+},
+
+{
+  "link": "https://youtu.be/8-UhcE4YCiQ",
+  "category": "Media_Content",
+  "member": "우기",
+  "date": "2025-09-21T18:00:00",
+  "duration": "00:29:47",
+  "thumbnail": "https://i.ytimg.com/vi/8-UhcE4YCiQ/maxresdefault.jpg",
+  "alt": "i-dle 우기 '우 귀인 납시오' #순간뽀짝세상에이런아이돌이",
+  "title": "i-dle 우기 '우 귀인 납시오' #순간뽀짝세상에이런아이돌이"
 },
 
 {
@@ -14915,6 +14761,7 @@ const mediaContentCards = [
   "alt": "[SUB] 范少勳, 本來是為了宣傳才來的.. 結果卻公開告白了💝 | 鑑定師 Global EP.5 | i-dle 舒華 #감별사",
   "title": "[SUB] 范少勳, 本來是為了宣傳才來的.. 結果卻公開告白了💝 | 鑑定師 Global EP.5 | i-dle 舒華 #감별사"
 },
+
 {
   "link": "https://youtu.be/Edy5jyFuB1E",
   "category": "Media_Content",
@@ -14924,8 +14771,19 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/Edy5jyFuB1E/hqdefault.jpg",
   "alt": "추석특집으로 낋여 온 조간산책 미공개 대방출",
   "title": "추석특집으로 낋여 온 조간산책 미공개 대방출"
+},
+
+{
+  "link": "https://youtu.be/HImR7CR_zs0",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-10-10T18:00:00",
+  "duration": "00:07:48",
+  "thumbnail": "https://i.ytimg.com/vi/HImR7CR_zs0/maxresdefault.jpg",
+  "alt": "1대, 2대, 3대 MC 워크돌 레전드 액기스.zip",
+  "title": "1대, 2대, 3대 MC 워크돌 레전드 액기스.zip"
 }
 
-];
 
+];
 window.mediaContentCards = mediaContentCards;

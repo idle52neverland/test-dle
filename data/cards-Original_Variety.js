@@ -605,5 +605,6 @@ const originalVarietyCards = [
   "title": "아이들이 20주년까지 왜 이리 무리했어 [네맘대로 아이들] EP. 5 | i-dle (아이들)ㅣSUB"
 }
 
+
  ];
 window.originalVarietyCards = originalVarietyCards;
