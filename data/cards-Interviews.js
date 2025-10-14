@@ -587,7 +587,7 @@ const interviewsCards = [
   "link": "https://youtu.be/nOadVxssyAw",
   "category": "Interviews",
   "member": "민니",
-  "date": "2021-06-17",
+  "date": "2021-06-17T18:00:00",
   "duration": "00:05:22",
   "thumbnail": "https://i.ytimg.com/vi/nOadVxssyAw/sddefault.jpg",
   "alt": "ทำความรู้จักกับสาวมากเสน่ห์ \"มินนี่\" สมาชิกเกิร์ลกรุ๊ปวง (G)I-DLE",
@@ -1214,7 +1214,7 @@ const interviewsCards = [
   "link": "https://youtu.be/XFVGF_1DDQk",
   "category": "Interviews",
   "member": "아이들",
-  "date": "2022-10-14",
+  "date": "2022-10-14T18:00:00",
   "duration": "00:01:52",
   "thumbnail": "https://i.ytimg.com/vi/XFVGF_1DDQk/sddefault.jpg",
   "alt": "ถึงคิว L’Officiel Question ช่วงถามตอบกับศิลปินสาวสุดฮอตฮอต มินนี่-ณิชา ยนตรรักษ์ แห่งวง (G)I-DLE",
@@ -2096,7 +2096,7 @@ const interviewsCards = [
   "duration": "00:02:46",
   "thumbnail": "https://i.ytimg.com/vi/Sd6VQeFaLb4/maxresdefault.jpg",
   "alt": "'우리.. 미션 성공할 수 있을까?'✨슈화가 우기를 귀여워할 때😚 MISSION BOX with YUQI SHUHUA of (G)I-DLE❤ (Eng sub)",
-  "title": "'우리.. 미션 성공할 수 있을까?'"✨슈화가 우기를 귀여워할 때😚 MISSION BOX with YUQI SHUHUA of (G)I-DLE❤ (Eng sub)"
+  "title": "'우리.. 미션 성공할 수 있을까?'✨슈화가 우기를 귀여워할 때😚 MISSION BOX with YUQI SHUHUA of (G)I-DLE❤ (Eng sub)"
 }
 
 
