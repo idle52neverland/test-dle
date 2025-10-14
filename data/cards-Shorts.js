@@ -11260,8 +11260,8 @@ const shortsCards = [
   "date": "2024-11-25T18:00:00",
   "duration": "00:00:27",
   "thumbnail": "https://i.ytimg.com/vi/XbJ1LC-xLY0/maxresdefault.jpg",
-  "alt": "TEN- 🐱🐭 on my F͙͛R͙͛E͙͛Q͙͛U͙͛E͙͛N͙͛C͙͛Y͙͛ (WITH #MINNIE) #TEN #WayV",
-  "title": "TEN- 🐱🐭 on my F͙͛R͙͛E͙͛Q͙͛U͙͛E͙͛N͙͛C͙͛Y͙͛ (WITH #MINNIE) #TEN #WayV"
+  "alt": "🐱🐭 on my F͙͛R͙͛E͙͛Q͙͛U͙͛E͙͛N͙͛C͙͛Y͙͛ (WITH #MINNIE) #TEN #WayV",
+  "title": "🐱🐭 on my F͙͛R͙͛E͙͛Q͙͛U͙͛E͙͛N͙͛C͙͛Y͙͛ (WITH #MINNIE) #TEN #WayV"
 },
 
 {
@@ -11311,7 +11311,7 @@ const shortsCards = [
 {
   "link": "https://youtu.be/Y4QYBhFg8r4",
   "category": "Shorts",
-  "member": "미연",
+  "member": "미연, 민니",
   "date": "2024-11-30T18:00:00",
   "duration": "00:00:09",
   "thumbnail": "https://i.ytimg.com/vi/Y4QYBhFg8r4/maxresdefault.jpg",
@@ -12283,8 +12283,8 @@ const shortsCards = [
   "date": "2025-02-02T18:00:00",
   "duration": "00:00:32",
   "thumbnail": "https://i.ytimg.com/vi/xvJvX1IoMMY/maxresdefault.jpg",
-  "alt": "은혁- #UPNDOWN챌린지💫 with #민니 #MINNIE #여자아이들 #GIDLE #은혁 #EUNHYUK #슈퍼주니어DnE #SuperJuniorDnE #EXPLORER",
-  "title": "은혁- #UPNDOWN챌린지💫 with #민니 #MINNIE #여자아이들 #GIDLE #은혁 #EUNHYUK #슈퍼주니어DnE #SuperJuniorDnE #EXPLORER"
+  "alt": "#UPNDOWN챌린지💫 with #민니 #MINNIE #여자아이들 #GIDLE #은혁 #EUNHYUK #슈퍼주니어DnE #SuperJuniorDnE #EXPLORER",
+  "title": "#UPNDOWN챌린지💫 with #민니 #MINNIE #여자아이들 #GIDLE #은혁 #EUNHYUK #슈퍼주니어DnE #SuperJuniorDnE #EXPLORER"
 },
 
 {
@@ -12635,8 +12635,8 @@ const shortsCards = [
   "date": "2025-03-18T18:00:00",
   "duration": "00:00:22",
   "thumbnail": "https://i.ytimg.com/vi/uJabomKa5gg/maxresdefault.jpg",
-  "alt": "르세라핌- That's HOT #MINNIE 🐈‍⬛🐾 #LE_SSERAFIM #르세라핌 #SAKURA #사쿠라 #LE_SSERAFIM_HOT ❤️‍🔥 #GIDLE #여자아이들 #민니",
-  "title": "르세라핌- That's HOT #MINNIE 🐈‍⬛🐾 #LE_SSERAFIM #르세라핌 #SAKURA #사쿠라 #LE_SSERAFIM_HOT ❤️‍🔥 #GIDLE #여자아이들 #민니"
+  "alt": "That's HOT #MINNIE 🐈‍⬛🐾 #LE_SSERAFIM #르세라핌 #SAKURA #사쿠라 #LE_SSERAFIM_HOT ❤️‍🔥 #GIDLE #여자아이들 #민니",
+  "title": "That's HOT #MINNIE 🐈‍⬛🐾 #LE_SSERAFIM #르세라핌 #SAKURA #사쿠라 #LE_SSERAFIM_HOT ❤️‍🔥 #GIDLE #여자아이들 #민니"
 },
 
 {
@@ -12657,8 +12657,8 @@ const shortsCards = [
   "date": "2025-03-24T18:00:00",
   "duration": "00:00:20",
   "thumbnail": "https://i.ytimg.com/vi/wIcaZV2ndJA/maxresdefault.jpg",
-  "alt": "#스테이씨- Yeah that’s me #GIDLE #MINNIE 🐈‍⬛ @official_i_dle",
-  "title": "#스테이씨- Yeah that’s me #GIDLE #MINNIE 🐈‍⬛ @official_i_dle"
+  "alt": "Yeah that’s me #GIDLE #MINNIE 🐈‍⬛ @official_i_dle #스테이씨",
+  "title": "Yeah that’s me #GIDLE #MINNIE 🐈‍⬛ @official_i_dle #스테이씨"
 },
 
 {
@@ -13471,8 +13471,8 @@ const shortsCards = [
   "date": "2025-05-27T18:00:00",
   "duration": "00:00:23",
   "thumbnail": "https://i.ytimg.com/vi/_7-OITbVIJE/maxresdefault.jpg",
-  "alt": "보이넥스트도어- act like a #idle #아이들 #YUQI #우기 🎸#BOYNEXTDOOR #보이넥스트도어 #명재현 #태산 #I_Feel_Good #I_Feel_Good_Challenge",
-  "title": "보이넥스트도어- act like a #idle #아이들 #YUQI #우기 🎸#BOYNEXTDOOR #보이넥스트도어 #명재현 #태산 #I_Feel_Good #I_Feel_Good_Challenge"
+  "alt": "act like a #idle #아이들 #YUQI #우기 🎸#BOYNEXTDOOR #보이넥스트도어 #명재현 #태산 #I_Feel_Good #I_Feel_Good_Challenge",
+  "title": "act like a #idle #아이들 #YUQI #우기 🎸#BOYNEXTDOOR #보이넥스트도어 #명재현 #태산 #I_Feel_Good #I_Feel_Good_Challenge"
 },
 
 {
@@ -15493,19 +15493,534 @@ const shortsCards = [
   "title": "𝙏𝙝𝙞𝙣𝙠 𝙏𝙤𝙤 𝙈𝙪𝙘𝙝 w/ #idle #YUQI 님 @official_i_dle #장우영☕"
 },
 {
-  "link": "https://youtu.be/j7kLzA6UzPQ",
+  "link": "https://youtu.be/OSp26juPsKI",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-10-15T18:00:00",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/OSp26juPsKI/maxresdefault.jpg",
+  "alt": "Never let it go gonna make it mine ✨",
+  "title": "Never let it go gonna make it mine ✨"
+},
+{
+  "link": "https://youtu.be/7OtSFelpY6w",
+  "category": "Shorts",
+  "member": "슈화",
+  "date": "2025-08-28T18:00:00",
+  "duration": "00:00:09",
+  "thumbnail": "https://i.ytimg.com/vi/7OtSFelpY6w/maxresdefault.jpg",
+  "alt": "Accidently with... ​⁠@people_by_people  #CHANYEOL #찬열 #EXO #엑소 #weareoneEXO #CHANYEOL_UpsideDown",
+  "title": "Accidently with... ​⁠@people_by_people  #CHANYEOL #찬열 #EXO #엑소 #weareoneEXO #CHANYEOL_UpsideDown"
+},
+{
+  "link": "https://youtu.be/aZwNe0SJ_vc",
   "category": "Shorts",
   "member": "미연",
-  "date": "2025-07-06T18:00:00",
+  "date": "2025-07-02T18:00:00",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/aZwNe0SJ_vc/maxresdefault.jpg",
+  "alt": "다음 정거장은?🚋 #LIKE_YOU_BETTER with #미연 #아이들 @official_i_dle",
+  "title": "다음 정거장은?🚋 #LIKE_YOU_BETTER with #미연 #아이들 @official_i_dle"
+},
+
+{
+  "link": "https://youtu.be/KXVEgq0FeMg",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-07-16T18:00:00",
+  "duration": "00:00:35",
+  "thumbnail": "https://i.ytimg.com/vi/KXVEgq0FeMg/maxresdefault.jpg",
+  "alt": "미연x츄 상하이 여행 많.관.부💕",
+  "title": "미연x츄 상하이 여행 많.관.부💕"
+},
+
+{
+  "link": "https://youtu.be/cq-VM9VIabI",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-06-18T18:00:00",
+  "duration": "00:00:42",
+  "thumbnail": "https://i.ytimg.com/vi/cq-VM9VIabI/maxresdefault.jpg",
+  "alt": "홀리몰리 음방 무대의상.zip #미연 #miyeon",
+  "title": "홀리몰리 음방 무대의상.zip #미연 #miyeon"
+},
+
+{
+  "link": "https://youtu.be/2J33ZU15bZI",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-06-28T18:00:00",
+  "duration": "00:00:10",
+  "thumbnail": "https://i.ytimg.com/vi/2J33ZU15bZI/maxresdefault.jpg",
+  "alt": "미연집에 프나 떴다🎉 #미연 #프로미스나인",
+  "title": "미연집에 프나 떴다🎉 #미연 #프로미스나인"
+},
+
+{
+  "link": "https://youtu.be/S7kon6ThtZY",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-05-06T18:00:00",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/S7kon6ThtZY/maxresdefault.jpg",
+  "alt": "DOP.miyeon mom💕",
+  "title": "DOP.miyeon mom💕"
+},
+
+{
+  "link": "https://youtu.be/cK2zvnTh8V0",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-05-14T18:00:00",
+  "duration": "00:00:08",
+  "thumbnail": "https://i.ytimg.com/vi/cK2zvnTh8V0/maxresdefault.jpg",
+  "alt": "슈의 라면가게 2025 실사판 #슈 #shorts",
+  "title": "슈의 라면가게 2025 실사판 #슈 #shorts"
+},
+
+{
+  "link": "https://youtu.be/V8IhCiIXk8c",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-05-15T18:00:00",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/V8IhCiIXk8c/maxresdefault.jpg",
+  "alt": "*미방분* 다 보신 분 후기 좀요...🥹 #shorts",
+  "title": "*미방분* 다 보신 분 후기 좀요...🥹 #shorts"
+},
+
+{
+  "link": "https://youtu.be/OcZ-mNQvHUU",
+  "category": "Shorts",
+  "member": "미연, 소연",
+  "date": "2025-05-17T18:00:00",
+  "duration": "00:00:12",
+  "thumbnail": "https://i.ytimg.com/vi/OcZ-mNQvHUU/maxresdefault.jpg",
+  "alt": "집대성 좋아해♥| 집대성 ep.58 아이들 예고",
+  "title": "집대성 좋아해♥| 집대성 ep.58 아이들 예고"
+},
+
+{
+  "link": "https://youtu.be/c9NdWtHJFeU",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2025-05-20T18:00:00",
+  "duration": "00:00:36",
+  "thumbnail": "https://i.ytimg.com/vi/c9NdWtHJFeU/maxresdefault.jpg",
+  "alt": "[전참시 미방분] 아이들(i-dle) 신곡 Good Thing 안무 말아주는 소연 #전지적참견시점 #전참시 #아이들 #kpop",
+  "title": "[전참시 미방분] 아이들(i-dle) 신곡 Good Thing 안무 말아주는 소연 #전지적참견시점 #전참시 #아이들 #kpop"
+},
+
+{
+  "link": "https://youtu.be/JhLaCif9tFU",
+  "category": "Shorts",
+  "member": "민니, 소연, 우기",
+  "date": "2025-05-20T18:00:00",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/JhLaCif9tFU/maxresdefault.jpg",
+  "alt": "우기&소연&민니👍i-dle(아이들) 'Good Thing' 챌린지 / [이은지의 가요광장] I KBS 250520 방송",
+  "title": "우기&소연&민니👍i-dle(아이들) 'Good Thing' 챌린지 / [이은지의 가요광장] I KBS 250520 방송"
+},
+{
+  "link": "https://youtu.be/ztqTX47HN0g",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-05-22T18:00:00",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/ztqTX47HN0g/maxresdefault.jpg",
+  "alt": "한 줌에 담기엔 넘치는 아이들(@official_i_dle)자신감과  텐션💥",
+  "title": "한 줌에 담기엔 넘치는 아이들(@official_i_dle)자신감과  텐션💥"
+},
+
+{
+  "link": "https://youtu.be/mVf1TyyowNg",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-05-23T18:00:00",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/mVf1TyyowNg/maxresdefault.jpg",
+  "alt": "[미리보기] i-dle(아이들) - Good Thing (Band VER.) [더 시즌즈-박보검의 칸타빌레] | KBS 방송",
+  "title": "[미리보기] i-dle(아이들) - Good Thing (Band VER.) [더 시즌즈-박보검의 칸타빌레] | KBS 방송"
+},
+
+{
+  "link": "https://youtu.be/0cUmdCk5lr0",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-05-25T18:00:00",
+  "duration": "00:00:14",
+  "thumbnail": "https://i.ytimg.com/vi/0cUmdCk5lr0/maxresdefault.jpg",
+  "alt": "띵똥 미연.zip으로 다들 모여🏡 #미연 #아이들",
+  "title": "띵똥 미연.zip으로 다들 모여🏡 #미연 #아이들"
+},
+
+{
+  "link": "https://youtu.be/2p_e1ZwZCxg",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-04-04T18:00:00",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/2p_e1ZwZCxg/maxresdefault.jpg",
+  "alt": "미연투어에서 찐친 네컷📸 #미연 #사나",
+  "title": "미연투어에서 찐친 네컷📸 #미연 #사나"
+},
+
+{
+  "link": "https://youtu.be/f_Hmv-kpqb4",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-04-09T18:00:00",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/f_Hmv-kpqb4/maxresdefault.jpg",
+  "alt": "what is love? #미연 #사나",
+  "title": "what is love? #미연 #사나"
+},
+
+{
+  "link": "https://youtu.be/rpFgCA1GvLA",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-04-13T18:00:00",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/rpFgCA1GvLA/maxresdefault.jpg",
+  "alt": "사나랑 hit the 클락션🌴 #미연  #사나",
+  "title": "사나랑 hit the 클락션🌴 #미연  #사나"
+},
+
+{
+  "link": "https://youtu.be/i31PI-Sdpps",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-04-15T18:00:00",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/i31PI-Sdpps/maxresdefault.jpg",
+  "alt": "괌에서 dance the night away🌴✨ #미연#사나",
+  "title": "괌에서 dance the night away🌴✨ #미연#사나"
+},
+
+{
+  "link": "https://youtu.be/PZUU1QcfVlM",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-04-16T18:00:00",
+  "duration": "00:00:46",
+  "thumbnail": "https://i.ytimg.com/vi/PZUU1QcfVlM/maxresdefault.jpg",
+  "alt": "예쁜애 옆에 예쁜애🎀 #미연 #사나 #미연투어",
+  "title": "예쁜애 옆에 예쁜애🎀 #미연 #사나 #미연투어"
+},
+
+{
+  "link": "https://youtu.be/E1nsi1rwbxk",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-04-24T18:00:00",
+  "duration": "00:00:30",
+  "thumbnail": "https://i.ytimg.com/vi/E1nsi1rwbxk/maxresdefault.jpg",
+  "alt": "여러분의 최애 면꾸는?🤔 #shorts",
+  "title": "여러분의 최애 면꾸는?🤔 #shorts"
+},
+
+{
+  "link": "https://youtu.be/i8P8wFaxRyY",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-03-05T18:00:00",
+  "duration": "00:00:14",
+  "thumbnail": "https://i.ytimg.com/vi/i8P8wFaxRyY/maxresdefault.jpg",
+  "alt": "#미연 #MIYEON 선배님과 LEGGO .ᐟ.ᐟ LEGGO .ᐟ.ᐟ#레고 (#shorts)",
+  "title": "#미연 #MIYEON 선배님과 LEGGO .ᐟ.ᐟ LEGGO .ᐟ.ᐟ#레고 (#shorts)"
+},
+
+{
+  "link": "https://youtu.be/hbMg6w6afto",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-03-13T18:00:00",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/hbMg6w6afto/maxresdefault.jpg",
+  "alt": "미연x지원 큰 거 왔다…🔥 #shorts",
+  "title": "미연x지원 큰 거 왔다…🔥 #shorts"
+},
+
+{
+  "link": "https://youtu.be/0sOjh2lS1Zw",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-03-23T18:00:00",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/0sOjh2lS1Zw/maxresdefault.jpg",
+  "alt": "돌아온 승요 미연 과 성덕 영우 그리고 엘튜브 이 셋 만남 너무 기쁘다😆",
+  "title": "돌아온 승요 미연 과 성덕 영우 그리고 엘튜브 이 셋 만남 너무 기쁘다😆"
+},
+
+{
+  "link": "https://youtu.be/6h-q-l4D064",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-02-01T18:00:00",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/6h-q-l4D064/maxresdefault.jpg",
+  "alt": "눈이 chill해지는 영상 #미연#MIYEON#chill",
+  "title": "눈이 chill해지는 영상 #미연#MIYEON#chill"
+},
+
+{
+  "link": "https://youtu.be/DPtaVgBKfcI",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-02-02T18:00:00",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/DPtaVgBKfcI/maxresdefault.jpg",
+  "alt": "미연공주 등장💕1화 보러 놀러 오세요 #미연#miyeon #shorts",
+  "title": "미연공주 등장💕1화 보러 놀러 오세요 #미연#miyeon #shorts"
+},
+
+{
+  "link": "https://youtu.be/cR7iW3UEa6Y",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-02-02T18:00:00",
+  "duration": "00:00:14",
+  "thumbnail": "https://i.ytimg.com/vi/cR7iW3UEa6Y/maxresdefault.jpg",
+  "alt": "진짜 공주는 공주병이 있을 수가 없어 #미연#miyeon #shorts",
+  "title": "진짜 공주는 공주병이 있을 수가 없어 #미연#miyeon #shorts"
+},
+
+{
+  "link": "https://youtu.be/FRqMPm8oovo",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-02-02T18:00:00",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/FRqMPm8oovo/maxresdefault.jpg",
+  "alt": "미연 주사 보고 싶은 사람?👋🏻 #미연 #miyeon #shorts",
+  "title": "미연 주사 보고 싶은 사람?👋🏻 #미연 #miyeon #shorts"
+},
+
+{
+  "link": "https://youtu.be/TdlphWk0K_s",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-02-02T18:00:00",
+  "duration": "00:00:39",
+  "thumbnail": "https://i.ytimg.com/vi/TdlphWk0K_s/maxresdefault.jpg",
+  "alt": "축의금 챙길뻔한 츄 #미연 #miyeon #shorts",
+  "title": "축의금 챙길뻔한 츄 #미연 #miyeon #shorts"
+},
+
+{
+  "link": "https://youtu.be/MhebO4CoQxA",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-02-02T18:00:00",
+  "duration": "00:00:30",
+  "thumbnail": "https://i.ytimg.com/vi/MhebO4CoQxA/maxresdefault.jpg",
+  "alt": "미연이가 생얼도 자신있는 이유 #미연 #miyeon #shorts",
+  "title": "미연이가 생얼도 자신있는 이유 #미연 #miyeon #shorts"
+},
+{
+  "link": "https://youtu.be/B985m7Q-Dh4",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2025-02-05T18:00:00",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/B985m7Q-Dh4/maxresdefault.jpg",
+  "alt": "여돌 콜라보 국룰 (선공개)",
+  "title": "여돌 콜라보 국룰 (선공개)"
+},
+{
+  "link": "https://youtu.be/DYvhFK0ORo8",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-02-08T18:00:00",
+  "duration": "00:00:52",
+  "thumbnail": "https://i.ytimg.com/vi/DYvhFK0ORo8/maxresdefault.jpg",
+  "alt": "네버버 미안해ㅠ [미방분의 미방분]",
+  "title": "네버버 미안해ㅠ [미방분의 미방분]"
+},
+{
+  "link": "https://youtu.be/ONw0x7gCbJI",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-02-09T18:00:00",
+  "duration": "00:00:39",
+  "thumbnail": "https://i.ytimg.com/vi/ONw0x7gCbJI/maxresdefault.jpg",
+  "alt": "서바이벌이 낳은 괴물 [미방분의 미방분]",
+  "title": "서바이벌이 낳은 괴물 [미방분의 미방분]"
+},
+
+{
+  "link": "https://youtu.be/AHjZ4uClP0E",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-02-10T18:00:00",
+  "duration": "00:00:52",
+  "thumbnail": "https://i.ytimg.com/vi/AHjZ4uClP0E/maxresdefault.jpg",
+  "alt": "다 모이면 밥은 누가 삼? [미방분의 미방분]",
+  "title": "다 모이면 밥은 누가 삼? [미방분의 미방분]"
+},
+{
+  "link": "https://youtu.be/Yd_Sbm4NBt8",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-02-21T18:00:00",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/Yd_Sbm4NBt8/maxresdefault.jpg",
+  "alt": "비타민 그 자체인 미연🫶 스페셜 DJ 면디 모음.zip / [이은지의 가요광장] I KBS 250221 방송",
+  "title": "비타민 그 자체인 미연🫶 스페셜 DJ 면디 모음.zip / [이은지의 가요광장] I KBS 250221 방송"
+},
+
+{
+  "link": "https://youtu.be/4nwWv0si9i8",
+  "category": "Shorts",
+  "member": "미연, 우기",
+  "date": "2025-02-27T18:00:00",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/4nwWv0si9i8/maxresdefault.jpg",
+  "alt": "*선공개* 하이디라오 취직한 조미연 근황 with 우기 #shorts",
+  "title": "*선공개* 하이디라오 취직한 조미연 근황 with 우기 #shorts"
+},
+{
+  "link": "https://youtu.be/1qipXCroWBE",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2025-01-17T18:00:00",
+  "duration": "00:00:59",
+  "thumbnail": "https://i.ytimg.com/vi/1qipXCroWBE/maxresdefault.jpg",
+  "alt": "[하이라이트] 전소연, 엄지윤 앞에서 노래하는 다비드 봉 🌟",
+  "title": "[하이라이트] 전소연, 엄지윤 앞에서 노래하는 다비드 봉 🌟"
+},
+{
+  "link": "https://youtu.be/ZHBgUZv5ETY",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-01-22T18:00:00",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/ZHBgUZv5ETY/maxresdefault.jpg",
+  "alt": "MINNIE - HER (Color Code: RED💔) | #ColorPicked by MINNIE",
+  "title": "MINNIE - HER (Color Code: RED💔) | #ColorPicked by MINNIE"
+},
+{
+  "link": "https://youtu.be/zm-_2CkBOh8",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-01-25T18:00:00",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/zm-_2CkBOh8/maxresdefault.jpg",
+  "alt": "〈나의 완벽한 비서〉 OST 민니((여자)아이들) - Answer ID 영상 공개! #나의완벽한비서 #LOVESCOUT #SBSCatch",
+  "title": "〈나의 완벽한 비서〉 OST 민니((여자)아이들) - Answer ID 영상 공개! #나의완벽한비서 #LOVESCOUT #SBSCatch"
+},
+{
+  "link": "https://youtu.be/ChKHVmDB-zY",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-01-25T18:00:00",
+  "duration": "00:00:56",
+  "thumbnail": "https://i.ytimg.com/vi/ChKHVmDB-zY/maxresdefault.jpg",
+  "alt": "미연이의 초대장💌",
+  "title": "미연이의 초대장💌"
+},
+
+{
+  "link": "https://youtu.be/s7hwpnIVKdM",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-01-29T18:00:00",
+  "duration": "00:00:14",
+  "thumbnail": "https://i.ytimg.com/vi/s7hwpnIVKdM/maxresdefault.jpg",
+  "alt": "I'm HER! I know I’m an icon🌟#GOT7 #갓세븐 #BAMBAM #뱀뱀 #GIDLE #여자아이들 #MINNIE #민니 #PYTHON #GOT7_PYTHON",
+  "title": "I'm HER! I know I’m an icon🌟#GOT7 #갓세븐 #BAMBAM #뱀뱀 #GIDLE #여자아이들 #MINNIE #민니 #PYTHON #GOT7_PYTHON"
+},
+
+{
+  "link": "https://youtu.be/pkrDQx3Eing",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-01-31T18:00:00",
+  "duration": "00:00:14",
+  "thumbnail": "https://i.ytimg.com/vi/pkrDQx3Eing/maxresdefault.jpg",
+  "alt": "PYTHON with #GIDLE #MINNIE #GOT7 #갓세븐 #YOUNGJAE #영재 #여자아이들 #민니 #PYTHON #GOT7_PYTHON",
+  "title": "PYTHON with #GIDLE #MINNIE #GOT7 #갓세븐 #YOUNGJAE #영재 #여자아이들 #민니 #PYTHON #GOT7_PYTHON"
+},
+
+{
+  "link": "https://youtu.be/tNOJINfXxTM",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2025-01-31T18:00:00",
+  "duration": "00:00:06",
+  "thumbnail": "https://i.ytimg.com/vi/tNOJINfXxTM/maxresdefault.jpg",
+  "alt": "💎2024MBC가요대제전X포토이즘📷 #여자아이들 #G_IDLE #GayoDaejejeon2024 #photoism",
+  "title": "💎2024MBC가요대제전X포토이즘📷 #여자아이들 #G_IDLE #GayoDaejejeon2024 #photoism"
+},
+
+{
+  "link": "https://youtu.be/rWFCjQpiTFM",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2025-01-31T18:00:00",
+  "duration": "00:00:07",
+  "thumbnail": "https://i.ytimg.com/vi/rWFCjQpiTFM/maxresdefault.jpg",
+  "alt": "💎2024MBC가요대제전X포토이즘📷 #여자아이들 #G_IDLE #GayoDaejejeon2024 #photoism",
+  "title": "💎2024MBC가요대제전X포토이즘📷 #여자아이들 #G_IDLE #GayoDaejejeon2024 #photoism"
+},
+
+{
+  "link": "https://youtu.be/pdqUeEqIhRA",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2025-01-31T18:00:00",
   "duration": "00:00:09",
-  "thumbnail": "https://i.ytimg.com/vi/j7kLzA6UzPQ/maxresdefault.jpg",
-  "alt": "🚃\"이번 역은 '이무진 역'입니다\"",
-  "title": "🚃\"이번 역은 '이무진 역'입니다\""
+  "thumbnail": "https://i.ytimg.com/vi/pdqUeEqIhRA/maxresdefault.jpg",
+  "alt": "💎2024MBC가요대제전X포토이즘📷 #전소연 #SOYEON #G_IDLE #GayoDaejejeon2024 #photoism",
+  "title": "💎2024MBC가요대제전X포토이즘📷 #전소연 #SOYEON #G_IDLE #GayoDaejejeon2024 #photoism"
+},
+
+{
+  "link": "https://youtu.be/YLMqpGdB4ms",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2024-11-09T18:00:00",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/YLMqpGdB4ms/maxresdefault.jpg",
+  "alt": "(여자)아이들 미연 선배님~ 같이 바닥 뚫어요!🔥 #tripleS #VisionaryVision #Hit_the_Floor #나경 #여자아이들 #GIDLE #미연 #MIYEON",
+  "title": "(여자)아이들 미연 선배님~ 같이 바닥 뚫어요!🔥 #tripleS #VisionaryVision #Hit_the_Floor #나경 #여자아이들 #GIDLE #미연 #MIYEON"
+},
+
+{
+  "link": "https://youtu.be/0I3UBp4Zyxw",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2024-11-09T18:00:00",
+  "duration": "00:00:41",
+  "thumbnail": "https://i.ytimg.com/vi/0I3UBp4Zyxw/maxresdefault.jpg",
+  "alt": "(G)I-DLE WORLD TOUR [iDOL] with STARSYSTEM 모두 수고하셨습니다!🙌✨",
+  "title": "(G)I-DLE WORLD TOUR [iDOL] with STARSYSTEM 모두 수고하셨습니다!🙌✨"
+},
+
+{
+  "link": "https://youtu.be/MkLzQh_R7jk",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2024-10-06T18:00:00",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/MkLzQh_R7jk/maxresdefault.jpg",
+  "alt": "미쳐 팔짝 👑✨ with #여자아이들 #GIDLE @official_i_dle #미연 #MIYEON #나우즈",
+  "title": "미쳐 팔짝 👑✨ with #여자아이들 #GIDLE @official_i_dle #미연 #MIYEON #나우즈"
+},
+{
+  "link": "https://youtu.be/J-LOmSq0YMQ",
+  "category": "Shorts",
+  "member": "소연",
+  "date": "2025-02-12T18:00:00",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/J-LOmSq0YMQ/maxresdefault.jpg",
+  "alt": "레전드 커버를 본 원작자의 반응 (선공개)",
+  "title": "레전드 커버를 본 원작자의 반응 (선공개)"
 }
 
 
 
 
   ];
-
 window.shortsCards = shortsCards;
