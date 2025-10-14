@@ -15491,10 +15491,21 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/QUWLhV1bvVU/maxresdefault.jpg",
   "alt": "𝙏𝙝𝙞𝙣𝙠 𝙏𝙤𝙤 𝙈𝙪𝙘𝙝 w/ #idle #YUQI 님 @official_i_dle #장우영☕",
   "title": "𝙏𝙝𝙞𝙣𝙠 𝙏𝙤𝙤 𝙈𝙪𝙘𝙝 w/ #idle #YUQI 님 @official_i_dle #장우영☕"
+},
+{
+  "link": "https://youtu.be/j7kLzA6UzPQ",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-07-06T18:00:00",
+  "duration": "00:00:09",
+  "thumbnail": "https://i.ytimg.com/vi/j7kLzA6UzPQ/maxresdefault.jpg",
+  "alt": "🚃\"이번 역은 '이무진 역'입니다\"",
+  "title": "🚃\"이번 역은 '이무진 역'입니다\""
 }
 
 
 
 
   ];
+
 window.shortsCards = shortsCards;
