@@ -15027,17 +15027,6 @@ const shortsCards = [
 },
 
 {
-  "link": "https://youtu.be/XVZWBAr9k2c",
-  "category": "Shorts",
-  "member": "민니",
-  "date": "2025-09-25T18:00:00",
-  "duration": "00:01:00",
-  "thumbnail": "https://i.ytimg.com/vi/XVZWBAr9k2c/maxresdefault.jpg",
-  "alt": "💌 MINNIE’s Message about the FAN MEET UP ❤️",
-  "title": "💌 MINNIE’s Message about the FAN MEET UP ❤️"
-},
-
-{
   "link": "https://youtu.be/6rgJanQ7BTw",
   "category": "Shorts",
   "member": "아이들",
@@ -15420,7 +15409,91 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/Nk-8Oq_TBI4/maxresdefault.jpg",
   "alt": "Sugar on my 😜👅",
   "title": "Sugar on my 😜👅"
+},
+{
+  "link": "https://youtu.be/4hIcik07HrU",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-10-12T18:00:00",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/4hIcik07HrU/maxresdefault.jpg",
+  "alt": "WONDERING Challenge✨(with 민니, 나띠💘) #BamBam #뱀뱀#HOMETOWN #WONDERING",
+  "title": "WONDERING Challenge✨(with 민니, 나띠💘) #BamBam #뱀뱀#HOMETOWN #WONDERING"
+},
+
+{
+  "link": "https://youtu.be/lcYI8hwZYMM",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-10-13T18:00:00",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/lcYI8hwZYMM/maxresdefault.jpg",
+  "alt": "YUQI is so 🥰😘❣️",
+  "title": "YUQI is so 🥰😘❣️"
+},
+
+{
+  "link": "https://youtu.be/D1yr2fh_b2E",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-10-14T18:00:00",
+  "duration": "00:00:49",
+  "thumbnail": "https://i.ytimg.com/vi/D1yr2fh_b2E/maxresdefault.jpg",
+  "alt": "探し求めてた幸せ NEVERLAND 💜 in SAITAMA",
+  "title": "探し求めてた幸せ NEVERLAND 💜 in SAITAMA"
+},
+{
+  "link": "https://youtu.be/x1rFdz82hz8",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2024-07-20T18:00:00",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/x1rFdz82hz8/maxresdefault.jpg",
+  "alt": "비가 오는 날에 찾아와주신 민니 선배님 ☔️",
+  "title": "비가 오는 날에 찾아와주신 민니 선배님 ☔️"
+},
+{
+  "link": "https://youtu.be/2j5saEtnCCQ",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-05T18:00:00",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/2j5saEtnCCQ/maxresdefault.jpg",
+  "alt": "#아이들 #우기 선배님과 기분 내키는 대로 #FREESTYLE 🎡 #YOUNGPOSSE #영파씨",
+  "title": "#아이들 #우기 선배님과 기분 내키는 대로 #FREESTYLE 🎡 #YOUNGPOSSE #영파씨"
+},
+{
+  "link": "https://youtu.be/AhnT2O1hSw4",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-17T18:00:00",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/AhnT2O1hSw4/maxresdefault.jpg",
+  "alt": "Wanna tell me where I can’t go?",
+  "title": "Wanna tell me where I can’t go?"
+},
+{
+  "link": "https://youtu.be/1CvW-kPoDv0",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-22T18:00:00",
+  "duration": "00:00:29",
+  "thumbnail": "https://i.ytimg.com/vi/1CvW-kPoDv0/maxresdefault.jpg",
+  "alt": "𝑷𝒖𝒕 𝒚𝒐𝒖𝒓 𝒃𝒐𝒅𝒚 with #우기 #다영 #DAYOUNG #아이들 #idle #YUQI #BODY #bodychallenge @official_i_dle",
+  "title": "𝑷𝒖𝒕 𝒚𝒐𝒖𝒓 𝒃𝒐𝒅𝒚 with #우기 #다영 #DAYOUNG #아이들 #idle #YUQI #BODY #bodychallenge @official_i_dle"
+},
+{
+  "link": "https://youtu.be/QUWLhV1bvVU",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-09-22T18:00:00",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/QUWLhV1bvVU/maxresdefault.jpg",
+  "alt": "𝙏𝙝𝙞𝙣𝙠 𝙏𝙤𝙤 𝙈𝙪𝙘𝙝 w/ #idle #YUQI 님 @official_i_dle #장우영☕",
+  "title": "𝙏𝙝𝙞𝙣𝙠 𝙏𝙤𝙤 𝙈𝙪𝙘𝙝 w/ #idle #YUQI 님 @official_i_dle #장우영☕"
 }
+
+
 
 
   ];

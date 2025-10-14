@@ -696,7 +696,7 @@ const mediaContentCards = [
 {
   "link": "https://youtu.be/q-zptxyUEpM",
   "category": "Media_Content",
-  "member": "아이들",
+  "member": "",
   "date": "2019-06-26T18:00:00",
   "duration": "00:03:33",
   "thumbnail": "https://i.ytimg.com/vi/q-zptxyUEpM/sddefault.jpg",
@@ -773,7 +773,7 @@ const mediaContentCards = [
 {
   "link": "https://youtu.be/auNUEZ-w3Cg",
   "category": "Media_Content",
-  "member": "아이들",
+  "member": "슈화",
   "date": "2019-06-26T18:00:00",
   "duration": "00:03:05",
   "thumbnail": "https://i.ytimg.com/vi/auNUEZ-w3Cg/sddefault.jpg",
@@ -6793,7 +6793,7 @@ const mediaContentCards = [
   "member": "민니",
   "date": "2022-04-01T18:00:00",
   "duration": "01:05:38",
-  "thumbnail": "https://i.ytimg.com/vi/fLpeynhjyWI/maxresdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/c8780vEbx1k/hqdefault.jpg",
   "alt": "[마인드셋] MINNIE x Mindset Ep.0-8 Full ver.",
   "title": "[마인드셋] MINNIE x Mindset Ep.0-8 Full ver."
 },
@@ -7519,7 +7519,7 @@ const mediaContentCards = [
   "member": "소연",
   "date": "2022-07-29T18:00:00",
   "duration": "01:26:36",
-  "thumbnail": "https://i.ytimg.com/vi/T6cEScV0z-Q/maxresdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/srJWnrV_6bw/hqdefault.jpg",
   "alt": "[마인드셋] SOYEON x Mindset Ep.0-8 Full ver.",
   "title": "[마인드셋] SOYEON x Mindset Ep.0-8 Full ver."
 },
@@ -8795,7 +8795,7 @@ const mediaContentCards = [
   "member": "슈화",
   "date": "2023-04-14T18:00:00",
   "duration": "00:42:51",
-  "thumbnail": "https://i.ytimg.com/vi/vg2xNxje4C0/maxresdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/ipoZi84MvCM/hqdefault.jpg",
   "alt": "[마인드셋] SHUHUA x Mindset Ep.0-6 Full ver.",
   "title": "[마인드셋] SHUHUA x Mindset Ep.0-6 Full ver."
 },
@@ -10445,7 +10445,7 @@ const mediaContentCards = [
   "member": "우기",
   "date": "2024-03-15T18:00:00",
   "duration": "01:03:07",
-  "thumbnail": "https://i.ytimg.com/vi/Z0MJKiXBujE/sddefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/FcaH7yrYWgY/hqdefault.jpg",
   "alt": "[마인드셋] YUQI x Mindset Ep. 0-6 Full ver.",
   "title": "[마인드셋] YUQI x Mindset Ep. 0-6 Full ver."
 },
@@ -11072,7 +11072,7 @@ const mediaContentCards = [
   "member": "미연",
   "date": "2024-09-02T18:00:00",
   "duration": "00:53:10",
-  "thumbnail": "https://i.ytimg.com/vi/l2s7HlW-q50/maxresdefault.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/O2QV5HM8SYw/hqdefault.jpg",
   "alt": "[마인드셋] MIYEON x Mindset Ep. 0-6 Full ver.",
   "title": "[마인드셋] MIYEON x Mindset Ep. 0-6 Full ver."
 },
@@ -14420,49 +14420,76 @@ const mediaContentCards = [
   "alt": "[SUB] ✨ “샤넬이 아니라 찬넬” 슈화도 놀란 EXO 찬열 애장품 드로우ㅣ감별사 글로벌 EP.5ㅣi-dle (아이들) 슈화",
   "title": "[SUB] ✨ “샤넬이 아니라 찬넬” 슈화도 놀란 EXO 찬열 애장품 드로우ㅣ감별사 글로벌 EP.5ㅣi-dle (아이들) 슈화"
 },
-
+{
+  "link": "https://youtu.be/1LndTUQb6zw",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-08-26T18:00:10",
+  "duration": "00:04:43",
+  "thumbnail": "https://i.ytimg.com/vi/1LndTUQb6zw/maxresdefault.jpg",
+  "alt": "景德镇vlog💕 (小红书  슈화 브이로그 ep.1)",
+  "title": "景德镇vlog💕 (小红书  슈화 브이로그 ep.1)"
+},
 {
   "link": "https://youtu.be/G1h2hXoqDXE",
   "category": "Media_Content",
   "member": "슈화",
-  "date": "2025-08-27T18:00:00",
+  "date": "2025-08-26T18:00:11",
   "duration": "00:04:43",
   "thumbnail": "https://i.ytimg.com/vi/G1h2hXoqDXE/maxresdefault.jpg",
-  "alt": "(ENG/한) Shuhua in 景德鎮 VLOG #1",
-  "title": "(ENG/한) Shuhua in 景德鎮 VLOG #1"
+  "alt": "(ENG/한) 景德鎮 VLOG (小红书 슈화 브이로그 ep.1)",
+  "title": "(ENG/한) 景德鎮 VLOG (小红书 슈화 브이로그 ep.1)"
 },
 
 {
   "link": "https://youtu.be/z9P6Px9w9r0",
   "category": "Media_Content",
   "member": "아이들",
-  "date": "2025-08-28T18:00:00",
+  "date": "2025-08-28T18:00:01",
   "duration": "00:15:04",
   "thumbnail": "https://i.ytimg.com/vi/z9P6Px9w9r0/maxresdefault.jpg",
   "alt": "【SUB】idle最新采访爆料想和JYP合作？雨琦美延都说马上要solo回归了！",
   "title": "【SUB】idle最新采访爆料想和JYP合作？雨琦美延都说马上要solo回归了！"
 },
-
+{
+  "link": "https://youtu.be/254Da8pg0X8",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-08-28T18:00:10",
+  "duration": "00:04:08",
+  "thumbnail": "https://i.ytimg.com/vi/254Da8pg0X8/maxresdefault.jpg",
+  "alt": "Vlog 2~💕 (小红书  슈화 브이로그 ep.2)",
+  "title": "Vlog 2~💕 (小红书  슈화 브이로그 ep.2)"
+},
 {
   "link": "https://youtu.be/1zPNcsgeMe8",
   "category": "Media_Content",
   "member": "슈화",
-  "date": "2025-09-02T18:00:00",
+  "date": "2025-08-28T18:00:11",
   "duration": "00:04:08",
   "thumbnail": "https://i.ytimg.com/vi/1zPNcsgeMe8/maxresdefault.jpg",
-  "alt": "(ENG/한) Shuhua Vlog 2 💕 Shopping and Ceramics #2",
-  "title": "(ENG/한) Shuhua Vlog 2 💕 Shopping and Ceramics #2"
+  "alt": "(ENG/한) Vlog 2 💕 Shopping and Ceramics (小红书 슈화 브이로그 ep.2)",
+  "title": "(ENG/한) Vlog 2 💕 Shopping and Ceramics (小红书 슈화 브이로그 ep.2)"
 },
-
+{
+  "link": "https://youtu.be/8rcYiXwVtC4",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-08-30T18:00:10",
+  "duration": "00:05:38",
+  "thumbnail": "https://i.ytimg.com/vi/8rcYiXwVtC4/maxresdefault.jpg",
+  "alt": "閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)",
+  "title": "閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)"
+},
 {
   "link": "https://youtu.be/ox8ySB9RCo0",
   "category": "Media_Content",
   "member": "슈화",
-  "date": "2025-09-02T18:00:00",
+  "date": "2025-08-30T18:00:11",
   "duration": "00:05:38",
   "thumbnail": "https://i.ytimg.com/vi/ox8ySB9RCo0/sddefault.jpg",
-  "alt": "(ENG/한) Jiangxi Cuisine and Tea Ceremony #3",
-  "title": "(ENG/한) Jiangxi Cuisine and Tea Ceremony #3"
+  "alt": "(ENG/한) Jiangxi Cuisine and Tea Ceremony (小红书 슈화 브이로그 ep.3)",
+  "title": "(ENG/한) Jiangxi Cuisine and Tea Ceremony (小红书 슈화 브이로그 ep.3)"
 },
 
 {
@@ -14782,7 +14809,19 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/HImR7CR_zs0/maxresdefault.jpg",
   "alt": "1대, 2대, 3대 MC 워크돌 레전드 액기스.zip",
   "title": "1대, 2대, 3대 MC 워크돌 레전드 액기스.zip"
+},
+
+{
+  "link": "https://youtu.be/-CZhqXoauFY",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-10-15T18:00:00",
+  "duration": "00:23:47",
+  "thumbnail": "https://i.ytimg.com/vi/-CZhqXoauFY/maxresdefault.jpg",
+  "alt": "[SUB] EXO隊長SUHO的前世是國王嗎？還是…？| 鑑定師 Global EP.6 | i-dle 舒華 #감별사",
+  "title": "[SUB] EXO隊長SUHO的前世是國王嗎？還是…？| 鑑定師 Global EP.6 | i-dle 舒華 #감별사"
 }
+
 
 
 ];

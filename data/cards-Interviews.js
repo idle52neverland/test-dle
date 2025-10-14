@@ -2066,6 +2066,37 @@ const interviewsCards = [
   "thumbnail": "https://i.ytimg.com/vi/qQDotug8amE/maxresdefault.jpg",
   "alt": "I-dle on Singapore, learning Japanese and their solo work | E-Junkies",
   "title": "I-dle on Singapore, learning Japanese and their solo work | E-Junkies"
+},
+
+{
+  "link": "https://youtu.be/AlZqHHdrlqk",
+  "category": "Interviews",
+  "member": "아이들",
+  "date": "2025-08-28T18:00:00",
+  "duration": "00:15:04",
+  "thumbnail": "https://i.ytimg.com/vi/AlZqHHdrlqk/maxresdefault.jpg",
+  "alt": "i-dle TMEA 2025 Interview",
+  "title": "i-dle TMEA 2025 Interview"
+},
+{
+  "link": "https://youtu.be/NmcutTypCMM",
+  "category": "Interviews",
+  "member": "아이들",
+  "date": "2025-08-28T18:00:00",
+  "duration": "00:06:56",
+  "thumbnail": "https://i.ytimg.com/vi/NmcutTypCMM/maxresdefault.jpg",
+  "alt": "JOOX獨家直擊｜i-dle 爆笑專訪 ❤舞台以外，女神們一樣真性情 👀",
+  "title": "JOOX獨家直擊｜i-dle 爆笑專訪 ❤舞台以外，女神們一樣真性情 👀"
+},
+{
+  "link": "https://youtu.be/Sd6VQeFaLb4",
+  "category": "Interviews",
+  "member": "우기, 슈화",
+  "date": "2023-03-08T18:00:00",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/Sd6VQeFaLb4/maxresdefault.jpg",
+  "alt": "'우리.. 미션 성공할 수 있을까?'✨슈화가 우기를 귀여워할 때😚 MISSION BOX with YUQI SHUHUA of (G)I-DLE❤ (Eng sub)",
+  "title": "'우리.. 미션 성공할 수 있을까?'"✨슈화가 우기를 귀여워할 때😚 MISSION BOX with YUQI SHUHUA of (G)I-DLE❤ (Eng sub)"
 }
 
 

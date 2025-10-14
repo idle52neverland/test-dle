@@ -10223,6 +10223,17 @@ const officialChannelCards = [
   "alt": "i-dle JAPAN 1st EP『i-dle』 재킷 촬영 비하인드 [i-talk] #224 | i-dle (아이들)ㅣSUB",
   "title": "i-dle JAPAN 1st EP『i-dle』 재킷 촬영 비하인드 [i-talk] #224 | i-dle (아이들)ㅣSUB",
   "subtag": "아이톡 | I-TALK"
+},
+{
+  "link": "https://youtu.be/I0mf2FEc0zw",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-10-13T18:00:00",
+  "duration": "00:14:59",
+  "thumbnail": "https://i.ytimg.com/vi/I0mf2FEc0zw/maxresdefault.jpg",
+  "alt": "'どうしよっかな' M/V 촬영 비하인드 [i-talk] #225 | i-dle (아이들)ㅣSUB",
+  "title": "'どうしよっかな' M/V 촬영 비하인드 [i-talk] #225 | i-dle (아이들)ㅣSUB",
+  "subtag": "아이톡 | I-TALK"
 }
 
 

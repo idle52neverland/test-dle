@@ -157,7 +157,7 @@ const broadcastStageCards = [
 {
   "link": "https://youtu.be/nLCKdqYzeqM",
   "category": "Broadcast_Stage",
-  "member": "아이들",
+  "member": "",
   "date": "2018-05-24T18:00:00",
   "duration": "00:03:22",
   "thumbnail": "https://i.ytimg.com/vi/nLCKdqYzeqM/maxresdefault.jpg",
@@ -960,7 +960,7 @@ const broadcastStageCards = [
 {
   "link": "https://youtu.be/wy1xZaeJId0",
   "category": "Broadcast_Stage",
-  "member": "아이들",
+  "member": "",
   "date": "2019-03-20T18:00:00",
   "duration": "00:03:24",
   "thumbnail": "https://i.ytimg.com/vi/wy1xZaeJId0/maxresdefault.jpg",
@@ -1114,7 +1114,7 @@ const broadcastStageCards = [
 {
   "link": "https://youtu.be/Gt7kJ8S-IVY",
   "category": "Broadcast_Stage",
-  "member": "아이들",
+  "member": "",
   "date": "2019-07-01T18:00:00",
   "duration": "00:03:56",
   "thumbnail": "https://i.ytimg.com/vi/Gt7kJ8S-IVY/maxresdefault.jpg",
@@ -1499,7 +1499,7 @@ const broadcastStageCards = [
 {
   "link": "https://youtu.be/UJJM3xlxiV8",
   "category": "Broadcast_Stage",
-  "member": "아이들",
+  "member": "",
   "date": "2019-12-12T18:00:00",
   "duration": "00:03:41",
   "thumbnail": "https://i.ytimg.com/vi/UJJM3xlxiV8/maxresdefault.jpg",
@@ -1730,7 +1730,7 @@ const broadcastStageCards = [
 {
   "link": "https://youtu.be/YSwSEPZE_1E",
   "category": "Broadcast_Stage",
-  "member": "아이들",
+  "member": "",
   "date": "2020-04-12T18:00:00",
   "duration": "00:04:17",
   "thumbnail": "https://i.ytimg.com/vi/YSwSEPZE_1E/maxresdefault.jpg",
@@ -1862,7 +1862,7 @@ const broadcastStageCards = [
 {
   "link": "https://youtu.be/JwqKrCaIoJ8",
   "category": "Broadcast_Stage",
-  "member": "아이들",
+  "member": "",
   "date": "2020-04-16T18:00:00",
   "duration": "00:04:35",
   "thumbnail": "https://i.ytimg.com/vi/JwqKrCaIoJ8/maxresdefault.jpg",
@@ -2610,7 +2610,7 @@ const broadcastStageCards = [
 {
   "link": "https://youtu.be/ZWoewBn1Gu4",
   "category": "Broadcast_Stage",
-  "member": "아이들",
+  "member": "",
   "date": "2020-08-08T18:00:00",
   "duration": "00:03:51",
   "thumbnail": "https://i.ytimg.com/vi/ZWoewBn1Gu4/maxresdefault.jpg",
@@ -2709,7 +2709,7 @@ const broadcastStageCards = [
 {
   "link": "https://youtu.be/O3cPUXwWL54",
   "category": "Broadcast_Stage",
-  "member": "아이들",
+  "member": "",
   "date": "2020-08-10T18:00:00",
   "duration": "00:03:48",
   "thumbnail": "https://i.ytimg.com/vi/O3cPUXwWL54/maxresdefault.jpg",
@@ -3600,7 +3600,7 @@ const broadcastStageCards = [
 {
   "link": "https://youtu.be/XQPFvjMJeNg",
   "category": "Broadcast_Stage",
-  "member": "아이들",
+  "member": "",
   "date": "2021-01-14T18:00:00",
   "duration": "00:03:31",
   "thumbnail": "https://i.ytimg.com/vi/XQPFvjMJeNg/maxresdefault.jpg",
@@ -3831,7 +3831,7 @@ const broadcastStageCards = [
 {
   "link": "https://youtu.be/WX6y9r8uCJY",
   "category": "Broadcast_Stage",
-  "member": "아이들",
+  "member": "",
   "date": "2021-01-17T18:00:00",
   "duration": "00:03:54",
   "thumbnail": "https://i.ytimg.com/vi/WX6y9r8uCJY/maxresdefault.jpg",
@@ -4106,7 +4106,7 @@ const broadcastStageCards = [
 {
   "link": "https://youtu.be/-_an8fHIBm4",
   "category": "Broadcast_Stage",
-  "member": "아이들",
+  "member": "",
   "date": "2021-01-25T18:00:00",
   "duration": "00:03:33",
   "thumbnail": "https://i.ytimg.com/vi/-_an8fHIBm4/maxresdefault.jpg",
