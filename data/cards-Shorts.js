@@ -16144,12 +16144,62 @@ const shortsCards = [
   "link": "https://youtu.be/peGn2vxflg8",
   "category": "Shorts",
   "member": "민니",
-  "date": "2025-10-20T18:00:00",
+  "date": "2025-10-20T18:00:10",
   "duration": "00:00:09",
   "thumbnail": "https://i.ytimg.com/vi/peGn2vxflg8/maxresdefault.jpg",
   "alt": "Ocean eyes 👀🤎",
   "title": "Ocean eyes 👀🤎"
+},
+
+{
+  "link": "https://youtu.be/AKt0M7Q6Oz0",
+  "category": "Shorts",
+  "member": "미연, 민니, 소연",
+  "date": "2025-10-20T18:00:11",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/AKt0M7Q6Oz0/maxresdefault.jpg",
+  "alt": "𝓐𝓫𝓻𝓪𝓬𝓪𝓭𝓪𝓫𝓻𝓪",
+  "title": "𝓐𝓫𝓻𝓪𝓬𝓪𝓭𝓪𝓫𝓻𝓪"
+},
+
+{
+  "link": "https://youtu.be/xu26CBtyMlg",
+  "category": "Shorts",
+  "member": "미연, 민니",
+  "date": "2025-10-20T18:00:12",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/xu26CBtyMlg/maxresdefault.jpg",
+  "alt": "FFaSHioN~~ ∞",
+  "title": "FFaSHioN~~ ∞"
+},
+
+{
+  "link": "https://youtu.be/Wz6X0NzZHvo",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-10-20T18:00:13",
+  "duration": "00:00:09",
+  "thumbnail": "https://i.ytimg.com/vi/Wz6X0NzZHvo/maxresdefault.jpg",
+  "alt": "I’m like ⊹ ʚ",
+  "title": "I’m like ⊹ ʚ"
+},
+
+{
+  "link": "https://youtu.be/2LtWQvPTaHo",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-10-20T18:00:14",
+  "duration": "00:00:45",
+  "thumbnail": "https://i.ytimg.com/vi/2LtWQvPTaHo/maxresdefault.jpg",
+  "alt": "Here we go, this is the moment 🌟 in KOBE",
+  "title": "Here we go, this is the moment 🌟 in KOBE"
 }
+
+
+
+
+
+
 
 
 
