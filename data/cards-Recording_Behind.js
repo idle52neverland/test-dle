@@ -625,6 +625,16 @@ const recordingBehindCards = [
   "thumbnail": "https://i.ytimg.com/vi/ERx40yJ9zXQ/maxresdefault.jpg",
   "alt": "우기 (YUQI) '아프다' Recording BehindㅣSUB",
   "title": "우기 (YUQI) '아프다' Recording BehindㅣSUB"
+},
+{
+  "link": "https://youtu.be/8a67OaExWRw",
+  "category": "Recording_Behind",
+  "member": "아이들",
+  "date": "2025-10-17T18:00:00",
+  "duration": "00:19:28",
+  "thumbnail": "https://i.ytimg.com/vi/8a67OaExWRw/maxresdefault.jpg",
+  "alt": "i-dle (아이들) 'どうしよっかな' Recording BehindㅣSUB",
+  "title": "i-dle (아이들) 'どうしよっかな' Recording BehindㅣSUB"
 }
 
 

@@ -2097,6 +2097,16 @@ const interviewsCards = [
   "thumbnail": "https://i.ytimg.com/vi/Sd6VQeFaLb4/maxresdefault.jpg",
   "alt": "'우리.. 미션 성공할 수 있을까?'✨슈화가 우기를 귀여워할 때😚 MISSION BOX with YUQI SHUHUA of (G)I-DLE❤ (Eng sub)",
   "title": "'우리.. 미션 성공할 수 있을까?'✨슈화가 우기를 귀여워할 때😚 MISSION BOX with YUQI SHUHUA of (G)I-DLE❤ (Eng sub)"
+},
+{
+  "link": "https://youtu.be/6U4FWgR3oYs",
+  "category": "Interviews",
+  "member": "소연",
+  "date": "2025-10-15T18:00:00",
+  "duration": "00:45:26",
+  "thumbnail": "https://i.ytimg.com/vi/6U4FWgR3oYs/maxresdefault.jpg",
+  "alt": "[ENG/JPN] 힙합 걸그룹 탄생✨ 엠넷 '언프리티 랩스타 : 힙팝 프린세스' 제작발표회｜소연 SOYEON·개코 Gaeko·리에하타 RIEHATA·이와타 타카노리",
+  "title": "[ENG/JPN] 힙합 걸그룹 탄생✨ 엠넷 '언프리티 랩스타 : 힙팝 프린세스' 제작발표회｜소연 SOYEON·개코 Gaeko·리에하타 RIEHATA·이와타 타카노리"
 }
 
 

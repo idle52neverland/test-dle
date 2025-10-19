@@ -13,17 +13,6 @@ const etcCards = [
 },
 
 {
-  "link": "https://youtu.be/TEcxkLaCHq0",
-  "category": "Etc",
-  "member": "아이들",
-  "date": "2019-03-08T18:00:00",
-  "duration": "00:05:46",
-  "thumbnail": "https://i.ytimg.com/vi/TEcxkLaCHq0/sddefault.jpg",
-  "alt": "[ENG SUB] (여자)아이들은 세뇨리타, 악플러는 불타! #G_I_DLE│댓변인들│AYO 에이요",
-  "title": "[ENG SUB] (여자)아이들은 세뇨리타, 악플러는 불타! #G_I_DLE│댓변인들│AYO 에이요"
-},
-
-{
   "link": "https://youtu.be/Ie80TNzNuUc",
   "category": "Etc",
   "member": "아이들",
@@ -70,12 +59,54 @@ const etcCards = [
 {
   "link": "https://youtu.be/icUfcn2sTXU",
   "category": "Etc",
-  "member": "소연",
+  "member": "아이들",
   "date": "2020-04-09T18:00:00",
   "duration": "00:13:43",
   "thumbnail": "https://i.ytimg.com/vi/icUfcn2sTXU/sddefault.jpg",
   "alt": "[SUB] [뮤비해석] 전소연 천재 ｜(여자)아이들 'Oh my god'｜Sub EN/ES/RU/VN/FR",
   "title": "[SUB] [뮤비해석] 전소연 천재 ｜(여자)아이들 'Oh my god'｜Sub EN/ES/RU/VN/FR"
+},
+{
+  "link": "https://youtu.be/eBrjINsuyvc",
+  "category": "Etc",
+  "member": "아이들",
+  "date": "2022-10-22T18:00:00",
+  "duration": "00:11:44",
+  "thumbnail": "https://i.ytimg.com/vi/eBrjINsuyvc/maxresdefault.jpg",
+  "alt": "[SUB] [뮤비해석] ㅎ… 뮤비해석 유튜버가 그저 헛웃음만 나왔던 이번 아이들 신곡 컨셉.... | (여자)아이들 'Nxde'",
+  "title": "[SUB] [뮤비해석] ㅎ… 뮤비해석 유튜버가 그저 헛웃음만 나왔던 이번 아이들 신곡 컨셉.... | (여자)아이들 'Nxde'"
+},
+{
+  "link": "https://youtu.be/umnjSSQ4mu8",
+  "category": "Etc",
+  "member": "아이들",
+  "date": "2023-05-22T18:00:00",
+  "duration": "00:06:23",
+  "thumbnail": "https://i.ytimg.com/vi/umnjSSQ4mu8/maxresdefault.jpg",
+  "alt": "[뮤비해석] 대혼돈의 아이들 신곡 가사..... | (여자)아이들 '퀸카' & 'Allergy'",
+  "title": "[뮤비해석] 대혼돈의 아이들 신곡 가사..... | (여자)아이들 '퀸카' & 'Allergy'"
+},
+
+{
+  "link": "https://youtu.be/8P24rbFtqiQ",
+  "category": "Etc",
+  "member": "아이들",
+  "date": "2021-01-26T18:00:00",
+  "duration": "00:13:20",
+  "thumbnail": "https://i.ytimg.com/vi/8P24rbFtqiQ/maxresdefault.jpg",
+  "alt": "[ENG] [뮤비해석] 3년 전 노래와 이어지는 (여자)아이들 이번 신곡, 나노단위로 분석 🔥❄️ㅣ(여자)아이들 '화(火花)' & '한(寒)'",
+  "title": "[ENG] [뮤비해석] 3년 전 노래와 이어지는 (여자)아이들 이번 신곡, 나노단위로 분석 🔥❄️ㅣ(여자)아이들 '화(火花)' & '한(寒)'"
+},
+
+{
+  "link": "https://youtu.be/8N4GNYCbnkw",
+  "category": "Etc",
+  "member": "아이들",
+  "date": "2022-03-18T18:00:00",
+  "duration": "00:10:26",
+  "thumbnail": "https://i.ytimg.com/vi/8N4GNYCbnkw/maxresdefault.jpg",
+  "alt": "[ENG] [뮤비해석] 무릎 : 꿇을게ㅤ눈물 : 흐를게ㅤ김일오 : 해석할게ㅤ| (여자)아이들 (G)I-DLE 'Tomboy' MV Explained & Theory",
+  "title": "[ENG] [뮤비해석] 무릎 : 꿇을게ㅤ눈물 : 흐를게ㅤ김일오 : 해석할게ㅤ| (여자)아이들 (G)I-DLE 'Tomboy' MV Explained & Theory"
 },
 
 {
@@ -96,8 +127,8 @@ const etcCards = [
   "date": "2020-05-18T18:00:00",
   "duration": "00:08:46",
   "thumbnail": "https://i.ytimg.com/vi/43pmkDu6CRs/sddefault.jpg",
-  "alt": "[놀토- Uh-Oh 출제] (여자)아이들((G)-IDLE) - Uh-Oh 놀토 받아쓰기♬ with AOA 설현(Seol Hyun), 지민(Ji Min) | #놀라운토요일 |",
-  "title": "[놀토- Uh-Oh 출제] (여자)아이들((G)-IDLE) - Uh-Oh 놀토 받아쓰기♬ with AOA 설현(Seol Hyun), 지민(Ji Min) | #놀라운토요일 |"
+  "alt": "[놀토: Uh-Oh 출제] (여자)아이들((G)-IDLE) - Uh-Oh 놀토 받아쓰기♬ with AOA 설현(Seol Hyun), 지민(Ji Min) | #놀라운토요일 |",
+  "title": "[놀토: Uh-Oh 출제] (여자)아이들((G)-IDLE) - Uh-Oh 놀토 받아쓰기♬ with AOA 설현(Seol Hyun), 지민(Ji Min) | #놀라운토요일 |"
 },
 
 {
@@ -393,8 +424,8 @@ const etcCards = [
   "date": "2020-12-16T18:00:00",
   "duration": "00:08:02",
   "thumbnail": "https://i.ytimg.com/vi/uTxvzBeaa5w/sddefault.jpg",
-  "alt": "[놀토- POP/STRAS 출제] - EP39-06 누구요? 핫한 걸그룹 LOL K/DA 등장에 찐으로 당황한 도레미들 증강현실?? | #놀라운토요일",
-  "title": "[놀토- POP/STRAS 출제] - EP39-06 누구요? 핫한 걸그룹 LOL K/DA 등장에 찐으로 당황한 도레미들 증강현실?? | #놀라운토요일"
+  "alt": "[놀토: POP/STRAS 출제] - EP39-06 누구요? 핫한 걸그룹 LOL K/DA 등장에 찐으로 당황한 도레미들 증강현실?? | #놀라운토요일",
+  "title": "[놀토: POP/STRAS 출제] - EP39-06 누구요? 핫한 걸그룹 LOL K/DA 등장에 찐으로 당황한 도레미들 증강현실?? | #놀라운토요일"
 },
 
 {
@@ -514,8 +545,8 @@ const etcCards = [
   "date": "2022-04-26T18:00:00",
   "duration": "00:06:14",
   "thumbnail": "https://i.ytimg.com/vi/RKnp-6F9rwk/sddefault.jpg",
-  "alt": "[놀토- MY BAG 출제] (여자)아이들 {MY BAG} ♪ 설현 X 키의 맹활약! 역시 다른 아이돌 선배들 ^ㅁ^#놀라운토요일 EP.209 | tvN 220423 방송",
-  "title": "[놀토- MY BAG 출제] (여자)아이들 {MY BAG} ♪ 설현 X 키의 맹활약! 역시 다른 아이돌 선배들 ^ㅁ^#놀라운토요일 EP.209 | tvN 220423 방송"
+  "alt": "[놀토: MY BAG 출제] (여자)아이들 {MY BAG} ♪ 설현 X 키의 맹활약! 역시 다른 아이돌 선배들 ^ㅁ^#놀라운토요일 EP.209 | tvN 220423 방송",
+  "title": "[놀토: MY BAG 출제] (여자)아이들 {MY BAG} ♪ 설현 X 키의 맹활약! 역시 다른 아이돌 선배들 ^ㅁ^#놀라운토요일 EP.209 | tvN 220423 방송"
 },
 
 {
@@ -536,8 +567,8 @@ const etcCards = [
   "date": "2022-07-31T18:00:00",
   "duration": "00:09:46",
   "thumbnail": "https://i.ytimg.com/vi/LIUnvuV8lb4/sddefault.jpg",
-  "alt": "[놀토- 덤디덤디 출제] (여자)아이들 {DUMDI DUMDI} ♪ 여름마다 듣는 노래?! 받쓰 찢은 안유진 #놀라운토요일 EP.223 | tvN 220730 방송",
-  "title": "[놀토- 덤디덤디 출제] (여자)아이들 {DUMDI DUMDI} ♪ 여름마다 듣는 노래?! 받쓰 찢은 안유진 #놀라운토요일 EP.223 | tvN 220730 방송"
+  "alt": "[놀토: 덤디덤디 출제] (여자)아이들 {DUMDI DUMDI} ♪ 여름마다 듣는 노래?! 받쓰 찢은 안유진 #놀라운토요일 EP.223 | tvN 220730 방송",
+  "title": "[놀토: 덤디덤디 출제] (여자)아이들 {DUMDI DUMDI} ♪ 여름마다 듣는 노래?! 받쓰 찢은 안유진 #놀라운토요일 EP.223 | tvN 220730 방송"
 },
 
 {
@@ -613,8 +644,8 @@ const etcCards = [
   "date": "2024-03-09T18:00:00",
   "duration": "00:09:22",
   "thumbnail": "https://i.ytimg.com/vi/7xMcl5wnYBQ/sddefault.jpg",
-  "alt": "[놀토- Allergy 출제] 〈(여자)아이들 - 알러지♪〉 드디어 청하가 돌아왔다😍 반가운 만큼 받쓰 난이도 UP😱#놀라운토요일 EP.305 |",
-  "title": "[놀토- Allergy 출제] 〈(여자)아이들 - 알러지♪〉 드디어 청하가 돌아왔다😍 반가운 만큼 받쓰 난이도 UP😱#놀라운토요일 EP.305 |"
+  "alt": "[놀토: Allergy 출제] 〈(여자)아이들 - 알러지♪〉 드디어 청하가 돌아왔다😍 반가운 만큼 받쓰 난이도 UP😱#놀라운토요일 EP.305 |",
+  "title": "[놀토: Allergy 출제] 〈(여자)아이들 - 알러지♪〉 드디어 청하가 돌아왔다😍 반가운 만큼 받쓰 난이도 UP😱#놀라운토요일 EP.305 |"
 },
 
 {
@@ -624,8 +655,8 @@ const etcCards = [
   "date": "2024-05-07T18:00:00",
   "duration": "00:14:56",
   "thumbnail": "https://i.ytimg.com/vi/Zr-Kx53WMe4/sddefault.jpg",
-  "alt": "[놀토- FATE 출제] [#놀라운토요일] (여자) 아이들〈아딱질〉 캐치로 지코형 〈SPOT!〉 홍보 보이 자처한 피오! 동생 노릇 톡톡히 했쥬😉 현아가 말아주는 원더걸스 곡은? |",
-  "title": "[놀토- FATE 출제] [#놀라운토요일] (여자) 아이들〈아딱질〉 캐치로 지코형 〈SPOT!〉 홍보 보이 자처한 피오! 동생 노릇 톡톡히 했쥬😉 현아가 말아주는 원더걸스 곡은? |"
+  "alt": "[놀토: FATE 출제] [#놀라운토요일] (여자) 아이들〈아딱질〉 캐치로 지코형 〈SPOT!〉 홍보 보이 자처한 피오! 동생 노릇 톡톡히 했쥬😉 현아가 말아주는 원더걸스 곡은? |",
+  "title": "[놀토: FATE 출제] [#놀라운토요일] (여자) 아이들〈아딱질〉 캐치로 지코형 〈SPOT!〉 홍보 보이 자처한 피오! 동생 노릇 톡톡히 했쥬😉 현아가 말아주는 원더걸스 곡은? |"
 },
 
 {
@@ -646,8 +677,8 @@ const etcCards = [
   "date": "2025-01-18T18:00:00",
   "duration": "00:18:56",
   "thumbnail": "https://i.ytimg.com/vi/7TCtgVAbMZg/sddefault.jpg",
-  "alt": "[놀토- VILLAIN DIES 출제] 양보는 나이스한 도레미들, 하지만 받쓰는 낫 나이스;; 〈(여자)아이들 – 빌런 다이스♪〉#놀라운토요일 | amazingsaturday EP.349 |",
-  "title": "[놀토- VILLAIN DIES 출제] 양보는 나이스한 도레미들, 하지만 받쓰는 낫 나이스;; 〈(여자)아이들 – 빌런 다이스♪〉#놀라운토요일 | amazingsaturday EP.349 |"
+  "alt": "[놀토: VILLAIN DIES 출제] 양보는 나이스한 도레미들, 하지만 받쓰는 낫 나이스;; 〈(여자)아이들 – 빌런 다이스♪〉#놀라운토요일 | amazingsaturday EP.349 |",
+  "title": "[놀토: VILLAIN DIES 출제] 양보는 나이스한 도레미들, 하지만 받쓰는 낫 나이스;; 〈(여자)아이들 – 빌런 다이스♪〉#놀라운토요일 | amazingsaturday EP.349 |"
 },
 
 {
@@ -679,8 +710,8 @@ const etcCards = [
   "date": "2025-03-22T18:00:00",
   "duration": "00:20:05",
   "thumbnail": "https://i.ytimg.com/vi/erkLvEyZpDE/sddefault.jpg",
-  "alt": "[놀토- PSYCHO 출제]🧤장갑 논쟁(?)🧤 뜨거운 거 먹을 때 비닐장갑 vs 목장갑 중에 뭐부터 낄까?#놀라운토요일 | amazingsaturday EP.358 |",
-  "title": "[놀토- PSYCHO 출제]🧤장갑 논쟁(?)🧤 뜨거운 거 먹을 때 비닐장갑 vs 목장갑 중에 뭐부터 낄까?#놀라운토요일 | amazingsaturday EP.358 |"
+  "alt": "[놀토: PSYCHO 출제]🧤장갑 논쟁(?)🧤 뜨거운 거 먹을 때 비닐장갑 vs 목장갑 중에 뭐부터 낄까?#놀라운토요일 | amazingsaturday EP.358 |",
+  "title": "[놀토: PSYCHO 출제]🧤장갑 논쟁(?)🧤 뜨거운 거 먹을 때 비닐장갑 vs 목장갑 중에 뭐부터 낄까?#놀라운토요일 | amazingsaturday EP.358 |"
 },
 
 {

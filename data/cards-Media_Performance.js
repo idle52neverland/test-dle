@@ -3287,6 +3287,16 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/TT--75sUly8/maxresdefault.jpg",
   "alt": "[뮤트로.zip] 미연 - SIGN🎧",
   "title": "[뮤트로.zip] 미연 - SIGN🎧"
+},
+{
+  "link": "https://youtu.be/CEHETQ8du34",
+  "category": "Media_Performance",
+  "member": "소연",
+  "date": "2025-10-16T18:00:00",
+  "duration": "00:04:27",
+  "thumbnail": "https://i.ytimg.com/vi/CEHETQ8du34/maxresdefault.jpg",
+  "alt": "[JP] [#힙팝프린세스/1회] 타이틀곡 ♬Do my thang (Producer Ver.) | Mnet 251016 방송",
+  "title": "[JP] [#힙팝프린세스/1회] 타이틀곡 ♬Do my thang (Producer Ver.) | Mnet 251016 방송"
 }
 
 

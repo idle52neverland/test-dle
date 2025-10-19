@@ -10234,6 +10234,40 @@ const officialChannelCards = [
   "alt": "'どうしよっかな' M/V 촬영 비하인드 [i-talk] #225 | i-dle (아이들)ㅣSUB",
   "title": "'どうしよっかな' M/V 촬영 비하인드 [i-talk] #225 | i-dle (아이들)ㅣSUB",
   "subtag": "아이톡 | I-TALK"
+},
+{
+  "link": "https://youtu.be/GCmKM7Y0-D4",
+  "category": "Official_Channel",
+  "member": "우기",
+  "date": "2025-10-15T18:00:00",
+  "duration": "00:24:33",
+  "thumbnail": "https://i.ytimg.com/vi/GCmKM7Y0-D4/maxresdefault.jpg",
+  "alt": "'M.O.' 음악방송 비하인드 [SONG TALK TALK] #11 | 우기 (YUQI)ㅣSUB",
+  "title": "'M.O.' 음악방송 비하인드 [SONG TALK TALK] #11 | 우기 (YUQI)ㅣSUB",
+  "subtag": "아이톡 | I-TALK"
+},
+{
+  "link": "https://youtu.be/3T23a-16-Vo",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-10-20T18:00:01",
+  "duration": "00:04:18",
+  "thumbnail": "https://i.ytimg.com/vi/3T23a-16-Vo/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) ‘永遠前夜 Forever Eve’ (원곡 : TENBLANK) @ [ 逢い-dle ]",
+  "title": "미연 (MIYEON) ‘永遠前夜 Forever Eve’ (원곡 : TENBLANK) @ [ 逢い-dle ]",
+  "subtag": "커버곡 | Cover"
+},
+
+{
+  "link": "https://youtu.be/tOWUtqy0kOs",
+  "category": "Official_Channel",
+  "member": "소연",
+  "date": "2025-10-20T18:00:02",
+  "duration": "00:05:05",
+  "thumbnail": "https://i.ytimg.com/vi/tOWUtqy0kOs/maxresdefault.jpg",
+  "alt": "소연 (SOYEON) ‘Butter-Fly’ (원곡 : 和田光司) @ [ 逢い-dle ]",
+  "title": "소연 (SOYEON) ‘Butter-Fly’ (원곡 : 和田光司) @ [ 逢い-dle ]",
+  "subtag": "커버곡 | Cover"
 }
 
 

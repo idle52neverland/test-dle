@@ -16017,7 +16017,140 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/J-LOmSq0YMQ/maxresdefault.jpg",
   "alt": "레전드 커버를 본 원작자의 반응 (선공개)",
   "title": "레전드 커버를 본 원작자의 반응 (선공개)"
+},
+
+{
+  "link": "https://youtu.be/z9G7as_S-rc",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2024-10-24T18:00:00",
+  "duration": "00:00:33",
+  "thumbnail": "https://i.ytimg.com/vi/z9G7as_S-rc/maxresdefault.jpg",
+  "alt": "대한민국 행복충전! 카드형 온누리상품권 팝업스토어 인사 영상",
+  "title": "대한민국 행복충전! 카드형 온누리상품권 팝업스토어 인사 영상"
+},
+
+
+{
+  "link": "https://youtu.be/w62BAFiFJhU",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2024-10-28T18:00:00",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/w62BAFiFJhU/maxresdefault.jpg",
+  "alt": "💜💜💜💜💜 #starsystem #gidle #choreography #macau",
+  "title": "💜💜💜💜💜 #starsystem #gidle #choreography #macau"
+},
+
+{
+  "link": "https://youtu.be/thbB784C3fI",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2024-10-28T18:00:00",
+  "duration": "00:00:33",
+  "thumbnail": "https://i.ytimg.com/vi/thbB784C3fI/maxresdefault.jpg",
+  "alt": "콘서트 전 노는 법🫰🏾💖 #starsystem #gidle",
+  "title": "콘서트 전 노는 법🫰🏾💖 #starsystem #gidle"
+},
+
+{
+  "link": "https://youtu.be/2tWi7gIcERc",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2024-09-07T18:00:00",
+  "duration": "00:00:56",
+  "thumbnail": "https://i.ytimg.com/vi/2tWi7gIcERc/maxresdefault.jpg",
+  "alt": "꾸러기 복장 미연의 시골Z 촬영 소감! | #시골에간도시Z #ENA #미연 #여자아이들",
+  "title": "꾸러기 복장 미연의 시골Z 촬영 소감! | #시골에간도시Z #ENA #미연 #여자아이들"
+},
+
+{
+  "link": "https://youtu.be/ZtRn6GmPt7c",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2024-09-06T18:00:00",
+  "duration": "00:00:37",
+  "thumbnail": "https://i.ytimg.com/vi/ZtRn6GmPt7c/maxresdefault.jpg",
+  "alt": "🐭1회 선공개 | 아직은 어색한 시골간Z 막내즈! 건희&미연&동원 [시골에 간 도시 Z] 9월 8일 (일) 저녁 8시 30분 첫 방송",
+  "title": "🐭1회 선공개 | 아직은 어색한 시골간Z 막내즈! 건희&미연&동원 [시골에 간 도시 Z] 9월 8일 (일) 저녁 8시 30분 첫 방송"
+},
+{
+  "link": "https://youtu.be/cB9j_0CvkUs",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-10-18T18:00:00",
+  "duration": "00:00:38",
+  "thumbnail": "https://i.ytimg.com/vi/cB9j_0CvkUs/maxresdefault.jpg",
+  "alt": "#idle #우기 님과 함께 심장이 쿵💗 #TWS_OVERDRIVE #TWS #투어스 #지훈",
+  "title": "#idle #우기 님과 함께 심장이 쿵💗 #TWS_OVERDRIVE #TWS #투어스 #지훈"
+},
+
+{
+  "link": "https://youtu.be/5B39KeTkFmw",
+  "category": "Shorts",
+  "member": "우기, 슈화",
+  "date": "2025-10-18T18:00:00",
+  "duration": "00:00:13",
+  "thumbnail": "https://i.ytimg.com/vi/5B39KeTkFmw/maxresdefault.jpg",
+  "alt": "우기, 슈화의 M.O. 간다 뿌우~♡",
+  "title": "우기, 슈화의 M.O. 간다 뿌우~♡"
+},
+
+{
+  "link": "https://youtu.be/svlsE2MK5bI",
+  "category": "Shorts",
+  "member": "우기",
+  "date": "2025-10-18T18:00:00",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/svlsE2MK5bI/maxresdefault.jpg",
+  "alt": "#사마죄 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 𝐰𝐢𝐭𝐡 i-dle 우기 #소란(SORAN)",
+  "title": "#사마죄 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞 𝐰𝐢𝐭𝐡 i-dle 우기 #소란(SORAN)"
+},
+
+{
+  "link": "https://youtu.be/O6eLkMpCy6Q",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-10-19T18:00:00",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/O6eLkMpCy6Q/maxresdefault.jpg",
+  "alt": "今か今か時は来た 神戸市 💟",
+  "title": "今か今か時は来た 神戸市 💟"
+},
+
+{
+  "link": "https://youtu.be/hfyjSOUHgHI",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-10-19T18:00:00",
+  "duration": "00:00:38",
+  "thumbnail": "https://i.ytimg.com/vi/hfyjSOUHgHI/maxresdefault.jpg",
+  "alt": "I fell in love with you ❤️",
+  "title": "I fell in love with you ❤️"
+},
+
+{
+  "link": "https://youtu.be/4zd1zJ1YcCE",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-10-19T18:00:00",
+  "duration": "00:00:45",
+  "thumbnail": "https://i.ytimg.com/vi/4zd1zJ1YcCE/maxresdefault.jpg",
+  "alt": "Yeah, put the spirit in it ❕",
+  "title": "Yeah, put the spirit in it ❕"
+},
+
+{
+  "link": "https://youtu.be/peGn2vxflg8",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-10-20T18:00:00",
+  "duration": "00:00:09",
+  "thumbnail": "https://i.ytimg.com/vi/peGn2vxflg8/maxresdefault.jpg",
+  "alt": "Ocean eyes 👀🤎",
+  "title": "Ocean eyes 👀🤎"
 }
+
 
 
 
