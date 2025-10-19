@@ -10268,7 +10268,20 @@ const officialChannelCards = [
   "alt": "소연 (SOYEON) ‘Butter-Fly’ (원곡 : 和田光司) @ [ 逢い-dle ]",
   "title": "소연 (SOYEON) ‘Butter-Fly’ (원곡 : 和田光司) @ [ 逢い-dle ]",
   "subtag": "커버곡 | Cover"
+},
+
+{
+  "link": "https://youtu.be/KMEavpqHnUc",
+  "category": "Official_Channel",
+  "member": "민니, 우기, 슈화",
+  "date": "2025-10-20T18:00:03",
+  "duration": "00:03:42",
+  "thumbnail": "https://i.ytimg.com/vi/KMEavpqHnUc/maxresdefault.jpg",
+  "alt": "민니 (MINNIE), 우기 (YUQI), 슈화 (SHUHUA) ‘AI SCREAM!’ (원곡 : AiScReam) @ [ 逢い-dle ]",
+  "title": "민니 (MINNIE), 우기 (YUQI), 슈화 (SHUHUA) ‘AI SCREAM!’ (원곡 : AiScReam) @ [ 逢い-dle ]",
+  "subtag": "커버곡 | Cover"
 }
+
 
 
 
