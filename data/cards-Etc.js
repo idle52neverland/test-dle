@@ -866,6 +866,27 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/Q_yM2dJQS6I/maxresdefault.jpg",
   "alt": "[17:23~] I Surprised 5 Kpop Groups in ONE COLOR!",
   "title": "[17:23~]I Surprised 5 Kpop Groups in ONE COLOR!"
+},
+{
+  "link": "https://youtu.be/BgQcO_EJEfk",
+  "category": "Etc",
+  "member": "소연",
+  "date": "2025-10-23T18:00:02",
+  "duration": "00:08:09",
+  "thumbnail": "https://i.ytimg.com/vi/BgQcO_EJEfk/maxresdefault.jpg",
+  "alt": "[제16회 대한민국 대중문화예술상] 문화체육부관광부장관표창",
+  "title": "[제16회 대한민국 대중문화예술상] 문화체육부관광부장관표창"
+},
+
+{
+  "link": "https://youtu.be/BSU02XjrBBA",
+  "category": "Etc",
+  "member": "소연",
+  "date": "2025-10-23T18:00:01",
+  "duration": "00:02:22",
+  "thumbnail": "https://i.ytimg.com/vi/BSU02XjrBBA/maxresdefault.jpg",
+  "alt": "[제16회 대한민국 대중문화 예술상] 시상식 레드카펫",
+  "title": "[제16회 대한민국 대중문화 예술상] 시상식 레드카펫"
 }
 
 

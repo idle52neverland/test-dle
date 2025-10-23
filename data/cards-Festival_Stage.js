@@ -2000,6 +2000,16 @@ const festivalStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/TEA_EjGHH-w/maxresdefault.jpg",
   "alt": "CFM : CrossFire Mobile x Song Yuqi (I-dle) | COPDD (Live Stage)",
   "title": "CFM : CrossFire Mobile x Song Yuqi (I-dle) | COPDD (Live Stage)"
+},
+{
+  "link": "https://youtu.be/bg9lH0oc090",
+  "category": "Festival_Stage",
+  "member": "아이들",
+  "date": "2024-03-21T18:00:00",
+  "duration": "00:10:06",
+  "thumbnail": "https://i.ytimg.com/vi/bg9lH0oc090/sddefault.jpg",
+  "alt": "(G)I-DLE (여자)아이들 메이저리그 MLB Seoul Series 축하공연",
+  "title": "(G)I-DLE (여자)아이들 메이저리그 MLB Seoul Series 축하공연"
 }
 
 

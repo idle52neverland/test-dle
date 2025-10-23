@@ -14820,7 +14820,18 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/-CZhqXoauFY/maxresdefault.jpg",
   "alt": "[SUB] EXO隊長SUHO的前世是國王嗎？還是…？| 鑑定師 Global EP.6 | i-dle 舒華 #감별사",
   "title": "[SUB] EXO隊長SUHO的前世是國王嗎？還是…？| 鑑定師 Global EP.6 | i-dle 舒華 #감별사"
+},
+{
+  "link": "https://youtu.be/pySD0POVCVA",
+  "category": "Media_Content",
+  "member": "소연",
+  "date": "2025-09-18T18:00:00",
+  "duration": "00:36:24",
+  "thumbnail": "https://i.ytimg.com/vi/pySD0POVCVA/maxresdefault.jpg",
+  "alt": "중앙일보 창간 60주년 글로벌 미디어 컨퍼런스 스피치 소연",
+  "title": "중앙일보 창간 60주년 글로벌 미디어 컨퍼런스 스피치 소연"
 }
+
 
 
 

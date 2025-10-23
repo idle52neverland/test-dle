@@ -2107,6 +2107,16 @@ const interviewsCards = [
   "thumbnail": "https://i.ytimg.com/vi/6U4FWgR3oYs/maxresdefault.jpg",
   "alt": "[ENG/JPN] 힙합 걸그룹 탄생✨ 엠넷 '언프리티 랩스타 : 힙팝 프린세스' 제작발표회｜소연 SOYEON·개코 Gaeko·리에하타 RIEHATA·이와타 타카노리",
   "title": "[ENG/JPN] 힙합 걸그룹 탄생✨ 엠넷 '언프리티 랩스타 : 힙팝 프린세스' 제작발표회｜소연 SOYEON·개코 Gaeko·리에하타 RIEHATA·이와타 타카노리"
+},
+{
+  "link": "https://youtu.be/W59VCFYAzrg",
+  "category": "Interviews",
+  "member": "아이들",
+  "date": "2020-04-08T18:00:00",
+  "duration": "00:38:30",
+  "thumbnail": "https://i.ytimg.com/vi/W59VCFYAzrg/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" ONLINE MEDIA SHOWCASE",
+  "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" ONLINE MEDIA SHOWCASE"
 }
 
 

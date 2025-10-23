@@ -16193,7 +16193,77 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/2LtWQvPTaHo/maxresdefault.jpg",
   "alt": "Here we go, this is the moment 🌟 in KOBE",
   "title": "Here we go, this is the moment 🌟 in KOBE"
+},
+
+{
+  "link": "https://youtu.be/lb5bSi8xdr8",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-22T18:00:00",
+  "duration": "00:00:40",
+  "thumbnail": "https://i.ytimg.com/vi/lb5bSi8xdr8/maxresdefault.jpg",
+  "alt": "𝑳𝒐𝒗𝒆, 𝑶𝒗𝒆𝒓 100℃ 🔥❤️‍🔥",
+  "title": "𝑳𝒐𝒗𝒆, 𝑶𝒗𝒆𝒓 100℃ 🔥❤️‍🔥"
+},
+
+{
+  "link": "https://youtu.be/0bx4OkubKnY",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-23T18:00:00",
+  "duration": "00:00:29",
+  "thumbnail": "https://i.ytimg.com/vi/0bx4OkubKnY/maxresdefault.jpg",
+  "alt": "𝑳𝒐𝒗𝒆, 𝑶𝒏𝒍𝒚 100ML💧💙",
+  "title": "𝑳𝒐𝒗𝒆, 𝑶𝒏𝒍𝒚 100ML💧💙"
+},
+
+{
+  "link": "https://youtu.be/Z5rjUPYfSkU",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-24T18:00:00",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/Z5rjUPYfSkU/maxresdefault.jpg",
+  "alt": "❤️꒰১ ᕱ⑅ᕱ ♡ 𝕄𝕐, 𝕃𝕠𝕧𝕖𝕣 ₊˚˖✧˚.🩵",
+  "title": "❤️꒰১ ᕱ⑅ᕱ ♡ 𝕄𝕐, 𝕃𝕠𝕧𝕖𝕣 ₊˚˖✧˚.🩵"
+},
+
+{
+  "link": "https://youtu.be/f5CQT5t-suM",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-24T18:00:00",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/f5CQT5t-suM/maxresdefault.jpg",
+  "alt": "⋆˚｡ ⋆୨ 𝐋𝐨𝐯𝐞𝐫, 𝐌𝐘 ‎♡ ୧⋆ ˚｡⋆",
+  "title": "⋆˚｡ ⋆୨ 𝐋𝐨𝐯𝐞𝐫, 𝐌𝐘 ‎♡ ୧⋆ ˚｡⋆"
+},
+
+{
+  "link": "https://youtu.be/hjlKNpb_vZA",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-10-24T18:00:00",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/hjlKNpb_vZA/maxresdefault.jpg",
+  "alt": "i-dle (아이들)의 릴레이 엔-팝 패-숀 쑈 | 리미티드 에디숀 사이드-에이",
+  "title": "i-dle (아이들)의 릴레이 엔-팝 패-숀 쑈 | 리미티드 에디숀 사이드-에이"
+},
+
+{
+  "link": "https://youtu.be/3lqa1D2oKu4",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-10-23T18:00:00",
+  "duration": "00:00:57",
+  "thumbnail": "https://i.ytimg.com/vi/3lqa1D2oKu4/maxresdefault.jpg",
+  "alt": "🎂 HAPPY MINNIE DAY 🩷",
+  "title": "🎂 HAPPY MINNIE DAY 🩷"
 }
+
+
+
+
 
 
 

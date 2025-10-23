@@ -10280,7 +10280,44 @@ const officialChannelCards = [
   "alt": "민니 (MINNIE), 우기 (YUQI), 슈화 (SHUHUA) ‘AI SCREAM!’ (원곡 : AiScReam) @ [ 逢い-dle ]",
   "title": "민니 (MINNIE), 우기 (YUQI), 슈화 (SHUHUA) ‘AI SCREAM!’ (원곡 : AiScReam) @ [ 逢い-dle ]",
   "subtag": "커버곡 | Cover"
+},
+{
+  "link": "https://youtu.be/7OJJdO_ZqHg",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-10-20T18:00:00",
+  "duration": "00:01:14",
+  "thumbnail": "https://i.ytimg.com/vi/7OJJdO_ZqHg/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 2nd Mini Album [MY, Lover] Intro Film",
+  "title": "미연 (MIYEON) 2nd Mini Album [MY, Lover] Intro Film",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://youtu.be/2KOJHHfR3Is",
+  "category": "Official_Channel",
+  "member": "민니",
+  "date": "2025-10-23T18:00:00",
+  "duration": "00:11:27",
+  "thumbnail": "https://i.ytimg.com/vi/2KOJHHfR3Is/maxresdefault.jpg",
+  "alt": "🎂 HAPPY MINNIE DAY 🩷 (Feat. 민니의 소소하지만 확실한 생일 브이로그)ㅣSUB",
+  "title": "🎂 HAPPY MINNIE DAY 🩷 (Feat. 민니의 소소하지만 확실한 생일 브이로그)ㅣSUB",
+  "subtag": "스페셜컨텐츠 | Special Content"
+},
+
+{
+  "link": "https://youtu.be/pTafJH7T1GU",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-10-24T18:00:00",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/pTafJH7T1GU/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 'Reno (Feat. Colde)' M/V Teaser 1",
+  "title": "미연 (MIYEON) 'Reno (Feat. Colde)' M/V Teaser 1",
+  "subtag": "프로모션 | Comeback Promotion"
 }
+
+
 
 
 

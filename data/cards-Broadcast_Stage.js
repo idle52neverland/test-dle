@@ -10995,6 +10995,16 @@ const broadcastStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/R4iShh-bPsw/maxresdefault.jpg",
   "alt": "[페이스캠4K] 우기 '아프다' (YUQI 'Gone' FaceCam) @인기가요/Inkigayo",
   "title": "[페이스캠4K] 우기 '아프다' (YUQI 'Gone' FaceCam) @인기가요/Inkigayo"
+},
+{
+  "link": "https://youtu.be/PwwFVIk0PvU",
+  "category": "Broadcast_Stage",
+  "member": "아이들",
+  "date": "2025-10-21T18:00:00",
+  "duration": "00:20:10",
+  "thumbnail": "https://i.ytimg.com/vi/PwwFVIk0PvU/maxresdefault.jpg",
+  "alt": "[#2025MAMA] CHAPTER 1 PERFORMING ARTIST #idle",
+  "title": "[#2025MAMA] CHAPTER 1 PERFORMING ARTIST #idle"
 }
 
 

@@ -3297,7 +3297,42 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/CEHETQ8du34/maxresdefault.jpg",
   "alt": "[JP] [#힙팝프린세스/1회] 타이틀곡 ♬Do my thang (Producer Ver.) | Mnet 251016 방송",
   "title": "[JP] [#힙팝프린세스/1회] 타이틀곡 ♬Do my thang (Producer Ver.) | Mnet 251016 방송"
+},
+
+{
+  "link": "https://youtu.be/oa7rjdy6KFk",
+  "category": "Media_Performance",
+  "member": "아이들",
+  "date": "2025-10-22T18:00:00",
+  "duration": "00:05:16",
+  "thumbnail": "https://i.ytimg.com/vi/oa7rjdy6KFk/maxresdefault.jpg",
+  "alt": "[엔-팝] i-dle (아이들) 'どうしよっかな (Where Do We Go)' | 리미티드 에디숀 사이드-에이",
+  "title": "[엔-팝] i-dle (아이들) 'どうしよっかな (Where Do We Go)' | 리미티드 에디숀 사이드-에이"
+},
+
+{
+  "link": "https://youtu.be/9H_XzmnFcHI",
+  "category": "Media_Performance",
+  "member": "아이들",
+  "date": "2025-10-23T18:00:00",
+  "duration": "00:03:09",
+  "thumbnail": "https://i.ytimg.com/vi/9H_XzmnFcHI/maxresdefault.jpg",
+  "alt": "[미모 집중 카메라] i-dle (아이들) 'どうしよっかな (Where Do We Go)' | 리미티드 에디숀 사이드-에이",
+  "title": "[미모 집중 카메라] i-dle (아이들) 'どうしよっかな (Where Do We Go)' | 리미티드 에디숀 사이드-에이"
+},
+
+{
+  "link": "https://youtu.be/uuBqyBta12o",
+  "category": "Media_Performance",
+  "member": "아이들",
+  "date": "2025-10-23T18:00:00",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/uuBqyBta12o/maxresdefault.jpg",
+  "alt": "[풀-샷] i-dle (아이들) 'どうしよっかな (Where Do We Go)' | 리미티드 에디숀 사이드-에이",
+  "title": "[풀-샷] i-dle (아이들) 'どうしよっかな (Where Do We Go)' | 리미티드 에디숀 사이드-에이"
 }
+
+
 
 
 ];
