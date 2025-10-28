@@ -1079,17 +1079,6 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://youtu.be/XaykABBu-9U",
-  "category": "Media_Content",
-  "member": "소연",
-  "date": "2019-07-22T18:00:00",
-  "duration": "00:02:46",
-  "thumbnail": "https://i.ytimg.com/vi/XaykABBu-9U/sddefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) 소연이랑 소개팅할래? [상상덕후] [ENG SUB]",
-  "title": "(여자)아이들((G)I-DLE) 소연이랑 소개팅할래? [상상덕후] [ENG SUB]"
-},
-
-{
   "link": "https://youtu.be/Mtt9Hoz_o3Q",
   "category": "Media_Content",
   "member": "아이들",
@@ -2281,22 +2270,22 @@ const mediaContentCards = [
   "link": "https://youtu.be/aERXQTIqNWg",
   "category": "Media_Content",
   "member": "미연",
-  "date": "2020-02-23T18:00:00",
+  "date": "2020-02-23T18:00:12",
   "duration": "00:02:09",
   "thumbnail": "https://i.ytimg.com/vi/aERXQTIqNWg/sddefault.jpg",
-  "alt": "[복면가왕] '삶은 달걀'의 상하체 분리 댄스...?! (무아지경...★)",
-  "title": "[복면가왕] '삶은 달걀'의 상하체 분리 댄스...?! (무아지경...★)"
+  "alt": "[복면가왕-미연] '삶은 달걀'의 상하체 분리 댄스...?! (무아지경...★)",
+  "title": "[복면가왕-미연] '삶은 달걀'의 상하체 분리 댄스...?! (무아지경...★)"
 },
 
 {
   "link": "https://youtu.be/-XJttkRMRZA",
   "category": "Media_Content",
   "member": "미연",
-  "date": "2020-02-23T18:00:00",
+  "date": "2020-02-23T18:00:11",
   "duration": "00:04:02",
   "thumbnail": "https://i.ytimg.com/vi/-XJttkRMRZA/sddefault.jpg",
-  "alt": "[복면가왕] ' 사이다 ' vs ' 삶은달걀 ' 1라운드 무대 - 3! 4!",
-  "title": "[복면가왕] ' 사이다 ' vs ' 삶은달걀 ' 1라운드 무대 - 3! 4!"
+  "alt": "[복면가왕-미연] ' 사이다 ' vs ' 삶은달걀 ' 1라운드 무대 - 3! 4!",
+  "title": "[복면가왕-미연] ' 사이다 ' vs ' 삶은달걀 ' 1라운드 무대 - 3! 4!"
 },
 
 {
@@ -2325,22 +2314,22 @@ const mediaContentCards = [
   "link": "https://youtu.be/W8DPUSNNhS4",
   "category": "Media_Content",
   "member": "미연",
-  "date": "2020-03-01T18:00:00",
+  "date": "2020-03-01T18:00:11",
   "duration": "00:03:19",
   "thumbnail": "https://i.ytimg.com/vi/W8DPUSNNhS4/sddefault.jpg",
-  "alt": "[복면가왕] '삶은 달걀' 2라운드 무대 - Good Bye Sadness, Hello Happiness",
-  "title": "[복면가왕] '삶은 달걀' 2라운드 무대 - Good Bye Sadness, Hello Happiness"
+  "alt": "[복면가왕-미연] '삶은 달걀' 2라운드 무대 - Good Bye Sadness, Hello Happiness",
+  "title": "[복면가왕-미연] '삶은 달걀' 2라운드 무대 - Good Bye Sadness, Hello Happiness"
 },
 
 {
   "link": "https://youtu.be/cp5vEqLe__A",
   "category": "Media_Content",
   "member": "미연",
-  "date": "2020-03-01T18:00:00",
+  "date": "2020-03-01T18:00:12",
   "duration": "00:02:10",
   "thumbnail": "https://i.ytimg.com/vi/cp5vEqLe__A/sddefault.jpg",
-  "alt": "[복면가왕] 감동의 음색! '삶은 달걀'의 정체는! 여자아이들 미연!",
-  "title": "[복면가왕] 감동의 음색! '삶은 달걀'의 정체는! 여자아이들 미연!"
+  "alt": "[복면가왕-미연] 감동의 음색! '삶은 달걀'의 정체는! 여자아이들 미연!",
+  "title": "[복면가왕-미연] 감동의 음색! '삶은 달걀'의 정체는! 여자아이들 미연!"
 },
 
 {
@@ -3865,22 +3854,22 @@ const mediaContentCards = [
   "link": "https://youtu.be/5YGUHKzIvqg",
   "category": "Media_Content",
   "member": "우기",
-  "date": "2020-11-01T18:00:00",
+  "date": "2020-11-01T18:00:11",
   "duration": "00:03:03",
   "thumbnail": "https://i.ytimg.com/vi/5YGUHKzIvqg/sddefault.jpg",
-  "alt": "[복면가왕] '파인애플 피자' VS '민트초코'의 1라운드 무대 - 홀로 MBC",
-  "title": "[복면가왕] '파인애플 피자' VS '민트초코'의 1라운드 무대 - 홀로 MBC"
+  "alt": "[복면가왕-우기] '파인애플 피자' VS '민트초코'의 1라운드 무대 - 홀로 MBC",
+  "title": "[복면가왕-우기] '파인애플 피자' VS '민트초코'의 1라운드 무대 - 홀로 MBC"
 },
 
 {
   "link": "https://youtu.be/iTuWmm6dAY4",
   "category": "Media_Content",
   "member": "우기",
-  "date": "2020-11-01T18:00:00",
+  "date": "2020-11-01T18:00:12",
   "duration": "00:04:04",
   "thumbnail": "https://i.ytimg.com/vi/iTuWmm6dAY4/sddefault.jpg",
-  "alt": "[복면가왕] '파인애플 피자'의 정체는 (여자)아이들의 우기♡ MBC",
-  "title": "[복면가왕] '파인애플 피자'의 정체는 (여자)아이들의 우기♡ MBC"
+  "alt": "[복면가왕-우기] '파인애플 피자'의 정체는 (여자)아이들의 우기♡ MBC",
+  "title": "[복면가왕-우기] '파인애플 피자'의 정체는 (여자)아이들의 우기♡ MBC"
 },
 
 {
@@ -3947,17 +3936,6 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/4FPgIBgEJrQ/sddefault.jpg",
   "alt": "[#하이라이트#] 벽 타고 등장한 카리스마 교관들의 존멋 모먼트 (ft.은하&창준 교관 입꼬리 조종자 송우기)#나는살아있다 | I'm a Survivor EP.1",
   "title": "[#하이라이트#] 벽 타고 등장한 카리스마 교관들의 존멋 모먼트 (ft.은하&창준 교관 입꼬리 조종자 송우기)#나는살아있다 | I'm a Survivor EP.1"
-},
-
-{
-  "link": "https://youtu.be/5z71ZqrChJA",
-  "category": "Media_Content",
-  "member": "우기",
-  "date": "2020-11-07T18:00:00",
-  "duration": "00:05:34",
-  "thumbnail": "https://i.ytimg.com/vi/5z71ZqrChJA/sddefault.jpg",
-  "alt": "#우기 (여자)아이들((G)I-DLE) | 비주얼도 맞고 댄스도 맞는데 보컬입니다~ 복면가왕 우기 모음집 宋雨琦 YUQI | | 복면가왕 #TVPP",
-  "title": "#우기 (여자)아이들((G)I-DLE) | 비주얼도 맞고 댄스도 맞는데 보컬입니다~ 복면가왕 우기 모음집 宋雨琦 YUQI | | 복면가왕 #TVPP"
 },
 
 {
@@ -5031,22 +5009,22 @@ const mediaContentCards = [
   "link": "https://youtu.be/w6osFRgF9gg",
   "category": "Media_Content",
   "member": "민니",
-  "date": "2021-02-21T18:00:00",
+  "date": "2021-02-21T18:00:12",
   "duration": "00:02:07",
   "thumbnail": "https://i.ytimg.com/vi/w6osFRgF9gg/sddefault.jpg",
-  "alt": "[복면가왕] 꼬막의 매력 넘치는 댄스?! 아이유의 ＜좋은 날＞ 댄스 커버♬",
-  "title": "[복면가왕] 꼬막의 매력 넘치는 댄스?! 아이유의 ＜좋은 날＞ 댄스 커버♬ | 복면가왕 |"
+  "alt": "[복면가왕-민니] 꼬막의 매력 넘치는 댄스?! 아이유의 ＜좋은 날＞ 댄스 커버♬",
+  "title": "[복면가왕-민니] 꼬막의 매력 넘치는 댄스?! 아이유의 ＜좋은 날＞ 댄스 커버♬ | 복면가왕 |"
 },
 
 {
   "link": "https://youtu.be/nI9f3p-B3JA",
   "category": "Media_Content",
   "member": "민니",
-  "date": "2021-02-21T18:00:00",
+  "date": "2021-02-21T18:00:11",
   "duration": "00:03:11",
   "thumbnail": "https://i.ytimg.com/vi/nI9f3p-B3JA/sddefault.jpg",
-  "alt": "'꼬막' VS '바지락'의 1라운드 무대 - 눈",
-  "title": "꼬막' VS '바지락'의 1라운드 무대 - 눈 | 복면가왕 |"
+  "alt": "[복면가왕-민니] '꼬막' VS '바지락'의 1라운드 무대 - 눈",
+  "title": "[복면가왕-민니] '꼬막' VS '바지락'의 1라운드 무대 - 눈"
 },
 
 {
@@ -5119,22 +5097,22 @@ const mediaContentCards = [
   "link": "https://youtu.be/bDOQCacpnug",
   "category": "Media_Content",
   "member": "민니",
-  "date": "2021-02-28T18:00:00",
+  "date": "2021-02-28T18:00:11",
   "duration": "00:03:10",
   "thumbnail": "https://i.ytimg.com/vi/bDOQCacpnug/sddefault.jpg",
-  "alt": "'꼬막' 2라운드 무대 - D (HALF MOON), MBC",
-  "title": "'민니- 꼬막' 2라운드 무대 - D (HALF MOON) | 복면가왕 |"
+  "alt": "[복면가왕-민니] '꼬막' 2라운드 무대 - D (HALF MOON)",
+  "title": "[복면가왕-민니] '꼬막' 2라운드 무대 - D (HALF MOON)"
 },
 
 {
   "link": "https://youtu.be/uIDi4kk6CVY",
   "category": "Media_Content",
   "member": "민니",
-  "date": "2021-02-28T18:00:00",
+  "date": "2021-02-28T18:00:12",
   "duration": "00:02:43",
   "thumbnail": "https://i.ytimg.com/vi/uIDi4kk6CVY/sddefault.jpg",
-  "alt": "'꼬막'의 정체는 (여자)아이들의 메인 보컬 민니!",
-  "title": "'꼬막'의 정체는 (여자)아이들의 메인 보컬 민니! | 복면가왕 |"
+  "alt": "[복면가왕-민니] '꼬막'의 정체는 (여자)아이들의 메인 보컬 민니!",
+  "title": "[복면가왕-민니] '꼬막'의 정체는 (여자)아이들의 메인 보컬 민니!"
 },
 
 {
@@ -6794,8 +6772,8 @@ const mediaContentCards = [
   "date": "2022-04-01T18:00:00",
   "duration": "01:05:38",
   "thumbnail": "https://i.ytimg.com/vi/c8780vEbx1k/hqdefault.jpg",
-  "alt": "[마인드셋] MINNIE x Mindset Ep.0-8 Full ver.",
-  "title": "[마인드셋] MINNIE x Mindset Ep.0-8 Full ver."
+  "alt": "[ENG] Mindset (마인드셋) | MINNIE Ep.0–8",
+  "title": "[ENG] Mindset (마인드셋) | MINNIE Ep.0–8"
 },
 
 {
@@ -7520,8 +7498,8 @@ const mediaContentCards = [
   "date": "2022-07-29T18:00:00",
   "duration": "01:26:36",
   "thumbnail": "https://i.ytimg.com/vi/srJWnrV_6bw/hqdefault.jpg",
-  "alt": "[마인드셋] SOYEON x Mindset Ep.0-8 Full ver.",
-  "title": "[마인드셋] SOYEON x Mindset Ep.0-8 Full ver."
+  "alt": "[ENG] Mindset (마인드셋) | SOYEON Ep.0–8",
+  "title": "[ENG] Mindset (마인드셋) | SOYEON Ep.0–8"
 },
 
 {
@@ -8796,8 +8774,8 @@ const mediaContentCards = [
   "date": "2023-04-14T18:00:00",
   "duration": "00:42:51",
   "thumbnail": "https://i.ytimg.com/vi/ipoZi84MvCM/hqdefault.jpg",
-  "alt": "[마인드셋] SHUHUA x Mindset Ep.0-6 Full ver.",
-  "title": "[마인드셋] SHUHUA x Mindset Ep.0-6 Full ver."
+  "alt": "[ENG] Mindset (마인드셋) | SHUHUA Ep.0–6",
+  "title": "[ENG] Mindset (마인드셋) | SHUHUA Ep.0–6"
 },
 
 {
@@ -10446,8 +10424,8 @@ const mediaContentCards = [
   "date": "2024-03-15T18:00:00",
   "duration": "01:03:07",
   "thumbnail": "https://i.ytimg.com/vi/FcaH7yrYWgY/hqdefault.jpg",
-  "alt": "[마인드셋] YUQI x Mindset Ep. 0-6 Full ver.",
-  "title": "[마인드셋] YUQI x Mindset Ep. 0-6 Full ver."
+  "alt": "[ENG] Mindset (마인드셋) | YUQI Ep.0–6",
+  "title": "[ENG] Mindset (마인드셋) | YUQI Ep.0–6"
 },
 
 {
@@ -11073,8 +11051,8 @@ const mediaContentCards = [
   "date": "2024-09-02T18:00:00",
   "duration": "00:53:10",
   "thumbnail": "https://i.ytimg.com/vi/O2QV5HM8SYw/hqdefault.jpg",
-  "alt": "[마인드셋] MIYEON x Mindset Ep. 0-6 Full ver.",
-  "title": "[마인드셋] MIYEON x Mindset Ep. 0-6 Full ver."
+  "alt": "[ENG] Mindset (마인드셋) | MIYEON Ep.0–6",
+  "title": "[ENG] Mindset (마인드셋) | MIYEON Ep.0–6"
 },
 
 {
@@ -14830,8 +14808,77 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/pySD0POVCVA/maxresdefault.jpg",
   "alt": "중앙일보 창간 60주년 글로벌 미디어 컨퍼런스 스피치 소연",
   "title": "중앙일보 창간 60주년 글로벌 미디어 컨퍼런스 스피치 소연"
+},
+{
+  "link": "https://youtu.be/ZHhjpO4E3Vg",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-10-22T18:00:00",
+  "duration": "00:23:25",
+  "thumbnail": "https://i.ytimg.com/vi/ZHhjpO4E3Vg/maxresdefault.jpg",
+  "alt": "[SUB] 這就是鑑定師式約會？！9m88 和 i-dle 舒華在遊戲場擦出曖昧火花💓 | 鑑定師 Global EP.7 | i-dle 舒華 #감별사",
+  "title": "[SUB] 這就是鑑定師式約會？！9m88 和 i-dle 舒華在遊戲場擦出曖昧火花💓 | 鑑定師 Global EP.7 | i-dle 舒華 #감별사"
+},
+{
+  "link": "https://youtu.be/vHgfAIAa_X4",
+  "category": "Media_Performance",
+  "member": "소연",
+  "date": "2022-05-14T18:00:00",
+  "duration": "00:12:26",
+  "thumbnail": "https://i.ytimg.com/vi/vHgfAIAa_X4/sddefault.jpg",
+  "alt": "[복면가왕-소연] TV📺소리 듣고 땃쥐나오네~하고 봤는데 가면 쓰고 있는 mood.. 1초만 들어도 울 소연이❤️ㅣ#소연 #여자아이들 #복면가왕 #엠뚜루마뚜루 MBC방송",
+  "title": "[복면가왕-소연] TV📺소리 듣고 땃쥐나오네~하고 봤는데 가면 쓰고 있는 mood.. 1초만 들어도 울 소연이❤️ㅣ#소연 #여자아이들 #복면가왕 #엠뚜루마뚜루 MBC방송"
+},
+{
+  "link": "https://youtu.be/uU-7By1aA9o",
+  "category": "Media_Performance",
+  "member": "미연, 민니, 우기",
+  "date": "2022-03-09T18:00:00",
+  "duration": "00:24:58",
+  "thumbnail": "https://i.ytimg.com/vi/uU-7By1aA9o/sddefault.jpg",
+  "alt": "(여자)아이들 보컬 미연X우기X민니 복면가왕 모음💝 단체 무대도 사랑하지만 솔로도 사랑해💓 보컬 실력 NEVER DIE❗️｜복면가왕",
+  "title": "(여자)아이들 보컬 미연X우기X민니 복면가왕 모음💝 단체 무대도 사랑하지만 솔로도 사랑해💓 보컬 실력 NEVER DIE❗️｜복면가왕"
+},
+{
+  "link": "https://youtu.be/pxRF1UIQfCA",
+  "category": "Media_Content",
+  "member": "소연",
+  "date": "2022-05-01T18:00:11",
+  "duration": "00:03:39",
+  "thumbnail": "https://i.ytimg.com/vi/pxRF1UIQfCA/maxresdefault.jpg",
+  "alt": "[복면가왕-소연] '휘파람' VS '꽃바람'의 1라운드 무대 - UGLY",
+  "title": "[복면가왕-소연] '휘파람' VS '꽃바람'의 1라운드 무대 - UGLY"
+},
+{
+  "link": "https://youtu.be/9aIadM6CQBk",
+  "category": "Media_Content",
+  "member": "소연",
+  "date": "2022-05-01T18:00:12",
+  "duration": "00:01:30",
+  "thumbnail": "https://i.ytimg.com/vi/9aIadM6CQBk/maxresdefault.jpg",
+  "alt": "[복면가왕-소연] 봄을 맞아 춤바람 단단히 난 '꽃바람'!🌻 ＜꽃바람 여인＞에 맞춰 휘몰아치는 댄스💃",
+  "title": "[복면가왕-소연] 봄을 맞아 춤바람 단단히 난 '꽃바람'!🌻 ＜꽃바람 여인＞에 맞춰 휘몰아치는 댄스💃"
+},
+{
+  "link": "https://youtu.be/QOr5FxnHKiA",
+  "category": "Media_Content",
+  "member": "소연",
+  "date": "2022-05-08T18:00:11",
+  "duration": "00:03:40",
+  "thumbnail": "https://i.ytimg.com/vi/QOr5FxnHKiA/maxresdefault.jpg",
+  "alt": "[복면가왕-소연] '꽃바람' 2라운드 무대 - 뻔한 멜로디",
+  "title": "[복면가왕-소연] '꽃바람' 2라운드 무대 - 뻔한 멜로디"
+},
+{
+  "link": "https://youtu.be/4LYp6uW8HQw",
+  "category": "Media_Content",
+  "member": "소연",
+  "date": "2022-05-08T18:00:12",
+  "duration": "00:03:22",
+  "thumbnail": "https://i.ytimg.com/vi/4LYp6uW8HQw/maxresdefault.jpg",
+  "alt": "[복면가왕-소연] '꽃바람'의 정체는 (여자)아이들의 리더 소연!",
+  "title": "[복면가왕-소연] '꽃바람'의 정체는 (여자)아이들의 리더 소연!"
 }
-
 
 
 

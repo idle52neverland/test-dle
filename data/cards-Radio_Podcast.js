@@ -62,8 +62,8 @@ const radioPodcastCards = [
   "date": "2020-04-21T18:00:00",
   "duration": "00:33:34",
   "thumbnail": "https://i.ytimg.com/vi/_n7d83zyV4Y/sddefault.jpg",
-  "alt": "[최파타]🎊 Oh my god 첫 그랜드슬램 🎊달성한(여자)아이들((G)I-DLE) | 보는 라디오 Full ver.│ (광고, 음악삭제)",
-  "title": "[최파타]🎊 Oh my god 첫 그랜드슬램 🎊달성한(여자)아이들((G)I-DLE) | 보는 라디오 Full ver.│ (광고, 음악삭제)"
+  "alt": "[최파타]🎊 Oh my god 첫 그랜드슬램 🎊달성한(여자)아이들((G)I-DLE) | 최화정의 파워타임│ (광고, 음악삭제)",
+  "title": "[최파타]🎊 Oh my god 첫 그랜드슬램 🎊달성한(여자)아이들((G)I-DLE) | 최화정의 파워타임│ (광고, 음악삭제)"
 },
 
 {
@@ -75,17 +75,6 @@ const radioPodcastCards = [
   "thumbnail": "https://i.ytimg.com/vi/zEmJahH-WRw/sddefault.jpg",
   "alt": "[박소현의 러브게임] 🌟에라오 단독공개🌟(여자)아이들((G)I-DLE) 수진(Soojin), 소연(Soyeon) | K-pop special",
   "title": "[박소현의 러브게임] 🌟에라오 단독공개🌟(여자)아이들((G)I-DLE) 수진(Soojin), 소연(Soyeon) | K-pop special"
-},
-
-{
-  "link": "https://youtu.be/GPMvdjNSO-c",
-  "category": "Radio_Podcast",
-  "member": "아이들",
-  "date": "2020-08-10T18:00:00",
-  "duration": "00:09:26",
-  "thumbnail": "https://i.ytimg.com/vi/GPMvdjNSO-c/sddefault.jpg",
-  "alt": "🌼(여자)아이들🌼 이준의 영스트리트",
-  "title": "🌼(여자)아이들🌼 이준의 영스트리트"
 },
 
 {
@@ -103,33 +92,11 @@ const radioPodcastCards = [
   "link": "https://youtu.be/-nuwY7zCK-k",
   "category": "Radio_Podcast",
   "member": "아이들",
-  "date": "2020-08-22T18:00:00",
+  "date": "2020-08-21T18:00:00",
   "duration": "00:33:54",
   "thumbnail": "https://i.ytimg.com/vi/-nuwY7zCK-k/sddefault.jpg",
   "alt": "키스 더 음감회 with (여자)아이들((G)I-DLE) full ver. /[박원의 키스 더 라디오]",
   "title": "키스 더 음감회 with (여자)아이들((G)I-DLE) full ver. /[박원의 키스 더 라디오]"
-},
-
-{
-  "link": "https://youtu.be/4bP4RZhTCq8",
-  "category": "Radio_Podcast",
-  "member": "아이들",
-  "date": "2021-01-05",
-  "duration": "01:13:44",
-  "thumbnail": "https://i.ytimg.com/vi/4bP4RZhTCq8/maxresdefault.jpg",
-  "alt": "🔥3부작🔥 소문의 아이들 Part.1 너네 소문 들었어? 여자아이들이 NOW에 왔대!",
-  "title": "🔥3부작🔥 소문의 아이들 Part.1 너네 소문 들었어? 여자아이들이 NOW에 왔대!"
-},
-
-{
-  "link": "https://youtu.be/uqB-O6fMx3g",
-  "category": "Radio_Podcast",
-  "member": "아이들",
-  "date": "2021-01-12",
-  "duration": "01:27:36",
-  "thumbnail": "https://i.ytimg.com/vi/uqB-O6fMx3g/maxresdefault.jpg",
-  "alt": "🔥3부작🔥 소문의 아이들 Part.2 너네 소문 들었지? (여자)아이들의 컴백 PARTY NOW",
-  "title": "🔥3부작🔥 소문의 아이들 Part.2 너네 소문 들었지? (여자)아이들의 컴백 PARTY NOW"
 },
 
 {
@@ -155,21 +122,10 @@ const radioPodcastCards = [
 },
 
 {
-  "link": "https://youtu.be/JMz1m-6WVmc",
-  "category": "Radio_Podcast",
-  "member": "아이들",
-  "date": "2021-01-19",
-  "duration": "01:20:09",
-  "thumbnail": "https://i.ytimg.com/vi/JMz1m-6WVmc/maxresdefault.jpg",
-  "alt": "🔥3부작🔥 소문의 아이들 Part.3 오늘 같이 열어볼까? (여자)아이들과 소문의 빨간 캐비넷!",
-  "title": "🔥3부작🔥 소문의 아이들 Part.3 오늘 같이 열어볼까? (여자)아이들과 소문의 빨간 캐비넷!"
-},
-
-{
   "link": "https://youtu.be/jwWoos-T5aE",
   "category": "Radio_Podcast",
   "member": "아이들",
-  "date": "2021-01-25T18:00:00",
+  "date": "2021-01-22T18:00:00",
   "duration": "00:33:05",
   "thumbnail": "https://i.ytimg.com/vi/jwWoos-T5aE/sddefault.jpg",
   "alt": "[FULL] 1위하고 달려온 (여자)아이들((G)I-DLE))🎉 보는 라디오 | 이준의 영스트리트 | (광고, 음악삭제)",
@@ -1005,11 +961,11 @@ const radioPodcastCards = [
   "link": "https://youtu.be/qdYeb4z_F-Y",
   "category": "Radio_Podcast",
   "member": "민니, 우기",
-  "date": "2022-04-19T18:00:00",
+  "date": "2022-04-18T18:00:00",
   "duration": "01:17:08",
   "thumbnail": "https://i.ytimg.com/vi/qdYeb4z_F-Y/sddefault.jpg",
-  "alt": "[Full ver.] 펜타곤 신원이 아이들 민니&우기한테 소리지른 사연ㅋㅋㅋ l 나잇투밋츄 w.(여자)아이들 민니&우기",
-  "title": "[Full ver.] 펜타곤 신원이 아이들 민니&우기한테 소리지른 사연ㅋㅋㅋ l 나잇투밋츄 w.(여자)아이들 민니&우기"
+  "alt": "[Full ver.] 펜타곤 신원이 아이들 민니&우기한테 소리지른 사연ㅋㅋㅋ l 나잇투밋츄 w.(여자)아이들 민니&우기 #펜타곤의 밤의 라디오",
+  "title": "[Full ver.] 펜타곤 신원이 아이들 민니&우기한테 소리지른 사연ㅋㅋㅋ l 나잇투밋츄 w.(여자)아이들 민니&우기 #펜타곤의 밤의 라디오"
 },
 
 {
@@ -1280,7 +1236,7 @@ const radioPodcastCards = [
   "link": "https://youtu.be/AgXZkCieP50",
   "category": "Radio_Podcast",
   "member": "아이들",
-  "date": "2022-10-25T18:00:00",
+  "date": "2022-10-24T18:00:00",
   "duration": "00:40:03",
   "thumbnail": "https://i.ytimg.com/vi/AgXZkCieP50/sddefault.jpg",
   "alt": "볼륨 초대석 : 왔어요 with (여자)아이들 ((G)I-DLE) full ver./ [헤이즈의 볼륨을 높여요] I KBS 방송",

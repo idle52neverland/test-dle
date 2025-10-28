@@ -2117,6 +2117,83 @@ const interviewsCards = [
   "thumbnail": "https://i.ytimg.com/vi/W59VCFYAzrg/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" ONLINE MEDIA SHOWCASE",
   "title": "(여자)아이들((G)I-DLE) - 3rd Mini Album \"I trust\" ONLINE MEDIA SHOWCASE"
+},
+
+{
+  "link": "https://youtu.be/LTHhmDVJcLE",
+  "category": "Interviews",
+  "member": "아이들",
+  "date": "2019-07-04T18:00:00",
+  "duration": "00:02:28",
+  "thumbnail": "https://i.ytimg.com/vi/LTHhmDVJcLE/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE)과 소개팅 EPISODE.질문 고르기 [ENG SUB]",
+  "title": "(여자)아이들((G)I-DLE)과 소개팅 EPISODE.질문 고르기 [ENG SUB]"
+},
+
+{
+  "link": "https://youtu.be/d0Lu9bagzoE",
+  "category": "Interviews",
+  "member": "미연",
+  "date": "2019-07-16T18:00:00",
+  "duration": "00:03:20",
+  "thumbnail": "https://i.ytimg.com/vi/d0Lu9bagzoE/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) 미연이랑 소개팅할래? [상상덕후] [ENG SUB]",
+  "title": "(여자)아이들((G)I-DLE) 미연이랑 소개팅할래? [상상덕후] [ENG SUB]"
+},
+
+{
+  "link": "https://youtu.be/hB-kE0UOMbU",
+  "category": "Interviews",
+  "member": "민니",
+  "date": "2019-07-18T18:00:00",
+  "duration": "00:03:29",
+  "thumbnail": "https://i.ytimg.com/vi/hB-kE0UOMbU/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) 민니랑 소개팅할래? [상상덕후] [ENG SUB]",
+  "title": "(여자)아이들((G)I-DLE) 민니랑 소개팅할래? [상상덕후] [ENG SUB]"
+},
+
+{
+  "link": "https://youtu.be/p5Qe_rVclnA",
+  "category": "Interviews",
+  "member": "",
+  "date": "2019-07-20T18:00:00",
+  "duration": "00:02:50",
+  "thumbnail": "https://i.ytimg.com/vi/p5Qe_rVclnA/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) 수진이랑 소개팅할래? [상상덕후] [ENG SUB]",
+  "title": "(여자)아이들((G)I-DLE) 수진이랑 소개팅할래? [상상덕후] [ENG SUB]"
+},
+
+{
+  "link": "https://youtu.be/XaykABBu-9U",
+  "category": "Interviews",
+  "member": "소연",
+  "date": "2019-07-22T18:00:00",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/XaykABBu-9U/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) 소연이랑 소개팅할래? [상상덕후] [ENG SUB]",
+  "title": "(여자)아이들((G)I-DLE) 소연이랑 소개팅할래? [상상덕후] [ENG SUB]"
+},
+
+{
+  "link": "https://youtu.be/YFrAmEN5gf8",
+  "category": "Interviews",
+  "member": "우기",
+  "date": "2019-07-25T18:00:00",
+  "duration": "00:03:12",
+  "thumbnail": "https://i.ytimg.com/vi/YFrAmEN5gf8/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) 우기랑 소개팅할래? [상상덕후] [ENG SUB]",
+  "title": "(여자)아이들((G)I-DLE) 우기랑 소개팅할래? [상상덕후] [ENG SUB]"
+},
+
+{
+  "link": "https://youtu.be/kdp7gi6-LfU",
+  "category": "Interviews",
+  "member": "슈화",
+  "date": "2019-07-27T18:00:00",
+  "duration": "00:02:29",
+  "thumbnail": "https://i.ytimg.com/vi/kdp7gi6-LfU/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) 슈화랑 소개팅할래? [상상덕후] [ENG SUB]",
+  "title": "(여자)아이들((G)I-DLE) 슈화랑 소개팅할래? [상상덕후] [ENG SUB]"
 }
 
 

@@ -763,7 +763,7 @@ const mediaPerformanceCards = [
   "link": "https://youtu.be/SC2A-r8Hyj0",
   "category": "Media_Performance",
   "member": "아이들",
-  "date": "2020-08-22T18:00:00",
+  "date": "2020-08-21T18:00:00",
   "duration": "00:03:40",
   "thumbnail": "https://i.ytimg.com/vi/SC2A-r8Hyj0/sddefault.jpg",
   "alt": "쿨룩 LIVE ▷(여자)아이들((G)I-DLE) '덤디덤디'(DUMDi DUMDi)/[박원의 키스 더 라디오]",
@@ -1387,17 +1387,6 @@ const mediaPerformanceCards = [
 },
 
 {
-  "link": "https://youtu.be/uU-7By1aA9o",
-  "category": "Media_Performance",
-  "member": "미연, 민니, 우기",
-  "date": "2022-03-09T18:00:00",
-  "duration": "00:24:58",
-  "thumbnail": "https://i.ytimg.com/vi/uU-7By1aA9o/sddefault.jpg",
-  "alt": "【로켓피플】 (여자)아이들 보컬 미연X우기X민니 복면가왕 모음💝 단체 무대도 사랑하지만 솔로도 사랑해💓 보컬 실력 NEVER DIE❗️｜복면가왕",
-  "title": "【로켓피플】 (여자)아이들 보컬 미연X우기X민니 복면가왕 모음💝 단체 무대도 사랑하지만 솔로도 사랑해💓 보컬 실력 NEVER DIE❗️｜복면가왕"
-},
-
-{
   "link": "https://youtu.be/RSa6WoKk0GI",
   "category": "Media_Performance",
   "member": "아이들",
@@ -1670,17 +1659,6 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/4XopixBylh8/sddefault.jpg",
   "alt": "[리무진서비스] EP12. (여자)아이들 우기 | (G)I-DLE YUQI | TOMBOY, Thinking 'Bout You, 그때 그 아인, 1,2,3,4",
   "title": "[리무진서비스] EP12. (여자)아이들 우기 | (G)I-DLE YUQI | TOMBOY, Thinking 'Bout You, 그때 그 아인, 1,2,3,4"
-},
-
-{
-  "link": "https://youtu.be/vHgfAIAa_X4",
-  "category": "Media_Performance",
-  "member": "소연",
-  "date": "2022-05-14T18:00:00",
-  "duration": "00:12:26",
-  "thumbnail": "https://i.ytimg.com/vi/vHgfAIAa_X4/sddefault.jpg",
-  "alt": "[복면가왕] TV📺소리 듣고 땃쥐나오네~하고 봤는데 가면 쓰고 있는 mood.. 1초만 들어도 울 소연이❤️ㅣ#소연 #여자아이들 #복면가왕 #엠뚜루마뚜루 MBC방송",
-  "title": "[복면가왕] TV📺소리 듣고 땃쥐나오네~하고 봤는데 가면 쓰고 있는 mood.. 1초만 들어도 울 소연이❤️ㅣ#소연 #여자아이들 #복면가왕 #엠뚜루마뚜루 MBC방송"
 },
 
 {

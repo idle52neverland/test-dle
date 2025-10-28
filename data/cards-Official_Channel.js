@@ -2758,7 +2758,7 @@ const officialChannelCards = [
   "thumbnail": "https://i.ytimg.com/vi/vu16GWI3WMQ/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 🎄Merry Christmas Carol Handbell Medley🔔🎶",
   "title": "(여자)아이들((G)I-DLE) - 🎄Merry Christmas Carol Handbell Medley🔔🎶",
-  "subtag": "퍼포먼스 | Performance"
+  "subtag": "스페셜컨텐츠 | Special Content"
 },
 
 {

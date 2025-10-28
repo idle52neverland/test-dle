@@ -868,6 +868,16 @@ const etcCards = [
   "title": "[17:23~]I Surprised 5 Kpop Groups in ONE COLOR!"
 },
 {
+  "link": "https://youtu.be/LW-e35NjY4A",
+  "category": "Etc",
+  "member": "우기",
+  "date": "2025-10-22T18:00:00",
+  "duration": "00:23:08",
+  "thumbnail": "https://i.ytimg.com/vi/LW-e35NjY4A/maxresdefault.jpg",
+  "alt": "[11:38~] 장우영 〈장비지〉 EP.11 | 아주 타이트하게 꽉 찬 활동을 하고 있구나 ('Think Too Much' 활동 비하인드) (EN/JP/TH/CN)",
+  "title": "[11:38~] 장우영 〈장비지〉 EP.11 | 아주 타이트하게 꽉 찬 활동을 하고 있구나 ('Think Too Much' 활동 비하인드) (EN/JP/TH/CN)"
+},
+{
   "link": "https://youtu.be/BgQcO_EJEfk",
   "category": "Etc",
   "member": "소연",
