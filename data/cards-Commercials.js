@@ -1197,6 +1197,16 @@ const commercialsCards = [
   "thumbnail": "https://i.ytimg.com/vi/SnQ6GcKn__8/sddefault.jpg",
   "alt": "𝙎𝙆𝙀𝘾𝙃𝙀𝙍𝙎 𝙭 𝙎𝙃𝙐𝙃𝙐𝘼 「我的舒式主場」 GO WALK 8 升級上市",
   "title": "𝙎𝙆𝙀𝘾𝙃𝙀𝙍𝙎 𝙭 𝙎𝙃𝙐𝙃𝙐𝘼 「我的舒式主場」 GO WALK 8 升級上市"
+},
+{
+  "link": "https://youtu.be/H3lS5Xfst40",
+  "category": "Commercials",
+  "member": "소연",
+  "date": "2025-10-30T18:00:00",
+  "duration": "00:01:48",
+  "thumbnail": "https://i.ytimg.com/vi/H3lS5Xfst40/maxresdefault.jpg",
+  "alt": "[4K] 소연, 시크하게 도도하게🖤 아이들 리더다운 포스~ | i-dle SOYEON 어그 포토콜",
+  "title": "[4K] 소연, 시크하게 도도하게🖤 아이들 리더다운 포스~ | i-dle SOYEON 어그 포토콜"
 }
 
 

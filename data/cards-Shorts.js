@@ -16259,17 +16259,248 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/3lqa1D2oKu4/maxresdefault.jpg",
   "alt": "🎂 HAPPY MINNIE DAY 🩷",
   "title": "🎂 HAPPY MINNIE DAY 🩷"
+},
+{
+  "link": "https://youtu.be/xxyYv4Aedo0",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-10-24T18:00:00",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/xxyYv4Aedo0/maxresdefault.jpg",
+  "alt": "아이들과 함께 박자에 맞춰 손가락을 움직여보세요 ~(⁰▿⁰)~♬⊹",
+  "title": "아이들과 함께 박자에 맞춰 손가락을 움직여보세요 ~(⁰▿⁰)~♬⊹"
+},
+
+{
+  "link": "https://youtu.be/fmYqi7K9xUU",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-10-24T18:00:00",
+  "duration": "00:00:54",
+  "thumbnail": "https://i.ytimg.com/vi/fmYqi7K9xUU/maxresdefault.jpg",
+  "alt": "[비하인드] 그때 그 시절, 추억의 촬영 현장 스켓-치 (하지만 in 2025) 🎞️",
+  "title": "[비하인드] 그때 그 시절, 추억의 촬영 현장 스켓-치 (하지만 in 2025) 🎞️"
+},
+
+{
+  "link": "https://youtu.be/9sfyqDnyA6Q",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-10-24T18:00:00",
+  "duration": "00:01:10",
+  "thumbnail": "https://i.ytimg.com/vi/9sfyqDnyA6Q/maxresdefault.jpg",
+  "alt": "[비하인드] 1980s 청춘의 아이콘과 2020s 청춘 아이돌의 만남",
+  "title": "[비하인드] 1980s 청춘의 아이콘과 2020s 청춘 아이돌의 만남"
+},
+
+{
+  "link": "https://youtu.be/XfuddKaziLA",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-28T18:00:00",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/XfuddKaziLA/maxresdefault.jpg",
+  "alt": "그의 마지막 사랑이 될 사람 나야",
+  "title": "그의 마지막 사랑이 될 사람 나야"
+},
+
+{
+  "link": "https://youtu.be/gI62O3ueVGA",
+  "category": "Shorts",
+  "member": "미연, 민니",
+  "date": "2025-10-28T18:00:00",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/gI62O3ueVGA/maxresdefault.jpg",
+  "alt": "그녀의 마지막 사랑을 Get ❤️‍🔥 with #민니 #MINNIE",
+  "title": "그녀의 마지막 사랑을 Get ❤️‍🔥 with #민니 #MINNIE"
+},
+
+{
+  "link": "https://youtu.be/E3lB-_HAAZU",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-29T18:00:00",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/E3lB-_HAAZU/maxresdefault.jpg",
+  "alt": "[it's Live] COMING UP NEXT ❤️ #미연 #잇츠라이브",
+  "title": "[it's Live] COMING UP NEXT ❤️ #미연 #잇츠라이브"
+},
+
+{
+  "link": "https://youtu.be/j4TpibhSkJY",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-29T18:00:00",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/j4TpibhSkJY/maxresdefault.jpg",
+  "alt": "이 맘은 𝐍𝐨𝐭 𝐚 𝐜𝐫𝐢𝐦𝐞",
+  "title": "이 맘은 𝐍𝐨𝐭 𝐚 𝐜𝐫𝐢𝐦𝐞"
+},
+
+{
+  "link": "https://youtu.be/fUv3vjgMaS4",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-29T18:00:00",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/fUv3vjgMaS4/maxresdefault.jpg",
+  "alt": "𝑺𝒐𝒎𝒆 𝒎𝒐𝒎𝒆𝒏𝒕𝒔 𝒓𝒆𝒎𝒂𝒊𝒏 𝒗𝒊𝒗𝒊𝒅",
+  "title": "𝑺𝒐𝒎𝒆 𝒎𝒐𝒎𝒆𝒏𝒕𝒔 𝒓𝒆𝒎𝒂𝒊𝒏 𝒗𝒊𝒗𝒊𝒅"
+},
+
+{
+  "link": "https://youtu.be/m6gReEjE2zI",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-29T18:00:00",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/m6gReEjE2zI/maxresdefault.jpg",
+  "alt": "난 무결해 𝐋𝐨𝐯𝐞’𝐬 𝐥𝐢𝐤𝐞 𝐯𝐞𝐧𝐨𝐦",
+  "title": "난 무결해 𝐋𝐨𝐯𝐞’𝐬 𝐥𝐢𝐤𝐞 𝐯𝐞𝐧𝐨𝐦"
+},
+
+{
+  "link": "https://youtu.be/_tQyCaV-ZmY",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-29T18:00:00",
+  "duration": "00:00:48",
+  "thumbnail": "https://i.ytimg.com/vi/_tQyCaV-ZmY/maxresdefault.jpg",
+  "alt": "오늘 라이브도 잘해보자! 응💞응🐇응🍀 | it's Live #미연 #잇츠라이브",
+  "title": "오늘 라이브도 잘해보자! 응💞응🐇응🍀 | it's Live #미연 #잇츠라이브"
+},
+
+{
+  "link": "https://youtu.be/0Qm9FjxAxXw",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-29T18:00:00",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/0Qm9FjxAxXw/maxresdefault.jpg",
+  "alt": "미연의 마지막 사랑이 될 사람? 저요 저요 제발 저요 제가 아니면 안 돼요✋ | it's Live #미연 #잇츠라이브",
+  "title": "미연의 마지막 사랑이 될 사람? 저요 저요 제발 저요 제가 아니면 안 돼요✋ | it's Live #미연 #잇츠라이브"
+},
+
+{
+  "link": "https://youtu.be/8o82BAhWA_k",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-29T18:00:00",
+  "duration": "00:00:22",
+  "thumbnail": "https://i.ytimg.com/vi/8o82BAhWA_k/maxresdefault.jpg",
+  "alt": "[it’s CAM] 미연 퇴근해보겠습니다! | it's Live #MIYEON #잇츠라이브",
+  "title": "[it’s CAM] 미연 퇴근해보겠습니다! | it's Live #MIYEON #잇츠라이브"
+},
+
+{
+  "link": "https://youtu.be/7__0VKA83t0",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-29T18:00:00",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/7__0VKA83t0/maxresdefault.jpg",
+  "alt": "RAM PANG PANG❤️‍🔥 with 아이들 #미연 선배님과 함께 @official_i_dle  #ANGELNOISE #엔젤노이즈 #idle #아이들  ♡#miyeon",
+  "title": "RAM PANG PANG❤️‍🔥 with 아이들 #미연 선배님과 함께 @official_i_dle  #ANGELNOISE #엔젤노이즈 #idle #아이들  ♡#miyeon"
+},
+
+{
+  "link": "https://youtu.be/HA9g8juXo34",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-30T18:00:00",
+  "duration": "00:00:47",
+  "thumbnail": "https://i.ytimg.com/vi/HA9g8juXo34/maxresdefault.jpg",
+  "alt": "𝓡𝓪𝓲𝓷 𝓭𝓸𝔀𝓷 𝓲𝓷 𝓡𝓮𝓷𝓸",
+  "title": "𝓡𝓪𝓲𝓷 𝓭𝓸𝔀𝓷 𝓲𝓷 𝓡𝓮𝓷𝓸"
+},
+
+{
+  "link": "https://youtu.be/mTPDKjZRN-w",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-30T18:00:00",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/mTPDKjZRN-w/maxresdefault.jpg",
+  "alt": "𝑰 𝒔𝒂𝒘 𝒂 𝑾𝒐𝒎𝒂𝒏 𝒅𝒐𝒘𝒏 𝒊𝒏 𝑹𝒆𝒏𝒐 with #파트리샤",
+  "title": "𝑰 𝒔𝒂𝒘 𝒂 𝑾𝒐𝒎𝒂𝒏 𝒅𝒐𝒘𝒏 𝒊𝒏 𝑹𝒆𝒏𝒐 with #파트리샤"
+},
+
+{
+  "link": "https://youtu.be/OXneKSG4kRQ",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-30T18:00:00",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/OXneKSG4kRQ/maxresdefault.jpg",
+  "alt": "𝑰 𝒔𝒂𝒘 𝒂 𝒎𝒂𝒏 𝒅𝒐𝒘𝒏 𝒊𝒏 𝑹𝒆𝒏𝒐 with #차우민 #Chawoomin",
+  "title": "𝑰 𝒔𝒂𝒘 𝒂 𝒎𝒂𝒏 𝒅𝒐𝒘𝒏 𝒊𝒏 𝑹𝒆𝒏𝒐 with #차우민 #Chawoomin"
+},
+
+{
+  "link": "https://youtu.be/o_VonTfCs6M",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-10-31T18:00:00",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/o_VonTfCs6M/maxresdefault.jpg",
+  "alt": "𝑰 𝒔𝒂𝒘 𝒂 𝑾𝒐𝒎𝒂𝒏 𝒅𝒐𝒘𝒏 𝒊𝒏 𝑹𝒆𝒏𝒐 🤭💞 with #츄 #CHUU @CHUUOfficial",
+  "title": "𝑰 𝒔𝒂𝒘 𝒂 𝑾𝒐𝒎𝒂𝒏 𝒅𝒐𝒘𝒏 𝒊𝒏 𝑹𝒆𝒏𝒐 🤭💞 with #츄 #CHUU @CHUUOfficial"
+},
+
+{
+  "link": "https://youtu.be/LLrtBMGRMac",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-01T18:00:00",
+  "duration": "00:00:08",
+  "thumbnail": "https://i.ytimg.com/vi/LLrtBMGRMac/maxresdefault.jpg",
+  "alt": "𝐏𝐨𝐰 💥",
+  "title": "𝐏𝐨𝐰 💥"
+},
+
+{
+  "link": "https://youtu.be/VKTedkroXk4",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-11-01T18:00:00",
+  "duration": "00:00:35",
+  "thumbnail": "https://i.ytimg.com/vi/VKTedkroXk4/maxresdefault.jpg",
+  "alt": "พามินนี่มานับหนึ่งด้วย~ 💐🎀 #นับหนึ่ง #Bbillkin #MINNIE #idle",
+  "title": "พามินนี่มานับหนึ่งด้วย~ 💐🎀 #นับหนึ่ง #Bbillkin #MINNIE #idle"
+},
+
+{
+  "link": "https://youtu.be/kJ55ANagN0k",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-02T18:00:00",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/kJ55ANagN0k/maxresdefault.jpg",
+  "alt": "[On the Spot Teaser] 온더스팟이 퍼컬인 미연💋 퍼포먼스까지 완벽함 그 자체야💫#온더스팟 #On_the_Spot #미연 #MIYEON #Say_My_Name",
+  "title": "[On the Spot Teaser] 온더스팟이 퍼컬인 미연💋 퍼포먼스까지 완벽함 그 자체야💫#온더스팟 #On_the_Spot #미연 #MIYEON #Say_My_Name"
+},
+
+{
+  "link": "https://youtu.be/wdJNEYgTic4",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-03T18:00:00",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/wdJNEYgTic4/maxresdefault.jpg",
+  "alt": "네버버!! 미연이 Say My Name으로 컴백했다 ε ᴗ̈ ɜ﻿",
+  "title": "네버버!! 미연이 Say My Name으로 컴백했다 ε ᴗ̈ ɜ﻿"
+},
+
+{
+  "link": "https://youtu.be/GCR2jFT3yB8",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-04T18:00:00",
+  "duration": "00:00:17",
+  "thumbnail": "https://i.ytimg.com/vi/GCR2jFT3yB8/maxresdefault.jpg",
+  "alt": "[it's Live] COMING UP NEXT 💜 #미연 #잇츠라이브",
+  "title": "[it's Live] COMING UP NEXT 💜 #미연 #잇츠라이브"
 }
-
-
-
-
-
-
-
-
-
-
 
 
 

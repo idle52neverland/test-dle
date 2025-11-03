@@ -1509,6 +1509,27 @@ const releasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/DcxiggTs_q4/maxresdefault.jpg",
   "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V",
   "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V"
+},
+{
+  "link": "https://youtu.be/nXWEZT0fVYY",
+  "category": "Releases",
+  "member": "미연",
+  "date": "2025-10-28T18:00:00",
+  "duration": "00:03:18",
+  "thumbnail": "https://i.ytimg.com/vi/nXWEZT0fVYY/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 'Reno (Feat. Colde)' Official Music Video",
+  "title": "미연 (MIYEON) 'Reno (Feat. Colde)' Official Music Video"
+},
+
+{
+  "link": "https://youtu.be/9g9NClV1z_w",
+  "category": "Releases",
+  "member": "미연",
+  "date": "2025-11-03T18:00:00",
+  "duration": "00:02:51",
+  "thumbnail": "https://i.ytimg.com/vi/9g9NClV1z_w/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 'Say My Name' Official Music Video",
+  "title": "미연 (MIYEON) 'Say My Name' Official Music Video"
 }
 
 ];

@@ -10315,6 +10315,65 @@ const officialChannelCards = [
   "alt": "미연 (MIYEON) 'Reno (Feat. Colde)' M/V Teaser 1",
   "title": "미연 (MIYEON) 'Reno (Feat. Colde)' M/V Teaser 1",
   "subtag": "프로모션 | Comeback Promotion"
+},
+{
+  "link": "https://youtu.be/PjqKU0Nh0XU",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-10-27T18:00:00",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/PjqKU0Nh0XU/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 'Reno (Feat. Colde)' M/V Teaser 2",
+  "title": "미연 (MIYEON) 'Reno (Feat. Colde)' M/V Teaser 2",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://youtu.be/aR4Es81cqDU",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-10-30T18:00:00",
+  "duration": "00:04:27",
+  "thumbnail": "https://i.ytimg.com/vi/aR4Es81cqDU/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 2nd Mini Album [MY, Lover] Audio Snippet",
+  "title": "미연 (MIYEON) 2nd Mini Album [MY, Lover] Audio Snippet",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://youtu.be/Ux1s5CFP38I",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-10-31T18:00:00",
+  "duration": "00:00:38",
+  "thumbnail": "https://i.ytimg.com/vi/Ux1s5CFP38I/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 'Say My Name' M/V Teaser",
+  "title": "미연 (MIYEON) 'Say My Name' M/V Teaser",
+  "subtag": "프로모션 | Comeback Promotion"
+},
+
+{
+  "link": "https://youtu.be/PrzQHB1PDU8",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-11-01T18:00:00",
+  "duration": "00:15:17",
+  "thumbnail": "https://i.ytimg.com/vi/PrzQHB1PDU8/maxresdefault.jpg",
+  "alt": "'Reno (Feat. Colde)' M/V 촬영 비하인드 [MY, Talk] #1 | 미연 (MIYEON)ㅣSUB",
+  "title": "'Reno (Feat. Colde)' M/V 촬영 비하인드 [MY, Talk] #1 | 미연 (MIYEON)ㅣSUB",
+  "subtag": "아이톡 | I-TALK"
+},
+
+{
+  "link": "https://youtu.be/YB3-vM7UGAU",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-11-03T18:00:00",
+  "duration": "00:03:48",
+  "thumbnail": "https://i.ytimg.com/vi/YB3-vM7UGAU/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 'Say My Name' 응원법ㅣSUB",
+  "title": "미연 (MIYEON) 'Say My Name' 응원법ㅣSUB",
+  "subtag": "응원법 | Fan Chant"
 }
 
 

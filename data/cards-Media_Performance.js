@@ -3308,7 +3308,40 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/uuBqyBta12o/maxresdefault.jpg",
   "alt": "[풀-샷] i-dle (아이들) 'どうしよっかな (Where Do We Go)' | 리미티드 에디숀 사이드-에이",
   "title": "[풀-샷] i-dle (아이들) 'どうしよっかな (Where Do We Go)' | 리미티드 에디숀 사이드-에이"
+},
+{
+  "link": "https://youtu.be/TsOU95rESvk",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-10-29T18:00:00",
+  "duration": "00:03:51",
+  "thumbnail": "https://i.ytimg.com/vi/TsOU95rESvk/maxresdefault.jpg",
+  "alt": "[4K] 미연(MIYEON) “Reno (Feat. Colde)” Band LIVE | it's Live",
+  "title": "[4K] 미연(MIYEON) “Reno (Feat. Colde)” Band LIVE | it's Live"
+},
+
+{
+  "link": "https://youtu.be/iwV1aD28qlk",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-10-30T18:00:00",
+  "duration": "00:03:17",
+  "thumbnail": "https://i.ytimg.com/vi/iwV1aD28qlk/maxresdefault.jpg",
+  "alt": "미연 - Reno (Feat. Colde) | [TEXTED] MIYEON | 가사 (Lyrics) | 딩고뮤직 | dingo Music",
+  "title": "미연 - Reno (Feat. Colde) | [TEXTED] MIYEON | 가사 (Lyrics) | 딩고뮤직 | dingo Music"
+},
+
+{
+  "link": "https://youtu.be/xDkvV9qiFmA",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-03T18:00:00",
+  "duration": "00:03:14",
+  "thumbnail": "https://i.ytimg.com/vi/xDkvV9qiFmA/maxresdefault.jpg",
+  "alt": "MIYEON 미연 ‘Say My Name’｜On the Spot｜온더스팟｜i-dle 아이들",
+  "title": "MIYEON 미연 ‘Say My Name’｜On the Spot｜온더스팟｜i-dle 아이들"
 }
+
 
 
 

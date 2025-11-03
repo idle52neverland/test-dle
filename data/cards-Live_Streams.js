@@ -4607,6 +4607,16 @@ const liveStreamsCards = [
   "thumbnail": "https://i.ytimg.com/vi/Ep-NIFx5WMo/maxresdefault.jpg",
   "alt": "우기 (YUQI) 1st Single [Motivation] COMEBACK LIVE",
   "title": "우기 (YUQI) 1st Single [Motivation] COMEBACK LIVE"
+},
+{
+  "link": "https://youtu.be/2_1LWsl5mtU",
+  "category": "Live_Streams",
+  "member": "미연",
+  "date": "2025-11-03T18:00:00",
+  "duration": "01:46:15",
+  "thumbnail": "https://i.ytimg.com/vi/2_1LWsl5mtU/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 2nd Mini Album [MY, Lover] FAN SHOWCASE LIVE",
+  "title": "미연 (MIYEON) 2nd Mini Album [MY, Lover] FAN SHOWCASE LIVE"
 }
 
 

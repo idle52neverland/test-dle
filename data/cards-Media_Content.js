@@ -14878,6 +14878,92 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/4LYp6uW8HQw/maxresdefault.jpg",
   "alt": "[복면가왕-소연] '꽃바람'의 정체는 (여자)아이들의 리더 소연!",
   "title": "[복면가왕-소연] '꽃바람'의 정체는 (여자)아이들의 리더 소연!"
+},
+{
+  "link": "https://youtu.be/w8TAlkZWtkU",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2025-10-24T18:00:00",
+  "duration": "00:04:37",
+  "thumbnail": "https://i.ytimg.com/vi/w8TAlkZWtkU/maxresdefault.jpg",
+  "alt": "i-dle JAPAN 1st EP 『i-dle』開封動画",
+  "title": "i-dle JAPAN 1st EP 『i-dle』開封動画"
+},
+
+{
+  "link": "https://youtu.be/qNjfVZjyWn8",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-10-28T18:00:00",
+  "duration": "00:22:15",
+  "thumbnail": "https://i.ytimg.com/vi/qNjfVZjyWn8/maxresdefault.jpg",
+  "alt": "[SUB] 舒華 Genie, Make a Wish 🧞 李沐 說出妳的願望✨ | 鑑定師 Global EP.8 | i-dle 舒華 #감별사",
+  "title": "[SUB] 舒華 Genie, Make a Wish 🧞 李沐 說出妳的願望✨ | 鑑定師 Global EP.8 | i-dle 舒華 #감별사"
+},
+{
+  "link": "https://youtu.be/7NmX0VDSOoE",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-10-28T18:00:00",
+  "duration": "00:07:31",
+  "thumbnail": "https://i.ytimg.com/vi/7NmX0VDSOoE/maxresdefault.jpg",
+  "alt": "[미연.zip📁][면log] 미연의 젓가락이 멈추지 않는 탓일까ㅜ.ㅜ💬ㅣ도쿄 일상, 가챠깡, 벤또 먹방🍱",
+  "title": "[미연.zip📁][면log] 미연의 젓가락이 멈추지 않는 탓일까ㅜ.ㅜ💬ㅣ도쿄 일상, 가챠깡, 벤또 먹방🍱"
+},
+
+{
+  "link": "https://youtu.be/fBAMYhYnFHo",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-10-31T18:00:00",
+  "duration": "00:33:09",
+  "thumbnail": "https://i.ytimg.com/vi/fBAMYhYnFHo/maxresdefault.jpg",
+  "alt": "최현석X미연 | 다들 주목‼️ 우리 공주님이 요리도 한대🍳 【냉부PT】 EP.8 | 냉장고를 부탁해 요리PT  | #냉부PT #최현석 #미연",
+  "title": "최현석X미연 | 다들 주목‼️ 우리 공주님이 요리도 한대🍳 【냉부PT】 EP.8 | 냉장고를 부탁해 요리PT  | #냉부PT #최현석 #미연"
+},
+
+{
+  "link": "https://youtu.be/FHaR6aj13iQ",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-01T18:00:00",
+  "duration": "00:08:05",
+  "thumbnail": "https://i.ytimg.com/vi/FHaR6aj13iQ/maxresdefault.jpg",
+  "alt": "청량 끝판왕🌊 미연의 〈Reno(Feat. Colde)〉 + 〈Say My Name〉♬ | 아는 형님 505회",
+  "title": "청량 끝판왕🌊 미연의 〈Reno(Feat. Colde)〉 + 〈Say My Name〉♬ | 아는 형님 505회"
+},
+
+{
+  "link": "https://youtu.be/L-gwdGTRdvc",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-01T18:00:00",
+  "duration": "00:08:53",
+  "thumbnail": "https://i.ytimg.com/vi/L-gwdGTRdvc/maxresdefault.jpg",
+  "alt": "“자의로 췄다고?!”🔥 강호동 말에 극대노한 ★호동 피해자★ 브라이언ㅋㅋ | 아는 형님 505회",
+  "title": "“자의로 췄다고?!”🔥 강호동 말에 극대노한 ★호동 피해자★ 브라이언ㅋㅋ | 아는 형님 505회"
+},
+
+{
+  "link": "https://youtu.be/0KKHm6p3mTo",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-01T18:00:00",
+  "duration": "00:08:17",
+  "thumbnail": "https://i.ytimg.com/vi/0KKHm6p3mTo/maxresdefault.jpg",
+  "alt": "((극 공감)) 너드 경력직 정재형의 '외향적 너드' 특징ㅋㅋ | 아는 형님 505회",
+  "title": "((극 공감)) 너드 경력직 정재형의 '외향적 너드' 특징ㅋㅋ | 아는 형님 505회"
+},
+
+{
+  "link": "https://youtu.be/kCp2t2vsskk",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-01T18:00:00",
+  "duration": "00:08:55",
+  "thumbnail": "https://i.ytimg.com/vi/kCp2t2vsskk/maxresdefault.jpg",
+  "alt": "〈아는 사랑 산악회〉 회장이 되기 위한 형님들의 어필 SHOW✨ | 아는 형님 505회",
+  "title": "〈아는 사랑 산악회〉 회장이 되기 위한 형님들의 어필 SHOW✨ | 아는 형님 505회"
 }
 
 
