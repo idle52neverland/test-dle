@@ -40,7 +40,7 @@ const releasesCards = [
   "link": "https://youtu.be/sTnQ24z9hIw",
   "category": "Releases",
   "member": "아이들",
-  "date": "2018-05-02T18:00:00",
+  "date": "2018-05-02T18:00:01",
   "duration": "00:03:32",
   "thumbnail": "https://i.ytimg.com/vi/sTnQ24z9hIw/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - $$$ (달라($$$))",
@@ -52,7 +52,7 @@ const releasesCards = [
   "link": "https://youtu.be/klKKrmRY2R8",
   "category": "Releases",
   "member": "아이들",
-  "date": "2018-05-02T18:00:00",
+  "date": "2018-05-02T18:00:02",
   "duration": "00:03:21",
   "thumbnail": "https://i.ytimg.com/vi/klKKrmRY2R8/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - MAZE",
@@ -64,7 +64,7 @@ const releasesCards = [
   "link": "https://youtu.be/9qXLfXLluQI",
   "category": "Releases",
   "member": "아이들",
-  "date": "2018-05-02T18:00:00",
+  "date": "2018-05-02T18:00:03",
   "duration": "00:03:37",
   "thumbnail": "https://i.ytimg.com/vi/9qXLfXLluQI/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - DON'T TEXT ME",
@@ -76,7 +76,7 @@ const releasesCards = [
   "link": "https://youtu.be/ehXwFRCvTa8",
   "category": "Releases",
   "member": "아이들",
-  "date": "2018-05-02T18:00:00",
+  "date": "2018-05-02T18:00:04",
   "duration": "00:03:28",
   "thumbnail": "https://i.ytimg.com/vi/ehXwFRCvTa8/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - What’s in your house? (알고 싶어)",
@@ -88,7 +88,7 @@ const releasesCards = [
   "link": "https://youtu.be/OVivuUWG9Qs",
   "category": "Releases",
   "member": "아이들",
-  "date": "2018-05-02T18:00:00",
+  "date": "2018-05-02T18:00:05",
   "duration": "00:03:57",
   "thumbnail": "https://i.ytimg.com/vi/OVivuUWG9Qs/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Hear me (들어줘요)",
@@ -136,7 +136,7 @@ const releasesCards = [
   "link": "https://youtu.be/v8zTRXCgF1Y",
   "category": "Releases",
   "member": "아이들",
-  "date": "2019-02-27T18:00:00",
+  "date": "2019-02-26T18:00:01",
   "duration": "00:03:10",
   "thumbnail": "https://i.ytimg.com/vi/v8zTRXCgF1Y/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - What's Your Name",
@@ -148,7 +148,7 @@ const releasesCards = [
   "link": "https://youtu.be/MIAtuJ31l98",
   "category": "Releases",
   "member": "아이들",
-  "date": "2019-02-27T18:00:00",
+  "date": "2019-02-26T18:00:02",
   "duration": "00:03:57",
   "thumbnail": "https://i.ytimg.com/vi/MIAtuJ31l98/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Put It Straight (싫다고 말해)",
@@ -160,7 +160,7 @@ const releasesCards = [
   "link": "https://youtu.be/HmUlhIjkPYE",
   "category": "Releases",
   "member": "아이들",
-  "date": "2019-02-27T18:00:00",
+  "date": "2019-02-26T18:00:03",
   "duration": "00:03:41",
   "thumbnail": "https://i.ytimg.com/vi/HmUlhIjkPYE/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Give Me Your (주세요)",
@@ -193,6 +193,42 @@ const releasesCards = [
 },
 
 {
+  "link": "https://youtu.be/ZLzBd1NDGXk",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2019-07-31T18:00:02",
+  "duration": "00:03:52",
+  "thumbnail": "https://i.ytimg.com/vi/ZLzBd1NDGXk/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - Light My Fire",
+  "title": "(여자)아이들((G)I-DLE) - Light My Fire",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/hpQeQaI26zg",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2019-07-31T18:00:03",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/hpQeQaI26zg/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - Maze (Japanese ver.)",
+  "title": "(여자)아이들((G)I-DLE) - Maze (Japanese ver.)",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/A2LLCUegVhs",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2019-07-31T18:00:04",
+  "duration": "00:03:45",
+  "thumbnail": "https://i.ytimg.com/vi/A2LLCUegVhs/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - For You",
+  "title": "(여자)아이들((G)I-DLE) - For You",
+  "subtag": "Audio Track"
+},
+
+{
   "link": "https://youtu.be/6oanIo_2Z4Q",
   "category": "Releases",
   "member": "아이들",
@@ -220,7 +256,7 @@ const releasesCards = [
   "link": "https://youtu.be/MYVB3IlTIFs",
   "category": "Releases",
   "member": "아이들",
-  "date": "2020-07-03T18:00:00",
+  "date": "2020-04-06T18:00:01",
   "duration": "00:03:34",
   "thumbnail": "https://i.ytimg.com/vi/MYVB3IlTIFs/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - 사랑해 (Luv U)",
@@ -232,7 +268,7 @@ const releasesCards = [
   "link": "https://youtu.be/k8pEDdNUvzI",
   "category": "Releases",
   "member": "아이들",
-  "date": "2020-07-03T18:00:00",
+  "date": "2020-04-06T18:00:02",
   "duration": "00:03:01",
   "thumbnail": "https://i.ytimg.com/vi/k8pEDdNUvzI/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Maybe",
@@ -244,7 +280,7 @@ const releasesCards = [
   "link": "https://youtu.be/AdSQi7-xT8Y",
   "category": "Releases",
   "member": "아이들",
-  "date": "2020-07-03T18:00:00",
+  "date": "2020-04-06T18:00:03",
   "duration": "00:03:16",
   "thumbnail": "https://i.ytimg.com/vi/AdSQi7-xT8Y/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Oh my god (English Ver.)",
@@ -289,6 +325,54 @@ const releasesCards = [
 },
 
 {
+  "link": "https://youtu.be/ts2qPO-vPMs",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2020-08-26T18:00:02",
+  "duration": "00:03:28",
+  "thumbnail": "https://i.ytimg.com/vi/ts2qPO-vPMs/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - Uh-Oh (Japanese ver.)",
+  "title": "(여자)아이들((G)I-DLE) - Uh-Oh (Japanese ver.)",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/YrtTT5HQaRg",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2020-08-26T18:00:03",
+  "duration": "00:03:18",
+  "thumbnail": "https://i.ytimg.com/vi/YrtTT5HQaRg/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - Senorita (Japanese ver.)",
+  "title": "(여자)아이들((G)I-DLE) - Senorita (Japanese ver.)",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/eylnMfEQ8js",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2020-08-26T18:00:04",
+  "duration": "00:03:50",
+  "thumbnail": "https://i.ytimg.com/vi/eylnMfEQ8js/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - Tung-Tung (Empty)",
+  "title": "(여자)아이들((G)I-DLE) - Tung-Tung (Empty)",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/kv68inxiVxI",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2020-08-26T18:00:05",
+  "duration": "00:03:31",
+  "thumbnail": "https://i.ytimg.com/vi/kv68inxiVxI/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - DUMDi DUMDi (Japanese ver.)",
+  "title": "(여자)아이들((G)I-DLE) - DUMDi DUMDi (Japanese ver.)",
+  "subtag": "Audio Track"
+},
+
+{
   "link": "https://youtu.be/z3szNvgQxHo",
   "category": "Releases",
   "member": "아이들",
@@ -297,6 +381,78 @@ const releasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/z3szNvgQxHo/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Music Video",
   "title": "(여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Music Video",
+  "subtag": "MV"
+},
+
+{
+  "link": "https://youtu.be/j8wmfKVktGI",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2021-01-11T18:00:01",
+  "duration": "00:02:56",
+  "thumbnail": "https://i.ytimg.com/vi/j8wmfKVktGI/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - HANN (Alone in winter) (한(寒))",
+  "title": "(여자)아이들((G)I-DLE) - HANN (Alone in winter) (한(寒))",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/u1xIMjFCCQs",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2021-01-11T18:00:02",
+  "duration": "00:03:21",
+  "thumbnail": "https://i.ytimg.com/vi/u1xIMjFCCQs/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - MOON",
+  "title": "(여자)아이들((G)I-DLE) - MOON",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/ROZ5JPAjvhk",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2021-01-11T18:00:03",
+  "duration": "00:02:58",
+  "thumbnail": "https://i.ytimg.com/vi/ROZ5JPAjvhk/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - Where is love",
+  "title": "(여자)아이들((G)I-DLE) - Where is love",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/KFiBb_janY8",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2021-01-11T18:00:04",
+  "duration": "00:03:02",
+  "thumbnail": "https://i.ytimg.com/vi/KFiBb_janY8/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - LOST",
+  "title": "(여자)아이들((G)I-DLE) - LOST",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/T3cVg1FSnwQ",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2021-01-11T18:00:05",
+  "duration": "00:03:11",
+  "thumbnail": "https://i.ytimg.com/vi/T3cVg1FSnwQ/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - DAHLIA",
+  "title": "(여자)아이들((G)I-DLE) - DAHLIA",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/U6DG3TBcV6s",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2021-04-29T18:00:00",
+  "duration": "00:03:20",
+  "thumbnail": "https://i.ytimg.com/vi/U6DG3TBcV6s/sddefault.jpg",
+  "alt": "(여자)아이들 ((G)I-DLE) 'Last Dance (Prod. GroovyRoom)' Official Music Video",
+  "title": "(여자)아이들 ((G)I-DLE) 'Last Dance (Prod. GroovyRoom)' Official Music Video",
   "subtag": "MV"
 },
 
@@ -337,38 +493,50 @@ const releasesCards = [
 },
 
 {
-  "link": "https://youtu.be/ZLzBd1NDGXk",
+  "link": "https://youtu.be/A-XitqQAkrk",
   "category": "Releases",
-  "member": "아이들",
-  "date": "2021-07-29T18:00:00",
-  "duration": "00:03:52",
-  "thumbnail": "https://i.ytimg.com/vi/ZLzBd1NDGXk/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - Light My Fire",
-  "title": "(여자)아이들((G)I-DLE) - Light My Fire",
+  "member": "소연",
+  "date": "2021-07-05T18:00:01",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/A-XitqQAkrk/maxresdefault.jpg",
+  "alt": "소연(SOYEON) - Weather",
+  "title": "소연(SOYEON) - Weather",
   "subtag": "Audio Track"
 },
 
 {
-  "link": "https://youtu.be/hpQeQaI26zg",
+  "link": "https://youtu.be/2tfiWI2wnZ8",
   "category": "Releases",
-  "member": "아이들",
-  "date": "2021-07-29T18:00:00",
-  "duration": "00:03:21",
-  "thumbnail": "https://i.ytimg.com/vi/hpQeQaI26zg/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - Maze (Japanese ver.)",
-  "title": "(여자)아이들((G)I-DLE) - Maze (Japanese ver.)",
+  "member": "소연",
+  "date": "2021-07-05T18:00:02",
+  "duration": "00:03:10",
+  "thumbnail": "https://i.ytimg.com/vi/2tfiWI2wnZ8/maxresdefault.jpg",
+  "alt": "소연(SOYEON) - Quit",
+  "title": "소연(SOYEON) - Quit",
   "subtag": "Audio Track"
 },
 
 {
-  "link": "https://youtu.be/A2LLCUegVhs",
+  "link": "https://youtu.be/8rhJY5B13qM",
   "category": "Releases",
-  "member": "아이들",
-  "date": "2021-07-29T18:00:00",
-  "duration": "00:03:45",
-  "thumbnail": "https://i.ytimg.com/vi/A2LLCUegVhs/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - For You",
-  "title": "(여자)아이들((G)I-DLE) - For You",
+  "member": "소연",
+  "date": "2021-07-05T18:00:03",
+  "duration": "00:02:36",
+  "thumbnail": "https://i.ytimg.com/vi/8rhJY5B13qM/maxresdefault.jpg",
+  "alt": "소연(SOYEON) - Psycho",
+  "title": "소연(SOYEON) - Psycho",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/ujjFBtrVGPQ",
+  "category": "Releases",
+  "member": "소연",
+  "date": "2021-07-05T18:00:04",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/ujjFBtrVGPQ/maxresdefault.jpg",
+  "alt": "소연(SOYEON) - Is this bad b****** number? (Feat. BIBI, Young Ji Lee)",
+  "title": "소연(SOYEON) - Is this bad b****** number? (Feat. BIBI, Young Ji Lee)",
   "subtag": "Audio Track"
 },
 
@@ -382,6 +550,102 @@ const releasesCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video",
   "title": "(여자)아이들((G)I-DLE) - 'TOMBOY' Official Music Video",
   "subtag": "MV"
+},
+
+{
+  "link": "https://youtu.be/8OTuIGtNacg",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2022-03-14T18:00:01",
+  "duration": "00:03:05",
+  "thumbnail": "https://i.ytimg.com/vi/8OTuIGtNacg/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - VILLAIN DIES",
+  "title": "(여자)아이들((G)I-DLE) - VILLAIN DIES",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/uUu7FmjqO1E",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2022-03-14T18:00:02",
+  "duration": "00:03:22",
+  "thumbnail": "https://i.ytimg.com/vi/uUu7FmjqO1E/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - ALREADY",
+  "title": "(여자)아이들((G)I-DLE) - ALREADY",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/dJdemmguASc",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2022-03-14T18:00:03",
+  "duration": "00:03:39",
+  "thumbnail": "https://i.ytimg.com/vi/dJdemmguASc/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - POLAROID",
+  "title": "(여자)아이들((G)I-DLE) - POLAROID",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/tbehg21dZAA",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2022-03-14T18:00:04",
+  "duration": "00:03:30",
+  "thumbnail": "https://i.ytimg.com/vi/tbehg21dZAA/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - ESCAPE",
+  "title": "(여자)아이들((G)I-DLE) - ESCAPE",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/FrTVbpNi76E",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2022-03-14T18:00:05",
+  "duration": "00:02:52",
+  "thumbnail": "https://i.ytimg.com/vi/FrTVbpNi76E/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - LIAR",
+  "title": "(여자)아이들((G)I-DLE) - LIAR",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/-XITgCvjNcs",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2022-03-14T18:00:06",
+  "duration": "00:03:03",
+  "thumbnail": "https://i.ytimg.com/vi/-XITgCvjNcs/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - Reset",
+  "title": "(여자)아이들((G)I-DLE) - Reset",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/j63pm9UlLyo",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2022-03-14T18:00:07",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/j63pm9UlLyo/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - Sculpture (조각품)",
+  "title": "(여자)아이들((G)I-DLE) - Sculpture (조각품)",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/W-ed1dZT0NU",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2022-03-14T18:00:08",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/W-ed1dZT0NU/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - DARK (X-file)",
+  "title": "(여자)아이들((G)I-DLE) - DARK (X-file)",
+  "subtag": "Audio Track"
 },
 
 {
@@ -412,7 +676,7 @@ const releasesCards = [
   "link": "https://youtu.be/35lirBqwgTs",
   "category": "Releases",
   "member": "미연",
-  "date": "2022-04-27T18:00:00",
+  "date": "2022-04-27T18:00:01",
   "duration": "00:03:20",
   "thumbnail": "https://i.ytimg.com/vi/35lirBqwgTs/maxresdefault.jpg",
   "alt": "미연 (MIYEON) - 'Drive' Official Music Video",
@@ -424,7 +688,7 @@ const releasesCards = [
   "link": "https://youtu.be/KIQncyxUwnQ",
   "category": "Releases",
   "member": "미연",
-  "date": "2022-04-27T18:00:00",
+  "date": "2022-04-27T18:00:02",
   "duration": "00:03:21",
   "thumbnail": "https://i.ytimg.com/vi/KIQncyxUwnQ/maxresdefault.jpg",
   "alt": "미연 (MIYEON) - 'Drive' LIVE CLIP",
@@ -436,7 +700,7 @@ const releasesCards = [
   "link": "https://youtu.be/0shLjBvY3pI",
   "category": "Releases",
   "member": "미연",
-  "date": "2022-04-27T18:00:00",
+  "date": "2022-04-27T18:00:03",
   "duration": "00:04:17",
   "thumbnail": "https://i.ytimg.com/vi/0shLjBvY3pI/maxresdefault.jpg",
   "alt": "미연(MIYEON) - TE AMO",
@@ -448,7 +712,7 @@ const releasesCards = [
   "link": "https://youtu.be/V1nPukaqpi0",
   "category": "Releases",
   "member": "미연",
-  "date": "2022-04-27T18:00:00",
+  "date": "2022-04-27T18:00:04",
   "duration": "00:03:58",
   "thumbnail": "https://i.ytimg.com/vi/V1nPukaqpi0/maxresdefault.jpg",
   "alt": "미연(MIYEON) - Softly",
@@ -460,7 +724,7 @@ const releasesCards = [
   "link": "https://youtu.be/8hw1n-sM_4s",
   "category": "Releases",
   "member": "미연",
-  "date": "2022-04-27T18:00:00",
+  "date": "2022-04-27T18:00:05",
   "duration": "00:03:43",
   "thumbnail": "https://i.ytimg.com/vi/8hw1n-sM_4s/maxresdefault.jpg",
   "alt": "미연(MIYEON) - Charging (Feat. JUNNY)",
@@ -472,7 +736,7 @@ const releasesCards = [
   "link": "https://youtu.be/9gQodxTRl2k",
   "category": "Releases",
   "member": "미연",
-  "date": "2022-04-27T18:00:00",
+  "date": "2022-04-27T18:00:06",
   "duration": "00:03:08",
   "thumbnail": "https://i.ytimg.com/vi/9gQodxTRl2k/maxresdefault.jpg",
   "alt": "미연(MIYEON) - 소나기 (Rain)",
@@ -544,7 +808,7 @@ const releasesCards = [
   "link": "https://youtu.be/7HDeem-JaSY",
   "category": "Releases",
   "member": "아이들",
-  "date": "2023-05-15T18:00:00",
+  "date": "2023-05-15T18:00:01",
   "duration": "00:03:31",
   "thumbnail": "https://i.ytimg.com/vi/7HDeem-JaSY/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - '퀸카 (Queencard)' Official Music Video",
@@ -556,7 +820,7 @@ const releasesCards = [
   "link": "https://youtu.be/Bd5950W2b5E",
   "category": "Releases",
   "member": "아이들",
-  "date": "2023-05-15T18:00:00",
+  "date": "2023-05-15T18:00:03",
   "duration": "00:02:56",
   "thumbnail": "https://i.ytimg.com/vi/Bd5950W2b5E/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Lucid",
@@ -568,7 +832,7 @@ const releasesCards = [
   "link": "https://youtu.be/iOoeLYqx3yI",
   "category": "Releases",
   "member": "아이들",
-  "date": "2023-05-15T18:00:00",
+  "date": "2023-05-15T18:00:04",
   "duration": "00:02:26",
   "thumbnail": "https://i.ytimg.com/vi/iOoeLYqx3yI/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - All Night",
@@ -580,7 +844,7 @@ const releasesCards = [
   "link": "https://youtu.be/PCbx5U-S5ec",
   "category": "Releases",
   "member": "아이들",
-  "date": "2023-05-15T18:00:00",
+  "date": "2023-05-15T18:00:05",
   "duration": "00:03:10",
   "thumbnail": "https://i.ytimg.com/vi/PCbx5U-S5ec/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Paradise",
@@ -592,7 +856,7 @@ const releasesCards = [
   "link": "https://youtu.be/ypsaGJzyAjg",
   "category": "Releases",
   "member": "아이들",
-  "date": "2023-05-15T18:00:00",
+  "date": "2023-05-15T18:00:06",
   "duration": "00:03:11",
   "thumbnail": "https://i.ytimg.com/vi/ypsaGJzyAjg/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) - Peter Pan (어린 어른)",
@@ -616,23 +880,11 @@ const releasesCards = [
   "link": "https://youtu.be/pCh3Kp6qxo8",
   "category": "Releases",
   "member": "아이들",
-  "date": "2023-07-14T18:00:00",
+  "date": "2023-07-13T18:00:00",
   "duration": "00:05:16",
   "thumbnail": "https://i.ytimg.com/vi/pCh3Kp6qxo8/maxresdefault.jpg",
   "alt": "(G)I-DLE - I DO (Official Music Video)",
   "title": "(G)I-DLE - I DO (Official Music Video)",
-  "subtag": "MV"
-},
-
-{
-  "link": "https://youtu.be/U6DG3TBcV6s",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2023-09-01T18:00:00",
-  "duration": "00:03:20",
-  "thumbnail": "https://i.ytimg.com/vi/U6DG3TBcV6s/sddefault.jpg",
-  "alt": "(여자)아이들 ((G)I-DLE) 'Last Dance (Prod. GroovyRoom)' Official Music Video",
-  "title": "(여자)아이들 ((G)I-DLE) 'Last Dance (Prod. GroovyRoom)' Official Music Video",
   "subtag": "MV"
 },
 
@@ -1021,262 +1273,10 @@ const releasesCards = [
 },
 
 {
-  "link": "https://youtu.be/ts2qPO-vPMs",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:03:28",
-  "thumbnail": "https://i.ytimg.com/vi/ts2qPO-vPMs/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - Uh-Oh (Japanese ver.)",
-  "title": "(여자)아이들((G)I-DLE) - Uh-Oh (Japanese ver.)",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/YrtTT5HQaRg",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:03:18",
-  "thumbnail": "https://i.ytimg.com/vi/YrtTT5HQaRg/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - Senorita (Japanese ver.)",
-  "title": "(여자)아이들((G)I-DLE) - Senorita (Japanese ver.)",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/eylnMfEQ8js",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:03:50",
-  "thumbnail": "https://i.ytimg.com/vi/eylnMfEQ8js/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - Tung-Tung (Empty)",
-  "title": "(여자)아이들((G)I-DLE) - Tung-Tung (Empty)",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/kv68inxiVxI",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:03:31",
-  "thumbnail": "https://i.ytimg.com/vi/kv68inxiVxI/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - DUMDi DUMDi (Japanese ver.)",
-  "title": "(여자)아이들((G)I-DLE) - DUMDi DUMDi (Japanese ver.)",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/j8wmfKVktGI",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:02:56",
-  "thumbnail": "https://i.ytimg.com/vi/j8wmfKVktGI/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - HANN (Alone in winter) (한(寒))",
-  "title": "(여자)아이들((G)I-DLE) - HANN (Alone in winter) (한(寒))",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/u1xIMjFCCQs",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:03:21",
-  "thumbnail": "https://i.ytimg.com/vi/u1xIMjFCCQs/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - MOON",
-  "title": "(여자)아이들((G)I-DLE) - MOON",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/ROZ5JPAjvhk",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:02:58",
-  "thumbnail": "https://i.ytimg.com/vi/ROZ5JPAjvhk/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - Where is love",
-  "title": "(여자)아이들((G)I-DLE) - Where is love",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/KFiBb_janY8",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:03:02",
-  "thumbnail": "https://i.ytimg.com/vi/KFiBb_janY8/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - LOST",
-  "title": "(여자)아이들((G)I-DLE) - LOST",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/T3cVg1FSnwQ",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:03:11",
-  "thumbnail": "https://i.ytimg.com/vi/T3cVg1FSnwQ/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - DAHLIA",
-  "title": "(여자)아이들((G)I-DLE) - DAHLIA",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/A-XitqQAkrk",
-  "category": "Releases",
-  "member": "소연",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:02:46",
-  "thumbnail": "https://i.ytimg.com/vi/A-XitqQAkrk/maxresdefault.jpg",
-  "alt": "소연(SOYEON) - Weather",
-  "title": "소연(SOYEON) - Weather",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/2tfiWI2wnZ8",
-  "category": "Releases",
-  "member": "소연",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:03:10",
-  "thumbnail": "https://i.ytimg.com/vi/2tfiWI2wnZ8/maxresdefault.jpg",
-  "alt": "소연(SOYEON) - Quit",
-  "title": "소연(SOYEON) - Quit",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/8rhJY5B13qM",
-  "category": "Releases",
-  "member": "소연",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:02:36",
-  "thumbnail": "https://i.ytimg.com/vi/8rhJY5B13qM/maxresdefault.jpg",
-  "alt": "소연(SOYEON) - Psycho",
-  "title": "소연(SOYEON) - Psycho",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/ujjFBtrVGPQ",
-  "category": "Releases",
-  "member": "소연",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:02:46",
-  "thumbnail": "https://i.ytimg.com/vi/ujjFBtrVGPQ/maxresdefault.jpg",
-  "alt": "소연(SOYEON) - Is this bad b****** number? (Feat. BIBI, Young Ji Lee)",
-  "title": "소연(SOYEON) - Is this bad b****** number? (Feat. BIBI, Young Ji Lee)",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/8OTuIGtNacg",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:03:05",
-  "thumbnail": "https://i.ytimg.com/vi/8OTuIGtNacg/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - VILLAIN DIES",
-  "title": "(여자)아이들((G)I-DLE) - VILLAIN DIES",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/uUu7FmjqO1E",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:03:22",
-  "thumbnail": "https://i.ytimg.com/vi/uUu7FmjqO1E/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - ALREADY",
-  "title": "(여자)아이들((G)I-DLE) - ALREADY",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/dJdemmguASc",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:03:39",
-  "thumbnail": "https://i.ytimg.com/vi/dJdemmguASc/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - POLAROID",
-  "title": "(여자)아이들((G)I-DLE) - POLAROID",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/tbehg21dZAA",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:03:30",
-  "thumbnail": "https://i.ytimg.com/vi/tbehg21dZAA/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - ESCAPE",
-  "title": "(여자)아이들((G)I-DLE) - ESCAPE",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/FrTVbpNi76E",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:02:52",
-  "thumbnail": "https://i.ytimg.com/vi/FrTVbpNi76E/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - LIAR",
-  "title": "(여자)아이들((G)I-DLE) - LIAR",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/-XITgCvjNcs",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:03:03",
-  "thumbnail": "https://i.ytimg.com/vi/-XITgCvjNcs/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - Reset",
-  "title": "(여자)아이들((G)I-DLE) - Reset",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/j63pm9UlLyo",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:03:07",
-  "thumbnail": "https://i.ytimg.com/vi/j63pm9UlLyo/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - Sculpture (조각품)",
-  "title": "(여자)아이들((G)I-DLE) - Sculpture (조각품)",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/W-ed1dZT0NU",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-04-03T18:00:00",
-  "duration": "00:02:46",
-  "thumbnail": "https://i.ytimg.com/vi/W-ed1dZT0NU/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - DARK (X-file)",
-  "title": "(여자)아이들((G)I-DLE) - DARK (X-file)",
-  "subtag": "Audio Track"
-},
-
-{
   "link": "https://youtu.be/gVMx_g2EZBM",
   "category": "Releases",
   "member": "아이들",
-  "date": "2025-05-02T18:00:00",
+  "date": "2025-05-02T18:00:01",
   "duration": "00:03:26",
   "thumbnail": "https://i.ytimg.com/vi/gVMx_g2EZBM/maxresdefault.jpg",
   "alt": "i-dle (아이들) - HANN (Alone) (i-dle ver.) (한(一)",
@@ -1288,7 +1288,7 @@ const releasesCards = [
   "link": "https://youtu.be/9BtAwTlIZrI",
   "category": "Releases",
   "member": "아이들",
-  "date": "2025-05-02T18:00:00",
+  "date": "2025-05-02T18:00:02",
   "duration": "00:03:18",
   "thumbnail": "https://i.ytimg.com/vi/9BtAwTlIZrI/maxresdefault.jpg",
   "alt": "i-dle (아이들) - Senorita (i-dle ver.)",
@@ -1300,7 +1300,7 @@ const releasesCards = [
   "link": "https://youtu.be/KQZlCpsRG5Y",
   "category": "Releases",
   "member": "아이들",
-  "date": "2025-05-02T18:00:00",
+  "date": "2025-05-02T18:00:03",
   "duration": "00:03:28",
   "thumbnail": "https://i.ytimg.com/vi/KQZlCpsRG5Y/maxresdefault.jpg",
   "alt": "i-dle (아이들) - Uh-Oh (i-dle ver.)",
@@ -1312,7 +1312,7 @@ const releasesCards = [
   "link": "https://youtu.be/agS7Ys9WR9M",
   "category": "Releases",
   "member": "아이들",
-  "date": "2025-05-02T18:00:00",
+  "date": "2025-05-02T18:00:04",
   "duration": "00:03:16",
   "thumbnail": "https://i.ytimg.com/vi/agS7Ys9WR9M/maxresdefault.jpg",
   "alt": "i-dle (아이들) - Oh my god (i-dle ver.)",
@@ -1324,7 +1324,7 @@ const releasesCards = [
   "link": "https://youtu.be/jp7CnpbB-rQ",
   "category": "Releases",
   "member": "아이들",
-  "date": "2025-05-02T18:00:00",
+  "date": "2025-05-02T18:00:05",
   "duration": "00:03:32",
   "thumbnail": "https://i.ytimg.com/vi/jp7CnpbB-rQ/maxresdefault.jpg",
   "alt": "i-dle (아이들) - LION (i-dle ver.)",
@@ -1336,7 +1336,7 @@ const releasesCards = [
   "link": "https://youtu.be/ZJJCum3klMQ",
   "category": "Releases",
   "member": "아이들",
-  "date": "2025-05-02T18:00:00",
+  "date": "2025-05-02T18:00:06",
   "duration": "00:03:25",
   "thumbnail": "https://i.ytimg.com/vi/ZJJCum3klMQ/maxresdefault.jpg",
   "alt": "i-dle (아이들) - i’M THE TREND (i-dle ver.)",
@@ -1348,7 +1348,7 @@ const releasesCards = [
   "link": "https://youtu.be/WKc3BGQ7FjI",
   "category": "Releases",
   "member": "아이들",
-  "date": "2025-05-02T18:00:00",
+  "date": "2025-05-02T18:00:07",
   "duration": "00:03:31",
   "thumbnail": "https://i.ytimg.com/vi/WKc3BGQ7FjI/maxresdefault.jpg",
   "alt": "i-dle (아이들) - DUMDi DUMDi (i-dle ver.)",
@@ -1360,7 +1360,7 @@ const releasesCards = [
   "link": "https://youtu.be/DQOSZMlu620",
   "category": "Releases",
   "member": "아이들",
-  "date": "2025-05-02T18:00:00",
+  "date": "2025-05-02T18:00:08",
   "duration": "00:03:18",
   "thumbnail": "https://i.ytimg.com/vi/DQOSZMlu620/maxresdefault.jpg",
   "alt": "i-dle (아이들) - HWAA (i-dle ver.) (화(火花)",
@@ -1381,10 +1381,22 @@ const releasesCards = [
 },
 
 {
-  "link": "https://youtu.be/wxmuTI96h68",
+  "link": "https://youtu.be/hAONx6nuEgI",
   "category": "Releases",
   "member": "아이들",
   "date": "2025-05-19T18:00:00",
+  "duration": "00:02:56",
+  "thumbnail": "https://i.ytimg.com/vi/hAONx6nuEgI/maxresdefault.jpg",
+  "alt": "i-dle (아이들) 'Good Thing' Official Music Video",
+  "title": "i-dle (아이들) 'Good Thing' Official Music Video",
+  "subtag": "MV"
+},
+
+{
+  "link": "https://youtu.be/wxmuTI96h68",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2025-05-19T18:00:03",
   "duration": "00:02:28",
   "thumbnail": "https://i.ytimg.com/vi/wxmuTI96h68/maxresdefault.jpg",
   "alt": "i-dle (아이들) - Love Tease",
@@ -1396,7 +1408,7 @@ const releasesCards = [
   "link": "https://youtu.be/Y9T7Rm9dXxc",
   "category": "Releases",
   "member": "아이들",
-  "date": "2025-05-19T18:00:00",
+  "date": "2025-05-19T18:00:04",
   "duration": "00:03:10",
   "thumbnail": "https://i.ytimg.com/vi/Y9T7Rm9dXxc/maxresdefault.jpg",
   "alt": "i-dle (아이들) - Chain",
@@ -1408,7 +1420,7 @@ const releasesCards = [
   "link": "https://youtu.be/tG8-iN9WC4c",
   "category": "Releases",
   "member": "아이들",
-  "date": "2025-05-19T18:00:00",
+  "date": "2025-05-19T18:00:05",
   "duration": "00:02:51",
   "thumbnail": "https://i.ytimg.com/vi/tG8-iN9WC4c/maxresdefault.jpg",
   "alt": "i-dle (아이들) - Unstoppable",
@@ -1420,24 +1432,12 @@ const releasesCards = [
   "link": "https://youtu.be/chjPWMknHgU",
   "category": "Releases",
   "member": "아이들",
-  "date": "2025-05-19T18:00:00",
+  "date": "2025-05-19T18:00:06",
   "duration": "00:03:03",
   "thumbnail": "https://i.ytimg.com/vi/chjPWMknHgU/maxresdefault.jpg",
   "alt": "i-dle (아이들) - If You Want (그래도 돼요)",
   "title": "i-dle (아이들) - If You Want (그래도 돼요)",
   "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/hAONx6nuEgI",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2025-05-19T18:00:00",
-  "duration": "00:02:56",
-  "thumbnail": "https://i.ytimg.com/vi/hAONx6nuEgI/maxresdefault.jpg",
-  "alt": "i-dle (아이들) 'Good Thing' Official Music Video",
-  "title": "i-dle (아이들) 'Good Thing' Official Music Video",
-  "subtag": "MV"
 },
 
 {
@@ -1492,13 +1492,37 @@ const releasesCards = [
   "link": "https://youtu.be/iGNd-8gkB5E",
   "category": "Releases",
   "member": "우기",
-  "date": "2025-09-23T18:00:00",
+  "date": "2025-09-23T18:00:01",
   "duration": "00:03:15",
   "thumbnail": "https://i.ytimg.com/vi/iGNd-8gkB5E/maxresdefault.jpg",
   "alt": "우기 (YUQI) '还痛吗' SPECIAL CLIP",
   "title": "우기 (YUQI) '还痛吗' SPECIAL CLIP",
   "subtag": "Special Clip"
 },
+
+{
+  "link": "https://youtu.be/9KsOU_20nUU",
+  "category": "Releases",
+  "member": "우기",
+  "date": "2025-09-16T18:00:01",
+  "duration": "00:03:15",
+  "thumbnail": "https://i.ytimg.com/vi/9KsOU_20nUU/maxresdefault.jpg",
+  "alt": "Gone (Korean ver.) (아프다)",
+  "title": "Gone (Korean ver.) (아프다)",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/fCWg1XYTySw",
+  "category": "Releases",
+  "member": "우기",
+  "date": "2025-09-16T18:00:02",
+  "duration": "00:03:16",
+  "thumbnail": "https://i.ytimg.com/vi/fCWg1XYTySw/maxresdefault.jpg",
+  "alt": "Gone (Chinese ver.) (还痛吗)",
+  "title": "Gone (Chinese ver.) (还痛吗)",
+  "subtag": "Audio Track"
+}
 
 {
   "link": "https://youtu.be/DcxiggTs_q4",
@@ -1508,28 +1532,92 @@ const releasesCards = [
   "duration": "00:03:51",
   "thumbnail": "https://i.ytimg.com/vi/DcxiggTs_q4/maxresdefault.jpg",
   "alt": "i-dle 'どうしよっかな (Where Do We Go)' M/V",
-  "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V"
+  "title": "i-dle 'どうしよっかな (Where Do We Go)' M/V",
+  "subtag": "MV"
 },
+
 {
   "link": "https://youtu.be/nXWEZT0fVYY",
   "category": "Releases",
   "member": "미연",
-  "date": "2025-10-28T18:00:00",
+  "date": "2025-10-28T18:00:01",
   "duration": "00:03:18",
   "thumbnail": "https://i.ytimg.com/vi/nXWEZT0fVYY/maxresdefault.jpg",
   "alt": "미연 (MIYEON) 'Reno (Feat. Colde)' Official Music Video",
-  "title": "미연 (MIYEON) 'Reno (Feat. Colde)' Official Music Video"
+  "title": "미연 (MIYEON) 'Reno (Feat. Colde)' Official Music Video",
+  "subtag": "MV"
 },
 
 {
   "link": "https://youtu.be/9g9NClV1z_w",
   "category": "Releases",
   "member": "미연",
-  "date": "2025-11-03T18:00:00",
+  "date": "2025-11-03T18:00:02",
   "duration": "00:02:51",
   "thumbnail": "https://i.ytimg.com/vi/9g9NClV1z_w/maxresdefault.jpg",
   "alt": "미연 (MIYEON) 'Say My Name' Official Music Video",
-  "title": "미연 (MIYEON) 'Say My Name' Official Music Video"
+  "title": "미연 (MIYEON) 'Say My Name' Official Music Video",
+  "subtag": "MV"
+},
+
+{
+  "link": "https://youtu.be/7w-w7WYTs6I",
+  "category": "Releases",
+  "member": "미연",
+  "date": "2025-11-03T18:00:03",
+  "duration": "00:02:45",
+  "thumbnail": "https://i.ytimg.com/vi/7w-w7WYTs6I/maxresdefault.jpg",
+  "alt": "미연(MIYEON) - F.F.L.Y",
+  "title": "미연(MIYEON) - F.F.L.Y",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/GWcxYdZFIpY",
+  "category": "Releases",
+  "member": "미연",
+  "date": "2025-11-03T18:00:04",
+  "duration": "00:02:20",
+  "thumbnail": "https://i.ytimg.com/vi/GWcxYdZFIpY/maxresdefault.jpg",
+  "alt": "미연(MIYEON) - Space Invader",
+  "title": "미연(MIYEON) - Space Invader",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/XG-CFHe-qy0",
+  "category": "Releases",
+  "member": "미연",
+  "date": "2025-11-03T18:00:05",
+  "duration": "00:02:57",
+  "thumbnail": "https://i.ytimg.com/vi/XG-CFHe-qy0/maxresdefault.jpg",
+  "alt": "미연(MIYEON) - You And No One Else",
+  "title": "미연(MIYEON) - You And No One Else",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/fIPZgZ_ZXC8",
+  "category": "Releases",
+  "member": "미연",
+  "date": "2025-11-03T18:00:06",
+  "duration": "00:03:09",
+  "thumbnail": "https://i.ytimg.com/vi/fIPZgZ_ZXC8/maxresdefault.jpg",
+  "alt": "미연(MIYEON) - Petal Shower",
+  "title": "미연(MIYEON) - Petal Shower",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/yOw7O0pQNDA",
+  "category": "Releases",
+  "member": "미연",
+  "date": "2025-11-03T18:00:07",
+  "duration": "00:03:01",
+  "thumbnail": "https://i.ytimg.com/vi/yOw7O0pQNDA/maxresdefault.jpg",
+  "alt": "미연(MIYEON) - Show",
+  "title": "미연(MIYEON) - Show",
+  "subtag": "Audio Track"
 }
 
 ];
