@@ -613,42 +613,6 @@ const releasesCards = [
 },
 
 {
-  "link": "https://youtu.be/-XITgCvjNcs",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2022-03-14T18:00:06",
-  "duration": "00:03:03",
-  "thumbnail": "https://i.ytimg.com/vi/-XITgCvjNcs/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - Reset",
-  "title": "(여자)아이들((G)I-DLE) - Reset",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/j63pm9UlLyo",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2022-03-14T18:00:07",
-  "duration": "00:03:07",
-  "thumbnail": "https://i.ytimg.com/vi/j63pm9UlLyo/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - Sculpture (조각품)",
-  "title": "(여자)아이들((G)I-DLE) - Sculpture (조각품)",
-  "subtag": "Audio Track"
-},
-
-{
-  "link": "https://youtu.be/W-ed1dZT0NU",
-  "category": "Releases",
-  "member": "아이들",
-  "date": "2022-03-14T18:00:08",
-  "duration": "00:02:46",
-  "thumbnail": "https://i.ytimg.com/vi/W-ed1dZT0NU/maxresdefault.jpg",
-  "alt": "(여자)아이들((G)I-DLE) - DARK (X-file)",
-  "title": "(여자)아이들((G)I-DLE) - DARK (X-file)",
-  "subtag": "Audio Track"
-},
-
-{
   "link": "https://youtu.be/Si5pQHRRH5w",
   "category": "Releases",
   "member": "아이들",
@@ -766,6 +730,42 @@ const releasesCards = [
   "alt": "(여자)아이들((G)I-DLE) - 'Nxde' Official Music Video",
   "title": "(여자)아이들((G)I-DLE) - 'Nxde' Official Music Video",
   "subtag": "MV"
+},
+
+{
+  "link": "https://youtu.be/-XITgCvjNcs",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2022-10-17T18:00:04",
+  "duration": "00:03:03",
+  "thumbnail": "https://i.ytimg.com/vi/-XITgCvjNcs/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - Reset",
+  "title": "(여자)아이들((G)I-DLE) - Reset",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/j63pm9UlLyo",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2022-10-17T18:00:05",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/j63pm9UlLyo/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - Sculpture (조각품)",
+  "title": "(여자)아이들((G)I-DLE) - Sculpture (조각품)",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/W-ed1dZT0NU",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2022-10-17T18:00:06",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/W-ed1dZT0NU/maxresdefault.jpg",
+  "alt": "(여자)아이들((G)I-DLE) - DARK (X-file)",
+  "title": "(여자)아이들((G)I-DLE) - DARK (X-file)",
+  "subtag": "Audio Track"
 },
 
 {
@@ -1489,18 +1489,6 @@ const releasesCards = [
 },
 
 {
-  "link": "https://youtu.be/iGNd-8gkB5E",
-  "category": "Releases",
-  "member": "우기",
-  "date": "2025-09-23T18:00:01",
-  "duration": "00:03:15",
-  "thumbnail": "https://i.ytimg.com/vi/iGNd-8gkB5E/maxresdefault.jpg",
-  "alt": "우기 (YUQI) '还痛吗' SPECIAL CLIP",
-  "title": "우기 (YUQI) '还痛吗' SPECIAL CLIP",
-  "subtag": "Special Clip"
-},
-
-{
   "link": "https://youtu.be/9KsOU_20nUU",
   "category": "Releases",
   "member": "우기",
@@ -1522,6 +1510,18 @@ const releasesCards = [
   "alt": "Gone (Chinese ver.) (还痛吗)",
   "title": "Gone (Chinese ver.) (还痛吗)",
   "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/iGNd-8gkB5E",
+  "category": "Releases",
+  "member": "우기",
+  "date": "2025-09-23T18:00:01",
+  "duration": "00:03:15",
+  "thumbnail": "https://i.ytimg.com/vi/iGNd-8gkB5E/maxresdefault.jpg",
+  "alt": "우기 (YUQI) '还痛吗' SPECIAL CLIP",
+  "title": "우기 (YUQI) '还痛吗' SPECIAL CLIP",
+  "subtag": "Special Clip"
 },
 
 {
@@ -1619,6 +1619,7 @@ const releasesCards = [
   "title": "미연(MIYEON) - Show",
   "subtag": "Audio Track"
 }
+
 
 ];
 window.releasesCards = releasesCards;
