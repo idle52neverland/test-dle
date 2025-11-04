@@ -1559,7 +1559,53 @@ const releasesCards = [
   "title": "미연 (MIYEON) 'Say My Name' Official Music Video",
   "subtag": "MV"
 },
+{
+  "link": "https://youtu.be/BiaPFyAu7t0",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2025-10-03T18:00:02",
+  "duration": "00:02:48",
+  "thumbnail": "https://i.ytimg.com/vi/BiaPFyAu7t0/maxresdefault.jpg",
+  "alt": "Invincible",
+  "title": "Invincible",
+  "subtag": "Audio Track"
+},
 
+{
+  "link": "https://youtu.be/FlpiE5vpEzY",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2025-10-03T18:00:03",
+  "duration": "00:03:46",
+  "thumbnail": "https://i.ytimg.com/vi/FlpiE5vpEzY/maxresdefault.jpg",
+  "alt": "Farewell to the World",
+  "title": "Farewell to the World",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/tujptltnMvM",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2025-10-03T18:00:04",
+  "duration": "00:02:41",
+  "thumbnail": "https://i.ytimg.com/vi/tujptltnMvM/maxresdefault.jpg",
+  "alt": "Fate (Japanese ver.)",
+  "title": "Fate (Japanese ver.)",
+  "subtag": "Audio Track"
+},
+
+{
+  "link": "https://youtu.be/FnDu_-mgV2M",
+  "category": "Releases",
+  "member": "아이들",
+  "date": "2025-10-03T18:00:05",
+  "duration": "00:02:41",
+  "thumbnail": "https://i.ytimg.com/vi/FnDu_-mgV2M/maxresdefault.jpg",
+  "alt": "Queencard (Japanese ver.)",
+  "title": "Queencard (Japanese ver.)",
+  "subtag": "Audio Track"
+},
 {
   "link": "https://youtu.be/7w-w7WYTs6I",
   "category": "Releases",
