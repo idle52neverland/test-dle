@@ -1522,7 +1522,7 @@ const releasesCards = [
   "alt": "Gone (Chinese ver.) (还痛吗)",
   "title": "Gone (Chinese ver.) (还痛吗)",
   "subtag": "Audio Track"
-}
+},
 
 {
   "link": "https://youtu.be/DcxiggTs_q4",
