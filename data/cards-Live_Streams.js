@@ -4617,8 +4617,17 @@ const liveStreamsCards = [
   "thumbnail": "https://i.ytimg.com/vi/2_1LWsl5mtU/maxresdefault.jpg",
   "alt": "미연 (MIYEON) 2nd Mini Album [MY, Lover] FAN SHOWCASE LIVE",
   "title": "미연 (MIYEON) 2nd Mini Album [MY, Lover] FAN SHOWCASE LIVE"
+},
+{
+  "link": "https://weverse.io/i-dle/live/2-166396246",
+  "category": "Live_Streams",
+  "member": "미연",
+  "date": "2025-11-04T18:00:00",
+  "duration": "00:18:59",
+  "thumbnail": "https://phinf.wevpstatic.net/MjAyNTExMDRfOTUg/MDAxNzYyMjM3NDk3MTk0.jm4rVXnV-yC4-sbiLbEXi1NH5P8yPzN7Qy3AA0aRrIsg.Bi8j2sfYLwLxHRROG6i5I_D41vBTopzbj6EpaF_rREsg.JPEG/thumb.jpg?type=f_or_off_640_360",
+  "alt": "며닝🍀",
+  "title": "며닝🍀"
 }
-
 
 ];
 window.liveStreamsCards = liveStreamsCards;
