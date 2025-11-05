@@ -10006,7 +10006,7 @@ const officialChannelCards = [
   "thumbnail": "https://i.ytimg.com/vi/8Mz4MHDGwrM/maxresdefault.jpg",
   "alt": "[Motivation] 포토북 촬영 비하인드 [SONG TALK TALK] #8 | 우기 (YUQI)ㅣSUB",
   "title": "[Motivation] 포토북 촬영 비하인드 [SONG TALK TALK] #8 | 우기 (YUQI)ㅣSUB",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "비하인드 외전 | Extra Behind"
 },
 
 {
@@ -10018,7 +10018,7 @@ const officialChannelCards = [
   "thumbnail": "https://i.ytimg.com/vi/azRBA3xIodE/maxresdefault.jpg",
   "alt": "'M.O.' M/V 촬영 비하인드 [SONG TALK TALK] #9 | 우기 (YUQI)ㅣSUB",
   "title": "'M.O.' M/V 촬영 비하인드 [SONG TALK TALK] #9 | 우기 (YUQI)ㅣSUB",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "비하인드 외전 | Extra Behind"
 },
 
 {
@@ -10042,7 +10042,7 @@ const officialChannelCards = [
   "thumbnail": "https://i.ytimg.com/vi/_lrB96f2nr4/maxresdefault.jpg",
   "alt": "'아프다' M/V 촬영 비하인드 [SONG TALK TALK] #10 | 우기 (YUQI)ㅣSUB",
   "title": "'아프다' M/V 촬영 비하인드 [SONG TALK TALK] #10 | 우기 (YUQI)ㅣSUB",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "비하인드 외전 | Extra Behind"
 },
 
 {
@@ -10244,7 +10244,7 @@ const officialChannelCards = [
   "thumbnail": "https://i.ytimg.com/vi/GCmKM7Y0-D4/maxresdefault.jpg",
   "alt": "'M.O.' 음악방송 비하인드 [SONG TALK TALK] #11 | 우기 (YUQI)ㅣSUB",
   "title": "'M.O.' 음악방송 비하인드 [SONG TALK TALK] #11 | 우기 (YUQI)ㅣSUB",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "비하인드 외전 | Extra Behind"
 },
 {
   "link": "https://youtu.be/3T23a-16-Vo",
@@ -10361,7 +10361,7 @@ const officialChannelCards = [
   "thumbnail": "https://i.ytimg.com/vi/PrzQHB1PDU8/maxresdefault.jpg",
   "alt": "'Reno (Feat. Colde)' M/V 촬영 비하인드 [MY, Talk] #1 | 미연 (MIYEON)ㅣSUB",
   "title": "'Reno (Feat. Colde)' M/V 촬영 비하인드 [MY, Talk] #1 | 미연 (MIYEON)ㅣSUB",
-  "subtag": "아이톡 | I-TALK"
+  "subtag": "비하인드 외전 | Extra Behind"
 },
 
 {
@@ -10374,7 +10374,33 @@ const officialChannelCards = [
   "alt": "미연 (MIYEON) 'Say My Name' 응원법ㅣSUB",
   "title": "미연 (MIYEON) 'Say My Name' 응원법ㅣSUB",
   "subtag": "응원법 | Fan Chant"
+},
+
+{
+  "link": "https://youtu.be/SdBgIN4_sIg",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-11-04T18:00:00",
+  "duration": "00:02:30",
+  "thumbnail": "https://i.ytimg.com/vi/SdBgIN4_sIg/maxresdefault.jpg",
+  "alt": "'Say My Name' M/V Behind Preview | 미연 (MIYEON)ㅣSUB",
+  "title": "'Say My Name' M/V Behind Preview | 미연 (MIYEON)ㅣSUB",
+  "subtag": "비하인드 외전 | Extra Behind"
+},
+
+{
+  "link": "https://youtu.be/Ei5L6bl32f4",
+  "category": "Official_Channel",
+  "member": "우기",
+  "date": "2025-11-05T18:00:00",
+  "duration": "00:11:23",
+  "thumbnail": "https://i.ytimg.com/vi/Ei5L6bl32f4/maxresdefault.jpg",
+  "alt": "우기의 '2025 YUQI FAN-CON SUPERSTAR琦妙夜' 비하인드 [i-talk] #227 | i-dle (아이들)ㅣSUB",
+  "title": "우기의 '2025 YUQI FAN-CON SUPERSTAR琦妙夜' 비하인드 [i-talk] #227 | i-dle (아이들)ㅣSUB",
+  "subtag": "아이톡 | I-TALK"
 }
+
+
 
 
 

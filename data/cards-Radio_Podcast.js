@@ -1714,6 +1714,16 @@ const radioPodcastCards = [
   "thumbnail": "https://i.ytimg.com/vi/ODLKMLGMpJ0/maxresdefault.jpg",
   "alt": "[FULL] 장르 불문 올라운더들의 만남! 김희재(Kim Hee Jae), 우기(YUQI) 보는 라디오 | 두시탈출 컬투쇼 | 250923",
   "title": "[FULL] 장르 불문 올라운더들의 만남! 김희재(Kim Hee Jae), 우기(YUQI) 보는 라디오 | 두시탈출 컬투쇼 | 250923"
+},
+{
+  "link": "https://youtu.be/cx2KraG7HXI",
+  "category": "Radio_Podcast",
+  "member": "미연",
+  "date": "2025-11-05T18:00:00",
+  "duration": "00:47:34",
+  "thumbnail": "https://i.ytimg.com/vi/cx2KraG7HXI/maxresdefault.jpg",
+  "alt": "[FULL] 면프로디테가 인간계에서 노래를 냈는데 다들 안 듣는다고? 🥹 아이들 ✨미연✨공주가 이렇게 예쁜데? | 친한친구 이현입니다 | MBC 251105 방송",
+  "title": "[FULL] 면프로디테가 인간계에서 노래를 냈는데 다들 안 듣는다고? 🥹 아이들 ✨미연✨공주가 이렇게 예쁜데? | 친한친구 이현입니다 | MBC 251105 방송"
 }
 
 

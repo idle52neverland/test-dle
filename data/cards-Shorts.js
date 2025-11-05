@@ -16500,6 +16500,137 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/GCR2jFT3yB8/maxresdefault.jpg",
   "alt": "[it's Live] COMING UP NEXT 💜 #미연 #잇츠라이브",
   "title": "[it's Live] COMING UP NEXT 💜 #미연 #잇츠라이브"
+},
+{
+  "link": "https://youtu.be/V_nP23-XLWM",
+  "category": "Shorts",
+  "member": "미연, 민니",
+  "date": "2025-11-04T18:00:00",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/V_nP23-XLWM/maxresdefault.jpg",
+  "alt": "𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #민니 #MINNIE 처럼🥰❣️",
+  "title": "𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #민니 #MINNIE 처럼🥰❣️"
+},
+
+{
+  "link": "https://youtu.be/6tIwEsbmzI4",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-04T18:00:00",
+  "duration": "00:00:07",
+  "thumbnail": "https://i.ytimg.com/vi/6tIwEsbmzI4/maxresdefault.jpg",
+  "alt": "𝒀𝒐𝒖 𝒔𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 👨‍🍳🍽️ with #최현석 셰프 #냉부PT",
+  "title": "𝒀𝒐𝒖 𝒔𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 👨‍🍳🍽️ with #최현석 셰프 #냉부PT"
+},
+
+{
+  "link": "https://youtu.be/hvMJW4OTd54",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-04T18:00:00",
+  "duration": "00:00:32",
+  "thumbnail": "https://i.ytimg.com/vi/hvMJW4OTd54/maxresdefault.jpg",
+  "alt": "#츄 #CHUU 𝒔𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 🥰💖 @CHUUOfficial",
+  "title": "#츄 #CHUU 𝒔𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 🥰💖 @CHUUOfficial"
+},
+
+{
+  "link": "https://youtu.be/qQouOWsPySA",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-04T18:00:00",
+  "duration": "00:00:40",
+  "thumbnail": "https://i.ytimg.com/vi/qQouOWsPySA/maxresdefault.jpg",
+  "alt": "제 최애 고무 영상을 소개합니다. | it's Live #미연 #잇츠라이브",
+  "title": "제 최애 고무 영상을 소개합니다. | it's Live #미연 #잇츠라이브"
+},
+
+{
+  "link": "https://youtu.be/zEjhks7h6Cg",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-04T18:00:00",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/zEjhks7h6Cg/maxresdefault.jpg",
+  "alt": "갑차기스러운데.. 미연 입덕해도 돼? (^///^) | it's Live #미연 #잇츠라이브",
+  "title": "갑차기스러운데.. 미연 입덕해도 돼? (^///^) | it's Live #미연 #잇츠라이브"
+},
+
+{
+  "link": "https://youtu.be/QHNFkRNQUyU",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-04T18:00:00",
+  "duration": "00:00:20",
+  "thumbnail": "https://i.ytimg.com/vi/QHNFkRNQUyU/maxresdefault.jpg",
+  "alt": "[it’s CAM] 미연 퇴근해보겠습니다! | it's Live #MIYEON #잇츠라이브",
+  "title": "[it’s CAM] 미연 퇴근해보겠습니다! | it's Live #MIYEON #잇츠라이브"
+},
+
+{
+  "link": "https://youtu.be/53KoFO8qJQc",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-04T18:00:00",
+  "duration": "00:00:12",
+  "thumbnail": "https://i.ytimg.com/vi/53KoFO8qJQc/maxresdefault.jpg",
+  "alt": "𝐒𝐚𝐲 ♡𝐌𝐈𝐘𝐄𝐎𝐍♡ 𝐧𝐚𝐦𝐞",
+  "title": "𝐒𝐚𝐲 ♡𝐌𝐈𝐘𝐄𝐎𝐍♡ 𝐧𝐚𝐦𝐞"
+},
+
+{
+  "link": "https://youtu.be/x5kSD9A6E7I",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-04T18:00:00",
+  "duration": "00:00:39",
+  "thumbnail": "https://i.ytimg.com/vi/x5kSD9A6E7I/maxresdefault.jpg",
+  "alt": "MIYEON [MY, Lover] FAN SHOWCASE Behind ᰔ",
+  "title": "MIYEON [MY, Lover] FAN SHOWCASE Behind ᰔ"
+},
+
+{
+  "link": "https://youtu.be/kHpGCKdoEqA",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-04T18:00:00",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/kHpGCKdoEqA/maxresdefault.jpg",
+  "alt": "𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆🥰 미연(MIYEON) 'Say My Name' 챌린지 / [이은지의 가요광장] I KBS 251104 방송",
+  "title": "𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆🥰 미연(MIYEON) 'Say My Name' 챌린지 / [이은지의 가요광장] I KBS 251104 방송"
+},
+
+{
+  "link": "https://youtu.be/7O1x6vqYOFM",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-05T18:00:00",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/7O1x6vqYOFM/maxresdefault.jpg",
+  "alt": "미연이의 이름을 찾아서 불러줘 (* ˊᵕˋㅅ)",
+  "title": "미연이의 이름을 찾아서 불러줘 (* ˊᵕˋㅅ)"
+},
+
+{
+  "link": "https://youtu.be/rrB1OFLJCew",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-05T18:00:00",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/rrB1OFLJCew/maxresdefault.jpg",
+  "alt": "다 같이 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #YouJaePhil #유재필 MC님처럼 👏 @YJP_official",
+  "title": "다 같이 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #YouJaePhil #유재필 MC님처럼 👏 @YJP_official"
+},
+
+{
+  "link": "https://youtu.be/xzIfpUtlPI4",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-05T18:00:00",
+  "duration": "00:00:34",
+  "thumbnail": "https://i.ytimg.com/vi/xzIfpUtlPI4/maxresdefault.jpg",
+  "alt": "힘차게 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆  #이은지 #LEE_EUNJI 선배님처럼 🫡 @eunjirang92",
+  "title": "힘차게 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆  #이은지 #LEE_EUNJI 선배님처럼 🫡 @eunjirang92"
 }
 
 

@@ -1075,7 +1075,18 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/qm9C5GTB5VA/maxresdefault.jpg",
   "alt": "《回魂計》 | 宣傳曲：i-dle MINNIE/SHUHUA〈Burn Me Into The Light〉 | 音樂錄影帶 | Netflix",
   "title": "《回魂計》 | 宣傳曲：i-dle MINNIE/SHUHUA〈Burn Me Into The Light〉 | 音樂錄影帶 | Netflix"
+},
+{
+  "link": "https://youtu.be/vqj2amXFKg0",
+  "category": "Special_Releases",
+  "member": "민니",
+  "date": "2025-11-05T18:00:00",
+  "duration": "00:03:08",
+  "thumbnail": "https://i.ytimg.com/vi/vqj2amXFKg0/maxresdefault.jpg",
+  "alt": "유노윤호(U-KNOW) - Premium (Feat. 민니 (MINNIE))",
+  "title": "유노윤호(U-KNOW) - Premium (Feat. 민니 (MINNIE))"
 }
+
 
   ];
 window.specialReleasesCards = specialReleasesCards;

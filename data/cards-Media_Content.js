@@ -14964,7 +14964,61 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/kCp2t2vsskk/maxresdefault.jpg",
   "alt": "〈아는 사랑 산악회〉 회장이 되기 위한 형님들의 어필 SHOW✨ | 아는 형님 505회",
   "title": "〈아는 사랑 산악회〉 회장이 되기 위한 형님들의 어필 SHOW✨ | 아는 형님 505회"
+},
+{
+  "link": "https://youtu.be/D32bYEYO7cU",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-04T18:00:00",
+  "duration": "00:45:11",
+  "thumbnail": "https://i.ytimg.com/vi/D32bYEYO7cU/maxresdefault.jpg",
+  "alt": "가광 초대석, 누구세요? with 미연(MIYEON) full ver. / [이은지의 가요광장] I KBS 251104 방송",
+  "title": "가광 초대석, 누구세요? with 미연(MIYEON) full ver. / [이은지의 가요광장] I KBS 251104 방송"
+},
+{
+  "link": "https://youtu.be/YPfuqt9oi5c",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-11-04T18:00:02",
+  "duration": "00:03:48",
+  "thumbnail": "https://i.ytimg.com/vi/YPfuqt9oi5c/maxresdefault.jpg",
+  "alt": "超真實INFP本人登場！舒華最快樂的小事太可愛了🥹 |ELLE TAIWAN",
+  "title": "超真實INFP本人登場！舒華最快樂的小事太可愛了🥹 |ELLE TAIWAN"
+},
+
+{
+  "link": "https://youtu.be/nbWvhuTQMvA",
+  "category": "Media_Content",
+  "member": "슈화",
+  "date": "2025-11-04T18:00:03",
+  "duration": "00:28:06",
+  "thumbnail": "https://i.ytimg.com/vi/nbWvhuTQMvA/maxresdefault.jpg",
+  "alt": "[SUB] 大家好, 我們是舒華JUNIOR✋🏻!《鑑定師》大結局, SUPER JUNIOR-D&E | 鑑定師 Global EP.9 | i-dle 舒華 #감별사",
+  "title": "[SUB] 大家好, 我們是舒華JUNIOR✋🏻!《鑑定師》大結局, SUPER JUNIOR-D&E | 鑑定師 Global EP.9 | i-dle 舒華 #감별사"
+},
+
+{
+  "link": "https://youtu.be/iKPDxbxodQA",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-05T18:00:01",
+  "duration": "00:16:33",
+  "thumbnail": "https://i.ytimg.com/vi/iKPDxbxodQA/maxresdefault.jpg",
+  "alt": "【MIYEON 미연】20251105 MIYEON 미연 SOHU KOREA interview 인터뷰",
+  "title": "【MIYEON 미연】20251105 MIYEON 미연 SOHU KOREA interview 인터뷰"
+},
+
+{
+  "link": "https://youtu.be/veuHpTxEzz4",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-05T18:00:02",
+  "duration": "00:33:22",
+  "thumbnail": "https://i.ytimg.com/vi/veuHpTxEzz4/maxresdefault.jpg",
+  "alt": "\"이 곡을 오늘 이해한 것 같아요\"ㅣEP.10 아이들(i-dle) 미연ㅣ미미미누의 방구석 분석",
+  "title": "\"이 곡을 오늘 이해한 것 같아요\"ㅣEP.10 아이들(i-dle) 미연ㅣ미미미누의 방구석 분석"
 }
+
 
 
 

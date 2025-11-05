@@ -3340,7 +3340,28 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/xDkvV9qiFmA/maxresdefault.jpg",
   "alt": "MIYEON 미연 ‘Say My Name’｜On the Spot｜온더스팟｜i-dle 아이들",
   "title": "MIYEON 미연 ‘Say My Name’｜On the Spot｜온더스팟｜i-dle 아이들"
+},
+{
+  "link": "https://youtu.be/4toCkWyhZ04",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-04T18:00:00",
+  "duration": "00:02:45",
+  "thumbnail": "https://i.ytimg.com/vi/4toCkWyhZ04/maxresdefault.jpg",
+  "alt": "쿨룩 LIVE ▷ 미연(MIYEON) 'Say My Name' / [이은지의 가요광장] I KBS 251104 방송",
+  "title": "쿨룩 LIVE ▷ 미연(MIYEON) 'Say My Name' / [이은지의 가요광장] I KBS 251104 방송"
+},
+{
+  "link": "https://youtu.be/sLYnkkTWcz0",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-04T18:00:00",
+  "duration": "00:03:31",
+  "thumbnail": "https://i.ytimg.com/vi/sLYnkkTWcz0/maxresdefault.jpg",
+  "alt": "[4K] 미연(MIYEON) “Say My Name” Band LIVE | it's Live",
+  "title": "[4K] 미연(MIYEON) “Say My Name” Band LIVE | it's Live"
 }
+
 
 
 
