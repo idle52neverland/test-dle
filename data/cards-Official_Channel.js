@@ -10421,7 +10421,20 @@ const officialChannelCards = [
   "alt": "미연 (MIYEON) 'Reno (Feat. Colde)' LIVE CLIP (FAN SHOWCASE Ver.)",
   "title": "미연 (MIYEON) 'Reno (Feat. Colde)' LIVE CLIP (FAN SHOWCASE Ver.)",
   "subtag": "퍼포먼스 | Performance"
+},
+
+{
+  "link": "https://youtu.be/gCnwz77Rrr8",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-11-07T18:00:00",
+  "duration": "00:16:24",
+  "thumbnail": "https://i.ytimg.com/vi/gCnwz77Rrr8/maxresdefault.jpg",
+  "alt": "[MY, Lover] 재킷 & Intro Film & Audio Snippet 촬영 비하인드 [MY, Talk] #2 | 미연 (MIYEON)ㅣSUB",
+  "title": "[MY, Lover] 재킷 & Intro Film & Audio Snippet 촬영 비하인드 [MY, Talk] #2 | 미연 (MIYEON)ㅣSUB",
+  "subtag": "비하인드 외전 | Extra Behind"
 }
+
 
 
 

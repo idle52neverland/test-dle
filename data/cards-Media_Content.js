@@ -15038,6 +15038,38 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/5AiH1Se-8t8/maxresdefault.jpg",
   "alt": "미연 vs 메이저리그 퀴즈 대결⚾ 다 맞히면 진짜 찐팬 인정?!",
   "title": "미연 vs 메이저리그 퀴즈 대결⚾ 다 맞히면 진짜 찐팬 인정?!"
+},
+{
+  "link": "https://youtu.be/UbNDibuC4YQ",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-07T18:00:00",
+  "duration": "00:28:27",
+  "thumbnail": "https://i.ytimg.com/vi/UbNDibuC4YQ/maxresdefault.jpg",
+  "alt": "[sub] 미연이가 이런 말도 할 줄 안다구?! 기특하고 대견한 미연이 💛 I 혤's club🍸 ep65 미연",
+  "title": "[sub] 미연이가 이런 말도 할 줄 안다구?! 기특하고 대견한 미연이 💛 I 혤's club🍸 ep65 미연"
+},
+
+{
+  "link": "https://youtu.be/4V3d7MtE014",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-07T18:00:00",
+  "duration": "00:17:37",
+  "thumbnail": "https://i.ytimg.com/vi/4V3d7MtE014/maxresdefault.jpg",
+  "alt": "아이돌 가수인 내가 이 세계에선 미연공주?!👸🏻 | 아이들 미연 | 콜미베이비 EP.06",
+  "title": "아이돌 가수인 내가 이 세계에선 미연공주?!👸🏻 | 아이들 미연 | 콜미베이비 EP.06"
+},
+
+{
+  "link": "https://youtu.be/L-Az6rzq_Ek",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-07T18:00:00",
+  "duration": "00:31:55",
+  "thumbnail": "https://i.ytimg.com/vi/L-Az6rzq_Ek/maxresdefault.jpg",
+  "alt": "[별의 문단속] 둘 중 하나긴 한데 천재 같긴 해 l EP.14 미연(MIYEON)편",
+  "title": "[별의 문단속] 둘 중 하나긴 한데 천재 같긴 해 l EP.14 미연(MIYEON)편"
 }
 
 

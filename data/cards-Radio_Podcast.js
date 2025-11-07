@@ -1724,6 +1724,16 @@ const radioPodcastCards = [
   "thumbnail": "https://i.ytimg.com/vi/cx2KraG7HXI/maxresdefault.jpg",
   "alt": "[FULL] 면프로디테가 인간계에서 노래를 냈는데 다들 안 듣는다고? 🥹 아이들 ✨미연✨공주가 이렇게 예쁜데? | 친한친구 이현입니다 | MBC 251105 방송",
   "title": "[FULL] 면프로디테가 인간계에서 노래를 냈는데 다들 안 듣는다고? 🥹 아이들 ✨미연✨공주가 이렇게 예쁜데? | 친한친구 이현입니다 | MBC 251105 방송"
+},
+{
+  "link": "https://youtu.be/iFfT8xT8Gzg",
+  "category": "Radio_Podcast",
+  "member": "미연",
+  "date": "2025-11-06T18:00:00",
+  "duration": "00:44:35",
+  "thumbnail": "https://i.ytimg.com/vi/iFfT8xT8Gzg/maxresdefault.jpg",
+  "alt": "[FULL] 솔로 아티스트 면공주 등장👑 미연(MIYEON) 보는 라디오 | 스페셜 DJ 김지은 | 웬디의 영스트리트 | 251106",
+  "title": "[FULL] 솔로 아티스트 면공주 등장👑 미연(MIYEON) 보는 라디오 | 스페셜 DJ 김지은 | 웬디의 영스트리트 | 251106"
 }
 
 

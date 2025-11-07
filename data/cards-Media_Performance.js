@@ -3401,6 +3401,16 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/Yu6fN0DaAeA/maxresdefault.jpg",
   "alt": "[ALLIVE] 미연(MIYEON) - Say My Name | 올라이브 | 친한친구 이현입니다｜MBC 251105 방송",
   "title": "[ALLIVE] 미연(MIYEON) - Say My Name | 올라이브 | 친한친구 이현입니다｜MBC 251105 방송"
+},
+{
+  "link": "https://youtu.be/aIrl2cPX1M8",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-07T18:00:00",
+  "duration": "00:02:55",
+  "thumbnail": "https://i.ytimg.com/vi/aIrl2cPX1M8/maxresdefault.jpg",
+  "alt": "[LIVE] 미연(MIYEON) - Say My Name | 웬디의 영스트리트",
+  "title": "[LIVE] 미연(MIYEON) - Say My Name | 웬디의 영스트리트"
 }
 
 

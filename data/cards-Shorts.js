@@ -16673,6 +16673,49 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/qFDkaKnfYEE/maxresdefault.jpg",
   "alt": "𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #슈퍼주니어 #SUPERJUNIOR #희철 #HEECHUL 선배님처럼 😎 @SUPERJUNIOR",
   "title": "𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #슈퍼주니어 #SUPERJUNIOR #희철 #HEECHUL 선배님처럼 😎 @SUPERJUNIOR"
+},
+{
+  "link": "https://youtu.be/TQZRtTMuy1Q",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-07T18:00:00",
+  "duration": "00:00:33",
+  "thumbnail": "https://i.ytimg.com/vi/TQZRtTMuy1Q/maxresdefault.jpg",
+  "alt": "네버버~ [MY, Lover] POP-UP 놀러 와 ♥",
+  "title": "네버버~ [MY, Lover] POP-UP 놀러 와 ♥"
+},
+
+{
+  "link": "https://youtu.be/Vcoxaq-0wgw",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-07T18:00:00",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/Vcoxaq-0wgw/maxresdefault.jpg",
+  "alt": "미연씨 축하해요 그렇게 태어나신 거 | GS25",
+  "title": "미연씨 축하해요 그렇게 태어나신 거 | GS25"
+},
+
+{
+  "link": "https://youtu.be/JJMQmtJTtrU",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-07T18:00:00",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/JJMQmtJTtrU/maxresdefault.jpg",
+  "alt": "나의 입맛대로 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #LE_SSERAFIM #르세라핌 #KAZUHA #카즈하 처럼 🍝 @LESSERAFIM_official",
+  "title": "나의 입맛대로 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #LE_SSERAFIM #르세라핌 #KAZUHA #카즈하 처럼 🍝 @LESSERAFIM_official"
+},
+
+{
+  "link": "https://youtu.be/hdPxDdZciH0",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-07T18:00:00",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/hdPxDdZciH0/maxresdefault.jpg",
+  "alt": "우린 매일 같이 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #앤팀 #andTEAM #조 #JO 처럼 💥 @andTEAM_official",
+  "title": "우린 매일 같이 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #앤팀 #andTEAM #조 #JO 처럼 💥 @andTEAM_official"
 }
 
 

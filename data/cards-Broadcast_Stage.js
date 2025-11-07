@@ -11005,7 +11005,40 @@ const broadcastStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/PwwFVIk0PvU/maxresdefault.jpg",
   "alt": "[#2025MAMA] CHAPTER 1 PERFORMING ARTIST #idle",
   "title": "[#2025MAMA] CHAPTER 1 PERFORMING ARTIST #idle"
+},
+{
+  "link": "https://youtu.be/9hfQVR80ITM",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-07T18:00:00",
+  "duration": "00:03:12",
+  "thumbnail": "https://i.ytimg.com/vi/9hfQVR80ITM/maxresdefault.jpg",
+  "alt": "[K-Choreo 8K] 미연 직캠 'Say My Name' (MIYEON Choreography) @MusicBank 251107",
+  "title": "[K-Choreo 8K] 미연 직캠 'Say My Name' (MIYEON Choreography) @MusicBank 251107"
+},
+
+{
+  "link": "https://youtu.be/EMkt0Lk-ZxU",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-07T18:00:00",
+  "duration": "00:02:58",
+  "thumbnail": "https://i.ytimg.com/vi/EMkt0Lk-ZxU/maxresdefault.jpg",
+  "alt": "Say My Name - 미연 (MIYEON) [뮤직뱅크/Music Bank] | KBS 251107 방송",
+  "title": "Say My Name - 미연 (MIYEON) [뮤직뱅크/Music Bank] | KBS 251107 방송"
+},
+
+{
+  "link": "https://youtu.be/kfgg8bcg75E",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-07T18:00:00",
+  "duration": "00:03:11",
+  "thumbnail": "https://i.ytimg.com/vi/kfgg8bcg75E/maxresdefault.jpg",
+  "alt": "[MusicBank Interview Cam] 선미 & 미연 (SUNMI & MIYEON Interview) l @MusicBank KBS 251107",
+  "title": "[MusicBank Interview Cam] 선미 & 미연 (SUNMI & MIYEON Interview) l @MusicBank KBS 251107"
 }
+
 
 
 ];
