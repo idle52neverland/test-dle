@@ -16631,6 +16631,48 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/xzIfpUtlPI4/maxresdefault.jpg",
   "alt": "힘차게 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆  #이은지 #LEE_EUNJI 선배님처럼 🫡 @eunjirang92",
   "title": "힘차게 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆  #이은지 #LEE_EUNJI 선배님처럼 🫡 @eunjirang92"
+},
+{
+  "link": "https://youtu.be/kHpGCKdoEqA",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-04T18:00:00",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/kHpGCKdoEqA/maxresdefault.jpg",
+  "alt": "𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆🥰 미연(MIYEON) 'Say My Name' 챌린지 / [이은지의 가요광장] I KBS 251104 방송",
+  "title": "𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆🥰 미연(MIYEON) 'Say My Name' 챌린지 / [이은지의 가요광장] I KBS 251104 방송"
+},
+{
+  "link": "https://youtu.be/Ur0CWoc-eX8",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-06T18:00:00",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/Ur0CWoc-eX8/maxresdefault.jpg",
+  "alt": "𝗬𝗼𝘂 𝘀𝗮𝘆 𝗺𝘆 𝗻𝗮𝗺𝗲 꼭 그날처럼",
+  "title": "𝗬𝗼𝘂 𝘀𝗮𝘆 𝗺𝘆 𝗻𝗮𝗺𝗲 꼭 그날처럼"
+},
+
+{
+  "link": "https://youtu.be/RATkTfdYgqk",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-06T18:00:00",
+  "duration": "00:00:35",
+  "thumbnail": "https://i.ytimg.com/vi/RATkTfdYgqk/maxresdefault.jpg",
+  "alt": "애절하게 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #미미미누 #Mimiminu 처럼 🥹 @미미미누",
+  "title": "애절하게 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #미미미누 #Mimiminu 처럼 🥹 @미미미누"
+},
+
+{
+  "link": "https://youtu.be/qFDkaKnfYEE",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-06T18:00:00",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/qFDkaKnfYEE/maxresdefault.jpg",
+  "alt": "𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #슈퍼주니어 #SUPERJUNIOR #희철 #HEECHUL 선배님처럼 😎 @SUPERJUNIOR",
+  "title": "𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #슈퍼주니어 #SUPERJUNIOR #희철 #HEECHUL 선배님처럼 😎 @SUPERJUNIOR"
 }
 
 

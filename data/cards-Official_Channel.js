@@ -10398,6 +10398,29 @@ const officialChannelCards = [
   "alt": "우기의 '2025 YUQI FAN-CON SUPERSTAR琦妙夜' 비하인드 [i-talk] #227 | i-dle (아이들)ㅣSUB",
   "title": "우기의 '2025 YUQI FAN-CON SUPERSTAR琦妙夜' 비하인드 [i-talk] #227 | i-dle (아이들)ㅣSUB",
   "subtag": "아이톡 | I-TALK"
+},
+{
+  "link": "https://youtu.be/rVIN9uv3v0Y",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-11-06T18:00:00",
+  "duration": "00:02:47",
+  "thumbnail": "https://i.ytimg.com/vi/rVIN9uv3v0Y/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 'Say My Name' LIVE CLIP (FAN SHOWCASE Ver.)",
+  "title": "미연 (MIYEON) 'Say My Name' LIVE CLIP (FAN SHOWCASE Ver.)",
+  "subtag": "퍼포먼스 | Performance"
+},
+
+{
+  "link": "https://youtu.be/RvAsGxiVeSo",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-11-07T18:00:00",
+  "duration": "00:03:11",
+  "thumbnail": "https://i.ytimg.com/vi/RvAsGxiVeSo/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 'Reno (Feat. Colde)' LIVE CLIP (FAN SHOWCASE Ver.)",
+  "title": "미연 (MIYEON) 'Reno (Feat. Colde)' LIVE CLIP (FAN SHOWCASE Ver.)",
+  "subtag": "퍼포먼스 | Performance"
 }
 
 

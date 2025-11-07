@@ -3360,6 +3360,47 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/sLYnkkTWcz0/maxresdefault.jpg",
   "alt": "[4K] 미연(MIYEON) “Say My Name” Band LIVE | it's Live",
   "title": "[4K] 미연(MIYEON) “Say My Name” Band LIVE | it's Live"
+},
+{
+  "link": "https://youtu.be/SrvryxwxxFY",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-09-23T18:00:00",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/SrvryxwxxFY/maxresdefault.jpg",
+  "alt": "(Full Focused) YUQI(우기) 'M.O.' (4K) | STUDIO CHOOM ORIGINAL",
+  "title": "(Full Focused) YUQI(우기) 'M.O.' (4K) | STUDIO CHOOM ORIGINAL"
+},
+{
+  "link": "https://youtu.be/kem086OIaMU",
+  "category": "Media_Performance",
+  "member": "우기",
+  "date": "2025-09-23T18:00:00",
+  "duration": "00:03:19",
+  "thumbnail": "https://i.ytimg.com/vi/kem086OIaMU/maxresdefault.jpg",
+  "alt": "[LIVE] 우기(YUQI) - M.O. | 두시탈출 컬투쇼",
+  "title": "[LIVE] 우기(YUQI) - M.O. | 두시탈출 컬투쇼"
+},
+{
+  "link": "https://youtu.be/JugKwutXLgg",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-06T18:00:00",
+  "duration": "00:02:39",
+  "thumbnail": "https://i.ytimg.com/vi/JugKwutXLgg/maxresdefault.jpg",
+  "alt": "[4K직캠] 미연 (MIYEON) - Say My Name",
+  "title": "[4K직캠] 미연 (MIYEON) - Say My Name"
+},
+
+{
+  "link": "https://youtu.be/Yu6fN0DaAeA",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-05T18:00:00",
+  "duration": "00:02:39",
+  "thumbnail": "https://i.ytimg.com/vi/Yu6fN0DaAeA/maxresdefault.jpg",
+  "alt": "[ALLIVE] 미연(MIYEON) - Say My Name | 올라이브 | 친한친구 이현입니다｜MBC 251105 방송",
+  "title": "[ALLIVE] 미연(MIYEON) - Say My Name | 올라이브 | 친한친구 이현입니다｜MBC 251105 방송"
 }
 
 
