@@ -3411,6 +3411,16 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/aIrl2cPX1M8/maxresdefault.jpg",
   "alt": "[LIVE] 미연(MIYEON) - Say My Name | 웬디의 영스트리트",
   "title": "[LIVE] 미연(MIYEON) - Say My Name | 웬디의 영스트리트"
+},
+{
+  "link": "https://youtu.be/51mmJmKXlos",
+  "category": "Media_Performance",
+  "member": "아이들",
+  "date": "2025-11-08T18:00:00",
+  "duration": "00:01:20",
+  "thumbnail": "https://i.ytimg.com/vi/51mmJmKXlos/maxresdefault.jpg",
+  "alt": "[FPstudio] Space Invader by i-dle MIYEON",
+  "title": "[FPstudio] Space Invader by i-dle MIYEON"
 }
 
 

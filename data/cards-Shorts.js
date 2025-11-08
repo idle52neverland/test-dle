@@ -16716,6 +16716,60 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/hdPxDdZciH0/maxresdefault.jpg",
   "alt": "우린 매일 같이 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #앤팀 #andTEAM #조 #JO 처럼 💥 @andTEAM_official",
   "title": "우린 매일 같이 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #앤팀 #andTEAM #조 #JO 처럼 💥 @andTEAM_official"
+},
+{
+  "link": "https://youtu.be/rooy6tHfexI",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-07T18:00:11",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/rooy6tHfexI/maxresdefault.jpg",
+  "alt": "Why so CYNICAL😈 #아이들 #idle #미연 #MIYEON #선미 #SUNMI #CYNICAL",
+  "title": "Why so CYNICAL😈 #아이들 #idle #미연 #MIYEON #선미 #SUNMI #CYNICAL"
+},
+
+{
+  "link": "https://youtu.be/pRdXJF4A1fI",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-08T18:00:12",
+  "duration": "00:00:21",
+  "thumbnail": "https://i.ytimg.com/vi/pRdXJF4A1fI/maxresdefault.jpg",
+  "alt": "널 잊을 수가 없게･:.｡ You say my name ✯*",
+  "title": "널 잊을 수가 없게･:.｡ You say my name ✯*"
+},
+
+{
+  "link": "https://youtu.be/4Na9RIJAIkU",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-08T18:00:13",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/4Na9RIJAIkU/maxresdefault.jpg",
+  "alt": "사랑을 가득 담아 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #혜리 #HYERI 선배님처럼 🖤 @IamLeeHyeri",
+  "title": "사랑을 가득 담아 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #혜리 #HYERI 선배님처럼 🖤 @IamLeeHyeri"
+},
+
+{
+  "link": "https://youtu.be/O7Jo9lmMkwg",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-08T18:00:14",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/O7Jo9lmMkwg/maxresdefault.jpg",
+  "alt": "완벽한 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #마마무 #MAMAMOO #문별 #MoonByul 선배님처럼 ⭐ @MAMAMOO_OFFICIAL @moonbyul2da",
+  "title": "완벽한 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #마마무 #MAMAMOO #문별 #MoonByul 선배님처럼 ⭐ @MAMAMOO_OFFICIAL @moonbyul2da"
+},
+
+{
+  "link": "https://youtu.be/G84K1tlMNpQ",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-08T18:00:15",
+  "duration": "00:00:53",
+  "thumbnail": "https://i.ytimg.com/vi/G84K1tlMNpQ/maxresdefault.jpg",
+  "alt": "𝗚𝗦𝟮𝟱 𝗫 𝗠𝗜𝗬𝗘𝗢𝗡ㅣ마법 같은 인터뷰💬 🔮",
+  "title": "𝗚𝗦𝟮𝟱 𝗫 𝗠𝗜𝗬𝗘𝗢𝗡ㅣ마법 같은 인터뷰💬 🔮"
 }
 
 
