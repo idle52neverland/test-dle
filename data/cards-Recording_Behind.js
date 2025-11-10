@@ -635,7 +635,18 @@ const recordingBehindCards = [
   "thumbnail": "https://i.ytimg.com/vi/8a67OaExWRw/maxresdefault.jpg",
   "alt": "i-dle (아이들) 'どうしよっかな' Recording BehindㅣSUB",
   "title": "i-dle (아이들) 'どうしよっかな' Recording BehindㅣSUB"
+},
+{
+  "link": "https://youtu.be/OK7RZNpyDQg",
+  "category": "Recording_Behind",
+  "member": "미연",
+  "date": "2025-11-08T18:00:00",
+  "duration": "00:15:33",
+  "thumbnail": "https://i.ytimg.com/vi/OK7RZNpyDQg/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 'Say My Name' Recording BehindㅣSUB",
+  "title": "미연 (MIYEON) 'Say My Name' Recording BehindㅣSUB"
 }
+
 
 
   ];

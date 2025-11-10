@@ -14405,8 +14405,8 @@ const mediaContentCards = [
   "date": "2025-08-26T18:00:10",
   "duration": "00:04:43",
   "thumbnail": "https://i.ytimg.com/vi/1LndTUQb6zw/maxresdefault.jpg",
-  "alt": "景德镇vlog💕 (小红书  슈화 브이로그 ep.1)",
-  "title": "景德镇vlog💕 (小红书  슈화 브이로그 ep.1)"
+  "alt": "(NO SUB) 景德镇vlog💕 (小红书  슈화 브이로그 ep.1)",
+  "title": "(NO SUB) 景德镇vlog💕 (小红书  슈화 브이로그 ep.1)"
 },
 {
   "link": "https://youtu.be/G1h2hXoqDXE",
@@ -14436,8 +14436,8 @@ const mediaContentCards = [
   "date": "2025-08-28T18:00:10",
   "duration": "00:04:08",
   "thumbnail": "https://i.ytimg.com/vi/254Da8pg0X8/maxresdefault.jpg",
-  "alt": "Vlog 2~💕 (小红书  슈화 브이로그 ep.2)",
-  "title": "Vlog 2~💕 (小红书  슈화 브이로그 ep.2)"
+  "alt": "(NO SUB) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)",
+  "title": "(NO SUB) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)"
 },
 {
   "link": "https://youtu.be/1zPNcsgeMe8",
@@ -14445,9 +14445,9 @@ const mediaContentCards = [
   "member": "슈화",
   "date": "2025-08-28T18:00:11",
   "duration": "00:04:08",
-  "thumbnail": "https://i.ytimg.com/vi/1zPNcsgeMe8/maxresdefault.jpg",
-  "alt": "(ENG/한) Vlog 2 💕 Shopping and Ceramics (小红书 슈화 브이로그 ep.2)",
-  "title": "(ENG/한) Vlog 2 💕 Shopping and Ceramics (小红书 슈화 브이로그 ep.2)"
+  "thumbnail": "https://i.ytimg.com/vi/254Da8pg0X8/maxresdefault.jpg",
+  "alt": "(ENG/한) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)",
+  "title": "(ENG/한) Vlog 2~💕 (小红书  슈화 브이로그 ep.2)"
 },
 {
   "link": "https://youtu.be/8rcYiXwVtC4",
@@ -14456,8 +14456,8 @@ const mediaContentCards = [
   "date": "2025-08-30T18:00:10",
   "duration": "00:05:38",
   "thumbnail": "https://i.ytimg.com/vi/8rcYiXwVtC4/maxresdefault.jpg",
-  "alt": "閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)",
-  "title": "閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)"
+  "alt": "(NO SUB) 閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)",
+  "title": "(NO SUB) 閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)"
 },
 {
   "link": "https://youtu.be/ox8ySB9RCo0",
@@ -14465,9 +14465,9 @@ const mediaContentCards = [
   "member": "슈화",
   "date": "2025-08-30T18:00:11",
   "duration": "00:05:38",
-  "thumbnail": "https://i.ytimg.com/vi/ox8ySB9RCo0/sddefault.jpg",
-  "alt": "(ENG/한) Jiangxi Cuisine and Tea Ceremony (小红书 슈화 브이로그 ep.3)",
-  "title": "(ENG/한) Jiangxi Cuisine and Tea Ceremony (小红书 슈화 브이로그 ep.3)"
+  "thumbnail": "https://i.ytimg.com/vi/8rcYiXwVtC4/maxresdefault.jpg",
+  "alt": "(ENG/한) 閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)",
+  "title": "(ENG/한) 閃現杭州呦🥰 (小红书  슈화 브이로그 ep.3)"
 },
 
 {
@@ -15070,6 +15070,49 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/L-Az6rzq_Ek/maxresdefault.jpg",
   "alt": "[별의 문단속] 둘 중 하나긴 한데 천재 같긴 해 l EP.14 미연(MIYEON)편",
   "title": "[별의 문단속] 둘 중 하나긴 한데 천재 같긴 해 l EP.14 미연(MIYEON)편"
+},
+{
+  "link": "https://youtu.be/7M8trITsPdw",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-09T18:00:00",
+  "duration": "00:01:27",
+  "thumbnail": "https://i.ytimg.com/vi/7M8trITsPdw/maxresdefault.jpg",
+  "alt": "미연, 가을 감성 가득한 ＜Say My Name＞ 맛보기 무대★ #런닝맨",
+  "title": "미연, 가을 감성 가득한 ＜Say My Name＞ 맛보기 무대★ #런닝맨"
+},
+
+{
+  "link": "https://youtu.be/_10U8WJPqMk",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-09T18:00:00",
+  "duration": "00:01:28",
+  "thumbnail": "https://i.ytimg.com/vi/_10U8WJPqMk/maxresdefault.jpg",
+  "alt": "지석진, 유재석 심리 꿰뚫고 한 방 먹이며 세상 다 가진 듯한 기분↗ #런닝맨",
+  "title": "지석진, 유재석 심리 꿰뚫고 한 방 먹이며 세상 다 가진 듯한 기분↗ #런닝맨"
+},
+
+{
+  "link": "https://youtu.be/GxgidEO67C8",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-09T18:00:00",
+  "duration": "00:01:27",
+  "thumbnail": "https://i.ytimg.com/vi/GxgidEO67C8/maxresdefault.jpg",
+  "alt": "‘자칭 금손’ 미연, 자신만만했지만 잘못 꿰어진 첫 단추♨ #런닝맨",
+  "title": "‘자칭 금손’ 미연, 자신만만했지만 잘못 꿰어진 첫 단추♨ #런닝맨"
+},
+
+{
+  "link": "https://youtu.be/8wfy_pqHkjw",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-10T18:00:00",
+  "duration": "00:07:35",
+  "thumbnail": "https://i.ytimg.com/vi/8wfy_pqHkjw/maxresdefault.jpg",
+  "alt": "𝗚𝗦𝟮𝟱 𝗫 𝗠𝗜𝗬𝗘𝗢𝗡ㅣ🚨공주님 떴다!🚨GS25 알바생, 조미연 등-장💥",
+  "title": "𝗚𝗦𝟮𝟱 𝗫 𝗠𝗜𝗬𝗘𝗢𝗡ㅣ🚨공주님 떴다!🚨GS25 알바생, 조미연 등-장💥"
 }
 
 

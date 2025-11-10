@@ -11013,8 +11013,8 @@ const broadcastStageCards = [
   "date": "2025-11-07T18:00:00",
   "duration": "00:03:12",
   "thumbnail": "https://i.ytimg.com/vi/9hfQVR80ITM/maxresdefault.jpg",
-  "alt": "[K-Choreo 8K] 미연 직캠 'Say My Name' (MIYEON Choreography) @MusicBank 251107",
-  "title": "[K-Choreo 8K] 미연 직캠 'Say My Name' (MIYEON Choreography) @MusicBank 251107"
+  "alt": "[K-Choreo 8K] 미연 직캠 'Say My Name' (MIYEON Choreography) [뮤직뱅크/Music Bank] 251107",
+  "title": "[K-Choreo 8K] 미연 직캠 'Say My Name' (MIYEON Choreography) [뮤직뱅크/Music Bank] 251107"
 },
 
 {
@@ -11035,9 +11035,42 @@ const broadcastStageCards = [
   "date": "2025-11-07T18:00:00",
   "duration": "00:03:11",
   "thumbnail": "https://i.ytimg.com/vi/kfgg8bcg75E/maxresdefault.jpg",
-  "alt": "[MusicBank Interview Cam] 선미 & 미연 (SUNMI & MIYEON Interview) l @MusicBank KBS 251107",
-  "title": "[MusicBank Interview Cam] 선미 & 미연 (SUNMI & MIYEON Interview) l @MusicBank KBS 251107"
+  "alt": "[MusicBank Interview Cam] 선미 & 미연 (SUNMI & MIYEON Interview) l [뮤직뱅크/Music Bank] KBS 251107",
+  "title": "[MusicBank Interview Cam] 선미 & 미연 (SUNMI & MIYEON Interview) l [뮤직뱅크/Music Bank] KBS 251107"
+},
+{
+  "link": "https://youtu.be/HFxmDUPoP2w",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-09T18:00:00",
+  "duration": "00:03:01",
+  "thumbnail": "https://i.ytimg.com/vi/HFxmDUPoP2w/maxresdefault.jpg",
+  "alt": "Say My Name - 미연(MIYEON) | [인기가요/Inkigayo] SBS 251109 방송",
+  "title": "Say My Name - 미연(MIYEON) | [인기가요/Inkigayo] SBS 251109 방송"
+},
+
+{
+  "link": "https://youtu.be/PKGaAsQbt4c",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-09T18:00:00",
+  "duration": "00:02:55",
+  "thumbnail": "https://i.ytimg.com/vi/PKGaAsQbt4c/maxresdefault.jpg",
+  "alt": "[안방1열 풀캠4K] 미연 'Say My Name' (MIYEON FullCam) [인기가요/Inkigayo] 251109",
+  "title": "[안방1열 풀캠4K] 미연 'Say My Name' (MIYEON FullCam) [인기가요/Inkigayo] 251109"
+},
+
+{
+  "link": "https://youtu.be/kLIB5YsniY8",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-09T18:00:00",
+  "duration": "00:03:06",
+  "thumbnail": "https://i.ytimg.com/vi/kLIB5YsniY8/maxresdefault.jpg",
+  "alt": "[안방1열 직캠4K] 미연 'Say My Name' (MIYEON FanCam) [인기가요/Inkigayo] 251109",
+  "title": "[안방1열 직캠4K] 미연 'Say My Name' (MIYEON FanCam) [인기가요/Inkigayo] 251109"
 }
+
 
 
 

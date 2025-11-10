@@ -897,6 +897,16 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/BSU02XjrBBA/maxresdefault.jpg",
   "alt": "[제16회 대한민국 대중문화 예술상] 시상식 레드카펫",
   "title": "[제16회 대한민국 대중문화 예술상] 시상식 레드카펫"
+},
+{
+  "link": "https://youtu.be/SusqVAVaXss",
+  "category": "Etc",
+  "member": "미연",
+  "date": "2025-11-07T18:00:00",
+  "duration": "00:24:14",
+  "thumbnail": "https://i.ytimg.com/vi/SusqVAVaXss/maxresdefault.jpg",
+  "alt": "[10:58~] 미연 뮤직뱅크 출근길 251107",
+  "title": "[10:58~] 미연 뮤직뱅크 출근길 251107"
 }
 
 

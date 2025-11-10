@@ -2194,6 +2194,46 @@ const interviewsCards = [
   "thumbnail": "https://i.ytimg.com/vi/kdp7gi6-LfU/maxresdefault.jpg",
   "alt": "(여자)아이들((G)I-DLE) 슈화랑 소개팅할래? [상상덕후] [ENG SUB]",
   "title": "(여자)아이들((G)I-DLE) 슈화랑 소개팅할래? [상상덕후] [ENG SUB]"
+},
+{
+  "link": "https://youtu.be/fpLoP7dgRm0",
+  "category": "Interviews",
+  "member": "아이들",
+  "date": "2023-10-03T18:00:00",
+  "duration": "00:06:33",
+  "thumbnail": "https://i.ytimg.com/vi/fpLoP7dgRm0/maxresdefault.jpg",
+  "alt": "(G)I-DLE Answers 30 Questions As Quickly As Possible",
+  "title": "(G)I-DLE Answers 30 Questions As Quickly As Possible"
+},
+{
+  "link": "https://youtu.be/CPfsFjeP0og",
+  "category": "Interviews",
+  "member": "아이들",
+  "date": "2023-10-11T18:00:00",
+  "duration": "00:14:14",
+  "thumbnail": "https://i.ytimg.com/vi/CPfsFjeP0og/maxresdefault.jpg",
+  "alt": "(G)I-DLE | HEAT, Queencard, I Do, Creative Process",
+  "title": "(G)I-DLE | HEAT, Queencard, I Do, Creative Process"
+},
+{
+  "link": "https://youtu.be/LKGSKbLPmG8",
+  "category": "Interviews",
+  "member": "아이들",
+  "date": "2023-10-12T18:00:00",
+  "duration": "00:15:45",
+  "thumbnail": "https://i.ytimg.com/vi/LKGSKbLPmG8/maxresdefault.jpg",
+  "alt": "(G)I-DLE share their favorite tour memories, meaning behind ‘I DO’, and more!",
+  "title": "(G)I-DLE share their favorite tour memories, meaning behind ‘I DO’, and more!"
+},
+{
+  "link": "https://youtu.be/uUOdSlARYII",
+  "category": "Interviews",
+  "member": "아이들",
+  "date": "2023-12-22T18:00:00",
+  "duration": "00:03:41",
+  "thumbnail": "https://i.ytimg.com/vi/uUOdSlARYII/maxresdefault.jpg",
+  "alt": "(G)I-DLE Talk About Their Jingle Ball Performance & Send A Special Message To Their Fans!",
+  "title": "(G)I-DLE Talk About Their Jingle Ball Performance & Send A Special Message To Their Fans!"
 }
 
 

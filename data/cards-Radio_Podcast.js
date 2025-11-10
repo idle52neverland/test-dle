@@ -1187,6 +1187,16 @@ const radioPodcastCards = [
   "alt": "조미연투어간다시즌1마지막🥺#소문의아이들",
   "title": "조미연투어간다시즌1마지막🥺#소문의아이들 |소문의 아이들|"
 },
+{
+  "link": "https://youtu.be/_VDDmfWDbuw",
+  "category": "Radio_Podcast",
+  "member": "아이들",
+  "date": "2022-08-14T18:00:00",
+  "duration": "00:15:20",
+  "thumbnail": "https://i.ytimg.com/vi/_VDDmfWDbuw/maxresdefault.jpg",
+  "alt": "(G)I-DLE’s First American Radio Interview w/Maddox! They Talk Music, Tour Life, Food, Korea & More!",
+  "title": "(G)I-DLE’s First American Radio Interview w/Maddox! They Talk Music, Tour Life, Food, Korea & More!"
+},
 
 {
   "link": "https://naver.me/IFgWkYYU",
@@ -1734,6 +1744,37 @@ const radioPodcastCards = [
   "thumbnail": "https://i.ytimg.com/vi/iFfT8xT8Gzg/maxresdefault.jpg",
   "alt": "[FULL] 솔로 아티스트 면공주 등장👑 미연(MIYEON) 보는 라디오 | 스페셜 DJ 김지은 | 웬디의 영스트리트 | 251106",
   "title": "[FULL] 솔로 아티스트 면공주 등장👑 미연(MIYEON) 보는 라디오 | 스페셜 DJ 김지은 | 웬디의 영스트리트 | 251106"
+},
+{
+  "link": "https://youtu.be/PryFedOdq9s",
+  "category": "Radio_Podcast",
+  "member": "아이들",
+  "date": "2023-08-09T18:00:00",
+  "duration": "00:12:34",
+  "thumbnail": "https://i.ytimg.com/vi/PryFedOdq9s/maxresdefault.jpg",
+  "alt": "(G)I-DLE Reveals Their Favorite Part About NYC",
+  "title": "(G)I-DLE Reveals Their Favorite Part About NYC"
+},
+{
+  "link": "https://youtu.be/Jj-Xx79NSxY",
+  "category": "Radio_Podcast",
+  "member": "미연",
+  "date": "2025-11-09T18:00:00",
+  "duration": "00:43:03",
+  "thumbnail": "https://i.ytimg.com/vi/Jj-Xx79NSxY/maxresdefault.jpg",
+  "alt": "[FULL] 모/두/담/았/어 3년 6개월을 기다린 솔로 컴백🪽🎶 미연(MIYEON) 보는 라디오 | 박소현의 러브게임 | 251109",
+  "title": "[FULL] 모/두/담/았/어 3년 6개월을 기다린 솔로 컴백🪽🎶 미연(MIYEON) 보는 라디오 | 박소현의 러브게임 | 251109"
+},
+
+{
+  "link": "https://youtu.be/Y4TrVtaKf_U",
+  "category": "Radio_Podcast",
+  "member": "미연",
+  "date": "2025-11-10T18:00:00",
+  "duration": "00:38:04",
+  "thumbnail": "https://i.ytimg.com/vi/Y4TrVtaKf_U/maxresdefault.jpg",
+  "alt": "전설의 고수 with 미연 / [박명수의 라디오쇼] | KBS 251110 방송",
+  "title": "전설의 고수 with 미연 / [박명수의 라디오쇼] | KBS 251110 방송"
 }
 
 

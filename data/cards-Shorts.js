@@ -16770,6 +16770,136 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/G84K1tlMNpQ/maxresdefault.jpg",
   "alt": "𝗚𝗦𝟮𝟱 𝗫 𝗠𝗜𝗬𝗘𝗢𝗡ㅣ마법 같은 인터뷰💬 🔮",
   "title": "𝗚𝗦𝟮𝟱 𝗫 𝗠𝗜𝗬𝗘𝗢𝗡ㅣ마법 같은 인터뷰💬 🔮"
+},
+{
+  "link": "https://youtu.be/6f-MUZbfe7c",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2023-12-09T18:00:00",
+  "duration": "00:00:08",
+  "thumbnail": "https://i.ytimg.com/vi/6f-MUZbfe7c/maxresdefault.jpg",
+  "alt": "(G)I-DLE Have Made It To Madison Square Garden!",
+  "title": "(G)I-DLE Have Made It To Madison Square Garden!"
+},
+
+{
+  "link": "https://youtu.be/1CQq-j2RkAw",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2023-12-02T18:00:00",
+  "duration": "00:00:12",
+  "thumbnail": "https://i.ytimg.com/vi/1CQq-j2RkAw/maxresdefault.jpg",
+  "alt": "(G)I-DLE Just Made It To The Red Carpet!",
+  "title": "(G)I-DLE Just Made It To The Red Carpet!"
+},
+
+{
+  "link": "https://youtu.be/BeN6PajpYD8",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2023-12-23T18:00:00",
+  "duration": "00:00:51",
+  "thumbnail": "https://i.ytimg.com/vi/BeN6PajpYD8/maxresdefault.jpg",
+  "alt": "(G)I-DLE Want To Go Caroling With Beyoncé And Ariana Grande 🤩",
+  "title": "(G)I-DLE Want To Go Caroling With Beyoncé And Ariana Grande 🤩"
+},
+
+{
+  "link": "https://youtu.be/dkiCHYNpP8A",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2023-12-02T18:00:00",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/dkiCHYNpP8A/maxresdefault.jpg",
+  "alt": "What Member Of (G)I-DLE Would Win In A Snowball Fight? 👀❄️",
+  "title": "What Member Of (G)I-DLE Would Win In A Snowball Fight? 👀❄️"
+},
+{
+  "link": "https://youtu.be/6Csmye5p03Q",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-08T18:00:00",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/6Csmye5p03Q/maxresdefault.jpg",
+  "alt": "Say 'cry for the moon' 🌙 with #MIYEON#idle #미연 #Lunatic #andTEAM #앤팀 #JO #조#Lunatic_Challenge",
+  "title": "Say 'cry for the moon' 🌙 with #MIYEON#idle #미연 #Lunatic #andTEAM #앤팀 #JO #조#Lunatic_Challenge"
+},
+
+{
+  "link": "https://youtu.be/tveFcmF8BP4",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-08T18:00:00",
+  "duration": "00:00:33",
+  "thumbnail": "https://i.ytimg.com/vi/tveFcmF8BP4/maxresdefault.jpg",
+  "alt": "Eat it up w/ #idle #MIYEON 💞🍝 #LE_SSERAFIM #르세라핌 #KAZUHA #카즈하 #아이들 #미연 #EAT_IT_UP_SPAGHETTI",
+  "title": "Eat it up w/ #idle #MIYEON 💞🍝 #LE_SSERAFIM #르세라핌 #KAZUHA #카즈하 #아이들 #미연 #EAT_IT_UP_SPAGHETTI"
+},
+
+{
+  "link": "https://youtu.be/079UjsIeAsY",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-09T18:00:00",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/079UjsIeAsY/maxresdefault.jpg",
+  "alt": "CYNICAL하게 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #선미 #SUNMI 선배님처럼 ❤️‍🩹 @sunmi_official",
+  "title": "CYNICAL하게 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #선미 #SUNMI 선배님처럼 ❤️‍🩹 @sunmi_official"
+},
+
+{
+  "link": "https://youtu.be/J_XcCWnvzGU",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-09T18:00:00",
+  "duration": "00:00:32",
+  "thumbnail": "https://i.ytimg.com/vi/J_XcCWnvzGU/maxresdefault.jpg",
+  "alt": "공주 애티튜드로 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #프로미스나인 #fromis_9 #박지원 #PARKJIWON 처럼 👑 @fromis9_official",
+  "title": "공주 애티튜드로 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #프로미스나인 #fromis_9 #박지원 #PARKJIWON 처럼 👑 @fromis9_official"
+},
+
+{
+  "link": "https://youtu.be/3ADJWMzhbMk",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-09T18:00:00",
+  "duration": "00:00:36",
+  "thumbnail": "https://i.ytimg.com/vi/3ADJWMzhbMk/maxresdefault.jpg",
+  "alt": "#미연 님도 내내 빛나기를💇✨ #정승환 #앞머리",
+  "title": "#미연 님도 내내 빛나기를💇✨ #정승환 #앞머리"
+},
+
+{
+  "link": "https://youtu.be/2ERvejWxLhk",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-09T18:00:00",
+  "duration": "00:00:59",
+  "thumbnail": "https://i.ytimg.com/vi/2ERvejWxLhk/maxresdefault.jpg",
+  "alt": "'Say My Name' M/V Behind",
+  "title": "'Say My Name' M/V Behind"
+},
+
+{
+  "link": "https://youtu.be/_-7LrIBfSvg",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-10T18:00:00",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/_-7LrIBfSvg/maxresdefault.jpg",
+  "alt": "어둠 속에서 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #템페스트 #TEMPEST #혁 #HYUK 처럼 🤗 @TPSTOFFICIAL",
+  "title": "어둠 속에서 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #템페스트 #TEMPEST #혁 #HYUK 처럼 🤗 @TPSTOFFICIAL"
+},
+
+{
+  "link": "https://youtu.be/jiQId6JYSUs",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-10T18:00:00",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/jiQId6JYSUs/maxresdefault.jpg",
+  "alt": "슈퍼파워를 담아 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #싸이커스 #xikers #유준 #YUJUN 처럼 💪 @xikers_official",
+  "title": "슈퍼파워를 담아 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #싸이커스 #xikers #유준 #YUJUN 처럼 💪 @xikers_official"
 }
 
 

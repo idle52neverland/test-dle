@@ -3421,6 +3421,69 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/51mmJmKXlos/maxresdefault.jpg",
   "alt": "[FPstudio] Space Invader by i-dle MIYEON",
   "title": "[FPstudio] Space Invader by i-dle MIYEON"
+},
+{
+  "link": "https://youtu.be/UjNSF5EdZRE",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-10T18:00:00",
+  "duration": "00:02:54",
+  "thumbnail": "https://i.ytimg.com/vi/UjNSF5EdZRE/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) - Say My Name | 김희철의 추카추카추",
+  "title": "미연 (MIYEON) - Say My Name | 김희철의 추카추카추"
+},
+
+{
+  "link": "https://youtu.be/GlbGhQSQaWE",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-10T18:00:00",
+  "duration": "00:03:20",
+  "thumbnail": "https://i.ytimg.com/vi/GlbGhQSQaWE/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) - Reno | 김희철의 추카추카추",
+  "title": "미연 (MIYEON) - Reno | 김희철의 추카추카추"
+},
+
+{
+  "link": "https://youtu.be/IHPKgdx8ehg",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-10T18:00:00",
+  "duration": "00:03:33",
+  "thumbnail": "https://i.ytimg.com/vi/IHPKgdx8ehg/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) - Drive | 김희철의 추카추카추",
+  "title": "미연 (MIYEON) - Drive | 김희철의 추카추카추"
+},
+
+{
+  "link": "https://youtu.be/Ux-ktVzvlT0",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-10T18:00:00",
+  "duration": "00:02:53",
+  "thumbnail": "https://i.ytimg.com/vi/Ux-ktVzvlT0/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) - 나는 아픈 건 딱 질색이니까 | 김희철의 추카추카추",
+  "title": "미연 (MIYEON) - 나는 아픈 건 딱 질색이니까 | 김희철의 추카추카추"
+},
+{
+  "link": "https://youtu.be/JugKwutXLgg",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-06T18:00:00",
+  "duration": "00:02:39",
+  "thumbnail": "https://i.ytimg.com/vi/JugKwutXLgg/maxresdefault.jpg",
+  "alt": "[4K직캠] 미연 (MIYEON) - Say My Name  | 친한친구 이현입니다",
+  "title": "[4K직캠] 미연 (MIYEON) - Say My Name  | 친한친구 이현입니다"
+},
+{
+  "link": "https://youtu.be/7YKsgLrW-C4",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-09T18:00:00",
+  "duration": "00:02:50",
+  "thumbnail": "https://i.ytimg.com/vi/7YKsgLrW-C4/maxresdefault.jpg",
+  "alt": "[LIVE] 미연(MIYEON) - Say My Name | 박소현의 러브게임",
+  "title": "[LIVE] 미연(MIYEON) - Say My Name | 박소현의 러브게임"
 }
 
 
