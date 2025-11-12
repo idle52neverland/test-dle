@@ -505,6 +505,11 @@ function initCategory(category) {
     if (monthBtn)  monthBtn.textContent  = "월";
     if (subtagBtn) subtagBtn.textContent = "서브태그";
 
+  // 🔹 검색어 및 정렬 초기화 (추가)
+  if (searchInput) searchInput.value = "";
+  sortOrder = "newest";
+  toggleSortBtn.textContent = "최신순";
+
     if (!category) {
       all = loadAllData();
       filtered = [...all];
