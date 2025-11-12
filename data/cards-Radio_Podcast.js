@@ -1775,6 +1775,16 @@ const radioPodcastCards = [
   "thumbnail": "https://i.ytimg.com/vi/Y4TrVtaKf_U/maxresdefault.jpg",
   "alt": "전설의 고수 with 미연 / [박명수의 라디오쇼] | KBS 251110 방송",
   "title": "전설의 고수 with 미연 / [박명수의 라디오쇼] | KBS 251110 방송"
+},
+{
+  "link": "https://youtu.be/O-vXYJN2h1M",
+  "category": "Radio_Podcast",
+  "member": "미연",
+  "date": "2025-11-11T18:00:10",
+  "duration": "00:44:53",
+  "thumbnail": "https://i.ytimg.com/vi/O-vXYJN2h1M/maxresdefault.jpg",
+  "alt": "[FULL] 근데 이제 실력파 그룹 메보인...💖🎤 강승윤(KANG SEUNG YOON), 미연(MIYEON) 보는 라디오 | 두시탈출 컬투쇼 | 251111",
+  "title": "[FULL] 근데 이제 실력파 그룹 메보인...💖🎤 강승윤(KANG SEUNG YOON), 미연(MIYEON) 보는 라디오 | 두시탈출 컬투쇼 | 251111"
 }
 
 

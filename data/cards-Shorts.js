@@ -16900,7 +16900,73 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/jiQId6JYSUs/maxresdefault.jpg",
   "alt": "슈퍼파워를 담아 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #싸이커스 #xikers #유준 #YUJUN 처럼 💪 @xikers_official",
   "title": "슈퍼파워를 담아 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #싸이커스 #xikers #유준 #YUJUN 처럼 💪 @xikers_official"
+},
+{
+  "link": "https://youtu.be/VquRHM40a_E",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-11T18:00:01",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/VquRHM40a_E/maxresdefault.jpg",
+  "alt": "i-dle 미연이 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은?",
+  "title": "i-dle 미연이 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은?"
+},
+
+{
+  "link": "https://youtu.be/066pKtWzOsc",
+  "category": "Shorts",
+  "member": "민니, 소연",
+  "date": "2025-11-11T18:00:02",
+  "duration": "00:00:29",
+  "thumbnail": "https://i.ytimg.com/vi/066pKtWzOsc/maxresdefault.jpg",
+  "alt": "i-dle 민니·소연이 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은?",
+  "title": "i-dle 민니·소연이 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은?"
+},
+
+{
+  "link": "https://youtu.be/e_aJxSXM9VI",
+  "category": "Shorts",
+  "member": "우기, 슈화",
+  "date": "2025-11-11T18:00:03",
+  "duration": "00:00:32",
+  "thumbnail": "https://i.ytimg.com/vi/e_aJxSXM9VI/maxresdefault.jpg",
+  "alt": "i-dle 우기·슈화가 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은?",
+  "title": "i-dle 우기·슈화가 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은?"
+},
+
+{
+  "link": "https://youtu.be/90RXjs6Nk80",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-11T18:00:04",
+  "duration": "00:00:09",
+  "thumbnail": "https://i.ytimg.com/vi/90RXjs6Nk80/maxresdefault.jpg",
+  "alt": "미연아... 미연아...!!! 잘 지내지...?",
+  "title": "미연아... 미연아...!!! 잘 지내지...?"
+},
+
+{
+  "link": "https://youtu.be/GFlMnTKeG6M",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-11T18:00:05",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/GFlMnTKeG6M/maxresdefault.jpg",
+  "alt": "너의 모든 것을 원해 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #아이브 #IVE #이서 #LEESEO 처럼 💝 @IVEstarship",
+  "title": "너의 모든 것을 원해 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #아이브 #IVE #이서 #LEESEO 처럼 💝 @IVEstarship"
+},
+
+{
+  "link": "https://youtu.be/pZFOGWLTJQk",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-11T18:00:06",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/pZFOGWLTJQk/maxresdefault.jpg",
+  "alt": "끝이 없는 너란 𝑫𝒓𝒆𝒂𝒎𝒊𝒏𝒈 ☪‧⁺✧",
+  "title": "끝이 없는 너란 𝑫𝒓𝒆𝒂𝒎𝒊𝒏𝒈 ☪‧⁺✧"
 }
+
 
 
 

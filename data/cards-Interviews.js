@@ -2234,6 +2234,16 @@ const interviewsCards = [
   "thumbnail": "https://i.ytimg.com/vi/uUOdSlARYII/maxresdefault.jpg",
   "alt": "(G)I-DLE Talk About Their Jingle Ball Performance & Send A Special Message To Their Fans!",
   "title": "(G)I-DLE Talk About Their Jingle Ball Performance & Send A Special Message To Their Fans!"
+},
+{
+  "link": "https://youtu.be/aZHONUXxpk8",
+  "category": "Interviews",
+  "member": "미연",
+  "date": "2025-11-11T18:00:11",
+  "duration": "00:06:50",
+  "thumbnail": "https://i.ytimg.com/vi/aZHONUXxpk8/maxresdefault.jpg",
+  "alt": "[EN/JP/CN/핫터뷰] MIYEON 미연 존재가 프린세스👸 부지런한 하루 공개, 00과 무인도를?! 예측불가 밸런스 게임까지🆚",
+  "title": "[EN/JP/CN/핫터뷰] MIYEON 미연 존재가 프린세스👸 부지런한 하루 공개, 00과 무인도를?! 예측불가 밸런스 게임까지🆚"
 }
 
 

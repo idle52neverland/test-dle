@@ -10433,6 +10433,17 @@ const officialChannelCards = [
   "alt": "[MY, Lover] 재킷 & Intro Film & Audio Snippet 촬영 비하인드 [MY, Talk] #2 | 미연 (MIYEON)ㅣSUB",
   "title": "[MY, Lover] 재킷 & Intro Film & Audio Snippet 촬영 비하인드 [MY, Talk] #2 | 미연 (MIYEON)ㅣSUB",
   "subtag": "비하인드 외전 | Extra Behind"
+},
+{
+  "link": "https://youtu.be/R2FL2XwAQH8",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-11-11T18:00:07",
+  "duration": "00:13:32",
+  "thumbnail": "https://i.ytimg.com/vi/R2FL2XwAQH8/maxresdefault.jpg",
+  "alt": "'Say My Name' M/V 촬영 비하인드 [MY, Talk] #3 | 미연 (MIYEON)ㅣSUB",
+  "title": "'Say My Name' M/V 촬영 비하인드 [MY, Talk] #3 | 미연 (MIYEON)ㅣSUB",
+  "subtag": "비하인드 외전 | Extra Behind"
 }
 
 

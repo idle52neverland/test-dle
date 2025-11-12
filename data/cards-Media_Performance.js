@@ -3484,6 +3484,16 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/7YKsgLrW-C4/maxresdefault.jpg",
   "alt": "[LIVE] 미연(MIYEON) - Say My Name | 박소현의 러브게임",
   "title": "[LIVE] 미연(MIYEON) - Say My Name | 박소현의 러브게임"
+},
+{
+  "link": "https://youtu.be/75AGXriHKCI",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-11T18:00:09",
+  "duration": "00:02:53",
+  "thumbnail": "https://i.ytimg.com/vi/75AGXriHKCI/maxresdefault.jpg",
+  "alt": "[LIVE] 미연(MIYEON) - Say My Name | 두시탈출 컬투쇼",
+  "title": "[LIVE] 미연(MIYEON) - Say My Name | 두시탈출 컬투쇼"
 }
 
 
