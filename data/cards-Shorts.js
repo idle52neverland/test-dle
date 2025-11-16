@@ -16965,6 +16965,267 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/pZFOGWLTJQk/maxresdefault.jpg",
   "alt": "끝이 없는 너란 𝑫𝒓𝒆𝒂𝒎𝒊𝒏𝒈 ☪‧⁺✧",
   "title": "끝이 없는 너란 𝑫𝒓𝒆𝒂𝒎𝒊𝒏𝒈 ☪‧⁺✧"
+},
+{
+  "link": "https://youtu.be/AdwEMHZL9zA",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-12T18:00:01",
+  "duration": "00:00:19",
+  "thumbnail": "https://i.ytimg.com/vi/AdwEMHZL9zA/maxresdefault.jpg",
+  "alt": "빨리 나와서 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #박명수 선배님처럼 🤭",
+  "title": "빨리 나와서 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #박명수 선배님처럼 🤭"
+},
+
+{
+  "link": "https://youtu.be/zqlKXiYFKrI",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-12T18:00:02",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/zqlKXiYFKrI/maxresdefault.jpg",
+  "alt": "세상이 무너진대도 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #위너 #WINNER #강승윤 #KANGSEUNGYOON 선배님처럼 ☺️ @WINNER",
+  "title": "세상이 무너진대도 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #위너 #WINNER #강승윤 #KANGSEUNGYOON 선배님처럼 ☺️ @WINNER"
+},
+
+{
+  "link": "https://youtu.be/phcDjIo1ItY",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-12T18:00:03",
+  "duration": "00:00:23",
+  "thumbnail": "https://i.ytimg.com/vi/phcDjIo1ItY/maxresdefault.jpg",
+  "alt": "며니를 불러줘!!! 🩵",
+  "title": "며니를 불러줘!!! 🩵"
+},
+
+{
+  "link": "https://youtu.be/AgUJFQAhaMM",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-12T18:00:04",
+  "duration": "00:00:56",
+  "thumbnail": "https://i.ytimg.com/vi/AgUJFQAhaMM/maxresdefault.jpg",
+  "alt": "𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 with Takeru Satoh 💙",
+  "title": "𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 with Takeru Satoh 💙"
+},
+
+{
+  "link": "https://youtu.be/qX4YL4epJZU",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-12T18:00:05",
+  "duration": "00:00:08",
+  "thumbnail": "https://i.ytimg.com/vi/qX4YL4epJZU/maxresdefault.jpg",
+  "alt": "혼혈이라면서요 미연씨? 천국과 한국",
+  "title": "혼혈이라면서요 미연씨? 천국과 한국"
+},
+
+{
+  "link": "https://youtu.be/_fMbZ7x0v6A",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-13T18:00:01",
+  "duration": "00:00:33",
+  "thumbnail": "https://i.ytimg.com/vi/_fMbZ7x0v6A/maxresdefault.jpg",
+  "alt": "정승환 선배님의 Say My Name ⊹⋆｡ ﾟ@JungSeungHwan_Official",
+  "title": "정승환 선배님의 Say My Name ⊹⋆｡ ﾟ@JungSeungHwan_Official"
+},
+
+{
+  "link": "https://youtu.be/ejI7J0z1XJ4",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-13T18:00:02",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/ejI7J0z1XJ4/maxresdefault.jpg",
+  "alt": "모두 함께 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #세이마이네임 #SAYMYNAME #히토미 #HITOMI #메이 #MEI 처럼 💖 @sa2m2nam3",
+  "title": "모두 함께 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #세이마이네임 #SAYMYNAME #히토미 #HITOMI #메이 #MEI 처럼 💖 @sa2m2nam3"
+},
+
+{
+  "link": "https://youtu.be/5YYOvGQ-5t0",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-14T18:00:01",
+  "duration": "00:00:29",
+  "thumbnail": "https://i.ytimg.com/vi/5YYOvGQ-5t0/maxresdefault.jpg",
+  "alt": "컴백 축하의 마음을 담아 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #동방신기 #TVXQ! #유노윤호 #UKNOW 선배님처럼 🕺 @TVXQ",
+  "title": "컴백 축하의 마음을 담아 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #동방신기 #TVXQ! #유노윤호 #UKNOW 선배님처럼 🕺 @TVXQ"
+},
+
+{
+  "link": "https://youtu.be/i3-O5nJuT3s",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-14T18:00:02",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/i3-O5nJuT3s/maxresdefault.jpg",
+  "alt": "ME+YOU 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #TWICE #트와이스 #SANA #사나 처럼 😎 @TWICE",
+  "title": "ME+YOU 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #TWICE #트와이스 #SANA #사나 처럼 😎 @TWICE"
+},
+
+{
+  "link": "https://youtu.be/aI5DfL9pqps",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-14T18:00:03",
+  "duration": "00:00:31",
+  "thumbnail": "https://i.ytimg.com/vi/aI5DfL9pqps/maxresdefault.jpg",
+  "alt": "#미연 : 댓글 예쁘게 달아라 #UKNOW #유노윤호 #아이들 #idle #MIYEON #Stretch #UKNOW_Stretch#IKNOW #TVXQ! #동방신기",
+  "title": "#미연 : 댓글 예쁘게 달아라 #UKNOW #유노윤호 #아이들 #idle #MIYEON #Stretch #UKNOW_Stretch#IKNOW #TVXQ! #동방신기"
+},
+
+{
+  "link": "https://youtu.be/JpPk6tBsSXI",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-15T18:00:01",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/JpPk6tBsSXI/maxresdefault.jpg",
+  "alt": "사랑하는 네버버 💜 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 ‎⋆𐙚₊°⊹",
+  "title": "사랑하는 네버버 💜 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 ‎⋆𐙚₊°⊹"
+},
+
+{
+  "link": "https://youtu.be/hHMYntF_zyc",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-15T18:00:02",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/hHMYntF_zyc/maxresdefault.jpg",
+  "alt": "어둠 속 나를 넘어 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #있지 #ITZY #유나 #YUNA 처럼 🖤 @ITZY",
+  "title": "어둠 속 나를 넘어 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #있지 #ITZY #유나 #YUNA 처럼 🖤 @ITZY"
+},
+
+{
+  "link": "https://youtu.be/oAsR_HPZUY0",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-15T18:00:03",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/oAsR_HPZUY0/maxresdefault.jpg",
+  "alt": "𝑰 𝒔𝒂𝒘 𝒂 𝑾𝒐𝒎𝒂𝒏 𝒅𝒐𝒘𝒏 𝒊𝒏 𝑹𝒆𝒏𝒐 💘 with #TWICE #트와이스 #SANA #사나 @TWICE",
+  "title": "𝑰 𝒔𝒂𝒘 𝒂 𝑾𝒐𝒎𝒂𝒏 𝒅𝒐𝒘𝒏 𝒊𝒏 𝑹𝒆𝒏𝒐 💘 with #TWICE #트와이스 #SANA #사나 @TWICE"
+},
+
+{
+  "link": "https://youtu.be/l8HZ1wekPHY",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-15T18:00:04",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/l8HZ1wekPHY/maxresdefault.jpg",
+  "alt": "심장이 쿵 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #투어스 #TWS #도훈 #DOHOON 처럼 🤍 @TWS_PLEDIS",
+  "title": "심장이 쿵 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #투어스 #TWS #도훈 #DOHOON 처럼 🤍 @TWS_PLEDIS"
+},
+
+{
+  "link": "https://youtu.be/OFwZPGWIwxs",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-15T18:00:05",
+  "duration": "00:00:32",
+  "thumbnail": "https://i.ytimg.com/vi/OFwZPGWIwxs/maxresdefault.jpg",
+  "alt": "애틋한 이별 감성으로 돌아온 미연의 노래방 애창곡은?🌹#NORAEBANGLIVE #노래방싱터뷰",
+  "title": "애틋한 이별 감성으로 돌아온 미연의 노래방 애창곡은?🌹#NORAEBANGLIVE #노래방싱터뷰"
+},
+
+{
+  "link": "https://youtu.be/k5Xf8yPKfa0",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-16T18:00:01",
+  "duration": "00:00:25",
+  "thumbnail": "https://i.ytimg.com/vi/k5Xf8yPKfa0/maxresdefault.jpg",
+  "alt": "Heart Drop -`♥´-  𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #리센느 #RESCENE #リセンヌ #제나 #ZENA #ゼナ 처럼 💓 @RESCENE_official",
+  "title": "Heart Drop -`♥´-  𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #리센느 #RESCENE #リセンヌ #제나 #ZENA #ゼナ 처럼 💓 @RESCENE_official"
+},
+
+{
+  "link": "https://youtu.be/lv_Mho7tPCw",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-16T18:00:02",
+  "duration": "00:00:33",
+  "thumbnail": "https://i.ytimg.com/vi/lv_Mho7tPCw/maxresdefault.jpg",
+  "alt": "숨김없이 망설이지 말고 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #피프티피프티 #FIFTYFIFTY #문샤넬 #CHANELLEMOON 처럼 ✨ @WE_FIFTYFIFTY",
+  "title": "숨김없이 망설이지 말고 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #피프티피프티 #FIFTYFIFTY #문샤넬 #CHANELLEMOON 처럼 ✨ @WE_FIFTYFIFTY"
+},
+
+{
+  "link": "https://youtu.be/gQqfUebphjM",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-16T18:00:03",
+  "duration": "00:00:24",
+  "thumbnail": "https://i.ytimg.com/vi/gQqfUebphjM/maxresdefault.jpg",
+  "alt": "Thumpa thumpa ! 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #넥스지 #NEXZ #유우 #YU 처럼 🥊 @NEXZ_official",
+  "title": "Thumpa thumpa ! 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #넥스지 #NEXZ #유우 #YU 처럼 🥊 @NEXZ_official"
+},
+
+{
+  "link": "https://youtu.be/97TpG5fH8k4",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-16T18:00:04",
+  "duration": "00:00:29",
+  "thumbnail": "https://i.ytimg.com/vi/97TpG5fH8k4/maxresdefault.jpg",
+  "alt": "네버버~! 막방까지 너무 고맙고 사랑해 ˚ෆ*₊",
+  "title": "네버버~! 막방까지 너무 고맙고 사랑해 ˚ෆ*₊"
+},
+{
+  "link": "https://youtu.be/7okFnINrLUM",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-16T18:00:05",
+  "duration": "00:00:15",
+  "thumbnail": "https://i.ytimg.com/vi/7okFnINrLUM/maxresdefault.jpg",
+  "alt": "시구도 무사히 완료! ☺️💙",
+  "title": "시구도 무사히 완료! ☺️💙"
+},
+
+{
+  "link": "https://youtu.be/dUQKX0Zq0kY",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-16T18:00:06",
+  "duration": "00:00:10",
+  "thumbnail": "https://i.ytimg.com/vi/dUQKX0Zq0kY/maxresdefault.jpg",
+  "alt": "#MEchallenge with #idle #아이들 #MIYEON #미연 님🎀 #KANGSEUNGYOON #강승윤 #WINNER #위너 #ME #ME챌린지 #shorts",
+  "title": "#MEchallenge with #idle #아이들 #MIYEON #미연 님🎀 #KANGSEUNGYOON #강승윤 #WINNER #위너 #ME #ME챌린지 #shorts"
+},
+
+{
+  "link": "https://youtu.be/JwB-gjerkVw",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-16T18:00:07",
+  "duration": "00:00:16",
+  "thumbnail": "https://i.ytimg.com/vi/JwB-gjerkVw/maxresdefault.jpg",
+  "alt": "#미연 선배님의 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆만 들리잖아아야💞 #ITZY_TNVS #TNVSChallenge #Shorts ​@official_i_dle",
+  "title": "#미연 선배님의 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆만 들리잖아아야💞 #ITZY_TNVS #TNVSChallenge #Shorts ​@official_i_dle"
+},
+{
+  "link": "https://youtu.be/FqjgBp1ThMo",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-16T18:00:08",
+  "duration": "00:00:12",
+  "thumbnail": "https://i.ytimg.com/vi/FqjgBp1ThMo/maxresdefault.jpg",
+  "alt": "#idle #미연 님과 함께 심장이 쿵💗 #TWS_OVERDRIVE #TWS #도훈",
+  "title": "#idle #미연 님과 함께 심장이 쿵💗 #TWS_OVERDRIVE #TWS #도훈"
+},
+
+{
+  "link": "https://youtu.be/2idErGVG9gQ",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-16T18:00:09",
+  "duration": "00:00:11",
+  "thumbnail": "https://i.ytimg.com/vi/2idErGVG9gQ/maxresdefault.jpg",
+  "alt": "@official_i_dle  #아이들 #미연 선배님과 Thumpa thumpa thump 🥊 | #YU #넥스지 #NEXZ",
+  "title": "@official_i_dle  #아이들 #미연 선배님과 Thumpa thumpa thump 🥊 | #YU #넥스지 #NEXZ"
 }
 
 

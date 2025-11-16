@@ -15113,6 +15113,93 @@ const mediaContentCards = [
   "thumbnail": "https://i.ytimg.com/vi/8wfy_pqHkjw/maxresdefault.jpg",
   "alt": "𝗚𝗦𝟮𝟱 𝗫 𝗠𝗜𝗬𝗘𝗢𝗡ㅣ🚨공주님 떴다!🚨GS25 알바생, 조미연 등-장💥",
   "title": "𝗚𝗦𝟮𝟱 𝗫 𝗠𝗜𝗬𝗘𝗢𝗡ㅣ🚨공주님 떴다!🚨GS25 알바생, 조미연 등-장💥"
+},
+{
+  "link": "https://youtu.be/i4SDs2iHk_E",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-13T18:00:10",
+  "duration": "00:05:13",
+  "thumbnail": "https://i.ytimg.com/vi/i4SDs2iHk_E/maxresdefault.jpg",
+  "alt": "👑 ‘공주’ 미연의 가방 공개! 미연이 절대 없으면 안 되는 10가지 아이템은 뭘까?!",
+  "title": "👑 ‘공주’ 미연의 가방 공개! 미연이 절대 없으면 안 되는 10가지 아이템은 뭘까?!"
+},
+
+{
+  "link": "https://youtu.be/-8aKfXieuTs",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-13T18:00:11",
+  "duration": "00:18:03",
+  "thumbnail": "https://i.ytimg.com/vi/-8aKfXieuTs/maxresdefault.jpg",
+  "alt": "예능감 빵빵 터지는 게스트 이동휘&미연과 함께하는 어딘가 이상한 대학가 시티투어ㅋㅋ🔍 #highlight #식스센스시티투어2 EP.3",
+  "title": "예능감 빵빵 터지는 게스트 이동휘&미연과 함께하는 어딘가 이상한 대학가 시티투어ㅋㅋ🔍 #highlight #식스센스시티투어2 EP.3"
+},
+
+{
+  "link": "https://youtu.be/SaSbroyKh9o",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-13T18:00:12",
+  "duration": "00:19:00",
+  "thumbnail": "https://i.ytimg.com/vi/SaSbroyKh9o/maxresdefault.jpg",
+  "alt": "출연진부터 시청자까지 철저하게 속여버리는 식센 제작진;;💦 그 와중에 폭풍 성장한 미미의 추리력…❓ #식스센스시티투어2 EP.3",
+  "title": "출연진부터 시청자까지 철저하게 속여버리는 식센 제작진;;💦 그 와중에 폭풍 성장한 미미의 추리력…❓ #식스센스시티투어2 EP.3"
+},
+
+{
+  "link": "https://youtu.be/I-Iq7DzlvwE",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-13T18:00:13",
+  "duration": "00:19:21",
+  "thumbnail": "https://i.ytimg.com/vi/I-Iq7DzlvwE/maxresdefault.jpg",
+  "alt": "이게 바로 대학가 핫플의 맛✨ 모두를 반하게 한 고기 듬뿍 타코와 찐 포차 음식😋 #식스센스시티투어2 EP.3",
+  "title": "이게 바로 대학가 핫플의 맛✨ 모두를 반하게 한 고기 듬뿍 타코와 찐 포차 음식😋 #식스센스시티투어2 EP.3"
+},
+
+{
+  "link": "https://youtu.be/vTYSLTILzh4",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-13T18:00:14",
+  "duration": "00:10:41",
+  "thumbnail": "https://i.ytimg.com/vi/vTYSLTILzh4/maxresdefault.jpg",
+  "alt": "※정답 공개※ 처음 맛보는 식센의 매운맛에 멘붕 온 석삼이 형ㅋㅋ 역대급으로 어려운 오늘의 가짜 찾기;;😱 #식스센스시티투어2 EP.3",
+  "title": "※정답 공개※ 처음 맛보는 식센의 매운맛에 멘붕 온 석삼이 형ㅋㅋ 역대급으로 어려운 오늘의 가짜 찾기;;😱 #식스센스시티투어2 EP.3"
+},
+
+{
+  "link": "https://youtu.be/fBogKjo1FLA",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-13T18:00:15",
+  "duration": "00:08:24",
+  "thumbnail": "https://i.ytimg.com/vi/fBogKjo1FLA/maxresdefault.jpg",
+  "alt": "석삼이 형의 뭉툭한 추리에 리액션 고장 난 게스트 미연ㅋㅋ🤣 미친 퀄리티의 ‘전기구이 통닭’이 있는 pc방은 진짜?가짜? #식스센스시티투어2 EP.3",
+  "title": "석삼이 형의 뭉툭한 추리에 리액션 고장 난 게스트 미연ㅋㅋ🤣 미친 퀄리티의 ‘전기구이 통닭’이 있는 pc방은 진짜?가짜? #식스센스시티투어2 EP.3"
+},
+
+{
+  "link": "https://youtu.be/p51oLnMXpjg",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-13T18:00:16",
+  "duration": "00:09:45",
+  "thumbnail": "https://i.ytimg.com/vi/p51oLnMXpjg/maxresdefault.jpg",
+  "alt": "“나 원샷을 좀 주세요”ㅋㅋ추리하다 갑자기 셀프 원샷 요청하는 명탐정 유난😂 때문에 단체로 빵 터져버림💥 #식스센스시티투어2 EP.3",
+  "title": "“나 원샷을 좀 주세요”ㅋㅋ추리하다 갑자기 셀프 원샷 요청하는 명탐정 유난😂 때문에 단체로 빵 터져버림💥 #식스센스시티투어2 EP.3"
+},
+
+{
+  "link": "https://youtu.be/97T_ON7u_Z4",
+  "category": "Media_Content",
+  "member": "미연",
+  "date": "2025-11-13T18:00:17",
+  "duration": "00:09:41",
+  "thumbnail": "https://i.ytimg.com/vi/97T_ON7u_Z4/maxresdefault.jpg",
+  "alt": "혀를 쫙~감싸는 자극적인 타코 맛에 푹 빠진 먹짱 고경표🔥 외국에서도 핫한 ‘워킹 타코’ 먹방🤤 #식스센스시티투어2 EP.3",
+  "title": "혀를 쫙~감싸는 자극적인 타코 맛에 푹 빠진 먹짱 고경표🔥 외국에서도 핫한 ‘워킹 타코’ 먹방🤤 #식스센스시티투어2 EP.3"
 }
 
 

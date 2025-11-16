@@ -10641,8 +10641,8 @@ const broadcastStageCards = [
   "date": "2025-08-24T18:00:00",
   "duration": "00:25:12",
   "thumbnail": "https://i.ytimg.com/vi/ErxAWlbNzzM/maxresdefault.jpg",
-  "alt": "TIMA In Macau  - 아이들 I-DLE  Good thing + Wife + LATATA  + TOMBOY + Queencard + Fate",
-  "title": "TIMA In Macau  - 아이들 I-DLE  Good thing + Wife + LATATA  + TOMBOY + Queencard + Fate"
+  "alt": "TIMA In Macau | 아이들 I-DLE  Good thing + Wife + LATATA  + TOMBOY + Queencard + Fate [TIMA 2025]",
+  "title": "TIMA In Macau | 아이들 I-DLE  Good thing + Wife + LATATA  + TOMBOY + Queencard + Fate [TIMA 2025]"
 },
 
 {
@@ -10660,7 +10660,7 @@ const broadcastStageCards = [
   "link": "https://youtu.be/1QOIRk2Zgb4",
   "category": "Broadcast_Stage",
   "member": "아이들",
-  "date": "2025-08-27T18:00:00",
+  "date": "2025-08-27T18:00:01",
   "duration": "00:03:30",
   "thumbnail": "https://i.ytimg.com/vi/1QOIRk2Zgb4/maxresdefault.jpg",
   "alt": "i-dle(아이들) – LATATA (i-dle ver.) l ALL THE K-POP STAGE IN MACAU l 250827",
@@ -10671,7 +10671,7 @@ const broadcastStageCards = [
   "link": "https://youtu.be/c7bbvVN1oRU",
   "category": "Broadcast_Stage",
   "member": "아이들",
-  "date": "2025-08-27T18:00:00",
+  "date": "2025-08-27T18:00:02",
   "duration": "00:03:07",
   "thumbnail": "https://i.ytimg.com/vi/c7bbvVN1oRU/maxresdefault.jpg",
   "alt": "i-dle(아이들) – TOMBOY l ALL THE K-POP STAGE IN MACAU l 250827",
@@ -10682,7 +10682,7 @@ const broadcastStageCards = [
   "link": "https://youtu.be/a2CkyX_P1oE",
   "category": "Broadcast_Stage",
   "member": "아이들",
-  "date": "2025-08-27T18:00:00",
+  "date": "2025-08-27T18:00:03",
   "duration": "00:02:56",
   "thumbnail": "https://i.ytimg.com/vi/a2CkyX_P1oE/maxresdefault.jpg",
   "alt": "i-dle(아이들) – 퀸카 (Queencard) l ALL THE K-POP STAGE IN MACAU l 250827",
@@ -10693,7 +10693,7 @@ const broadcastStageCards = [
   "link": "https://youtu.be/V4LnXSRA3-s",
   "category": "Broadcast_Stage",
   "member": "아이들",
-  "date": "2025-08-27T18:00:00",
+  "date": "2025-08-27T18:00:04",
   "duration": "00:04:16",
   "thumbnail": "https://i.ytimg.com/vi/V4LnXSRA3-s/maxresdefault.jpg",
   "alt": "i-dle(아이들) – INTRO + Super Lady l ALL THE K-POP STAGE IN MACAU l 250827",
@@ -10704,7 +10704,7 @@ const broadcastStageCards = [
   "link": "https://youtu.be/hCgHHwSyN-s",
   "category": "Broadcast_Stage",
   "member": "아이들",
-  "date": "2025-08-27T18:00:00",
+  "date": "2025-08-27T18:00:05",
   "duration": "00:02:48",
   "thumbnail": "https://i.ytimg.com/vi/hCgHHwSyN-s/maxresdefault.jpg",
   "alt": "i-dle(아이들) – 나는 아픈 건 딱 질색이니까 l ALL THE K-POP STAGE IN MACAU l 250827",
@@ -10715,7 +10715,7 @@ const broadcastStageCards = [
   "link": "https://youtu.be/eFeByd4pMjI",
   "category": "Broadcast_Stage",
   "member": "아이들",
-  "date": "2025-08-27T18:00:00",
+  "date": "2025-08-27T18:00:06",
   "duration": "00:02:44",
   "thumbnail": "https://i.ytimg.com/vi/eFeByd4pMjI/maxresdefault.jpg",
   "alt": "i-dle(아이들) – Good Thing l ALL THE K-POP STAGE IN MACAU l 250827",
@@ -10725,8 +10725,8 @@ const broadcastStageCards = [
 {
   "link": "https://youtu.be/5cFYvAui-is",
   "category": "Broadcast_Stage",
-  "member": "아이들",
-  "date": "2025-08-27T18:00:00",
+  "member": "우기",
+  "date": "2025-08-27T18:00:07",
   "duration": "00:03:45",
   "thumbnail": "https://i.ytimg.com/vi/5cFYvAui-is/maxresdefault.jpg",
   "alt": "NOWZ(나우즈) – Fly to the youth (Feat. YUQI) (Chinese Ver.) l ALL THE K-POP STAGE IN MACAU l 250827",
@@ -10737,7 +10737,7 @@ const broadcastStageCards = [
   "link": "https://youtu.be/394nZUBvr8E",
   "category": "Broadcast_Stage",
   "member": "슈화",
-  "date": "2025-08-27T18:00:00",
+  "date": "2025-08-27T18:00:08",
   "duration": "00:03:42",
   "thumbnail": "https://i.ytimg.com/vi/394nZUBvr8E/maxresdefault.jpg",
   "alt": "Opening + MC 아이들 슈화 (i-dle SHUHUA) l ALL THE K-POP STAGE IN MACAU l 250827",
@@ -10773,8 +10773,8 @@ const broadcastStageCards = [
   "date": "2025-09-18T18:00:00",
   "duration": "00:03:21",
   "thumbnail": "https://i.ytimg.com/vi/hlVhy-T1rV4/maxresdefault.jpg",
-  "alt": "'최초 공개' 우기 (YUQI) - M.O [엠카운트다운/MCOUNTDOWN] EP.906",
-  "title": "'최초 공개' 우기 (YUQI) - M.O [엠카운트다운/MCOUNTDOWN] EP.906"
+  "alt": "'최초 공개' 우기 (YUQI) - M.O [엠카운트다운/MCOUNTDOWN]",
+  "title": "'최초 공개' 우기 (YUQI) - M.O [엠카운트다운/MCOUNTDOWN]"
 },
 
 {
@@ -10784,8 +10784,8 @@ const broadcastStageCards = [
   "date": "2025-09-18T18:00:00",
   "duration": "00:04:13",
   "thumbnail": "https://i.ytimg.com/vi/VlRCcY3Plh0/maxresdefault.jpg",
-  "alt": "'컴백 인터뷰' 장우영(Jang Wooyoung), 우기 (YUQI) [엠카운트다운/MCOUNTDOWN] EP.906",
-  "title": "'컴백 인터뷰' 장우영(Jang Wooyoung), 우기 (YUQI) [엠카운트다운/MCOUNTDOWN] EP.906"
+  "alt": "'컴백 인터뷰' 장우영(Jang Wooyoung), 우기 (YUQI) [엠카운트다운/MCOUNTDOWN]",
+  "title": "'컴백 인터뷰' 장우영(Jang Wooyoung), 우기 (YUQI) [엠카운트다운/MCOUNTDOWN]"
 },
 
 {
@@ -10806,8 +10806,8 @@ const broadcastStageCards = [
   "date": "2025-09-19T18:00:00",
   "duration": "00:03:21",
   "thumbnail": "https://i.ytimg.com/vi/hPKQqd7Z8dk/maxresdefault.jpg",
-  "alt": "M.O. - 우기 (YUQI) [뮤직뱅크/Music Bank] | KBS 250919 방송",
-  "title": "M.O. - 우기 (YUQI) [뮤직뱅크/Music Bank] | KBS 250919 방송"
+  "alt": "M.O. - 우기 (YUQI) [뮤직뱅크/Music Bank]",
+  "title": "M.O. - 우기 (YUQI) [뮤직뱅크/Music Bank]"
 },
 
 {
@@ -10828,8 +10828,8 @@ const broadcastStageCards = [
   "date": "2025-09-20T18:00:00",
   "duration": "00:03:10",
   "thumbnail": "https://i.ytimg.com/vi/fFyl-e9dgJs/maxresdefault.jpg",
-  "alt": "YUQI (우기) - M.O. | 쇼!음악중심/Show!MusicCore | MBC250920방송",
-  "title": "YUQI (우기) - M.O. | 쇼!음악중심/Show!MusicCore | MBC250920방송"
+  "alt": "YUQI (우기) - M.O. [쇼!음악중심/Show!MusicCore]",
+  "title": "YUQI (우기) - M.O. [쇼!음악중심/Show!MusicCore]"
 },
 
 {
@@ -10839,8 +10839,8 @@ const broadcastStageCards = [
   "date": "2025-09-20T18:00:00",
   "duration": "00:03:25",
   "thumbnail": "https://i.ytimg.com/vi/ihDZSXHWHec/maxresdefault.jpg",
-  "alt": "[#음중풀캠] YUQI (우기) – M.O. FullCam | 쇼!음악중심/Show!MusicCore | MBC250920",
-  "title": "[#음중풀캠] YUQI (우기) – M.O. FullCam | 쇼!음악중심/Show!MusicCore | MBC250920"
+  "alt": "[#음중풀캠] YUQI (우기) – M.O. FullCam [쇼!음악중심/Show!MusicCore]",
+  "title": "[#음중풀캠] YUQI (우기) – M.O. FullCam [쇼!음악중심/Show!MusicCore]"
 },
 
 {
@@ -10850,8 +10850,8 @@ const broadcastStageCards = [
   "date": "2025-09-20T18:00:00",
   "duration": "00:03:36",
   "thumbnail": "https://i.ytimg.com/vi/GZfYsTgz0ng/maxresdefault.jpg",
-  "alt": "[#음중직캠] YUQI (우기) – M.O. FanCam | 쇼!음악중심/Show!MusicCore | MBC250920",
-  "title": "[#음중직캠] YUQI (우기) – M.O. FanCam | 쇼!음악중심/Show!MusicCore | MBC250920"
+  "alt": "[#음중직캠] YUQI (우기) – M.O. FanCam [쇼!음악중심/Show!MusicCore]",
+  "title": "[#음중직캠] YUQI (우기) – M.O. FanCam [쇼!음악중심/Show!MusicCore]"
 },
 
 {
@@ -10872,8 +10872,8 @@ const broadcastStageCards = [
   "date": "2025-09-21T18:00:00",
   "duration": "00:03:23",
   "thumbnail": "https://i.ytimg.com/vi/26eS1PRkm8g/maxresdefault.jpg",
-  "alt": "[안방1열 풀캠4K] 우기 'M.O' (YUQI FullCam) @SBS 인기가요/Inkigayo 250921",
-  "title": "[안방1열 풀캠4K] 우기 'M.O' (YUQI FullCam) @SBS 인기가요/Inkigayo 250921"
+  "alt": "[안방1열 풀캠4K] 우기 'M.O' (YUQI FullCam) [인기가요/Inkigayo]",
+  "title": "[안방1열 풀캠4K] 우기 'M.O' (YUQI FullCam) [인기가요/Inkigayo]"
 },
 
 {
@@ -10883,8 +10883,8 @@ const broadcastStageCards = [
   "date": "2025-09-21T18:00:00",
   "duration": "00:03:40",
   "thumbnail": "https://i.ytimg.com/vi/7mzeK3gJi9A/maxresdefault.jpg",
-  "alt": "[안방1열 직캠4K] 우기 'M.O' (YUQI FanCam) @SBS 인기가요/Inkigayo 250921",
-  "title": "[안방1열 직캠4K] 우기 'M.O' (YUQI FanCam) @SBS 인기가요/Inkigayo 250921"
+  "alt": "[안방1열 직캠4K] 우기 'M.O' (YUQI FanCam) [인기가요/Inkigayo]",
+  "title": "[안방1열 직캠4K] 우기 'M.O' (YUQI FanCam) [인기가요/Inkigayo]"
 },
 
 {
@@ -10894,41 +10894,41 @@ const broadcastStageCards = [
   "date": "2025-09-21T18:00:00",
   "duration": "00:03:23",
   "thumbnail": "https://i.ytimg.com/vi/kze45szWvFU/maxresdefault.jpg",
-  "alt": "M.O. - 우기(YUQI) | SBS 인기가요/Inkigayo 250921 방송",
-  "title": "M.O. - 우기(YUQI) | SBS 인기가요/Inkigayo 250921 방송"
+  "alt": "M.O. - 우기(YUQI) [인기가요/Inkigayo]",
+  "title": "M.O. - 우기(YUQI) [인기가요/Inkigayo]"
 },
 
 {
   "link": "https://youtu.be/KAvmnuE6aXQ",
   "category": "Broadcast_Stage",
   "member": "우기",
-  "date": "2025-09-22T18:00:00",
+  "date": "2025-09-20T18:00:00",
   "duration": "00:06:40",
   "thumbnail": "https://i.ytimg.com/vi/KAvmnuE6aXQ/maxresdefault.jpg",
-  "alt": "[#최애직캠] YUQI (우기) – M.O. | 쇼!음악중심/Show!MusicCore | MBC250920",
-  "title": "[#최애직캠] YUQI (우기) – M.O. | 쇼!음악중심/Show!MusicCore | MBC250920"
+  "alt": "[#최애직캠] YUQI (우기) – M.O.  [쇼!음악중심/Show!MusicCore]",
+  "title": "[#최애직캠] YUQI (우기) – M.O.  [쇼!음악중심/Show!MusicCore]"
 },
 
 {
   "link": "https://youtu.be/ZGvktPy9TrE",
   "category": "Broadcast_Stage",
   "member": "우기",
-  "date": "2025-09-22T18:00:00",
+  "date": "2025-09-21T18:00:00",
   "duration": "00:03:19",
   "thumbnail": "https://i.ytimg.com/vi/ZGvktPy9TrE/maxresdefault.jpg",
-  "alt": "[단독샷캠4K] 우기 'M.O' 단독샷 별도녹화│YUQI ONE TAKE STAGE│@SBS 인기가요/Inkigayo 250921",
-  "title": "[단독샷캠4K] 우기 'M.O' 단독샷 별도녹화│YUQI ONE TAKE STAGE│@SBS 인기가요/Inkigayo 250921"
+  "alt": "[단독샷캠4K] 우기 'M.O' 단독샷 별도녹화│YUQI ONE TAKE STAGE [인기가요/Inkigayo]",
+  "title": "[단독샷캠4K] 우기 'M.O' 단독샷 별도녹화│YUQI ONE TAKE STAGE [인기가요/Inkigayo]"
 },
 
 {
   "link": "https://youtu.be/yfmJBVcB1GU",
   "category": "Broadcast_Stage",
   "member": "우기",
-  "date": "2025-09-22T18:00:00",
+  "date": "2025-09-21T18:00:00",
   "duration": "00:03:31",
   "thumbnail": "https://i.ytimg.com/vi/yfmJBVcB1GU/maxresdefault.jpg",
-  "alt": "[페이스캠4K] 우기 'M.O' (YUQI FaceCam) @SBS 인기가요/Inkigayo 250921",
-  "title": "[페이스캠4K] 우기 'M.O' (YUQI FaceCam) @SBS 인기가요/Inkigayo 250921"
+  "alt": "[페이스캠4K] 우기 'M.O' (YUQI FaceCam) [인기가요/Inkigayo]",
+  "title": "[페이스캠4K] 우기 'M.O' (YUQI FaceCam) [인기가요/Inkigayo]"
 },
 
 {
@@ -10960,8 +10960,8 @@ const broadcastStageCards = [
   "date": "2025-09-28T18:00:00",
   "duration": "00:03:36",
   "thumbnail": "https://i.ytimg.com/vi/L-X2UkOWzUM/maxresdefault.jpg",
-  "alt": "[안방1열 풀캠4K] 우기 '아프다' (YUQI 'Gone' FullCam) 인기가요/Inkigayo",
-  "title": "[안방1열 풀캠4K] 우기 '아프다' (YUQI 'Gone' FullCam) 인기가요/Inkigayo"
+  "alt": "[안방1열 풀캠4K] 우기 '아프다' (YUQI 'Gone' FullCam) [인기가요/Inkigayo]",
+  "title": "[안방1열 풀캠4K] 우기 '아프다' (YUQI 'Gone' FullCam) [인기가요/Inkigayo]"
 },
 
 {
@@ -10971,8 +10971,8 @@ const broadcastStageCards = [
   "date": "2025-09-28T18:00:00",
   "duration": "00:03:22",
   "thumbnail": "https://i.ytimg.com/vi/iwEgj-xWnQs/maxresdefault.jpg",
-  "alt": "아프다 - 우기(YUQI)  | 인기가요/Inkigayo",
-  "title": "아프다 - 우기(YUQI)  | 인기가요/Inkigayo"
+  "alt": "아프다 - 우기(YUQI)  [인기가요/Inkigayo]",
+  "title": "아프다 - 우기(YUQI)  [인기가요/Inkigayo]"
 },
 
 {
@@ -10982,8 +10982,8 @@ const broadcastStageCards = [
   "date": "2025-09-29T18:00:00",
   "duration": "00:03:41",
   "thumbnail": "https://i.ytimg.com/vi/EwE7m9OEkjA/maxresdefault.jpg",
-  "alt": "[안방1열 직캠4K] 우기 '아프다' (YUQI 'Gone' FanCam) @인기가요/Inkigayo",
-  "title": "[안방1열 직캠4K] 우기 '아프다' (YUQI 'Gone' FanCam) @인기가요/Inkigayo"
+  "alt": "[안방1열 직캠4K] 우기 '아프다' (YUQI 'Gone' FanCam) [인기가요/Inkigayo]",
+  "title": "[안방1열 직캠4K] 우기 '아프다' (YUQI 'Gone' FanCam) [인기가요/Inkigayo]"
 },
 
 {
@@ -10993,8 +10993,8 @@ const broadcastStageCards = [
   "date": "2025-09-30T18:00:00",
   "duration": "00:04:01",
   "thumbnail": "https://i.ytimg.com/vi/R4iShh-bPsw/maxresdefault.jpg",
-  "alt": "[페이스캠4K] 우기 '아프다' (YUQI 'Gone' FaceCam) @인기가요/Inkigayo",
-  "title": "[페이스캠4K] 우기 '아프다' (YUQI 'Gone' FaceCam) @인기가요/Inkigayo"
+  "alt": "[페이스캠4K] 우기 '아프다' (YUQI 'Gone' FaceCam) [인기가요/Inkigayo]",
+  "title": "[페이스캠4K] 우기 '아프다' (YUQI 'Gone' FaceCam) [인기가요/Inkigayo]"
 },
 {
   "link": "https://youtu.be/PwwFVIk0PvU",
@@ -11013,8 +11013,8 @@ const broadcastStageCards = [
   "date": "2025-11-07T18:00:00",
   "duration": "00:03:12",
   "thumbnail": "https://i.ytimg.com/vi/9hfQVR80ITM/maxresdefault.jpg",
-  "alt": "[K-Choreo 8K] 미연 직캠 'Say My Name' (MIYEON Choreography) [뮤직뱅크/Music Bank] 251107",
-  "title": "[K-Choreo 8K] 미연 직캠 'Say My Name' (MIYEON Choreography) [뮤직뱅크/Music Bank] 251107"
+  "alt": "[K-Choreo 8K] 미연 직캠 'Say My Name' (MIYEON Choreography) [뮤직뱅크/Music Bank]",
+  "title": "[K-Choreo 8K] 미연 직캠 'Say My Name' (MIYEON Choreography) [뮤직뱅크/Music Bank]"
 },
 
 {
@@ -11024,8 +11024,8 @@ const broadcastStageCards = [
   "date": "2025-11-07T18:00:00",
   "duration": "00:02:58",
   "thumbnail": "https://i.ytimg.com/vi/EMkt0Lk-ZxU/maxresdefault.jpg",
-  "alt": "Say My Name - 미연 (MIYEON) [뮤직뱅크/Music Bank] | KBS 251107 방송",
-  "title": "Say My Name - 미연 (MIYEON) [뮤직뱅크/Music Bank] | KBS 251107 방송"
+  "alt": "Say My Name - 미연 (MIYEON) [뮤직뱅크/Music Bank]",
+  "title": "Say My Name - 미연 (MIYEON) [뮤직뱅크/Music Bank]"
 },
 
 {
@@ -11035,8 +11035,8 @@ const broadcastStageCards = [
   "date": "2025-11-07T18:00:00",
   "duration": "00:03:11",
   "thumbnail": "https://i.ytimg.com/vi/kfgg8bcg75E/maxresdefault.jpg",
-  "alt": "[MusicBank Interview Cam] 선미 & 미연 (SUNMI & MIYEON Interview) l [뮤직뱅크/Music Bank] KBS 251107",
-  "title": "[MusicBank Interview Cam] 선미 & 미연 (SUNMI & MIYEON Interview) l [뮤직뱅크/Music Bank] KBS 251107"
+  "alt": "[MusicBank Interview Cam] 선미 & 미연 (SUNMI & MIYEON Interview)  [뮤직뱅크/Music Bank]",
+  "title": "[MusicBank Interview Cam] 선미 & 미연 (SUNMI & MIYEON Interview)  [뮤직뱅크/Music Bank]"
 },
 {
   "link": "https://youtu.be/HFxmDUPoP2w",
@@ -11045,8 +11045,8 @@ const broadcastStageCards = [
   "date": "2025-11-09T18:00:00",
   "duration": "00:03:01",
   "thumbnail": "https://i.ytimg.com/vi/HFxmDUPoP2w/maxresdefault.jpg",
-  "alt": "Say My Name - 미연(MIYEON) | [인기가요/Inkigayo] SBS 251109 방송",
-  "title": "Say My Name - 미연(MIYEON) | [인기가요/Inkigayo] SBS 251109 방송"
+  "alt": "Say My Name - 미연(MIYEON)  [인기가요/Inkigayo]",
+  "title": "Say My Name - 미연(MIYEON)  [인기가요/Inkigayo]"
 },
 
 {
@@ -11056,8 +11056,8 @@ const broadcastStageCards = [
   "date": "2025-11-09T18:00:00",
   "duration": "00:02:55",
   "thumbnail": "https://i.ytimg.com/vi/PKGaAsQbt4c/maxresdefault.jpg",
-  "alt": "[안방1열 풀캠4K] 미연 'Say My Name' (MIYEON FullCam) [인기가요/Inkigayo] 251109",
-  "title": "[안방1열 풀캠4K] 미연 'Say My Name' (MIYEON FullCam) [인기가요/Inkigayo] 251109"
+  "alt": "[안방1열 풀캠4K] 미연 'Say My Name' (MIYEON FullCam) [인기가요/Inkigayo]",
+  "title": "[안방1열 풀캠4K] 미연 'Say My Name' (MIYEON FullCam) [인기가요/Inkigayo]"
 },
 
 {
@@ -11067,8 +11067,95 @@ const broadcastStageCards = [
   "date": "2025-11-09T18:00:00",
   "duration": "00:03:06",
   "thumbnail": "https://i.ytimg.com/vi/kLIB5YsniY8/maxresdefault.jpg",
-  "alt": "[안방1열 직캠4K] 미연 'Say My Name' (MIYEON FanCam) [인기가요/Inkigayo] 251109",
-  "title": "[안방1열 직캠4K] 미연 'Say My Name' (MIYEON FanCam) [인기가요/Inkigayo] 251109"
+  "alt": "[안방1열 직캠4K] 미연 'Say My Name' (MIYEON FanCam) [인기가요/Inkigayo]",
+  "title": "[안방1열 직캠4K] 미연 'Say My Name' (MIYEON FanCam) [인기가요/Inkigayo]"
+},
+{
+  "link": "https://youtu.be/77z6xTQawko",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-09T18:00:00",
+  "duration": "00:03:15",
+  "thumbnail": "https://i.ytimg.com/vi/77z6xTQawko/maxresdefault.jpg",
+  "alt": "[페이스캠4K] 미연 'Say My Name' (MIYEON FaceCam) [인기가요/Inkigayo]",
+  "title": "[페이스캠4K] 미연 'Say My Name' (MIYEON FaceCam) [인기가요/Inkigayo]"
+},
+
+{
+  "link": "https://youtu.be/8_uRHWXCqWw",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-14T18:00:00",
+  "duration": "00:02:56",
+  "thumbnail": "https://i.ytimg.com/vi/8_uRHWXCqWw/maxresdefault.jpg",
+  "alt": "Say My Name - 미연 (MIYEON) [뮤직뱅크/Music Bank]",
+  "title": "Say My Name - 미연 (MIYEON) [뮤직뱅크/Music Bank]"
+},
+
+{
+  "link": "https://youtu.be/qcCCbjJtny0",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-14T18:00:00",
+  "duration": "00:01:51",
+  "thumbnail": "https://i.ytimg.com/vi/qcCCbjJtny0/maxresdefault.jpg",
+  "alt": "(ENG)[MusicBank Interview Cam] 미연 (MIYEON Interview) [뮤직뱅크/Music Bank]",
+  "title": "(ENG)[MusicBank Interview Cam] 미연 (MIYEON Interview) [뮤직뱅크/Music Bank]"
+},
+
+{
+  "link": "https://youtu.be/UrqIiK31pPQ",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-15T18:00:00",
+  "duration": "00:02:45",
+  "thumbnail": "https://i.ytimg.com/vi/UrqIiK31pPQ/maxresdefault.jpg",
+  "alt": "MIYEON (미연) - Say My Name  [쇼!음악중심/Show!MusicCore]",
+  "title": "MIYEON (미연) - Say My Name  [쇼!음악중심/Show!MusicCore]"
+},
+
+{
+  "link": "https://youtu.be/J869TdtWiLU",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-15T18:00:00",
+  "duration": "00:03:09",
+  "thumbnail": "https://i.ytimg.com/vi/J869TdtWiLU/maxresdefault.jpg",
+  "alt": "[#음중직캠] MIYEON (미연) – Say My Name FanCam  [쇼!음악중심/Show!MusicCore]",
+  "title": "[#음중직캠] MIYEON (미연) – Say My Name FanCam  [쇼!음악중심/Show!MusicCore]"
+},
+
+{
+  "link": "https://youtu.be/-bGkDcRM87Q",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-15T18:00:00",
+  "duration": "00:02:59",
+  "thumbnail": "https://i.ytimg.com/vi/-bGkDcRM87Q/maxresdefault.jpg",
+  "alt": "[#음중풀캠] MIYEON (미연) – Say My Name FullCam  [쇼!음악중심/Show!MusicCore]",
+  "title": "[#음중풀캠] MIYEON (미연) – Say My Name FullCam  [쇼!음악중심/Show!MusicCore]"
+},
+
+{
+  "link": "https://youtu.be/eyMQKbbHT9M",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-16T18:00:00",
+  "duration": "00:02:48",
+  "thumbnail": "https://i.ytimg.com/vi/eyMQKbbHT9M/maxresdefault.jpg",
+  "alt": "Say My Name - 미연(MIYEON) [인기가요/Inkigayo]",
+  "title": "Say My Name - 미연(MIYEON) [인기가요/Inkigayo]"
+},
+
+{
+  "link": "https://youtu.be/3KXj4fEwhZg",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-16T18:00:00",
+  "duration": "00:03:08",
+  "thumbnail": "https://i.ytimg.com/vi/3KXj4fEwhZg/maxresdefault.jpg",
+  "alt": "[안방1열 풀캠4K] 미연 'Say My Name' (MIYEON FullCam) [인기가요/Inkigayo]",
+  "title": "[안방1열 풀캠4K] 미연 'Say My Name' (MIYEON FullCam) [인기가요/Inkigayo]"
 }
 
 

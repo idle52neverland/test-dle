@@ -907,7 +907,18 @@ const etcCards = [
   "thumbnail": "https://i.ytimg.com/vi/SusqVAVaXss/maxresdefault.jpg",
   "alt": "[10:58~] 미연 뮤직뱅크 출근길 251107",
   "title": "[10:58~] 미연 뮤직뱅크 출근길 251107"
+},
+{
+  "link": "https://youtu.be/a4V60KV4ghQ",
+  "category": "Etc",
+  "member": "미연",
+  "date": "2025-11-11T18:00:10",
+  "duration": "00:19:11",
+  "thumbnail": "https://i.ytimg.com/vi/a4V60KV4ghQ/maxresdefault.jpg",
+  "alt": "[You And No One Else - 미연 공동작사가] 사랑의 시작을 썼는데 이별로 돌아온 나의 가사 이야기(with 학동고인물들💗)",
+  "title": "[You And No One Else - 미연 공동작사가] 사랑의 시작을 썼는데 이별로 돌아온 나의 가사 이야기(with 학동고인물들💗)"
 }
+
 
 
 ];

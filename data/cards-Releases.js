@@ -1664,7 +1664,19 @@ const releasesCards = [
   "alt": "미연(MIYEON) - Show",
   "title": "미연(MIYEON) - Show",
   "subtag": "Audio Track"
+},
+{
+  "link": "https://youtu.be/pyjBFIbKqic",
+  "category": "Releases",
+  "member": "미연",
+  "date": "2025-11-16T18:00:10",
+  "duration": "00:02:46",
+  "thumbnail": "https://i.ytimg.com/vi/pyjBFIbKqic/maxresdefault.jpg",
+  "alt": "미연 (MIYEON) 'F.F.L.Y' SPECIAL CLIP",
+  "title": "미연 (MIYEON) 'F.F.L.Y' SPECIAL CLIP",
+  "subtag": "Special Clip"
 }
+
 
 
 ];

@@ -10444,6 +10444,53 @@ const officialChannelCards = [
   "alt": "'Say My Name' M/V 촬영 비하인드 [MY, Talk] #3 | 미연 (MIYEON)ㅣSUB",
   "title": "'Say My Name' M/V 촬영 비하인드 [MY, Talk] #3 | 미연 (MIYEON)ㅣSUB",
   "subtag": "비하인드 외전 | Extra Behind"
+},
+{
+  "link": "https://youtu.be/jPtg3mLMHO8",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-11-12T18:00:10",
+  "duration": "00:14:49",
+  "thumbnail": "https://i.ytimg.com/vi/jPtg3mLMHO8/maxresdefault.jpg",
+  "alt": "2025 i-dle first japan tour [ 逢い-dle ] 비하인드 EP.1 | i-dle (아이들)ㅣSUB",
+  "title": "2025 i-dle first japan tour [ 逢い-dle ] 비하인드 EP.1 | i-dle (아이들)ㅣSUB",
+  "subtag": "비하인드 외전 | Extra Behind"
+},
+
+{
+  "link": "https://youtu.be/rZKx-SnGC6o",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-11-13T18:00:10",
+  "duration": "00:22:12",
+  "thumbnail": "https://i.ytimg.com/vi/rZKx-SnGC6o/maxresdefault.jpg",
+  "alt": "성만 빼고 다 빼앗긴 거예요? 제 이름을? [Say MY Name] | 미연 (MIYEON)ㅣSUB",
+  "title": "성만 빼고 다 빼앗긴 거예요? 제 이름을? [Say MY Name] | 미연 (MIYEON)ㅣSUB",
+  "subtag": "스페셜컨텐츠 | Special Content"
+},
+
+{
+  "link": "https://youtu.be/DzxK_q3TRdA",
+  "category": "Official_Channel",
+  "member": "소연",
+  "date": "2025-11-15T18:00:10",
+  "duration": "00:07:23",
+  "thumbnail": "https://i.ytimg.com/vi/DzxK_q3TRdA/maxresdefault.jpg",
+  "alt": "힙팝 프린세스 제작발표회 & 대중문화예술상 시상식에 참석한 소연 💖 [#HASHTALK] EP.43ㅣi-dle (아이들)ㅣSUB",
+  "title": "힙팝 프린세스 제작발표회 & 대중문화예술상 시상식에 참석한 소연 💖 [#HASHTALK] EP.43ㅣi-dle (아이들)ㅣSUB",
+  "subtag": "해시톡 | HASHTALK"
+},
+
+{
+  "link": "https://youtu.be/mrIuioIHKRk",
+  "category": "Official_Channel",
+  "member": "아이들",
+  "date": "2025-11-16T18:00:10",
+  "duration": "00:19:20",
+  "thumbnail": "https://i.ytimg.com/vi/mrIuioIHKRk/maxresdefault.jpg",
+  "alt": "2025 i-dle first japan tour [ 逢い-dle ] 비하인드 EP.2 | i-dle (아이들)ㅣSUB",
+  "title": "2025 i-dle first japan tour [ 逢い-dle ] 비하인드 EP.2 | i-dle (아이들)ㅣSUB",
+  "subtag": "비하인드 외전 | Extra Behind"
 }
 
 

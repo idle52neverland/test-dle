@@ -3494,6 +3494,38 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/75AGXriHKCI/maxresdefault.jpg",
   "alt": "[LIVE] 미연(MIYEON) - Say My Name | 두시탈출 컬투쇼",
   "title": "[LIVE] 미연(MIYEON) - Say My Name | 두시탈출 컬투쇼"
+},
+{
+  "link": "https://youtu.be/OtfJQVtreRI",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-12T18:00:00",
+  "duration": "00:02:39",
+  "thumbnail": "https://i.ytimg.com/vi/OtfJQVtreRI/maxresdefault.jpg",
+  "alt": "[ALLIVE] 미연(MIYEON) - Say My Name | 올라이브 | 김이나의 별이 빛나는 밤에｜MBC 251112 방송",
+  "title": "[ALLIVE] 미연(MIYEON) - Say My Name | 올라이브 | 김이나의 별이 빛나는 밤에｜MBC 251112 방송"
+},
+
+{
+  "link": "https://youtu.be/blFa_HpSRFw",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-14T18:00:00",
+  "duration": "00:02:43",
+  "thumbnail": "https://i.ytimg.com/vi/blFa_HpSRFw/maxresdefault.jpg",
+  "alt": "[NORAEBANG LIVE] 미연 (MIYEON) - Say My Name | 노래방 라이브 | Studio AZeed",
+  "title": "[NORAEBANG LIVE] 미연 (MIYEON) - Say My Name | 노래방 라이브 | Studio AZeed"
+},
+
+{
+  "link": "https://youtu.be/3dIpc5LqHUQ",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-14T18:00:00",
+  "duration": "00:07:12",
+  "thumbnail": "https://i.ytimg.com/vi/3dIpc5LqHUQ/maxresdefault.jpg",
+  "alt": "미연(MIYEON)의 Say My Name & Drive를 시티팝 라이브로! [시티팝 카 라이브]ㅣCITYPOP CAR LIVE",
+  "title": "미연(MIYEON)의 Say My Name & Drive를 시티팝 라이브로! [시티팝 카 라이브]ㅣCITYPOP CAR LIVE"
 }
 
 
