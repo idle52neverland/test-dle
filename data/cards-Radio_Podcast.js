@@ -1785,8 +1785,19 @@ const radioPodcastCards = [
   "thumbnail": "https://i.ytimg.com/vi/O-vXYJN2h1M/maxresdefault.jpg",
   "alt": "[FULL] 근데 이제 실력파 그룹 메보인...💖🎤 강승윤(KANG SEUNG YOON), 미연(MIYEON) 보는 라디오 | 두시탈출 컬투쇼 | 251111",
   "title": "[FULL] 근데 이제 실력파 그룹 메보인...💖🎤 강승윤(KANG SEUNG YOON), 미연(MIYEON) 보는 라디오 | 두시탈출 컬투쇼 | 251111"
+},
+  {
+  "link": "https://youtu.be/ZJgPvbO06ZQ",
+  "category": "Radio_Podcast",
+  "member": "미연",
+  "date": "2025-11-12T18:00:00",
+  "duration": "00:59:20",
+  "thumbnail": "https://i.ytimg.com/vi/ZJgPvbO06ZQ/maxresdefault.jpg",
+  "alt": "[FULL] 우리 면프로디테가 광기를 낉여왔잖아💜 SAY MY ✨미연✨ 이즈 뷰티풀,, 별밤 초대석에서 확인 가능✅ | 김이나의 별이 빛나는 밤에 | MBC 251112 방송",
+  "title": "[FULL] 우리 면프로디테가 광기를 낉여왔잖아💜 SAY MY ✨미연✨ 이즈 뷰티풀,, 별밤 초대석에서 확인 가능✅ | 김이나의 별이 빛나는 밤에 | MBC 251112 방송"
 }
 
 
   ];
+
 window.radioPodcastCards = radioPodcastCards;
