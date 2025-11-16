@@ -206,14 +206,20 @@ document.addEventListener("DOMContentLoaded", function () {
     const y = extractYear(card.date);
     const m = extractMonth(card.date);
 
-    // 연도
-if (activeFilters.year === "predebut") {
-  const debutDate = new Date("2018-05-02"); // 데뷔일
-  const itemDate = new Date(dateString);   // 카드 날짜 (YYYY-MM-DD)
+// 연도
+if (activeFilters.year !== null) {
+  if (activeFilters.year === "predebut") {
+    // 카드 날짜 Date 객체 생성
+    const itemDate = new Date(card.date);
+    const debutDate = new Date("2018-05-02T00:00:00");
 
-  if (!(itemDate < debutDate)) return false;
+    // 데뷔일 이전(=2018-05-01까지) 만 통과
+    if (!(itemDate < debutDate)) return false;
+
+  } else {
+    if (y !== activeFilters.year) return false;
+  }
 }
-    }
     // 월 (아직 UI 미구현이지만 훅은 살림)
     if (activeFilters.month !== null) {
       if (m !== activeFilters.month) return false;
