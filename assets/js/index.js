@@ -207,12 +207,12 @@ document.addEventListener("DOMContentLoaded", function () {
     const m = extractMonth(card.date);
 
     // 연도
-    if (activeFilters.year !== null) {
-      if (activeFilters.year === "predebut") {
-        if (!(y !== null && y < 2018)) return false;
-      } else {
-        if (y !== activeFilters.year) return false;
-      }
+if (activeFilters.year === "predebut") {
+  const debutDate = new Date("2018-05-02"); // 데뷔일
+  const itemDate = new Date(dateString);   // 카드 날짜 (YYYY-MM-DD)
+
+  if (!(itemDate < debutDate)) return false;
+}
     }
     // 월 (아직 UI 미구현이지만 훅은 살림)
     if (activeFilters.month !== null) {
