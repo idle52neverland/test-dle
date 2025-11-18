@@ -8306,58 +8306,69 @@ const mediaContentCards = [
 },
 
 {
-  "link": "https://youtu.be/KyP1gaUQueo",
+  "link": "https://youtu.be/wTf3YiUsQvM",
   "category": "Media_Content",
   "member": "민니, 우기",
-  "date": "2022-12-27",
+  "date": "2022-12-27T18:00:35",
   "duration": "00:09:55",
-  "thumbnail": "https://i.ytimg.com/vi/KyP1gaUQueo/sddefault.jpg",
-  "alt": "[#Fallin서울] 24시간 잠들지 않는 도시, 서울 나이트 투어 (북악팔각정) EP.5",
-  "title": "[#Fallin서울] 24시간 잠들지 않는 도시, 서울 나이트 투어 (북악팔각정) EP.5"
+  "thumbnail": "https://i.ytimg.com/vi/wTf3YiUsQvM/maxresdefault.jpg",
+  "alt": "[#Fallin서울] 24시간 잠들지 않는 도시, 서울 나이트 투어 (북악팔각정) EP.5 / [#5] 𝑺𝒍𝒆𝒆𝒑𝒍𝒆𝒔𝒔 𝒄𝒊𝒕𝒚, night tour in Seoul",
+  "title": "[#Fallin서울] 24시간 잠들지 않는 도시, 서울 나이트 투어 (북악팔각정) EP.5 / [#5] 𝑺𝒍𝒆𝒆𝒑𝒍𝒆𝒔𝒔 𝒄𝒊𝒕𝒚, night tour in Seoul"
 },
 
 {
-  "link": "https://youtu.be/Koyd1tQSZ_g",
+  "link": "https://youtu.be/FRpCCgHlR40",
   "category": "Media_Content",
   "member": "민니, 우기",
-  "date": "2022-12-27",
+  "date": "2022-12-27T18:00:34",
   "duration": "00:12:41",
-  "thumbnail": "https://i.ytimg.com/vi/Koyd1tQSZ_g/sddefault.jpg",
-  "alt": "[#Fallin서울] 가장 한국스럽고 전통적인 오리지널 서울 여행 (광화문, 서순라길) EP.4",
-  "title": "[#Fallin서울] 가장 한국스럽고 전통적인 오리지널 서울 여행 (광화문, 서순라길) EP.4"
+  "thumbnail": "https://i.ytimg.com/vi/FRpCCgHlR40/maxresdefault.jpg",
+  "alt": "[#Fallin서울] 가장 한국스럽고 전통적인 오리지널 서울 여행 (광화문, 서순라길) EP.4 / [#4]  𝐓𝐫𝐚𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥, 𝐚𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜, 𝐨𝐫𝐢𝐠𝐢𝐧𝐚𝐥 𝐛𝐞𝐚𝐮𝐭𝐲 of 𝐒𝐞𝐨𝐮𝐥 💞",
+  "title": "[#Fallin서울] 가장 한국스럽고 전통적인 오리지널 서울 여행 (광화문, 서순라길) EP.4 / [#4]  𝐓𝐫𝐚𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥, 𝐚𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜, 𝐨𝐫𝐢𝐠𝐢𝐧𝐚𝐥 𝐛𝐞𝐚𝐮𝐭𝐲 of 𝐒𝐞𝐨𝐮𝐥 💞"
 },
 
 {
-  "link": "https://youtu.be/SqUfKNf26ts",
+  "link": "https://youtu.be/H3uoFXQ9fFU",
   "category": "Media_Content",
   "member": "민니, 우기",
-  "date": "2022-12-27",
+  "date": "2022-12-27T18:00:33",
   "duration": "00:10:30",
-  "thumbnail": "https://i.ytimg.com/vi/SqUfKNf26ts/sddefault.jpg",
-  "alt": "[#Fallin서울] MZ세대가 사랑하는 서울의 MZ PLACE (경의선숲길) EP.3",
-  "title": "[#Fallin서울] MZ세대가 사랑하는 서울의 MZ PLACE (경의선숲길) EP.3"
+  "thumbnail": "https://i.ytimg.com/vi/H3uoFXQ9fFU/maxresdefault.jpg",
+  "alt": "[#Fallin서울] MZ세대가 사랑하는 서울의 MZ PLACE (경의선숲길) EP.3 / [#3] 𝐆𝐞𝐧 𝐌𝐙'𝐬 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 in Seoul 😎",
+  "title": "[#Fallin서울] MZ세대가 사랑하는 서울의 MZ PLACE (경의선숲길) EP.3 / [#3] 𝐆𝐞𝐧 𝐌𝐙'𝐬 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 in Seoul 😎"
 },
 
 {
-  "link": "https://youtu.be/J8fBwQIAWcM",
+  "link": "https://youtu.be/AxIbW_xD3q0",
   "category": "Media_Content",
   "member": "민니, 우기",
-  "date": "2022-12-27",
+  "date": "2022-12-27T18:00:32",
   "duration": "00:10:25",
-  "thumbnail": "https://i.ytimg.com/vi/J8fBwQIAWcM/sddefault.jpg",
-  "alt": "[#Fallin서울] 시대의 흐름을 그대로 간직한 서울 용산 EP.2",
-  "title": "[#Fallin서울] 시대의 흐름을 그대로 간직한 서울 용산 EP.2"
+  "thumbnail": "https://i.ytimg.com/vi/AxIbW_xD3q0/maxresdefault.jpg",
+  "alt": "[#Fallin서울] 시대의 흐름을 그대로 간직한 서울 용산 EP.2 / [#2] 𝐌𝐢𝐧𝐧𝐢𝐞, 𝐘𝐮𝐪𝐢  walk through 𝐒𝐞𝐨𝐮𝐥'𝐬 𝐡𝐢𝐬𝐭𝐨𝐫𝐲 🚶🚶",
+  "title": "[#Fallin서울] 시대의 흐름을 그대로 간직한 서울 용산 EP.2 / [#2] 𝐌𝐢𝐧𝐧𝐢𝐞, 𝐘𝐮𝐪𝐢  walk through 𝐒𝐞𝐨𝐮𝐥'𝐬 𝐡𝐢𝐬𝐭𝐨𝐫𝐲 🚶🚶"
 },
 
 {
-  "link": "https://youtu.be/fEpi6TKbS5o",
+  "link": "https://youtu.be/h_nFp9XTFRA",
   "category": "Media_Content",
   "member": "민니, 우기",
-  "date": "2022-12-27",
+  "date": "2022-12-27T18:00:31",
   "duration": "00:11:02",
-  "thumbnail": "https://i.ytimg.com/vi/fEpi6TKbS5o/sddefault.jpg",
-  "alt": "[#Fallin서울] 전 세계가 주목! K - 패션&뷰티의 모든 것 (DDP) EP.1",
-  "title": "[#Fallin서울] 전 세계가 주목! K - 패션&뷰티의 모든 것 (DDP) EP.1"
+  "thumbnail": "https://i.ytimg.com/vi/h_nFp9XTFRA/maxresdefault.jpg",
+  "alt": "[#Fallin서울] 전 세계가 주목! K - 패션&뷰티의 모든 것 (DDP) EP.1 / [#1] 𝐌𝐢𝐧𝐧𝐢𝐞, 𝐘𝐮𝐪𝐢 visit 𝐦𝐞𝐜𝐜𝐚 𝐨𝐟 𝐊-𝐅𝐚𝐡𝐢𝐨𝐧 & 𝐁𝐞𝐚𝐮𝐭𝐲   👚👔 💄 👢 👞",
+  "title": "[#Fallin서울] 전 세계가 주목! K - 패션&뷰티의 모든 것 (DDP) EP.1 / [#1] 𝐌𝐢𝐧𝐧𝐢𝐞, 𝐘𝐮𝐪𝐢 visit 𝐦𝐞𝐜𝐜𝐚 𝐨𝐟 𝐊-𝐅𝐚𝐡𝐢𝐨𝐧 & 𝐁𝐞𝐚𝐮𝐭𝐲   👚👔 💄 👢 👞"
+},
+
+{
+  "link": "https://youtu.be/PFPFNSAcppk",
+  "category": "Media_Content",
+  "member": "민니, 우기",
+  "date": "2022-12-26T18:00:00",
+  "duration": "00:01:00",
+  "thumbnail": "https://i.ytimg.com/vi/PFPFNSAcppk/maxresdefault.jpg",
+  "alt": "[#Fallin서울] [PREVIEW] ”𝐅𝐚𝐥𝐥 𝐢𝐧 𝐒𝐞𝐨𝐮𝐥“ with (𝐆)𝐈-𝐃𝐋𝐄! ❣️",
+  "title": "[#Fallin서울] [PREVIEW] ”𝐅𝐚𝐥𝐥 𝐢𝐧 𝐒𝐞𝐨𝐮𝐥“ with (𝐆)𝐈-𝐃𝐋𝐄! ❣️"
 },
 
 {
