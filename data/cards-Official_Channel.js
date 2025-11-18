@@ -10491,6 +10491,17 @@ const officialChannelCards = [
   "alt": "2025 i-dle first japan tour [ 逢い-dle ] 비하인드 EP.2 | i-dle (아이들)ㅣSUB",
   "title": "2025 i-dle first japan tour [ 逢い-dle ] 비하인드 EP.2 | i-dle (아이들)ㅣSUB",
   "subtag": "비하인드 외전 | Extra Behind"
+},
+{
+  "link": "https://youtu.be/7yFgIQ4MPAY",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-11-18T18:00:00",
+  "duration": "00:12:09",
+  "thumbnail": "https://i.ytimg.com/vi/7yFgIQ4MPAY/maxresdefault.jpg",
+  "alt": "2nd Mini Album [MY, Lover] FAN SHOWCASE 비하인드 [MY, Talk] #4 | 미연 (MIYEON)ㅣSUB",
+  "title": "2nd Mini Album [MY, Lover] FAN SHOWCASE 비하인드 [MY, Talk] #4 | 미연 (MIYEON)ㅣSUB",
+  "subtag": "비하인드 외전 | Extra Behind"
 }
 
 

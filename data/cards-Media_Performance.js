@@ -3526,6 +3526,16 @@ const mediaPerformanceCards = [
   "thumbnail": "https://i.ytimg.com/vi/3dIpc5LqHUQ/maxresdefault.jpg",
   "alt": "미연(MIYEON)의 Say My Name & Drive를 시티팝 라이브로! [시티팝 카 라이브]ㅣCITYPOP CAR LIVE",
   "title": "미연(MIYEON)의 Say My Name & Drive를 시티팝 라이브로! [시티팝 카 라이브]ㅣCITYPOP CAR LIVE"
+},
+{
+  "link": "https://youtu.be/BMvrqbKgL6o",
+  "category": "Media_Performance",
+  "member": "미연",
+  "date": "2025-11-17T18:00:00",
+  "duration": "00:05:39",
+  "thumbnail": "https://i.ytimg.com/vi/BMvrqbKgL6o/maxresdefault.jpg",
+  "alt": "쌀쌀한 계절에 찰떡💕 벅차오르는 청춘 드라마가 떠오르는 미연(MIYEON)의 신곡 - 'Say My Name'♬｜비긴어게인 오픈마이크",
+  "title": "쌀쌀한 계절에 찰떡💕 벅차오르는 청춘 드라마가 떠오르는 미연(MIYEON)의 신곡 - 'Say My Name'♬｜비긴어게인 오픈마이크"
 }
 
 

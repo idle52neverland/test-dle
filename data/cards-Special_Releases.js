@@ -1085,7 +1085,18 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/vqj2amXFKg0/maxresdefault.jpg",
   "alt": "유노윤호(U-KNOW) - Premium (Feat. 민니 (MINNIE))",
   "title": "유노윤호(U-KNOW) - Premium (Feat. 민니 (MINNIE))"
+},
+{
+  "link": "https://youtu.be/-F9zsez4vRA",
+  "category": "Special_Releases",
+  "member": "우기",
+  "date": "2025-11-17T18:00:00",
+  "duration": "00:02:30",
+  "thumbnail": "https://i.ytimg.com/vi/-F9zsez4vRA/maxresdefault.jpg",
+  "alt": "폴킴, 우기 (YUQI) 'Have A Good Time' | MV",
+  "title": "폴킴, 우기 (YUQI) 'Have A Good Time' | MV"
 }
+
 
 
   ];

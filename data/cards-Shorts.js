@@ -17226,6 +17226,82 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/2idErGVG9gQ/maxresdefault.jpg",
   "alt": "@official_i_dle  #아이들 #미연 선배님과 Thumpa thumpa thump 🥊 | #YU #넥스지 #NEXZ",
   "title": "@official_i_dle  #아이들 #미연 선배님과 Thumpa thumpa thump 🥊 | #YU #넥스지 #NEXZ"
+},
+{
+  "link": "https://youtu.be/WfxBD9dplE0",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-16T18:00:20",
+  "duration": "00:00:35",
+  "thumbnail": "https://i.ytimg.com/vi/WfxBD9dplE0/maxresdefault.jpg",
+  "alt": "뜨거웠던 그 계절에 머물던 너 💚",
+  "title": "뜨거웠던 그 계절에 머물던 너 💚"
+},
+
+{
+  "link": "https://youtu.be/89jByyX56Ts",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-17T18:00:01",
+  "duration": "00:00:26",
+  "thumbnail": "https://i.ytimg.com/vi/89jByyX56Ts/maxresdefault.jpg",
+  "alt": "숨겨왔던 마음을 다 말할게 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #아홉 #AHOF #서정우 #JEONGWOO #차웅기 #WOONGKI 처럼 🤥 @AHOF_official",
+  "title": "숨겨왔던 마음을 다 말할게 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #아홉 #AHOF #서정우 #JEONGWOO #차웅기 #WOONGKI 처럼 🤥 @AHOF_official"
+},
+
+{
+  "link": "https://youtu.be/-wcnj5NO4aY",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-17T18:00:02",
+  "duration": "00:00:27",
+  "thumbnail": "https://i.ytimg.com/vi/-wcnj5NO4aY/maxresdefault.jpg",
+  "alt": "Play Ball ! 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #나우즈 #NOWZ #진혁 #JINHYUK #시윤 #SIYUN 처럼 ⚾ @CUBE_NOWZ",
+  "title": "Play Ball ! 𝑺𝒂𝒚 𝒎𝒚 𝒏𝒂𝒎𝒆 #나우즈 #NOWZ #진혁 #JINHYUK #시윤 #SIYUN 처럼 ⚾ @CUBE_NOWZ"
+},
+
+{
+  "link": "https://youtu.be/UfHg5IgYuNo",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-17T18:00:03",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/UfHg5IgYuNo/maxresdefault.jpg",
+  "alt": "Say My Name 활동 잊을 수 없게 행복했어 ♡ᵎᵎᵎ",
+  "title": "Say My Name 활동 잊을 수 없게 행복했어 ♡ᵎᵎᵎ"
+},
+
+{
+  "link": "https://youtu.be/kfRw5sbrWHU",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-17T18:00:04",
+  "duration": "00:00:14",
+  "thumbnail": "https://i.ytimg.com/vi/kfRw5sbrWHU/maxresdefault.jpg",
+  "alt": "𝙃𝙖 𝙝𝙖 𝙝𝙖 ｡･* 𝙋𝙤𝙬 .",
+  "title": "𝙃𝙖 𝙝𝙖 𝙝𝙖 ｡･* 𝙋𝙤𝙬 ."
+},
+
+{
+  "link": "https://youtu.be/vaeeEjAgWEw",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-18T18:00:05",
+  "duration": "00:00:10",
+  "thumbnail": "https://i.ytimg.com/vi/vaeeEjAgWEw/maxresdefault.jpg",
+  "alt": "잉어로 운 띄워 줄 네버버~!",
+  "title": "잉어로 운 띄워 줄 네버버~!"
+},
+
+{
+  "link": "https://youtu.be/zUyGSBXU1dw",
+  "category": "Shorts",
+  "member": "미연",
+  "date": "2025-11-18T18:00:06",
+  "duration": "00:00:35",
+  "thumbnail": "https://i.ytimg.com/vi/zUyGSBXU1dw/maxresdefault.jpg",
+  "alt": "𝑩𝒖𝒕 𝑰’𝒎 𝒇𝒂𝒍𝒍𝒊𝒏𝒈 𝒊𝒏 𝒍𝒐𝒗𝒆 𝒘𝒊𝒕𝒉 𝒚𝒐𝒖",
+  "title": "𝑩𝒖𝒕 𝑰’𝒎 𝒇𝒂𝒍𝒍𝒊𝒏𝒈 𝒊𝒏 𝒍𝒐𝒗𝒆 𝒘𝒊𝒕𝒉 𝒚𝒐𝒖"
 }
 
 

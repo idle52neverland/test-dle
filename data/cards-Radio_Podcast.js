@@ -1786,7 +1786,8 @@ const radioPodcastCards = [
   "alt": "[FULL] 근데 이제 실력파 그룹 메보인...💖🎤 강승윤(KANG SEUNG YOON), 미연(MIYEON) 보는 라디오 | 두시탈출 컬투쇼 | 251111",
   "title": "[FULL] 근데 이제 실력파 그룹 메보인...💖🎤 강승윤(KANG SEUNG YOON), 미연(MIYEON) 보는 라디오 | 두시탈출 컬투쇼 | 251111"
 },
-  {
+
+{
   "link": "https://youtu.be/ZJgPvbO06ZQ",
   "category": "Radio_Podcast",
   "member": "미연",
@@ -1798,6 +1799,6 @@ const radioPodcastCards = [
 }
 
 
-  ];
 
+  ];
 window.radioPodcastCards = radioPodcastCards;

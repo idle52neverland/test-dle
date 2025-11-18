@@ -11156,6 +11156,27 @@ const broadcastStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/3KXj4fEwhZg/maxresdefault.jpg",
   "alt": "[안방1열 풀캠4K] 미연 'Say My Name' (MIYEON FullCam) [인기가요/Inkigayo]",
   "title": "[안방1열 풀캠4K] 미연 'Say My Name' (MIYEON FullCam) [인기가요/Inkigayo]"
+},
+{
+  "link": "https://youtu.be/HbiqEK6yQCA",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-14T18:00:00",
+  "duration": "00:03:07",
+  "thumbnail": "https://i.ytimg.com/vi/HbiqEK6yQCA/maxresdefault.jpg",
+  "alt": "[K-Choreo Tower Cam 4K] 미연 'Say My Name'(MIYEON Choreography) [뮤직뱅크/Music Bank]",
+  "title": "[K-Choreo Tower Cam 4K] 미연 'Say My Name'(MIYEON Choreography) [뮤직뱅크/Music Bank]"
+},
+
+{
+  "link": "https://youtu.be/X4oiQ1sSvFo",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-15T18:00:00",
+  "duration": "00:03:11",
+  "thumbnail": "https://i.ytimg.com/vi/X4oiQ1sSvFo/maxresdefault.jpg",
+  "alt": "[#최애직캠] MIYEON (미연) – Say My Name [쇼!음악중심/Show!MusicCore]",
+  "title": "[#최애직캠] MIYEON (미연) – Say My Name [쇼!음악중심/Show!MusicCore]"
 }
 
 
