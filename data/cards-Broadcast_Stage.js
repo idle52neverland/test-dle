@@ -1614,7 +1614,7 @@ const broadcastStageCards = [
   "thumbnail": "https://i.ytimg.com/vi/upEHSvwXsgk/maxresdefault.jpg",
   "alt": "[엠카운트다운] [MPD직캠] (여자)아이들 소연 직캠 4K ‘Uh-Oh’ ((G)I-DLE SO YEON FanCam) | @MCOUNTDOWN_2019.6.27",
   "title": "[엠카운트다운] [MPD직캠] (여자)아이들 소연 직캠 4K ‘Uh-Oh’ ((G)I-DLE SO YEON FanCam) | @MCOUNTDOWN_2019.6.27"
-}
+},
 {
   "link": "https://youtu.be/OiA2nd2zJe0",
   "category": "Broadcast_Stage",
