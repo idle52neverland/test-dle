@@ -3024,7 +3024,16 @@ const mediaContentCards = [
   "alt": "대기실 셀프CAM (여자)아이들 편_아이들의 셀프캠｜Waiting Room Self-CAM with (G)I-DLE [ENG]",
   "title": "대기실 셀프CAM (여자)아이들 편_아이들의 셀프캠｜Waiting Room Self-CAM with (G)I-DLE [ENG]"
 },
-
+{
+  "link": "https://youtu.be/QdqJZCNTEQs",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-06-11T18:00:00",
+  "duration": "00:02:49",
+  "thumbnail": "https://i.ytimg.com/vi/QdqJZCNTEQs/maxresdefault.jpg",
+  "alt": "[Pops in Seoul] Oh my god! (G)I-DLE((여자)아이들)'s MV Shooting Sketch",
+  "title": "[Pops in Seoul] Oh my god! (G)I-DLE((여자)아이들)'s MV Shooting Sketch"
+},
 {
   "link": "https://youtu.be/H6FAzIgOYH0",
   "category": "Media_Content",
@@ -3370,11 +3379,22 @@ const mediaContentCards = [
   "link": "https://youtu.be/merDpU-rsQA",
   "category": "Media_Content",
   "member": "아이들",
-  "date": "2020-08-12T18:00:00",
+  "date": "2020-08-12T18:00:31",
   "duration": "00:53:42",
   "thumbnail": "https://i.ytimg.com/vi/merDpU-rsQA/sddefault.jpg",
   "alt": "[After School Club] (G)I-DLE((여자)아이들) has come back with the summer song☀️DUMDi DUMDi _ Full Episode",
   "title": "[After School Club] (G)I-DLE((여자)아이들) has come back with the summer song☀️DUMDi DUMDi _ Full Episode"
+},
+
+{
+  "link": "https://youtu.be/Xuht49E0YZA",
+  "category": "Media_Content",
+  "member": "아이들",
+  "date": "2020-08-12T18:00:32",
+  "duration": "00:05:30",
+  "thumbnail": "https://i.ytimg.com/vi/Xuht49E0YZA/maxresdefault.jpg",
+  "alt": "[After School Club] (G)I-DLE’s ASC 1 Second Song Quiz ((여자)아이들의 ASC 1초 송퀴즈!)",
+  "title": "[After School Club] (G)I-DLE’s ASC 1 Second Song Quiz ((여자)아이들의 ASC 1초 송퀴즈!)"
 },
 
 {

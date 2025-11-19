@@ -186,7 +186,16 @@ const interviewsCards = [
   "alt": "[Multi SUB/I'm Celuv] (여자)아이들((G)I-DLE), 19년 3월 7일 방송 Full Ver. (Celuv.TV)",
   "title": "[Multi SUB/I'm Celuv] (여자)아이들((G)I-DLE), 19년 3월 7일 방송 Full Ver. (Celuv.TV)"
 },
-
+{
+  "link": "https://youtu.be/nko3KEL5o3I",
+  "category": "Interviews",
+  "member": "아이들",
+  "date": "2019-03-11T18:00:00",
+  "duration": "00:05:02",
+  "thumbnail": "https://i.ytimg.com/vi/nko3KEL5o3I/maxresdefault.jpg",
+  "alt": "[Pops in Seoul] I made! (G)I-DLE((여자)아이들)'s Interview for 'Senorita'",
+  "title": "[Pops in Seoul] I made! (G)I-DLE((여자)아이들)'s Interview for 'Senorita'"
+},
 {
   "link": "https://youtu.be/V0eEifvMpdc",
   "category": "Interviews",
@@ -219,7 +228,16 @@ const interviewsCards = [
   "alt": "(여자)아이들 'Uh-Oh' Showcase Photo Time +Talk",
   "title": "(여자)아이들 'Uh-Oh' Showcase Photo Time +Talk"
 },
-
+{
+  "link": "https://youtu.be/s6EQVN7X-kU",
+  "category": "Interviews",
+  "member": "아이들",
+  "date": "2019-07-22T18:00:00",
+  "duration": "00:04:28",
+  "thumbnail": "https://i.ytimg.com/vi/s6EQVN7X-kU/maxresdefault.jpg",
+  "alt": "[Pops in Seoul] Comeback! (G)I-DLE((여자)아이들)'s Interview for 'Uh-Oh'",
+  "title": "[Pops in Seoul] Comeback! (G)I-DLE((여자)아이들)'s Interview for 'Uh-Oh'"
+},
 {
   "link": "https://youtu.be/SUg4NVD7nPQ",
   "category": "Interviews",
