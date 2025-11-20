@@ -645,6 +645,27 @@ const recordingBehindCards = [
   "thumbnail": "https://i.ytimg.com/vi/OK7RZNpyDQg/maxresdefault.jpg",
   "alt": "미연 (MIYEON) 'Say My Name' Recording BehindㅣSUB",
   "title": "미연 (MIYEON) 'Say My Name' Recording BehindㅣSUB"
+},
+{
+  "link": "https://youtu.be/KqsWl9mt4Yg",
+  "category": "Recording_Behind",
+  "member": "우기",
+  "date": "2025-11-19T18:00:00",
+  "duration": "00:00:58",
+  "thumbnail": "https://i.ytimg.com/vi/KqsWl9mt4Yg/maxresdefault.jpg",
+  "alt": "우기 녹음 직관 후기 🎙️ #HaveAGoodTime #HAGT #폴킴 #PaulKim #우기 #YUQI #아이들 #idle",
+  "title": "우기 녹음 직관 후기 🎙️ #HaveAGoodTime #HAGT #폴킴 #PaulKim #우기 #YUQI #아이들 #idle"
+},
+
+{
+  "link": "https://youtu.be/NhboiNo_SMA",
+  "category": "Recording_Behind",
+  "member": "민니",
+  "date": "2025-11-20T18:00:00",
+  "duration": "00:03:01",
+  "thumbnail": "https://i.ytimg.com/vi/NhboiNo_SMA/maxresdefault.jpg",
+  "alt": "[MAKING] 민니 (MINNIE) - Devil's Angel :: 친애하는 X(Dear. X) OST Part.3",
+  "title": "[MAKING] 민니 (MINNIE) - Devil's Angel :: 친애하는 X(Dear. X) OST Part.3"
 }
 
 

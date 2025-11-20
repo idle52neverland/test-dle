@@ -1095,6 +1095,16 @@ const specialReleasesCards = [
   "thumbnail": "https://i.ytimg.com/vi/-F9zsez4vRA/maxresdefault.jpg",
   "alt": "폴킴, 우기 (YUQI) 'Have A Good Time' | MV",
   "title": "폴킴, 우기 (YUQI) 'Have A Good Time' | MV"
+},
+{
+  "link": "https://youtu.be/sLTPwHI_uXk",
+  "category": "Special_Releases",
+  "member": "민니",
+  "date": "2025-11-20T18:00:00",
+  "duration": "00:02:48",
+  "thumbnail": "https://i.ytimg.com/vi/sLTPwHI_uXk/maxresdefault.jpg",
+  "alt": "[OFFICIAL AUDIO] 민니 (MINNIE) - Devil's Angel :: 친애하는 X(Dear. X) OST Part.3",
+  "title": "[OFFICIAL AUDIO] 민니 (MINNIE) - Devil's Angel :: 친애하는 X(Dear. X) OST Part.3"
 }
 
 

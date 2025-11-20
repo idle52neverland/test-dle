@@ -10502,6 +10502,17 @@ const officialChannelCards = [
   "alt": "2nd Mini Album [MY, Lover] FAN SHOWCASE 비하인드 [MY, Talk] #4 | 미연 (MIYEON)ㅣSUB",
   "title": "2nd Mini Album [MY, Lover] FAN SHOWCASE 비하인드 [MY, Talk] #4 | 미연 (MIYEON)ㅣSUB",
   "subtag": "비하인드 외전 | Extra Behind"
+},
+{
+  "link": "https://youtu.be/Azorr0JBGmw",
+  "category": "Official_Channel",
+  "member": "미연",
+  "date": "2025-11-20T18:00:00",
+  "duration": "00:07:06",
+  "thumbnail": "https://i.ytimg.com/vi/Azorr0JBGmw/maxresdefault.jpg",
+  "alt": "'F.F.L.Y' SPECIAL CLIP 촬영 비하인드 [MY, Talk] #5 | 미연 (MIYEON)ㅣSUB",
+  "title": "'F.F.L.Y' SPECIAL CLIP 촬영 비하인드 [MY, Talk] #5 | 미연 (MIYEON)ㅣSUB",
+  "subtag": "비하인드 외전 | Extra Behind"
 }
 
 

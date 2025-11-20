@@ -16908,8 +16908,8 @@ const shortsCards = [
   "date": "2025-11-11T18:00:01",
   "duration": "00:00:15",
   "thumbnail": "https://i.ytimg.com/vi/VquRHM40a_E/maxresdefault.jpg",
-  "alt": "i-dle 미연이 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은?",
-  "title": "i-dle 미연이 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은?"
+  "alt": "i-dle 미연이 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은? [MLB Korea]",
+  "title": "i-dle 미연이 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은? [MLB Korea]"
 },
 
 {
@@ -16919,8 +16919,8 @@ const shortsCards = [
   "date": "2025-11-11T18:00:02",
   "duration": "00:00:29",
   "thumbnail": "https://i.ytimg.com/vi/066pKtWzOsc/maxresdefault.jpg",
-  "alt": "i-dle 민니·소연이 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은?",
-  "title": "i-dle 민니·소연이 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은?"
+  "alt": "i-dle 민니·소연이 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은? [MLB Korea]",
+  "title": "i-dle 민니·소연이 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은? [MLB Korea]"
 },
 
 {
@@ -16930,8 +16930,8 @@ const shortsCards = [
   "date": "2025-11-11T18:00:03",
   "duration": "00:00:32",
   "thumbnail": "https://i.ytimg.com/vi/e_aJxSXM9VI/maxresdefault.jpg",
-  "alt": "i-dle 우기·슈화가 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은?",
-  "title": "i-dle 우기·슈화가 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은?"
+  "alt": "i-dle 우기·슈화가 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은? [MLB Korea]",
+  "title": "i-dle 우기·슈화가 묻습니다! 여러분의 2025 MLB 시즌 최애 순간은? [MLB Korea]"
 },
 
 {
@@ -17302,6 +17302,59 @@ const shortsCards = [
   "thumbnail": "https://i.ytimg.com/vi/zUyGSBXU1dw/maxresdefault.jpg",
   "alt": "𝑩𝒖𝒕 𝑰’𝒎 𝒇𝒂𝒍𝒍𝒊𝒏𝒈 𝒊𝒏 𝒍𝒐𝒗𝒆 𝒘𝒊𝒕𝒉 𝒚𝒐𝒖",
   "title": "𝑩𝒖𝒕 𝑰’𝒎 𝒇𝒂𝒍𝒍𝒊𝒏𝒈 𝒊𝒏 𝒍𝒐𝒗𝒆 𝒘𝒊𝒕𝒉 𝒚𝒐𝒖"
+},
+{
+  "link": "https://youtu.be/1gqJvitjlJk",
+  "category": "Shorts",
+  "member": "아이들",
+  "date": "2025-11-19T18:00:00",
+  "duration": "00:00:13",
+  "thumbnail": "https://i.ytimg.com/vi/1gqJvitjlJk/maxresdefault.jpg",
+  "alt": "🐰🐱🐹🐶🐺🤍",
+  "title": "🐰🐱🐹🐶🐺🤍"
+},
+{
+  "link": "https://youtu.be/RzQNqKNhh6k",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-11-20T18:00:00",
+  "duration": "00:00:47",
+  "thumbnail": "https://i.ytimg.com/vi/RzQNqKNhh6k/maxresdefault.jpg",
+  "alt": "김민니 하고싶은거 다 해",
+  "title": "김민니 하고싶은거 다 해"
+},
+
+{
+  "link": "https://youtu.be/_wTAZBQbb80",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-11-20T18:00:00",
+  "duration": "00:00:28",
+  "thumbnail": "https://i.ytimg.com/vi/_wTAZBQbb80/maxresdefault.jpg",
+  "alt": "전설의 \"내 안에 작은 악마가 있어\"",
+  "title": "전설의 \"내 안에 작은 악마가 있어\""
+},
+
+{
+  "link": "https://youtu.be/f7qsYcFDc20",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-11-20T18:00:00",
+  "duration": "00:00:10",
+  "thumbnail": "https://i.ytimg.com/vi/f7qsYcFDc20/maxresdefault.jpg",
+  "alt": "내 아기 냥냥이가 소시오패스라니",
+  "title": "내 아기 냥냥이가 소시오패스라니"
+},
+
+{
+  "link": "https://youtu.be/oxYB938wzmM",
+  "category": "Shorts",
+  "member": "민니",
+  "date": "2025-11-20T18:00:00",
+  "duration": "00:00:18",
+  "thumbnail": "https://i.ytimg.com/vi/oxYB938wzmM/maxresdefault.jpg",
+  "alt": "#MINNIE ’s Body Language #UKNOW #유노윤호 #아이들 #idle #민니 #BodyLanguage #IKNOW #TVXQ! #동방신기",
+  "title": "#MINNIE ’s Body Language #UKNOW #유노윤호 #아이들 #idle #민니 #BodyLanguage #IKNOW #TVXQ! #동방신기"
 }
 
 

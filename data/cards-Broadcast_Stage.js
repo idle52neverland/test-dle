@@ -12378,7 +12378,7 @@ const broadcastStageCards = [
   "link": "https://youtu.be/eyMQKbbHT9M",
   "category": "Broadcast_Stage",
   "member": "미연",
-  "date": "2025-11-16T18:00:00",
+  "date": "2025-11-16T18:00:31",
   "duration": "00:02:48",
   "thumbnail": "https://i.ytimg.com/vi/eyMQKbbHT9M/maxresdefault.jpg",
   "alt": "[인기가요] Say My Name - 미연(MIYEON)",
@@ -12389,11 +12389,21 @@ const broadcastStageCards = [
   "link": "https://youtu.be/3KXj4fEwhZg",
   "category": "Broadcast_Stage",
   "member": "미연",
-  "date": "2025-11-16T18:00:00",
+  "date": "2025-11-16T18:00:32",
   "duration": "00:03:08",
   "thumbnail": "https://i.ytimg.com/vi/3KXj4fEwhZg/maxresdefault.jpg",
   "alt": "[인기가요] [안방1열 풀캠4K] 미연 'Say My Name' (MIYEON FullCam)",
   "title": "[인기가요] [안방1열 풀캠4K] 미연 'Say My Name' (MIYEON FullCam)"
+},
+{
+  "link": "https://youtu.be/nhH8a6Y9F0I",
+  "category": "Broadcast_Stage",
+  "member": "미연",
+  "date": "2025-11-16T18:00:33",
+  "duration": "00:03:11",
+  "thumbnail": "https://i.ytimg.com/vi/nhH8a6Y9F0I/maxresdefault.jpg",
+  "alt": "[인기가요] [페이스캠4K] 미연 'Say My Name' (MIYEON FaceCam)",
+  "title": "[인기가요] [페이스캠4K] 미연 'Say My Name' (MIYEON FaceCam)"
 }
 
 
